@@ -49,7 +49,7 @@ export function WaitlistForm() {
         disabled={isPending}
         className="w-full rounded-lg bg-indigo-600 px-6 py-3 font-semibold text-white transition hover:bg-indigo-500 disabled:cursor-not-allowed disabled:opacity-60"
       >
-        {isPending ? "Enviando..." : "Quero ser avisado quando lançar"}
+        {isPending ? "Enviando..." : "Quero garantir minha vaga"}
       </button>
 
       {state.status !== "idle" && state.message && (

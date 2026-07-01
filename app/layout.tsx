@@ -12,10 +12,25 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const TITLE =
+  "Sua redação está perdendo pontos? | Corretor de Redação com IA para Concursos";
+const DESCRIPTION =
+  "Descubra em minutos onde sua redação perde pontos, com correção alinhada à banca do seu concurso (Cebraspe, FGV, Vunesp e outras). Entre na lista de espera e garante condição especial de lançamento.";
+
 export const metadata: Metadata = {
-  title: "Corretor de Redação para Concursos | Lista de Espera",
-  description:
-    "Corretor de redação com IA alinhado ao estilo da banca do seu concurso (Cebraspe, FGV, Vunesp e outras).",
+  title: TITLE,
+  description: DESCRIPTION,
+  openGraph: {
+    title: TITLE,
+    description: DESCRIPTION,
+    type: "website",
+    locale: "pt_BR",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: TITLE,
+    description: DESCRIPTION,
+  },
 };
 
 export default function RootLayout({
@@ -25,7 +40,7 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
+      lang="pt-BR"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">{children}</body>
