@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Caveat } from "next/font/google";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -12,10 +12,15 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const caveat = Caveat({
+  variable: "--font-caveat",
+  subsets: ["latin"],
+});
+
 const TITLE =
-  "Sua redação está perdendo pontos? | Corretor de Redação com IA para Concursos";
+  "AvalIA Discursiva | Correção Personalizada pela Banca do Seu Concurso";
 const DESCRIPTION =
-  "Descubra em minutos onde sua redação perde pontos, com correção alinhada à banca do seu concurso (Cebraspe, FGV, Vunesp e outras). Entre na lista de espera e garante condição especial de lançamento.";
+  "IA treinada nos critérios exatos da banca do seu concurso (Cebraspe, FGV, Cesgranrio e outras). Descubra os pontos que sua redação está perdendo, em minutos.";
 
 export const metadata: Metadata = {
   title: TITLE,
@@ -41,7 +46,7 @@ export default function RootLayout({
   return (
     <html
       lang="pt-BR"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} ${caveat.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">{children}</body>
     </html>

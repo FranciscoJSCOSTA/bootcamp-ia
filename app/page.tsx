@@ -60,8 +60,15 @@ export default function Home() {
   return (
     <main className="flex-1 bg-white">
       {/* Hero */}
-      <section className="bg-gradient-to-b from-indigo-50 to-white px-4 pt-16 pb-16 sm:px-6 sm:pt-24 sm:pb-20 lg:px-8">
+      <section className="bg-gradient-to-b from-indigo-50 to-white px-4 pt-12 pb-16 sm:px-6 sm:pt-20 sm:pb-20 lg:px-8 lg:pt-24">
         <div className="mx-auto max-w-3xl text-center">
+          <p className="mb-6 text-2xl font-bold sm:mb-8 sm:text-3xl">
+            <span className="text-slate-900">Aval</span>
+            <span className="text-indigo-600">IA</span>{" "}
+            <span className="font-script text-3xl font-bold text-indigo-600 sm:text-4xl">
+              Discursiva
+            </span>
+          </p>
           <h1 className="text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
             Sua redação pode estar perdendo pontos que você nem percebe
           </h1>
