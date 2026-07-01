@@ -33,6 +33,9 @@ const EXAMPLE_COMPETENCIES = [
   { label: "Competência 3 — Argumentação", score: 140, max: 200 },
 ];
 
+const CTA_LINK_CLASSES =
+  "inline-block rounded-xl bg-indigo-600 px-8 py-4 text-lg font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-indigo-500 hover:shadow-lg";
+
 const FAQS = [
   {
     question: "Funciona para a banca do meu concurso?",
@@ -62,17 +65,17 @@ export default function Home() {
       {/* Hero */}
       <section className="bg-gradient-to-b from-indigo-50 to-white px-4 pt-12 pb-16 sm:px-6 sm:pt-20 sm:pb-20 lg:px-8 lg:pt-24">
         <div className="mx-auto max-w-3xl text-center">
-          <p className="mb-6 text-2xl font-bold sm:mb-8 sm:text-3xl">
+          <p className="mb-8 text-3xl font-bold sm:mb-10 sm:text-4xl">
             <span className="text-slate-900">Aval</span>
             <span className="text-indigo-600">IA</span>{" "}
-            <span className="font-script text-3xl font-bold text-indigo-600 sm:text-4xl">
+            <span className="font-script text-4xl font-bold text-indigo-600 sm:text-5xl">
               Discursiva
             </span>
           </p>
           <h1 className="text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
             Sua redação pode estar perdendo pontos que você nem percebe
           </h1>
-          <p className="mt-6 text-lg text-slate-600 sm:text-xl">
+          <p className="mt-6 text-lg text-slate-700 sm:text-xl">
             Um corretor de redação com IA treinado para avaliar seu texto do
             jeito que a banca do seu concurso avalia — não com critérios
             genéricos de redação escolar.
@@ -89,6 +92,12 @@ export default function Home() {
               </li>
             ))}
           </ul>
+
+          <div className="mt-10">
+            <a href="#formulario" className={CTA_LINK_CLASSES}>
+              Quero garantir minha vaga
+            </a>
+          </div>
         </div>
       </section>
 
@@ -177,7 +186,10 @@ export default function Home() {
       </section>
 
       {/* Cadastro */}
-      <section className="bg-indigo-50 px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
+      <section
+        id="formulario"
+        className="bg-indigo-50 px-4 py-16 sm:px-6 sm:py-24 lg:px-8"
+      >
         <div className="mx-auto max-w-3xl text-center">
           <span className="inline-block rounded-full bg-indigo-600 px-4 py-2 text-sm font-semibold text-white shadow-sm">
             Os 100 primeiros cadastrados garantem 1 mês grátis quando
@@ -188,7 +200,8 @@ export default function Home() {
             <div className="w-full max-w-md rounded-2xl bg-white p-6 shadow-lg sm:p-8">
               <WaitlistForm />
               <p className="mt-4 text-xs text-slate-500">
-                Sem spam. Usamos seu e-mail só para avisar sobre o lançamento.
+                Sem spam. Seus dados são protegidos conforme a LGPD e usados
+                só para avisar sobre o lançamento.
               </p>
             </div>
           </div>
@@ -213,6 +226,22 @@ export default function Home() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* CTA de fechamento */}
+      <section className="bg-indigo-50 px-4 py-16 text-center sm:px-6 sm:py-20 lg:px-8">
+        <div className="mx-auto max-w-3xl">
+          <h2 className="text-2xl font-bold text-slate-900 sm:text-3xl">
+            Pronto para garantir sua vaga?
+          </h2>
+          <p className="mt-3 text-base text-slate-600 sm:text-lg">
+            Cadastre seu e-mail e o concurso que você estuda — leva menos de
+            um minuto.
+          </p>
+          <a href="#formulario" className={`mt-8 ${CTA_LINK_CLASSES}`}>
+            Quero garantir minha vaga
+          </a>
         </div>
       </section>
     </main>
