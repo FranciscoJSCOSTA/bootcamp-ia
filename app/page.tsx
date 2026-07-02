@@ -36,6 +36,9 @@ const EXAMPLE_COMPETENCIES = [
 const CTA_LINK_CLASSES =
   "inline-block rounded-xl bg-indigo-600 px-8 py-4 text-lg font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-indigo-500 hover:shadow-lg";
 
+const HERO_CTA_CLASSES =
+  "inline-block rounded-xl bg-indigo-500 px-8 py-4 text-lg font-semibold text-white shadow-lg ring-1 ring-inset ring-white/25 transition hover:-translate-y-0.5 hover:bg-indigo-400 hover:shadow-xl";
+
 const FAQS = [
   {
     question: "Funciona para a banca do meu concurso?",
@@ -63,19 +66,19 @@ export default function Home() {
   return (
     <main className="flex-1 bg-white">
       {/* Hero */}
-      <section className="bg-gradient-to-b from-indigo-50 to-white px-4 pt-12 pb-16 sm:px-6 sm:pt-20 sm:pb-20 lg:px-8 lg:pt-24">
+      <section className="bg-gradient-to-b from-[#312e81] to-[#4237c9] px-4 pt-12 pb-16 sm:px-6 sm:pt-20 sm:pb-20 lg:px-8 lg:pt-24">
         <div className="mx-auto max-w-3xl text-center">
           <p className="mb-8 text-3xl font-bold sm:mb-10 sm:text-4xl">
-            <span className="text-slate-900">Aval</span>
-            <span className="text-indigo-600">IA</span>{" "}
-            <span className="font-script text-4xl font-bold text-indigo-600 sm:text-5xl">
+            <span className="text-white">Aval</span>
+            <span className="text-indigo-300">IA</span>{" "}
+            <span className="font-script text-4xl font-bold text-indigo-300 sm:text-5xl">
               Discursiva
             </span>
           </p>
-          <h1 className="text-4xl font-extrabold tracking-tight text-slate-900 sm:text-5xl">
+          <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl">
             Sua redação pode estar perdendo pontos que você nem percebe
           </h1>
-          <p className="mt-6 text-lg text-slate-700 sm:text-xl">
+          <p className="mt-6 text-lg text-indigo-100 sm:text-xl">
             Um corretor de redação com IA treinado para avaliar seu texto do
             jeito que a banca do seu concurso avalia — não com critérios
             genéricos de redação escolar.
@@ -85,16 +88,16 @@ export default function Home() {
             {BULLETS.map((bullet) => (
               <li
                 key={bullet}
-                className="flex gap-3 text-base text-slate-700 sm:text-lg"
+                className="flex gap-3 text-base text-indigo-100 sm:text-lg"
               >
-                <span className="mt-1 text-indigo-600">✓</span>
+                <span className="mt-1 text-violet-300">✓</span>
                 <span>{bullet}</span>
               </li>
             ))}
           </ul>
 
           <div className="mt-10">
-            <a href="#formulario" className={CTA_LINK_CLASSES}>
+            <a href="#formulario" className={HERO_CTA_CLASSES}>
               Quero garantir minha vaga
             </a>
           </div>
