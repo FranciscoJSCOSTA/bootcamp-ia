@@ -10,18 +10,15 @@ const BULLETS = [
 const STEPS = [
   {
     number: 1,
-    icon: "📝",
     title: "Envie o tema e o texto da sua redação",
   },
   {
     number: 2,
-    icon: "🤖",
     title:
       "Nossa IA analisa segundo os critérios oficiais da banca do seu concurso",
   },
   {
     number: 3,
-    icon: "📊",
     title:
       "Receba nota estimada, competência por competência, e o que ajustar — em minutos",
   },
@@ -37,7 +34,7 @@ const CTA_LINK_CLASSES =
   "inline-block rounded-xl bg-indigo-600 px-8 py-4 text-lg font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-indigo-500 hover:shadow-lg";
 
 const HERO_CTA_CLASSES =
-  "inline-block rounded-xl bg-indigo-500 px-8 py-4 text-lg font-semibold text-white shadow-lg ring-1 ring-inset ring-white/25 transition hover:-translate-y-0.5 hover:bg-indigo-400 hover:shadow-xl";
+  "inline-block rounded-xl bg-white px-8 py-4 text-lg font-semibold text-indigo-700 shadow-lg transition hover:-translate-y-0.5 hover:bg-indigo-50 hover:shadow-xl";
 
 const FAQS = [
   {
@@ -69,8 +66,8 @@ export default function Home() {
       <section className="bg-gradient-to-b from-[#312e81] to-[#4237c9] px-4 pt-12 pb-16 sm:px-6 sm:pt-20 sm:pb-20 lg:px-8 lg:pt-24">
         <div className="mx-auto max-w-3xl text-center">
           <p className="mb-8 text-3xl font-bold sm:mb-10 sm:text-4xl">
-            <span className="text-white">Aval</span>
-            <span className="text-indigo-300">IA</span>{" "}
+            <span className="font-sans text-white">Aval</span>
+            <span className="font-sans text-indigo-300">IA</span>{" "}
             <span className="font-script text-4xl text-indigo-300 sm:text-5xl">
               Discursiva
             </span>
@@ -116,13 +113,8 @@ export default function Home() {
                 key={step.number}
                 className="flex flex-col items-start gap-4 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm"
               >
-                <div className="relative">
-                  <div className="flex h-14 w-14 items-center justify-center rounded-full bg-indigo-100 text-2xl">
-                    {step.icon}
-                  </div>
-                  <span className="absolute -top-2 -left-2 flex h-6 w-6 items-center justify-center rounded-full bg-indigo-600 text-xs font-bold text-white shadow">
-                    {step.number}
-                  </span>
+                <div className="flex h-14 w-14 items-center justify-center rounded-full bg-indigo-100 text-2xl font-bold text-indigo-600">
+                  {step.number}
                 </div>
                 <p className="text-base text-slate-700 sm:text-lg">
                   {step.title}
@@ -140,8 +132,8 @@ export default function Home() {
             Veja como fica o retorno da correção
           </h2>
           <p className="mt-3 text-center text-sm text-slate-500">
-            Exemplo ilustrativo do tipo de retorno que você vai receber — não é
-            o resultado de uma redação real.
+            Nota estimada e feedback detalhado por competência — o formato do
+            retorno que você vai receber a cada redação enviada.
           </p>
 
           <div className="mt-8 rounded-2xl border border-slate-200 bg-white p-6 text-left shadow-md sm:p-8">
