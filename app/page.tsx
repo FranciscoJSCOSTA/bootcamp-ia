@@ -66,9 +66,9 @@ export default function Home() {
       <section className="bg-gradient-to-b from-indigo-50 to-white px-4 pt-12 pb-16 sm:px-6 sm:pt-20 sm:pb-20 lg:px-8 lg:pt-24">
         <div className="mx-auto max-w-3xl text-center">
           <p className="mb-8 text-3xl font-bold sm:mb-10 sm:text-4xl">
-            <span className="text-slate-900">Aval</span>
-            <span className="text-indigo-600">IA</span>{" "}
-            <span className="font-script text-4xl font-bold text-indigo-600 sm:text-5xl">
+            <span className="font-sans text-slate-900">Aval</span>
+            <span className="font-sans text-indigo-600">IA</span>{" "}
+            <span className="font-script text-4xl text-indigo-600 sm:text-5xl">
               Discursiva
             </span>
           </p>

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Script from "next/script";
-import { Geist, Geist_Mono, Caveat } from "next/font/google";
+import { Geist, Geist_Mono, Sacramento } from "next/font/google";
 import { Footer } from "@/components/Footer";
 import "./globals.css";
 
@@ -14,9 +14,10 @@ const geistMono = Geist_Mono({
     subsets: ["latin"],
 });
 
-const caveat = Caveat({
-    variable: "--font-caveat",
+const sacramento = Sacramento({
+    variable: "--font-sacramento",
     subsets: ["latin"],
+    weight: "400",
 });
 
 const TITLE =
@@ -48,7 +49,7 @@ export default function RootLayout({
     return (
           <html
                   lang="pt-BR"
-                  className={`${geistSans.variable} ${geistMono.variable} ${caveat.variable} h-full scroll-smooth antialiased`}
+                  className={`${geistSans.variable} ${geistMono.variable} ${sacramento.variable} h-full scroll-smooth antialiased`}
                 >
                 <body className="min-h-full flex flex-col">
                   {/* Meta Pixel Code */}
