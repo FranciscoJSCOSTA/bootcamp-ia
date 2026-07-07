@@ -1,10 +1,14 @@
 import { WaitlistForm } from "@/components/WaitlistForm";
 
 const BULLETS = [
-  "Correção alinhada à banca do seu concurso (Cebraspe, FGV, Cesgranrio, FCC, Idecan, Vunesp e outras), não um critério genérico de redação escolar.",
-  "Feedback por competência, mostrando exatamente onde você perde pontos.",
-  "Resposta em minutos, sem depender da agenda de um professor particular.",
-  "Preço pensado para quem estuda todo mês, não para uma correção avulsa cara.",
+  <>
+    O <span className="font-bold text-violet-300">Raio-X da Banca</span> do
+    seu concurso (Cebraspe, FGV, Cesgranrio, FCC, Idecan, Vunesp e outras) —
+    critério real da sua prova, não um critério genérico de redação escolar.
+  </>,
+  "Você vê exatamente onde perdeu ponto, competência por competência — antes de gastar mais um mês estudando na direção errada.",
+  "Resposta em minutos. Chega de esperar a agenda de um professor particular, ou o resultado da prova, pra descobrir se você estava no caminho certo.",
+  "Preço pensado pra quem estuda todo santo dia — não pra quem paga uma correção avulsa cara de vez em quando.",
 ];
 
 const STEPS = [
@@ -37,6 +41,13 @@ const HERO_CTA_CLASSES =
   "inline-block rounded-xl bg-white px-8 py-4 text-lg font-semibold text-indigo-700 shadow-lg transition hover:-translate-y-0.5 hover:bg-indigo-50 hover:shadow-xl";
 
 const FAQS = [
+  {
+    question: (
+      <>O que é esse ‘<span className="text-indigo-600">Raio-X da Banca</span>’?</>
+    ),
+    answer:
+      "É o nome do que você recebe a cada correção: não só uma nota, mas a visão exata, competência por competência, de como a banca do seu concurso avaliaria aquele texto. A ideia é simples — você merece saber isso antes da prova, não só depois.",
+  },
   {
     question: "Funciona para a banca do meu concurso?",
     answer:
@@ -73,18 +84,41 @@ export default function Home() {
             </span>
           </p>
           <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl">
-            Sua redação pode estar perdendo pontos que você nem percebe
+            Você está estudando redação no escuro — e só vai descobrir isso
+            quando já for tarde demais.
           </h1>
           <p className="mt-6 text-lg text-indigo-100 sm:text-xl">
-            Um corretor de redação com IA treinado para avaliar seu texto do
-            jeito que a banca do seu concurso avalia — não com critérios
-            genéricos de redação escolar.
+            A maioria de quem estuda pra discursiva nunca vê, de verdade, como
+            a banca do seu concurso avaliaria o texto. Só descobre no
+            resultado da prova — quando já não dá mais pra corrigir o rumo. A
+            AvalIA Discursiva existe pra acabar com isso: o{" "}
+            <span className="font-bold text-violet-300">Raio-X</span> de como
+            a sua banca veria essa redação, antes da prova, não depois.
           </p>
 
+          <div className="mt-10 text-left">
+            <h2 className="text-xl font-bold text-white sm:text-2xl">
+              O que é o{" "}
+              <span className="font-bold text-violet-300">
+                Raio-X da Banca
+              </span>
+              ?
+            </h2>
+            <p className="mt-3 text-base text-indigo-100 sm:text-lg">
+              Não é uma nota. É a visão de dentro pra fora de como Cebraspe,
+              FGV, FCC, Idecan, Vunesp ou a banca do seu concurso enxergaria o
+              seu texto — competência por competência, com o critério real
+              que vale na sua prova, não um resumo genérico de redação
+              escolar. Você não sai daqui só sabendo &ldquo;está bom&rdquo; ou
+              &ldquo;está ruim&rdquo;. Sai sabendo exatamente onde perdeu
+              ponto, e por quê.
+            </p>
+          </div>
+
           <ul className="mt-10 space-y-4 text-left">
-            {BULLETS.map((bullet) => (
+            {BULLETS.map((bullet, i) => (
               <li
-                key={bullet}
+                key={i}
                 className="flex gap-3 text-base text-indigo-100 sm:text-lg"
               >
                 <span className="mt-1 text-violet-300">✓</span>
@@ -210,8 +244,8 @@ export default function Home() {
             Perguntas frequentes
           </h2>
           <div className="mt-10 space-y-8">
-            {FAQS.map((faq) => (
-              <div key={faq.question}>
+            {FAQS.map((faq, i) => (
+              <div key={i}>
                 <p className="text-base font-semibold text-slate-900 sm:text-lg">
                   {faq.question}
                 </p>
