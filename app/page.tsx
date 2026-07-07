@@ -24,7 +24,7 @@ const STEPS = [
   {
     number: 3,
     title:
-      "Receba nota estimada, competência por competência, e o que ajustar — em minutos",
+      "Receba seu Raio-X da Banca — nota estimada, competência por competência, e o que ajustar em minutos.",
   },
 ];
 
@@ -163,7 +163,7 @@ export default function Home() {
       <section className="bg-slate-50 px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-center text-2xl font-bold text-slate-900 sm:text-3xl">
-            Veja como fica o retorno da correção
+            Veja o Raio-X da Banca na prática
           </h2>
           <p className="mt-3 text-center text-sm text-slate-500">
             Nota estimada e feedback detalhado por competência — o formato do
