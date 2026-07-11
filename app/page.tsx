@@ -1,30 +1,77 @@
 import { WaitlistForm } from "@/components/WaitlistForm";
+import { RaioXReportCard } from "@/components/RaioXReportCard";
+import { FaqAccordion } from "@/components/FaqAccordion";
+import {
+  BoltIcon,
+  ChartBarIcon,
+  ClockIcon,
+  ListChecksIcon,
+  MailIcon,
+  ReportIcon,
+  ShieldCheckIcon,
+  SparkleIcon,
+  TargetIcon,
+  TrendingUpIcon,
+} from "@/components/icons";
 
-const BULLETS = [
-  <>
-    O <span className="font-bold text-violet-300">Raio-X da Banca</span> do
-    seu concurso (Cebraspe, FGV, Cesgranrio, FCC, Idecan, Vunesp e outras) —
-    critério real da sua prova, não um critério genérico de redação escolar.
-  </>,
-  "Você vê exatamente onde perdeu ponto, competência por competência — antes de gastar mais um mês estudando na direção errada.",
-  "Resposta em minutos. Chega de esperar a agenda de um professor particular, ou o resultado da prova, pra descobrir se você estava no caminho certo.",
-  "Preço pensado pra quem estuda todo santo dia — não pra quem paga uma correção avulsa cara de vez em quando.",
+const HERO_BULLETS = [
+  "Raio-X completo, competência por competência.",
+  "Baseado nos critérios reais da sua banca.",
+  "Resultado em minutos, não semanas.",
+];
+
+const TRUST_ITEMS = [
+  {
+    icon: ShieldCheckIcon,
+    label: "Correção baseada nos critérios das principais bancas",
+  },
+  { icon: ClockIcon, label: "Resultado em poucos minutos" },
+  { icon: ListChecksIcon, label: "Feedback extremamente detalhado" },
+];
+
+const BENEFITS = [
+  {
+    icon: TargetIcon,
+    title: "Raio-X completo da Banca",
+    description:
+      "Veja exatamente como Cebraspe, FGV, FCC, Idecan, Vunesp (ou a banca do seu concurso) avaliaria sua redação, competência por competência.",
+  },
+  {
+    icon: BoltIcon,
+    title: "Correção em minutos",
+    description:
+      "Sem esperar a agenda de um professor particular, nem o resultado da prova pra descobrir se você estava no caminho certo.",
+  },
+  {
+    icon: ChartBarIcon,
+    title: "Feedback por competência",
+    description:
+      'Nada de "está bom" ou "está ruim". Você vê exatamente onde perdeu ponto — e por quê.',
+  },
+  {
+    icon: TrendingUpIcon,
+    title: "Plano de melhoria",
+    description:
+      "Cada Raio-X vem com sugestões práticas do que ajustar na próxima redação.",
+  },
 ];
 
 const STEPS = [
   {
     number: 1,
-    title: "Envie o tema e o texto da sua redação",
+    icon: MailIcon,
+    title: "Envie sua redação (quando o produto lançar)",
   },
   {
     number: 2,
-    title:
-      "Nossa IA analisa segundo os critérios oficiais da banca do seu concurso",
+    icon: SparkleIcon,
+    title: "Nossa IA analisa com os critérios da banca do seu concurso",
   },
   {
     number: 3,
+    icon: ReportIcon,
     title:
-      "Receba seu Raio-X da Banca — nota estimada, competência por competência, e o que ajustar em minutos.",
+      "Receba seu Raio-X da Banca — nota, competências e sugestões detalhadas",
   },
 ];
 
@@ -32,6 +79,18 @@ const EXAMPLE_COMPETENCIES = [
   { label: "Competência 1 — Domínio da norma culta", score: 160, max: 200 },
   { label: "Competência 2 — Compreensão da proposta", score: 180, max: 200 },
   { label: "Competência 3 — Argumentação", score: 140, max: 200 },
+  { label: "Competência 4 — Coesão textual", score: 150, max: 200 },
+  { label: "Competência 5 — Proposta de intervenção", score: 150, max: 200 },
+];
+
+const EXAMPLE_STRENGTHS = [
+  "Repertório sociocultural bem articulado na introdução.",
+  "Domínio consistente da norma culta ao longo do texto.",
+];
+
+const EXAMPLE_WEAKNESSES = [
+  "Progressão textual fraca entre o 2º e o 3º parágrafo.",
+  "Proposta de intervenção sem detalhamento do agente executor.",
 ];
 
 const CTA_LINK_CLASSES =
@@ -74,142 +133,174 @@ export default function Home() {
   return (
     <main className="flex-1 bg-white">
       {/* Hero */}
-      <section className="bg-gradient-to-b from-[#312e81] to-[#4237c9] px-4 pt-12 pb-16 sm:px-6 sm:pt-20 sm:pb-20 lg:px-8 lg:pt-24">
-        <div className="mx-auto max-w-3xl text-center">
-          <p className="mb-8 text-3xl font-bold sm:mb-10 sm:text-4xl">
+      <section className="bg-gradient-to-b from-[#312e81] to-[#4237c9] px-4 pt-12 pb-16 sm:px-6 sm:pt-16 sm:pb-20 lg:px-8 lg:pt-20">
+        <div className="mx-auto max-w-7xl">
+          <p className="mb-10 text-center text-2xl font-bold sm:text-3xl lg:mb-14 lg:text-left">
             <span className="font-sans text-white">Aval</span>
             <span className="font-sans text-indigo-300">IA</span>{" "}
-            <span className="font-script text-4xl text-indigo-300 sm:text-5xl">
+            <span className="font-script text-3xl text-indigo-300 sm:text-4xl">
               Discursiva
             </span>
           </p>
-          <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl">
-            Você está estudando redação no escuro — e só vai descobrir isso
-            quando já for tarde demais.
-          </h1>
-          <p className="mt-6 text-lg text-indigo-100 sm:text-xl">
-            A maioria de quem estuda pra discursiva nunca vê, de verdade, como
-            a banca do seu concurso avaliaria o texto. Só descobre no
-            resultado da prova — quando já não dá mais pra corrigir o rumo. A
-            AvalIA Discursiva existe pra acabar com isso: o{" "}
-            <span className="font-bold text-violet-300">Raio-X</span> de como
-            a sua banca veria essa redação, antes da prova, não depois.
-          </p>
 
-          <div className="mt-10 text-left">
-            <h2 className="text-xl font-bold text-white sm:text-2xl">
-              O que é o{" "}
-              <span className="font-bold text-violet-300">
-                Raio-X da Banca
+          <div className="grid grid-cols-1 items-center gap-12 lg:grid-cols-2 lg:gap-16">
+            <div className="text-center lg:text-left">
+              <span className="inline-block rounded-full bg-white/10 px-4 py-1.5 text-xs font-semibold tracking-wide text-violet-200 ring-1 ring-inset ring-white/20">
+                Lista de espera aberta
               </span>
-              ?
+
+              <h1 className="mt-5 text-4xl font-extrabold tracking-tight text-white sm:text-5xl lg:text-5xl">
+                Descubra o{" "}
+                <span className="text-violet-300">Raio-X</span> de como a
+                banca veria sua redação — antes da prova, não depois.
+              </h1>
+
+              <p className="mt-6 text-lg text-indigo-100 sm:text-xl">
+                A IA simula a correção da banca do seu concurso e devolve o
+                seu Raio-X da Banca — nota estimada, competência por
+                competência, pontos fortes, pontos de atenção e o que
+                ajustar. Assim você nunca mais entra numa prova sem saber
+                exatamente onde está.
+              </p>
+
+              <ul className="mx-auto mt-8 max-w-md space-y-3 text-left lg:mx-0">
+                {HERO_BULLETS.map((bullet) => (
+                  <li
+                    key={bullet}
+                    className="flex gap-3 text-base text-indigo-100 sm:text-lg"
+                  >
+                    <span className="mt-1 text-violet-300">✓</span>
+                    <span>{bullet}</span>
+                  </li>
+                ))}
+              </ul>
+
+              <div className="mt-10">
+                <a href="#formulario" className={HERO_CTA_CLASSES}>
+                  Quero garantir minha vaga
+                </a>
+                <p className="mt-3 text-sm text-indigo-200">
+                  Lista de espera — sem cobrança agora.
+                </p>
+              </div>
+            </div>
+
+            <div>
+              <RaioXReportCard
+                variant="compact"
+                score={780}
+                maxScore={1000}
+                competencies={EXAMPLE_COMPETENCIES}
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Barra de confiança */}
+      <section className="border-b border-slate-100 bg-white px-4 py-6 sm:px-6 lg:px-8">
+        <div className="mx-auto flex max-w-5xl flex-col items-center gap-4 sm:flex-row sm:justify-center sm:gap-10">
+          {TRUST_ITEMS.map((item) => (
+            <div
+              key={item.label}
+              className="flex items-center gap-2 text-sm font-medium text-slate-600"
+            >
+              <item.icon className="h-5 w-5 flex-shrink-0 text-indigo-500" />
+              <span>{item.label}</span>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* Benefícios */}
+      <section className="px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
+        <div className="mx-auto max-w-6xl">
+          <div className="mx-auto max-w-2xl text-center">
+            <h2 className="text-2xl font-bold text-slate-900 sm:text-3xl">
+              Por que o Raio-X da Banca
             </h2>
-            <p className="mt-3 text-base text-indigo-100 sm:text-lg">
-              Não é uma nota. É a visão de dentro pra fora de como Cebraspe,
-              FGV, FCC, Idecan, Vunesp ou a banca do seu concurso enxergaria o
-              seu texto — competência por competência, com o critério real
-              que vale na sua prova, não um resumo genérico de redação
-              escolar. Você não sai daqui só sabendo &ldquo;está bom&rdquo; ou
-              &ldquo;está ruim&rdquo;. Sai sabendo exatamente onde perdeu
-              ponto, e por quê.
+            <p className="mt-3 text-base text-slate-600 sm:text-lg">
+              Quatro razões pra parar de estudar redação no escuro.
             </p>
           </div>
 
-          <ul className="mt-10 space-y-4 text-left">
-            {BULLETS.map((bullet, i) => (
-              <li
-                key={i}
-                className="flex gap-3 text-base text-indigo-100 sm:text-lg"
+          <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+            {BENEFITS.map((benefit) => (
+              <div
+                key={benefit.title}
+                className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-md"
               >
-                <span className="mt-1 text-violet-300">✓</span>
-                <span>{bullet}</span>
-              </li>
+                <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-indigo-100">
+                  <benefit.icon className="h-6 w-6 text-indigo-600" />
+                </div>
+                <p className="mt-4 text-lg font-semibold text-slate-900">
+                  {benefit.title}
+                </p>
+                <p className="mt-2 text-sm text-slate-600 sm:text-base">
+                  {benefit.description}
+                </p>
+              </div>
             ))}
-          </ul>
-
-          <div className="mt-10">
-            <a href="#formulario" className={HERO_CTA_CLASSES}>
-              Quero garantir minha vaga
-            </a>
           </div>
         </div>
       </section>
 
       {/* Como funciona */}
-      <section className="px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
-        <div className="mx-auto max-w-3xl">
+      <section className="bg-slate-50 px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
+        <div className="mx-auto max-w-5xl">
           <h2 className="text-center text-2xl font-bold text-slate-900 sm:text-3xl">
             Como funciona
           </h2>
-          <ol className="mt-10 grid gap-8 text-left sm:grid-cols-3">
+
+          <div className="relative mt-14 grid gap-10 sm:grid-cols-3">
+            <div
+              className="absolute top-8 right-0 left-0 hidden h-px bg-slate-200 sm:block"
+              aria-hidden
+            />
             {STEPS.map((step) => (
-              <li
+              <div
                 key={step.number}
-                className="flex flex-col items-start gap-4 rounded-2xl border border-slate-200 bg-white p-6 shadow-sm"
+                className="relative flex flex-col items-center text-center"
               >
-                <div className="flex h-14 w-14 items-center justify-center rounded-full bg-indigo-100 text-2xl font-bold text-indigo-600">
-                  {step.number}
+                <div className="relative z-10 flex h-16 w-16 items-center justify-center rounded-full bg-white text-indigo-600 shadow-md ring-1 ring-slate-200">
+                  <step.icon className="h-7 w-7" />
                 </div>
-                <p className="text-base text-slate-700 sm:text-lg">
+                <span className="mt-4 text-xs font-bold tracking-wide text-indigo-500 uppercase">
+                  Passo {step.number}
+                </span>
+                <p className="mt-2 max-w-xs text-base text-slate-700 sm:text-lg">
                   {step.title}
                 </p>
-              </li>
+              </div>
             ))}
-          </ol>
+          </div>
         </div>
       </section>
 
-      {/* Exemplo de resultado */}
-      <section className="bg-slate-50 px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
-        <div className="mx-auto max-w-3xl">
-          <h2 className="text-center text-2xl font-bold text-slate-900 sm:text-3xl">
-            Veja o Raio-X da Banca na prática
-          </h2>
-          <p className="mt-3 text-center text-sm text-slate-500">
-            Nota estimada e feedback detalhado por competência — o formato do
-            retorno que você vai receber a cada redação enviada.
-          </p>
+      {/* Raio-X da Banca — mockup do relatório */}
+      <section className="px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
+        <div className="mx-auto max-w-4xl">
+          <div className="mx-auto max-w-2xl text-center">
+            <h2 className="text-2xl font-bold text-slate-900 sm:text-3xl">
+              Veja o Raio-X da Banca na prática
+            </h2>
+            <p className="mt-3 text-base text-slate-600 sm:text-lg">
+              Nota estimada, feedback por competência, pontos fortes e o que
+              ajustar — o formato do retorno que você vai receber a cada
+              redação enviada.
+            </p>
+          </div>
 
-          <div className="mt-8 rounded-2xl border border-slate-200 bg-white p-6 text-left shadow-md sm:p-8">
-            <span className="inline-block rounded-full bg-amber-100 px-3 py-1 text-xs font-semibold text-amber-700">
-              Exemplo ilustrativo
-            </span>
-
-            <div className="mt-4 flex items-baseline gap-2">
-              <span className="text-4xl font-bold text-indigo-600 sm:text-5xl">
-                780
-              </span>
-              <span className="text-slate-500">
-                / 1000 pontos (nota estimada)
-              </span>
-            </div>
-
-            <ul className="mt-8 space-y-5">
-              {EXAMPLE_COMPETENCIES.map((competency) => (
-                <li key={competency.label}>
-                  <div className="flex items-center justify-between gap-4 text-sm sm:text-base">
-                    <span className="text-slate-700">{competency.label}</span>
-                    <span className="whitespace-nowrap font-semibold text-slate-900">
-                      {competency.score}/{competency.max}
-                    </span>
-                  </div>
-                  <div className="mt-2 h-2 w-full overflow-hidden rounded-full bg-slate-100">
-                    <div
-                      className="h-full rounded-full bg-indigo-500"
-                      style={{
-                        width: `${(competency.score / competency.max) * 100}%`,
-                      }}
-                    />
-                  </div>
-                </li>
-              ))}
-            </ul>
-
-            <div className="mt-6 rounded-lg bg-amber-50 p-4 text-sm text-amber-800">
-              <strong>Ponto de melhoria:</strong> reforce a conexão entre os
-              argumentos do 2º parágrafo — a banca considerou a progressão
-              textual abaixo do esperado.
-            </div>
+          <div className="mt-10">
+            <RaioXReportCard
+              variant="full"
+              score={780}
+              maxScore={1000}
+              competencies={EXAMPLE_COMPETENCIES}
+              strengths={EXAMPLE_STRENGTHS}
+              weaknesses={EXAMPLE_WEAKNESSES}
+              suggestion="reforce a conexão entre os argumentos do 2º parágrafo e detalhe quem executa a proposta de intervenção — isso costuma custar pontos na competência 5."
+            />
           </div>
         </div>
       </section>
@@ -226,7 +317,7 @@ export default function Home() {
           </span>
 
           <div className="mt-8 flex justify-center">
-            <div className="w-full max-w-md rounded-2xl bg-white p-6 shadow-lg sm:p-8">
+            <div className="w-full max-w-md rounded-2xl bg-white p-6 shadow-xl ring-1 ring-slate-900/5 sm:p-8">
               <WaitlistForm />
               <p className="mt-4 text-xs text-slate-500">
                 Sem spam. Seus dados são protegidos conforme a LGPD e usados
@@ -243,18 +334,7 @@ export default function Home() {
           <h2 className="text-center text-2xl font-bold text-slate-900 sm:text-3xl">
             Perguntas frequentes
           </h2>
-          <div className="mt-10 space-y-8">
-            {FAQS.map((faq, i) => (
-              <div key={i}>
-                <p className="text-base font-semibold text-slate-900 sm:text-lg">
-                  {faq.question}
-                </p>
-                <p className="mt-2 text-base text-slate-600 sm:text-lg">
-                  {faq.answer}
-                </p>
-              </div>
-            ))}
-          </div>
+          <FaqAccordion items={FAQS} />
         </div>
       </section>
 
