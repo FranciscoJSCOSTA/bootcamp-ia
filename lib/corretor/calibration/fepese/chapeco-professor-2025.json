@@ -1,0 +1,40 @@
+{
+  "concurso": "Prefeitura Municipal de Chapecó/SC — Concurso Público 003/2025",
+  "orgao": "Prefeitura Municipal de Chapecó/SC — Secretaria de Educação",
+  "cargo": "Professor Licenciatura Plena",
+  "dataProva": "2025-10-26",
+  "areaTema": "Situação-problema contextualizada em sala de aula, exigindo aplicação de conhecimentos didáticos da área/disciplina do cargo.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Questão discursiva baseada em uma situação-problema contextualizada em sala de aula, exigindo a aplicação de conhecimentos didáticos na área/disciplina correspondente ao cargo (item 12.1). O caso literal aplicado no dia da prova não foi obtido nesta pesquisa (o caderno específico de Língua Portuguesa continha uma tirinha sobre linguagem figurada/denotação-conotação, pedindo para conceituar linguagem figurada e propor atividade interdisciplinar — confirmado como exemplo real, mas não capturado por completo).",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Habilidade de argumentação, clareza na exposição do tema — avaliado por nível de desempenho percentual: 100%=0,45 / 80%=0,36 / 60%=0,27 / 40%=0,18 / 20%=0,09 / 0%=0,00 (Tabela 12.1, item 12.9)",
+            "pontuacao": 0.45
+          },
+          {
+            "descricao": "Domínio do conteúdo — mesma escala percentual: 100%=0,60 / 80%=0,48 / 60%=0,36 / 40%=0,24 / 20%=0,12 / 0%=0,00 (Tabela 12.1)",
+            "pontuacao": 0.6
+          },
+          {
+            "descricao": "Adequação linguística e textual (padrão culto, coesão e coerência) — mesma escala percentual: 100%=0,45 / 80%=0,36 / 60%=0,27 / 40%=0,18 / 20%=0,09 / 0%=0,00 (Tabela 12.1)",
+            "pontuacao": 0.45
+          }
+        ],
+        "fonte": "Edital de Abertura, Concurso Público 003/2025 (Chapecó/SC/FEPESE), itens 12.1 a 12.11 (Tabela 12.1). https://2025plpchapeco.fepese.org.br/?go=download&arquivo=2025_CP_003_Chapeco_Professor_Licenciatura_Plena.pdf&inline=1",
+        "observacoes": "Tabela verificada por mim pessoalmente, direto do PDF do edital (baixado e extraído com pdftotext). IMPORTANTE — a pontuação de cada dimensão NÃO é um valor fixo por acerto/erro: é proporcional a um NÍVEL DE DESEMPENHO percentual (100%/80%/60%/40%/20%/0%) julgado qualitativamente pela banca, aplicado sobre o valor máximo daquela dimensão. Total da questão: 1,50 ponto. Limite de linhas: quadro de 20 linhas disponíveis, mínimo 10 linhas completas exigido (item 12.7) — texto fora da área delimitada ou no verso é desconsiderado. Um segundo edital da mesma banca, mesmo cliente, mesma data (Chapecó, Edital 004/2025, Especialista em Assuntos Educacionais) usa a tabela IDÊNTICA — confirma que este modelo se repete pelo menos entre editais do mesmo cliente. MAS um edital de outro cliente (Itajaí/SC 2026, ainda não aplicado) usa uma estrutura totalmente diferente: 5,00/2,50/2,50=10,00 pontos, pesando só 20% da nota final — confirma que a estrutura de pontos VARIA por edital/cliente, mesmo mantendo os mesmos 3 descritores de critério."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://2025plpchapeco.fepese.org.br/?go=download&arquivo=2025_CP_003_Chapeco_Professor_Licenciatura_Plena.pdf&inline=1"
+  ],
+  "coletadoEm": "2026-07-19"
+}

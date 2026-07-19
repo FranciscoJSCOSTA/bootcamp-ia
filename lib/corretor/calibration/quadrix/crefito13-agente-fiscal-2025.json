@@ -1,0 +1,52 @@
+{
+  "concurso": "CREFITO-13/MS (Conselho Regional de Fisioterapia e Terapia Ocupacional da 13ª Região) — Concurso Público 2025",
+  "orgao": "Conselho Regional de Fisioterapia e Terapia Ocupacional da 13ª Região (MS)",
+  "cargo": "Agente Fiscal",
+  "dataProva": "2025-10-19",
+  "areaTema": "Conhecimentos específicos do cargo, conforme Anexo III do edital — o tema/enunciado literal aplicado no dia da prova não foi obtido por esta pesquisa.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Texto dissertativo sobre tema relacionado aos conhecimentos específicos do cargo, constante do Anexo III do edital (item 13.1). O enunciado literal aplicado no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Apresentação (AP) — respeito às margens, estruturação/indicação de parágrafos, legibilidade. Aspectos Formais e Linguísticos (AFL). (item 13.7.4.1.a)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Coerência (CR) — clareza e nexo entre ideias. AFL. (item 13.7.4.1.b)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Coesão (CS) — conexão entre elementos formadores do texto. AFL. (item 13.7.4.1.c)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Tipo Textual (TT) — atendimento ao tipo dissertativo, com introdução/desenvolvimento/conclusão. AFL. (item 13.7.4.1.d)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Linguagem (LG) — uso adequado da língua portuguesa em padrão culto. AFL. (item 13.7.4.1.e)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Tema (TM) — adequação e pertinência ao tema, ordem de desenvolvimento, qualidade dos argumentos. Aspectos Técnicos (AT) = TM. (item 13.7.4.2.a)",
+            "pontuacao": 5
+          }
+        ],
+        "fonte": "Edital do concurso CREFITO-13/MS 2025 (Quadrix), itens 13.1, 13.7.1 a 13.7.7. Verificado por mim pessoalmente, direto do PDF (baixado e extraído com pdftotext).",
+        "observacoes": "Documento oficial lido na íntegra por mim. Estrutura idêntica à do COREN-AC (mesma banca, mesmo período) — confirma que é um template fixo e recorrente da Quadrix para concursos de conselhos profissionais, não coincidência. Nota final: NPD = [AFL + (AT × 4)] ÷ 3, onde AFL = AP+CR+CS+TT+LG (máx. 10) e AT = TM (máx. 5) — NÃO some os 6 itens diretamente, use a fórmula (nota máxima = [10+20]÷3 = 10,00). Limite de linhas: mínimo 20, máximo 30 (item 13.1). Zeramento e eliminação automática (item 13.7.5): fuga ao tema, tipologia errada, lápis/cor diferente de azul-preto, folha em branco, menos de 20 linhas, língua estrangeira, letra ilegível, espaçamento excessivo, expressões injuriantes/discriminatórias/abusivas, identificação indevida, texto não articulado verbalmente. Além do zeramento, item 13.7.8: reprovação (não zeramento) por nota inferior a 5,00."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.quadrix.org.br/informacoes/1032/"
+  ],
+  "coletadoEm": "2026-07-18"
+}

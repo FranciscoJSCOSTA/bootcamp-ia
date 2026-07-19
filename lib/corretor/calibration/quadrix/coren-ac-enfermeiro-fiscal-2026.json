@@ -1,0 +1,53 @@
+{
+  "concurso": "COREN-AC (Conselho Regional de Enfermagem do Acre) — Concurso Público 2026",
+  "orgao": "Conselho Regional de Enfermagem do Acre",
+  "cargo": "Enfermeiro Fiscal",
+  "dataProva": "2026-03-15",
+  "areaTema": "Atualidades — acesso a medicamentos e avaliação de tecnologias em saúde pelo SUS (tema \"canetas emagrecedoras\").",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Trecho literal do texto motivador (extração parcial, com omissões marcadas \"[...]\" — o enunciado completo não foi obtido por esta pesquisa): \"O cenário social de resposta à falta de acesso a uma série de produtos e serviços [...] é o principal motivo de a maior parte da população brasileira não ter acesso às canetas emagrecedoras (como Ozempic, Wegovy e Saxenda) [...] A Comissão Nacional de Incorporação de Tecnologias no SUS (Conitec) rejeitou a inclusão de medicamentos como Wegovy e Saxenda no sistema público devido ao alto custo de produção [...]\"",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Apresentação (AP) — respeito às margens do texto, estruturação/indicação de parágrafos, legibilidade. Aspectos Formais e Linguísticos (AFL). (item 13.7.4.1.a)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Coerência (CR) — clareza do texto e nexo entre as ideias, sem obscuridade/contradições/falta de articulação. AFL. (item 13.7.4.1.b)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Coesão (CS) — conexão entre parágrafos/ideias/períodos/orações/argumentos, com mecanismos linguísticos diversificados. AFL. (item 13.7.4.1.c)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Tipo Textual (TT) — atendimento ao tipo dissertativo, com introdução/desenvolvimento/conclusão bem definidos, sem divisão em itens/tópicos. AFL. (item 13.7.4.1.d)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Linguagem (LG) — uso adequado da língua portuguesa em padrão culto. AFL. (item 13.7.4.1.e)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Tema (TM) — adequação e pertinência das informações ao tema proposto, ordem de desenvolvimento, qualidade e força dos argumentos. Aspectos Técnicos (AT) = TM. (item 13.7.4.2.a)",
+            "pontuacao": 5
+          }
+        ],
+        "fonte": "Edital do concurso COREN-AC 2026 (Quadrix), item 13.1 (linhas), 13.7.4 (critérios), 13.7.5 (zeramento), 13.7.7 (fórmula). Padrão definitivo de resposta: https://anexos-r2.selecao.net.br/uploads/861/concursos/3001/anexos/c0b1be53-52b9-4ce3-bc5b-2eefca1921e7.pdf",
+        "observacoes": "IMPORTANTE — a nota final NÃO é a soma simples dos 6 itens acima. A fórmula oficial (item 13.7.7, confirmada por mim pessoalmente direto do PDF de outro edital Quadrix do mesmo modelo — CREFITO-13/MS) é: NPD = [AFL + (AT × 4)] ÷ 3, onde AFL = AP+CR+CS+TT+LG (máx. 10) e AT = TM (máx. 5). Isso dá nota máxima [10 + (5×4)] ÷ 3 = 10,00 pontos — o peso de TM (tema/conteúdo técnico) é efetivamente 4x maior que cada ponto de AFL antes da divisão final. Ao aplicar esta referência a outra questão, NÃO some os 6 itens diretamente — use a fórmula. Limite de linhas: mínimo 20, máximo 30 — confirmado idêntico em 5 editais Quadrix de conselhos profissionais de 2025-2026 (mas a própria central de ajuda da Quadrix afirma que os critérios são definidos edital a edital, então não assuma que isso é universal fora dessa família de editais)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": true, "conteudo": "Padrão definitivo de resposta publicado pelo Instituto Quadrix, com o texto motivador completo (extração parcial nesta pesquisa) e os critérios de correção — sem um texto-resposta modelo completo, só a estrutura de avaliação.", "fonte": "https://anexos-r2.selecao.net.br/uploads/861/concursos/3001/anexos/c0b1be53-52b9-4ce3-bc5b-2eefca1921e7.pdf" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.quadrix.org.br/informacoes/3001/",
+    "https://anexos-r2.selecao.net.br/uploads/861/concursos/3001/anexos/c0b1be53-52b9-4ce3-bc5b-2eefca1921e7.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}

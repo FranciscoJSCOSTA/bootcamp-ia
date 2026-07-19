@@ -1,0 +1,40 @@
+{
+  "concurso": "Prefeitura Municipal de Araraquara/SP — Concurso Público 001/2025",
+  "orgao": "Prefeitura Municipal de Araraquara/SP",
+  "cargo": "Coordenador Pedagógico / Diretor de Escola",
+  "dataProva": "2025-08-24",
+  "areaTema": "Conhecimentos específicos da área pedagógica — o tema literal aplicado no dia da prova não é público.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "1 de 2 questões discursivas, cada uma com no mínimo 15 e no máximo 20 linhas, sobre conhecimentos específicos do cargo (item 9.12). O enunciado literal aplicado no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Conteúdo — perspectiva adotada no tratamento do tema; capacidade de análise e senso crítico; consistência dos argumentos, clareza e coerência com base nos aspectos teóricos/legislação aplicável. \"A nota será prejudicada, proporcionalmente, caso ocorra uma abordagem tangencial, parcial ou diluída em meio a divagações e/ou colagem de textos\" (item 9.12.1.1)",
+            "pontuacao": 9
+          },
+          {
+            "descricao": "Estrutura — respeito ao gênero solicitado; progressão textual e encadeamento de ideias; articulação de frases e parágrafos, coesão textual (item 9.12.1.2)",
+            "pontuacao": 3
+          },
+          {
+            "descricao": "Domínio da modalidade escrita formal da língua portuguesa — estrutura sintática, elementos coesivos, concordância verbal/nominal, regência, pronomes, flexão verbal/nominal, tempos/modos verbais, grafia/pontuação/acentuação (item 9.12.1.3)",
+            "pontuacao": 8
+          }
+        ],
+        "fonte": "Edital de Abertura, Concurso Público 001/2025 (Araraquara/SP/IBAM), itens 9.12 a 9.15. https://anexos.cdn.selecao.net.br/uploads/810/concursos/61/anexos/8241970f-4ebf-43fe-9265-a282e555c432.pdf",
+        "observacoes": "Documento lido por mim pessoalmente, direto do PDF do edital (baixado e extraído com pdftotext). Soma exata 9+3+8=20 pontos por questão; 2 questões = 40 pontos totais (item 9.13, soma das duas). Aprovação: mínimo 50% em CADA questão (10 pontos), não apenas na soma total (item 9.14). Limite de linhas: mínimo 15, máximo 20 por questão (item 9.12) — sem regra explícita de zeramento por descumprir esse limite neste edital específico (o item 9.13.1 de zeramento não inclui violação de linha; outro contrato da mesma organização — Caruaru/PE — já confirmamos que zera automaticamente por linha, então essa regra varia por edital, não é fixa). ACHADO IMPORTANTE: no MESMO edital/prefeitura/dia de prova, o cargo de Analista de Procuradoria usa uma distribuição de pontos totalmente diferente (Aspectos jurídicos 15 + Português 5, sem categoria 'Estrutura' separada) — ver exame separado desta base. Confirma que a distribuição de critérios do IBAM varia por cargo, não só por região/cliente."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://anexos.cdn.selecao.net.br/uploads/810/concursos/61/anexos/8241970f-4ebf-43fe-9265-a282e555c432.pdf"
+  ],
+  "coletadoEm": "2026-07-19"
+}

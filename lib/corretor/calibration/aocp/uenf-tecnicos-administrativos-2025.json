@@ -1,0 +1,36 @@
+{
+  "concurso": "UENF (Universidade Estadual do Norte Fluminense Darcy Ribeiro) — Edital de Abertura nº 001/2025 (Técnicos-Administrativos)",
+  "orgao": "Universidade Estadual do Norte Fluminense Darcy Ribeiro (UENF/RJ)",
+  "cargo": "Vários cargos de nível superior (Administração de Empresas, Análise de Planejamento, Ciências Contábeis, Ciências Econômicas, Comunicação Social, Educação, História, Serviço Social, Internacionalista, Engenheiro de Segurança do Trabalho, Apoio Acadêmico) — a Tabela 12.2 do edital é explicitamente \"CRITÉRIOS DE AVALIAÇÃO PARA TODOS OS CARGOS\", ou seja, a estrutura de pontuação é a mesma para todos; só o conteúdo específico (Anexo II) varia por cargo.",
+  "dataProva": "2025-08-01",
+  "areaTema": "Conhecimentos Específicos de cada cargo, conforme Anexo II dos Conteúdos Programáticos do edital — o enunciado literal da questão aplicada não é público, só a estrutura de avaliação (Tabela 12.2), que é fixa para todos os cargos.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "1 (uma) questão de Conhecimentos Específicos do cargo, conforme Anexo II do edital (item 12.2). O enunciado literal aplicado no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Conhecimento técnico sobre a matéria — \"A resposta elaborada deve apresentar conhecimento teórico e prático a respeito do assunto/tema abordado pela questão, demonstrando domínio técnico a respeito do conteúdo proposto, além de ser pertinente e clara quanto ao tema desenvolvido.\" (Tabela 12.2, aspecto 1)",
+            "pontuacao": 10
+          },
+          {
+            "descricao": "Utilização adequada da Língua Portuguesa — \"uso adequado da ortografia, pontuação, regência, concordância e sintaxe (requisitos gramaticais), respeito às margens e legibilidade.\" Regra de zeramento em cascata: \"Caso o candidato tenha obtido pontuação igual a 0 (zero) no aspecto 1 [...], também será pontuado com nota 0 (zero)\" neste aspecto. (Tabela 12.2, aspecto 2)",
+            "pontuacao": 5
+          }
+        ],
+        "fonte": "Edital de Abertura nº 001/2025 — Concurso Público UENF, itens 12.2, 12.3 (Tabela 12.2), 12.4. https://uenf.br/portal/wp-content/uploads/2025/05/EDITAL-CONCURSO-UENF.pdf",
+        "observacoes": "Pontuação máxima total 15 pontos (item 12.4); mínimo 6,0 pontos para não eliminação. Limite de linhas: mínimo 15, máximo 20 (item 12.6). Texto dos aspectos verificado por mim diretamente no PDF do edital (baixado e extraído com pdftotext), não apenas relatado por pesquisa de terceiros. Formato \"Questão Discursiva\" (não \"Redação\") — só 2 aspectos, sem quebra por competências dissertativas (tema/coesão/estrutura/gramática separados); a Língua Portuguesa entra como um segundo aspecto único, com peso bem menor que o conhecimento técnico (1/3 do total)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://uenf.br/portal/wp-content/uploads/2025/05/EDITAL-CONCURSO-UENF.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}

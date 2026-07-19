@@ -1,0 +1,44 @@
+{
+  "concurso": "Prefeitura Municipal de Paracuru/CE — Edital nº 001/2026 (Educação)",
+  "orgao": "Prefeitura Municipal de Paracuru/CE — Secretaria Municipal de Educação",
+  "cargo": "Professor (várias especialidades de Educação Infantil, Ensino Fundamental e disciplinas específicas)",
+  "dataProva": "2026-04-26",
+  "areaTema": "Conhecimentos gerais do cargo — o tema literal aplicado no dia da prova não é público.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "1 (uma) questão discursiva a respeito de tema ligado aos conhecimentos gerais do cargo (item 12.4). O enunciado literal aplicado no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Argumentação e informatividade relacionadas à resposta da questão (item 12.7.a)",
+            "pontuacao": 50
+          },
+          {
+            "descricao": "Estrutura e organização do texto, abrangendo coerência e coesão (item 12.7.b)",
+            "pontuacao": 20
+          },
+          {
+            "descricao": "Domínio da linguagem — aspectos gramaticais e morfossintáticos, com desconto de 1 ponto por erro no conjunto (item 12.7.c)",
+            "pontuacao": 20
+          },
+          {
+            "descricao": "Aspectos gráficos e microestruturais — ortografia, pontuação, acentuação, com desconto de 1 ponto por erro no conjunto (item 12.7.d)",
+            "pontuacao": 10
+          }
+        ],
+        "fonte": "Edital de Abertura nº 001/2026 (Paracuru/CE/Consulpam), itens 12.4 a 12.15. https://www.consulpam.com.br/arquivos/20260106_131229_EDITAL%20001.%202026%20PARACURU%20-%20EDUCA%C3%87%C3%83O%20(1).pdf",
+        "observacoes": "Tabela e regras de zeramento verificadas por mim pessoalmente, direto do PDF do edital (baixado e extraído com pdftotext). Total exato 50+20+20+10=100 pontos; aprovação com 50% (item 12.6). Limite de linhas: mínimo 20, máximo 30 (item 12.4). IMPORTANTE — a inconsistência de '19 vs 20 linhas' sinalizada na pesquisa NÃO é uma inconsistência real: conferi o texto literal exato dos dois itens. Item 12.4: 'no mínimo 20 linhas'. Item 12.15.h (zeramento): 'Contiver 19 (dezenove) ou menos linhas escritas' → nota zero. Os dois são exatamente complementares: um texto de 19 linhas ou menos é zerado; 20 linhas é o mínimo aceito e passa a ser avaliado normalmente pelos 4 critérios. Não há zona cinzenta. Esse modelo (100 pontos, 50/20/20/10) é o padrão da Consulpam para cargos 'genéricos' de nível superior (magistério, professor) — a banca usa modelos DIFERENTES para cargos técnico-jurídicos (ver exame separado desta base, Itaitinga Procurador) e até totais diferentes para o mesmo modelo em outro cliente (CONAB usa a mesma estrutura de 4 competências mas somando 60 pontos: 30/10/10/10, não 100)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.consulpam.com.br/arquivos/20260106_131229_EDITAL%20001.%202026%20PARACURU%20-%20EDUCA%C3%87%C3%83O%20(1).pdf"
+  ],
+  "coletadoEm": "2026-07-19"
+}

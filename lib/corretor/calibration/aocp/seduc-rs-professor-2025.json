@@ -1,0 +1,44 @@
+{
+  "concurso": "SEDUC-RS (Secretaria de Estado da Educação do Rio Grande do Sul) — Edital de Abertura nº 01/2025",
+  "orgao": "Secretaria de Estado da Educação do Rio Grande do Sul",
+  "cargo": "Professor (todas as áreas/habilitações)",
+  "dataProva": "2025-09-28",
+  "areaTema": "Redação dissertativo-argumentativa sobre tema da área de Educação — o tema/enunciado literal aplicado no dia da prova não é público, só a estrutura de avaliação (Tabela 13.1).",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Redação do tipo Dissertação sobre tema da área de Educação (item 13). O tema literal aplicado no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Atendimento ao tema e seu desenvolvimento / Informatividade e argumentação (Tabela 13.1, aspecto 1)",
+            "pontuacao": 25
+          },
+          {
+            "descricao": "Coesão intra e entre parágrafos (referencial e sequencial, diversificada e recorrente) / Coerência (progressão, articulação, não-contradição) (Tabela 13.1, aspecto 2)",
+            "pontuacao": 25
+          },
+          {
+            "descricao": "Atendimento à estrutura textual proposta (organização do texto dissertativo-argumentativo e dos parágrafos) (Tabela 13.1, aspecto 3)",
+            "pontuacao": 25
+          },
+          {
+            "descricao": "Modalidade gramatical: pontuação, grafia (inclusive legibilidade), concordância e colocação pronominal (Tabela 13.1, aspecto 4)",
+            "pontuacao": 25
+          }
+        ],
+        "fonte": "Edital de Abertura nº 01/2025 (SEDUC-RS), item 13.5 (Tabela 13.1). Publicado no Diário Oficial em 01/07/2025. PDF consultado em https://www.estado.rs.gov.br/upload/arquivos/202507/edital-concurso-professores-2025-1-7-25.pdf",
+        "observacoes": "Pontuação máxima total 100 pontos; mínimo de aprovação 50 pontos. Limite de linhas: mínimo 15, máximo 30 (item 13.8). Zeramento (item 13.10): fuga ao tema, tipologia textual errada, desestruturação textual, uso de lápis/caneta de cor errada, folha em branco, letra ilegível, identificação indevida. Há também uma Tabela 13.2 exclusiva para candidatos surdos/deficientes auditivos, com 4 aspectos distintos (não replicada aqui). Formato 'Redação' (não 'Questão Discursiva') — 4 critérios de peso igual, no molde clássico de dissertação-argumentativa (tema/argumentação, coesão/coerência, estrutura, gramática) — bem diferente do formato de 2 critérios confirmado em UENF/TRE-TO. Isso confirma que a AOCP usa formatos genuinamente distintos conforme o edital rotula a prova como 'Redação' ou 'Questão Discursiva', e o motor de correção precisa diferenciar os dois, não aplicar um modelo único."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.estado.rs.gov.br/upload/arquivos/202507/edital-concurso-professores-2025-1-7-25.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}

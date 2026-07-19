@@ -1,0 +1,59 @@
+{
+  "concurso": "Ministério Público do Estado de São Paulo — Concurso Público nº 01/2025",
+  "orgao": "Ministério Público do Estado de São Paulo",
+  "cargo": "Analista Jurídico do MP (ANJ-1.01)",
+  "dataProva": "2025-11-30",
+  "areaTema": "Direito Penal, Direito Processual Penal, Tutela dos Interesses Difusos e Coletivos, Direito Processual Civil (áreas temáticas gerais declaradas no edital — o tema/enunciado específico sorteado no dia da prova não é público, fica disponível só na área do candidato após o resultado)",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Redação técnica sobre Direito Penal OU Direito Processual Penal, com o conteúdo indicado no Anexo II do Edital (item 4.4.1, alínea a). O tema específico exigido no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Conhecimento específico (conhecimento técnico-jurídico) — de 0 a 50% do total de pontos previstos para o tema (item 4.43.1)",
+            "pontuacao": 12.5
+          },
+          {
+            "descricao": "Estrutura e conteúdo — de 0 a 50% do total de pontos (item 4.43.2): como estrutura, o desenvolvimento pertinente ao assunto proposto, com clareza e lógica na exposição das ideias, organização do texto e da norma jurídica; como conteúdo, a análise e síntese dos fatos examinados, a adequação da legislação, o domínio jurídico do tema, o raciocínio jurídico, a fundamentação e sua consistência, a capacidade de interpretação e exposição e a técnica profissional demonstrada. Também se observa o uso correto da língua portuguesa (item 4.44).",
+            "pontuacao": 12.5
+          }
+        ],
+        "fonte": "Edital de Abertura, Concurso Público nº 01/2025 (MP-SP), itens 4.4, 4.4.1, 4.42(a), 4.43, 4.43.1, 4.43.2, 4.44 — publicado no Diário Oficial do Estado de São Paulo, Volume 135, nº 120, Caderno Executivo, 18/06/2025. https://doe.sp.gov.br/executivo/ministerio-publico/abertura-concurso-n-01-2025-de-17-de-junho-de-2025-20250617133963671153700",
+        "observacoes": "Estrutura de pontuação real e oficial (split 50/50 entre conhecimento específico e estrutura+conteúdo, escala 0 a 25 por redação, conforme item 4.42.a). NÃO temos o enunciado literal da questão nem um padrão de resposta com o conteúdo jurídico especificamente esperado para o tema sorteado — isso fica disponível só na área do candidato (grade de correção individualizada, item 6.9, que deixa de ser acessível após o prazo de recurso), não é um documento público permanente. Use esta referência só para a ESTRUTURA de avaliação (quantos itens, como o peso se divide entre eles), nunca para inferir o conteúdo jurídico específico esperado de um tema diferente. Verifiquei este texto pessoalmente, extraído diretamente do PDF do Diário Oficial (não apenas relatado por pesquisa de terceiros)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Questão discursiva sobre matéria não contemplada nas redações, conforme conteúdo programático indicado no Anexo II do Edital (item 4.4.2). O tema específico exigido no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Conhecimento específico (conhecimento técnico-jurídico) — de 0 a 50% do total de pontos previstos para a questão (item 4.43.1)",
+            "pontuacao": 5
+          },
+          {
+            "descricao": "Estrutura e conteúdo — de 0 a 50% do total de pontos (item 4.43.2, mesmos critérios descritos na questão 1 acima). Também se observa o uso correto da língua portuguesa (item 4.44).",
+            "pontuacao": 5
+          }
+        ],
+        "fonte": "Edital de Abertura, Concurso Público nº 01/2025 (MP-SP), itens 4.4, 4.4.2, 4.42(b), 4.43, 4.43.1, 4.43.2, 4.44 — Diário Oficial do Estado de São Paulo, Volume 135, nº 120, 18/06/2025.",
+        "observacoes": "Mesma ressalva da questão 1: estrutura de pontuação real (escala 0 a 10 por questão, item 4.42.b), sem conteúdo temático específico disponível publicamente."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://doe.sp.gov.br/executivo/ministerio-publico/abertura-concurso-n-01-2025-de-17-de-junho-de-2025-20250617133963671153700"
+  ],
+  "coletadoEm": "2026-07-18"
+}

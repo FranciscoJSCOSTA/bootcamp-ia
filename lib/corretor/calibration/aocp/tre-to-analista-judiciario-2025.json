@@ -1,0 +1,36 @@
+{
+  "concurso": "TRE-TO (Tribunal Regional Eleitoral do Tocantins) — Edital de Abertura nº 1/2025",
+  "orgao": "Tribunal Regional Eleitoral do Tocantins",
+  "cargo": "Analista Judiciário (Área Judiciária; Área Administrativa/Contabilidade; Apoio Especializado/Tecnologia da Informação)",
+  "dataProva": "2025-06-22",
+  "areaTema": "Conhecimentos Específicos de cada área/especialidade, conforme conteúdo programático do edital — o enunciado literal da questão aplicada não é público, só a estrutura de avaliação (Tabela 14.2).",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "1 (uma) questão de Conhecimentos Específicos da área/especialidade (item 14). O enunciado literal aplicado no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Conhecimento técnico sobre a matéria — texto idêntico ao usado pela AOCP em outros editais de 2025 (ex: UENF): \"A resposta elaborada deve apresentar conhecimento teórico e prático a respeito do assunto/tema abordado pela questão, demonstrando domínio técnico a respeito do conteúdo proposto, além de ser pertinente e clara quanto ao tema desenvolvido.\" (Tabela 14.2, aspecto 1)",
+            "pontuacao": 20
+          },
+          {
+            "descricao": "Utilização adequada da Língua Portuguesa — texto idêntico ao usado em outros editais de 2025 da AOCP: uso adequado da ortografia, pontuação, regência, concordância e sintaxe, respeito às margens e legibilidade, com a mesma regra de zeramento em cascata caso o aspecto 1 receba nota zero. (Tabela 14.2, aspecto 2)",
+            "pontuacao": 10
+          }
+        ],
+        "fonte": "Edital de Abertura nº 1/2025 (TRE-TO), item 14.5 (Tabela 14.2). Espelhado do edital publicado em tre-to.jus.br; PDF consultado em https://cdn.direcaoconcursos.com.br/uploads/2025/03/edital-TRE-TO-2025.pdf",
+        "observacoes": "Pontuação máxima total 30 pontos. Mínimo de aprovação: 60% para ampla concorrência, 48% para candidatos de cotas. Limite de linhas: mínimo 10, máximo 30 (item 14.4). Este edital confirma, de forma independente do da UENF (órgão diferente, mesmo período), que a AOCP usa um TEMPLATE FIXO de 2 aspectos pra 'Questão Discursiva' em 2025 — o texto descritivo de cada aspecto é literalmente idêntico entre os dois editais, só a pontuação máxima varia (15 na UENF, 30 no TRE-TO). Data da prova (22/06/2025) é um pouco anterior ao início da janela de 12 meses pedida (a partir de 18/07/2025), mas a lista de habilitados pra correção da discursiva só saiu em 23/07/2025, já dentro da janela — incluído com essa ressalva de calendário."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.direcaoconcursos.com.br/uploads/2025/03/edital-TRE-TO-2025.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}

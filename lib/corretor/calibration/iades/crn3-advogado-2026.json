@@ -1,0 +1,64 @@
+{
+  "concurso": "CRN-3 (Conselho Regional de Nutricionistas — 3ª Região, SP/MS) — Concurso Público 2026",
+  "orgao": "Conselho Regional de Nutricionistas da 3ª Região",
+  "cargo": "Advogado",
+  "dataProva": "2026-04-26",
+  "areaTema": "Os remédios constitucionais como instrumentos de proteção dos direitos e garantias individuais na Constituição Federal de 1988.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Texto 1: \"A Constituição Federal de 1988, conhecida como 'Constituição Cidadã', representa um marco na proteção dos direitos fundamentais no ordenamento jurídico brasileiro. O art. 5º consagra um extenso rol de direitos e garantias individuais, atribuindo-lhes a condição de cláusulas pétreas, conforme dispõe o art. 60, § 4º, IV, da própria Carta. Para assegurar a efetividade desses direitos, o constituinte originário disponibilizou ao cidadão instrumentos processuais específicos, denominados remédios constitucionais, cuja finalidade é a tutela de direitos violados ou ameaçados de lesão por atos do Poder Público ou de particulares no exercício de funções delegadas.\" (MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet. Curso de direito constitucional. 19. ed. São Paulo: Saraiva, 2023.)\nTexto 2: \"A distinção entre direitos e garantias, embora frequentemente apresentada de forma didática, possui relevância prática. Os direitos são bens e vantagens prescritos na norma constitucional, ao passo que as garantias são instrumentos por meio dos quais se assegura o exercício dos direitos ou a pronta reparação em caso de violação. Nessa perspectiva, o habeas corpus, o mandado de segurança, a ação popular e o direito de petição constituem garantias instrumentais, postas à disposição do indivíduo para a defesa de bens jurídicos diversos, cada qual com pressupostos, legitimidade e cabimento próprios.\" (SILVA, José Afonso da. Curso de direito constitucional positivo. 45. ed. Salvador: JusPodivm; São Paulo: Malheiros, 2024.)\nConsiderando que os textos apresentados têm caráter apenas motivador, redija um texto dissertativo-argumentativo a respeito do tema \"Os remédios constitucionais como instrumentos de proteção dos direitos e garantias individuais na Constituição Federal de 1988\". Aborde, necessariamente, os seguintes tópicos: i. a distinção entre direitos e garantias individuais e o regime jurídico dos remédios constitucionais como cláusulas pétreas [2,0 pontos]; ii. o cabimento, a legitimidade ativa e as hipóteses de utilização do habeas corpus e do mandado de segurança, destacando suas distinções essenciais [4,0 pontos]; e iii. a finalidade da ação popular e a natureza jurídica do direito de petição, apontando as diferenças entre ambos quanto ao objeto e à legitimidade [4,0 pontos].",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Texto (TX) — atendimento ao tipo textual, margens, paragrafação, organização textual, legibilidade. Faixas: 0,00 / 0,00-1,00 / 1,00-2,00. Parâmetro Linguístico.",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Tema (TM) — abordagem do assunto, considerando os tópicos. Parâmetro Linguístico (faixas análogas às de Texto).",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Coerência (CR) — fluência, clareza, relação lógica entre ideias. Parâmetro Linguístico.",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Coesão (CS) — emprego harmônico de elementos coesivos. Parâmetro Linguístico.",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Erros (ER) — fórmula \"ER = valor-base − ((NE/TL) × fator)\", mesma lógica do modelo IADES confirmada em outro edital (SES/GO), com valor-base 2,00 neste caso. Parâmetro Linguístico.",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Tópico A — \"distinção entre direitos e garantias individuais e o regime jurídico dos remédios constitucionais como cláusulas pétreas\": esperado (a) distinção doutrinária direitos/garantias [0,7 pt], (b) remédios constitucionais como espécie de garantias fundamentais de natureza instrumental [0,6 pt], (c) proteção como cláusula pétrea (art. 60 §4º IV CF) [0,7 pt]. Parâmetro Técnico (Argumentação/AR) — subdividido em frações, não em bloco único.",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Tópico B — cabimento, legitimidade ativa e hipóteses de utilização do habeas corpus e mandado de segurança, com distinções essenciais entre os dois. Parâmetro Técnico (AR).",
+            "pontuacao": 4
+          },
+          {
+            "descricao": "Tópico C — finalidade da ação popular e natureza jurídica do direito de petição, com diferenças quanto a objeto e legitimidade. Parâmetro Técnico (AR).",
+            "pontuacao": 4
+          }
+        ],
+        "fonte": "Discursiva - Padrão de Resposta, Concurso Público CRN-3, cargo Advogado. https://www.iades.com.br/inscricao/upload/1366/20260524224913438.zip (arquivo interno: \"Padrão de Resposta - Discursiva - CRN-3 - 101 - Advogado - 1 - Geral.pdf\")",
+        "observacoes": "Documento lido por mim pessoalmente, linha a linha (baixado do zip oficial e extraído com pdftotext). Confirma o MESMO modelo estrutural do SES/GO (Parâmetros Linguísticos de 5 subitens + Parâmetros Técnicos por tópico), mas com valor-base DIFERENTE (2,00 por parâmetro linguístico aqui, vs. 3,00 no SES/GO) — total linguístico 10,00 (vs. 15,00). Confirma que o modelo se repete entre editais só na ESTRUTURA, não na escala — sempre confira o valor-base no documento/enunciado específico. Também traz o detalhamento mais granular visto no projeto: o Tópico A é subdividido em 3 frações de pontos (0,7+0,6+0,7=2,0) dentro do próprio padrão de resposta esperado, mostrando exatamente o que cada fração de pontuação exige. Limite de linhas: menos de 20 linhas anula a prova (mesmo boilerplate fixo do IADES, confirmado em múltiplos documentos)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta com enunciado completo (2 textos motivadores + tema + 3 tópicos) e conteúdo esperado detalhado por tópico, incluindo subdivisão fracionária de pontos dentro do Tópico A.",
+          "fonte": "https://www.iades.com.br/inscricao/upload/1366/20260524224913438.zip"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.iades.com.br/inscricao/upload/1366/20260524224913438.zip"
+  ],
+  "coletadoEm": "2026-07-18"
+}

@@ -1,0 +1,36 @@
+{
+  "concurso": "Prefeitura Municipal de Araraquara/SP — Concurso Público 002/2025",
+  "orgao": "Prefeitura Municipal de Araraquara/SP",
+  "cargo": "Analista de Procuradoria",
+  "dataProva": "2025-08-24",
+  "areaTema": "Conhecimentos jurídicos específicos do cargo — o tema literal aplicado no dia da prova não é público.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "1 de 2 questões discursivas, cada uma avaliada de 0 a 20 pontos, sobre conhecimentos jurídicos específicos do cargo (item 9.13). O enunciado literal aplicado no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Aspectos jurídicos a serem enfrentados de forma coesa e com argumentação condizente com a legislação aplicável (item 9.13.1.a)",
+            "pontuacao": 15
+          },
+          {
+            "descricao": "Domínio da modalidade escrita formal da língua portuguesa: concordância verbal e nominal, pontuação, regência, pronomes, flexão verbal e nominal, tempos/modos verbais, grafia e acentuação, progressão textual, articulação de frases e parágrafos (item 9.13.1.b)",
+            "pontuacao": 5
+          }
+        ],
+        "fonte": "Edital de Abertura, Concurso Público 002/2025 (Araraquara/SP/IBAM), itens 9.13 a 9.16. https://anexos.cdn.selecao.net.br/uploads/810/concursos/62/anexos/c7b1e069-cce6-436b-970a-4222251d57ba.pdf",
+        "observacoes": "Documento lido por mim pessoalmente, direto do PDF do edital. Soma exata 15+5=20 pontos por questão; 2 questões = 40 pontos totais. Aprovação mínima 50% (item 9.16). ACHADO IMPORTANTE: este edital é do MESMO concurso/prefeitura/data de prova do exame de Coordenador Pedagógico desta mesma base — mas usa apenas 2 critérios (Aspectos jurídicos + Português), sem a categoria 'Estrutura' separada que aparece no cargo pedagógico. Confirma que a distribuição de critérios do IBAM varia por cargo dentro do mesmo edital, não é um 'estilo da casa' fixo nem mesmo dentro da mesma operação regional (ibamsp-concursos.org.br)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://anexos.cdn.selecao.net.br/uploads/810/concursos/62/anexos/c7b1e069-cce6-436b-970a-4222251d57ba.pdf"
+  ],
+  "coletadoEm": "2026-07-19"
+}

@@ -1,0 +1,52 @@
+{
+  "concurso": "Prefeitura Municipal de Vitória/ES — Edital nº 01/2026 (retificado)",
+  "orgao": "Prefeitura Municipal de Vitória/ES",
+  "cargo": "Auditor de Atividades Urbanas",
+  "dataProva": "2026-04-26",
+  "areaTema": "Questão técnico-jurídica sobre os atributos do ato administrativo (autoexecutoriedade e presunção de legitimidade) no exercício do poder de polícia do Auditor de Atividades Urbanas.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Questão discursiva sobre os atributos do ato administrativo — autoexecutoriedade e presunção de legitimidade — no exercício do poder de polícia pelo Auditor de Atividades Urbanas (o enunciado completo, com o caso/situação hipotética que o acompanha, não foi obtido por esta pesquisa, só o tema técnico central confirmado no Padrão de Resposta oficial).",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Conhecimento e compreensão do conteúdo proposto (relevância e propriedade da resposta ao tema) — Aspecto Macroestrutural, avaliado por RUBRICA HOLÍSTICA de nível (Pleno/Satisfatório/Regular/Insuficiente/Nulo), não por desconto de pontos por erro",
+            "pontuacao": 4
+          },
+          {
+            "descricao": "Desenvolvimento da argumentação, objetividade e informatividade dentro do tema — Aspecto Macroestrutural, mesma rubrica por nível",
+            "pontuacao": 4
+          },
+          {
+            "descricao": "Coerência — Aspecto Macroestrutural, mesma rubrica por nível. Exemplo real de descrição de nível (Padrão de Resposta oficial): \"3,0 Pleno — As ideias estão distribuídas de forma lógica (...). 0,0 Nulo — O texto se contradiz ou as frases são desconexas.\"",
+            "pontuacao": 3
+          },
+          {
+            "descricao": "Estruturação sintática — Aspecto Microestrutural (split exato dos 9 pontos microestruturais entre os 3 subitens não foi confirmado por esta pesquisa)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Morfossintaxe — Aspecto Microestrutural (split exato não confirmado)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Desvios (acentuação, ortografia, pontuação) — Aspecto Microestrutural (split exato não confirmado)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "Edital nº 01/2026 (Prefeitura de Vitória/ES, Consulplan), item 5.2.5 (critérios), 5.2.6.1 (linhas), 5.2.9 (zeramento); Padrão de Resposta oficial com rubrica por nível. https://cdnsite.institutoconsulplan.org.br/concursos/1300/8caecdc5bf1c465cb43d51fe1911e30f.pdf",
+        "observacoes": "ACHADO IMPORTANTE: mesmos 6 critérios em 2 blocos do modelo Consulplan (ver SEE/MG), mas aqui os 3 aspectos MACROESTRUTURAIS não usam desconto por erro — são avaliados por uma RUBRICA HOLÍSTICA de 5 níveis (Pleno/Satisfatório/Regular/Insuficiente/Nulo, de 4,0/3,0/2,0/1,0/0,0), com descrição textual de cada nível no próprio Padrão de Resposta. Isso é uma variação estrutural real dentro da mesma banca — não assuma que todo edital Consulplan usa desconto por erro; alguns usam rubrica por nível. Total 20 pontos (macro 11 + micro 9). Limite de linhas: mínimo 20, máximo 30 (diferente do SEE/MG, que usa 15-30) — confirma, mais uma vez, que o limite não é fixo entre editais Consulplan. Zeramento: mesmo núcleo do SEE/MG (fuga ao tema, identificação, ilegível, linha mínima), redigido de forma mais compacta no edital."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdnsite.institutoconsulplan.org.br/concursos/1300/8caecdc5bf1c465cb43d51fe1911e30f.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}

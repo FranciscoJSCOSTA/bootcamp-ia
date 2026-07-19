@@ -1,0 +1,65 @@
+{
+  "concurso": "SES/GO (Secretaria de Estado da Saúde de Goiás, via SEAD/GO) — Edital nº 1/2026 SEAD/SES-GO",
+  "orgao": "Secretaria de Estado da Saúde de Goiás",
+  "cargo": "Fiscal de Saúde Pública (categorias 101 a 105)",
+  "dataProva": "2026-05-10",
+  "areaTema": "A atuação do fiscal de saúde pública na identificação, avaliação e controle de riscos sanitários.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Texto 1: \"A vigilância sanitária constitui um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde. Sua atuação exige análise técnica, tomada de decisão baseada em risco e aplicação proporcional de medidas administrativas.\" (BRASIL. Ministério da Saúde. Política Nacional de Vigilância em Saúde. Brasília, 2018.)\nTexto 2: \"A atuação do fiscal de saúde pública deve considerar não apenas a identificação de inconformidades, mas também a análise do risco sanitário envolvido, o histórico do estabelecimento e a capacidade de adequação, de forma a garantir decisões proporcionais, eficazes e orientadas à proteção da saúde coletiva.\" (BRASIL. ANVISA. Gestão do risco sanitário: fundamentos e aplicação. Brasília, 2021.)\nConsiderando que os textos apresentados têm caráter apenas motivador, redija um texto dissertativo-argumentativo acerca do tema \"A atuação do fiscal de saúde pública na identificação, avaliação e controle de riscos sanitários\". Aborde, necessariamente, os seguintes tópicos: i. o papel da vigilância sanitária na identificação de riscos em estabelecimentos e serviços de saúde [4,5 pontos]; ii. a importância da análise de risco para a tomada de decisão e definição de medidas sanitárias proporcionais [6,0 pontos]; e iii. a utilização de instrumentos administrativos (como medidas cautelares, termo de compromisso e penalidades) no controle dos riscos identificados [4,5 pontos].",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Texto (TX) — atendimento ao tipo textual, respeito às margens, paragrafação, legibilidade. Faixas: 0,00 (não atendimento); 0,00-1,50 (atendimento com falhas de margem/parágrafo/grafia); 1,50-3,00 (atendimento pleno). Parâmetro Linguístico. (item 1.a)",
+            "pontuacao": 3
+          },
+          {
+            "descricao": "Tema (TM) — abordagem do assunto proposto considerando todos os tópicos. Faixas: 0,00 (fuga ao tema); 0,00-1,50 (tangência, menciona 1-3 tópicos sem relacioná-los bem); 1,50-3,00 (menciona os 3 tópicos, bem fundamentado). Parâmetro Linguístico. (item 1.b)",
+            "pontuacao": 3
+          },
+          {
+            "descricao": "Coerência (CR) — fluência, clareza, relação lógica entre ideias. Faixas: 0,00 (sem lógica/contraditório); 0,00-1,50 (falhas de estruturação); 1,50-3,00 (uniformidade, argumentos consistentes). Parâmetro Linguístico. (item 1.c)",
+            "pontuacao": 3
+          },
+          {
+            "descricao": "Coesão (CS) — emprego harmônico de elementos coesivos. Faixas: 0,00 (sem harmonia/mecanismos); 0,00-1,50 (estrutura mediana, 1 elemento coesivo intraparágrafo); 1,50-3,00 (encadeamento adequado, elementos inter/intraparágrafos). Parâmetro Linguístico. (item 1.d)",
+            "pontuacao": 3
+          },
+          {
+            "descricao": "Erros (ER) — conhecimento morfossintático/semântico, calculado pela FÓRMULA \"ER = 3,00 − ((NE/TL) × 2)\", onde NE = número de erros e TL = total de linhas efetivamente escritas. Pontuação 0,00 se ER < 0. Parâmetro Linguístico. (item 1.e)",
+            "pontuacao": 3
+          },
+          {
+            "descricao": "Tópico i — \"o papel da vigilância sanitária na identificação de riscos em estabelecimentos e serviços de saúde\": esperado mencionar identificação de riscos relacionados à estrutura física, processos de trabalho e produtos/serviços; que isso ocorre por meio de inspeções sanitárias, análise documental e observação de práticas; e o caráter preventivo/protetivo da vigilância sanitária. Parâmetro Técnico (Argumentação/AR).",
+            "pontuacao": 4.5
+          },
+          {
+            "descricao": "Tópico ii — \"a importância da análise de risco para a tomada de decisão e definição de medidas sanitárias proporcionais\": esperado explicar que a decisão do fiscal não se baseia só na inconformidade, mas na análise do risco (gravidade, probabilidade, impacto à saúde coletiva), destacando o princípio da proporcionalidade e a necessidade de decisões técnicas fundamentadas. Parâmetro Técnico (AR).",
+            "pontuacao": 6
+          },
+          {
+            "descricao": "Tópico iii — \"a utilização de instrumentos administrativos no controle dos riscos identificados\": esperado descrever os principais instrumentos usados pelo fiscal, como medidas cautelares (ex: interdição) e termo de compromisso. Parâmetro Técnico (AR).",
+            "pontuacao": 4.5
+          }
+        ],
+        "fonte": "Padrão de Resposta e Parâmetros de Correção, Concurso Público SEAD/SES-GO, Edital nº 1/2026, cargo Fiscal de Saúde Pública. https://www.iades.com.br/inscricao/upload/1368/20260616152352886.pdf",
+        "observacoes": "Documento excepcionalmente completo, lido por mim pessoalmente linha a linha (baixado e extraído com pdftotext) — enunciado literal completo (com os 2 textos motivadores), padrão de resposta esperado detalhado por tópico, E a fórmula exata de correção. Estrutura: 'Parâmetros Linguísticos' (5 subitens: Texto/Tema/Coerência/Coesão/Erros, 3,00 cada = 15,00) + 'Parâmetros Técnicos' (Argumentação = soma dos tópicos do enunciado = 15,00). Total 30 pontos. A fórmula do ER foi CONFERIDA contra uma nota real de candidato no resultado definitivo (NE=4, TL=39 → ER=3,00-((4/39)×2)=2,79, batendo exatamente com o valor publicado) — por isso a soma nominal de um candidato real raramente fecha em número redondo, mesmo o teto teórico sendo limpo. Limite de linhas: menos de 20 linhas anula a prova (fixo, boilerplate confirmado em 6 documentos IADES de 2024 a 2026 — diferente das outras 3 bancas com linha mínima, aqui o número não varia por edital). Zeramento/anulação: assinatura/rubrica na folha, identificação indevida, texto não começar na linha 1 da folha, fuga ao tema, menos de 20 linhas."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta com o enunciado completo (2 textos motivadores + tema + 3 tópicos obrigatórios com pontuação) e o conteúdo esperado detalhado para cada tópico técnico, incluindo a fórmula exata de correção dos parâmetros linguísticos.",
+          "fonte": "https://www.iades.com.br/inscricao/upload/1368/20260616152352886.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.iades.com.br/inscricao/upload/1368/20260616152352886.pdf",
+    "https://www.iades.com.br/inscricao/upload/1368/20260626163423751.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}

@@ -1,0 +1,41 @@
+{
+  "concurso": "DEGASE-RJ (Departamento Geral de Ações Socioeducativas do Estado do Rio de Janeiro) — Edital nº 01/2025",
+  "orgao": "Departamento Geral de Ações Socioeducativas do Estado do Rio de Janeiro",
+  "cargo": "Bibliotecário",
+  "dataProva": "2025-10-11",
+  "areaTema": "Redação dissertativo-argumentativa — dois temas propostos, candidato escolhe 1 (item 14.2.1). Um dos temas: \"A superexposição de crianças e adolescentes nas redes sociais no Brasil\".",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "PROPOSTA II (uma das duas opções oferecidas — a outra, PROPOSTA I, não foi localizada por esta pesquisa): \"Portanto, diante da discussão apresentada, leia os textos motivadores a seguir para redigir um texto dissertativo-argumentativo, em no mínimo, 20 e, no máximo, 30 linhas, em modalidade escrita formal da língua portuguesa sobre o tema 'A superexposição de crianças e adolescentes nas redes sociais no Brasil', apresentando proposta de intervenção que respeite os direitos humanos.\" (os textos motivadores citados no enunciado não foram capturados por esta pesquisa, só a instrução final)",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "FORMAL (15,0 pontos, 6 subitens de 2,5 cada, desconto de 0,25 por erro em cada um): domínio da norma culta da língua; pontuação, acentuação e ortografia; concordância verbal e nominal; regência verbal e nominal; colocação pronominal; estrutura sintática de orações e períodos, elementos coesivos. (item 14.2.4)",
+            "pontuacao": 15
+          },
+          {
+            "descricao": "TEXTUAL (7,5 pontos, 5 subitens de 1,5 cada): respeito à estrutura da tipologia textual solicitada; sequência lógica e de organização do pensamento (introdução, desenvolvimento e conclusão); uso adequado de conectivos e elementos anafóricos; observância da estrutura sintático-semântica dos períodos; coerência e coesão. (item 14.2.4)",
+            "pontuacao": 7.5
+          },
+          {
+            "descricao": "TÉCNICO (7,5 pontos, 5 subitens de 1,5 cada): compreensão da proposta; habilidade argumentativa (atualização, originalidade e relevância das informações); progressão temática; conhecimento do tema (cobertura dos tópicos, domínio e interrelação entre os conceitos centrais); capacidade de análise e senso crítico em relação ao tema proposto. (item 14.2.4)",
+            "pontuacao": 7.5
+          }
+        ],
+        "fonte": "Edital de Abertura nº 01/2025 (DEGASE-RJ/IDECAN), itens 14.2.1 a 14.2.4. https://cdn.direcaoconcursos.com.br/uploads/2025/08/Edital-Degase-RJ-2025.pdf | Prova real aplicada: https://arquivos.qconcursos.com/prova/arquivo_prova/143462/idecan-2025-degase-bibliotecario-prova.pdf",
+        "observacoes": "Estrutura de pontuação e enunciado literal verificados por mim diretamente nos PDFs (baixados e extraídos com pdftotext). Total 30 pontos; aprovação com 15+ (item 14.2.3). ACHADO IMPORTANTE — discrepância real não resolvida: o item 14.2.2 do edital estabelece limite de linhas de 30 (mín.) a 40 (máx.) PARA CARGOS DE NÍVEL SUPERIOR (Bibliotecário é nível superior), mas o enunciado real aplicado no dia da prova pede 20 (mín.) a 30 (máx.) — o limite de nível MÉDIO do mesmo edital. Não encontrei retificação que explique essa mudança; pode ser erro de diagramação do caderno de prova. Reporto como fato observado, não resolvido — ao usar esta referência, considere que o limite de linhas real usado no dia pode divergir do declarado no edital geral. Também note que este enunciado EXIGE proposta de intervenção (diferente da VUNESP, que dispensa explicitamente) — mas isso vem da instrução específica deste tema, não necessariamente uma regra fixa de toda prova IDECAN; siga o que o enunciado da questão em mãos disser. NÃO temos o padrão de resposta (chave de correção) preenchido — o item 14.2.13 promete disponibilizá-lo em www.idecan.org.br, mas não localizei uma versão acessível pra este concurso específico."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.direcaoconcursos.com.br/uploads/2025/08/Edital-Degase-RJ-2025.pdf",
+    "https://arquivos.qconcursos.com/prova/arquivo_prova/143462/idecan-2025-degase-bibliotecario-prova.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}

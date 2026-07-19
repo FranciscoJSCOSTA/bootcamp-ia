@@ -1,0 +1,41 @@
+{
+  "concurso": "Conselho Regional de Odontologia do Maranhão (CRO-MA) — Concurso Público nº 013/2025",
+  "orgao": "Conselho Regional de Odontologia do Maranhão",
+  "cargo": "Advogado",
+  "dataProva": "2026-03-15",
+  "areaTema": "Redação dissertativa sobre tema jurídico (área de Direito) — o tema literal aplicado no dia da prova não é público.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A Prova Discursiva/Redação consistirá na redação de um texto dissertativo, de no mínimo 20 e no máximo 30 linhas, sobre tema a ser enunciado no caderno de questões (item 11.1.1 e 11.2 do edital). O tema literal aplicado no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Aspecto Formal — domínio da norma culta da língua, no seu registro formal; pontuação, ortografia, concordância, regência, uso adequado de pronomes, emprego de tempos e modos verbais (item 11.3.1, Tabela)",
+            "pontuacao": 6
+          },
+          {
+            "descricao": "Aspecto Textual — respeito à estrutura da tipologia textual solicitada, paragrafação; uso adequado de conectivos e elementos anafóricos, observância da estrutura sintático-semântica dos períodos (item 11.3.1, Tabela)",
+            "pontuacao": 6
+          },
+          {
+            "descricao": "Aspecto Técnico — atendimento à proposta temática, seleção e organização de argumentos consistentes que fundamentem a tese, progressão temática coerente, propriedade vocabular, clareza, apropriação produtiva e autoral do recorte temático (item 11.3.1, Tabela)",
+            "pontuacao": 8
+          }
+        ],
+        "fonte": "Edital de Abertura, Concurso Público nº 013/2025 (CRO-MA/IBADE), itens 11.1, 11.1.1, 11.2, 11.2.1, 11.3.1. https://s3.sa-east-1.amazonaws.com/cdn-ibade.selecao.site/edital/1/118/72fff82aa507aaeb97cb4edb679d4863.pdf",
+        "observacoes": "Documento lido por mim pessoalmente, direto do PDF do edital (baixado via curl, extraído com pdftotext). Tabela de critérios verificada linha a linha: 6+6+8=20,00 pontos, batendo com a escala declarada. Limite de linhas: mínimo 20, máximo 30 — diferente do limite do Castelo/ES (30-50, formato peça processual), confirmando que o limite varia por formato/edital dentro da própria IBADE. Zeramento (itens 11.1.3, 11.2.1): identificação indevida no espaço de transcrição; não atender à proposta da prova (tema ou estrutura); texto absolutamente ilegível. A IBADE aqui NÃO publicou uma 'chave de correção' separada como fez em Castelo/ES — os critérios estão só no próprio edital, e os resultados saíram como 'Resultado Preliminar/Final da Prova Discursiva/Redação' (só notas, sem conteúdo esperado detalhado por tema)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://s3.sa-east-1.amazonaws.com/cdn-ibade.selecao.site/edital/1/118/72fff82aa507aaeb97cb4edb679d4863.pdf",
+    "https://portal.ibade.selecao.site/edital/ver/118"
+  ],
+  "coletadoEm": "2026-07-19"
+}

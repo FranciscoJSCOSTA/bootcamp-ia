@@ -1,0 +1,45 @@
+{
+  "concurso": "Prefeitura Municipal de Jequié/BA — Concurso Público, Edital nº 02/2025 (Secretaria de Educação)",
+  "orgao": "Prefeitura Municipal de Jequié/BA — Secretaria de Educação",
+  "cargo": "Professor Licenciado em Pedagogia (Educação Infantil e Ensino Fundamental — Anos Iniciais)",
+  "dataProva": "2026-01-18",
+  "areaTema": "Combate à violência nas escolas brasileiras, com proposta de intervenção (formato ENEM).",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Texto I — reportagem real sobre violência em ambiente escolar (relato de um professor do DF, dados do Disque 100 sobre aumento de denúncias em 2024, definição de violência escolar pela UNESCO). Texto II — referência à campanha \"#NãoSouUmAlvo\" contra violência nas escolas. PROPOSTA DE REDAÇÃO: \"A partir da leitura dos textos motivadores e com base nos conhecimentos construídos ao longo de sua formação, redija um texto dissertativo-argumentativo em modalidade escrita formal da língua portuguesa sobre o tema 'Caminhos para o combate à violência nas escolas brasileiras', apresentando proposta de intervenção que respeite os direitos humanos. Selecione, organize e relacione, de forma coerente e coesa, argumentos e fatos para defesa de seu ponto de vista em no mínimo, 15 e, no máximo, 25 linhas, sem contar o título.\"",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "FORMAL (15,0 pontos, 6 subitens de 2,5 cada, desconto de 0,25 por erro em cada um): domínio da norma culta da língua; pontuação, acentuação e ortografia; concordância verbal e nominal; regência verbal e nominal; colocação pronominal; estrutura sintática de orações e períodos, elementos coesivos (item 10.5, tabela)",
+            "pontuacao": 15
+          },
+          {
+            "descricao": "TEXTUAL (7,5 pontos, 5 subitens de 1,5 cada): respeito à estrutura da tipologia textual solicitada; sequência lógica e organização do pensamento (introdução/desenvolvimento/conclusão); uso adequado de conectivos e elementos anafóricos; observância da estrutura sintático-semântica dos períodos; coerência e coesão (item 10.5, tabela)",
+            "pontuacao": 7.5
+          },
+          {
+            "descricao": "TÉCNICO (7,5 pontos, 5 subitens de 1,5 cada): compreensão da proposta; habilidade argumentativa (atualização, originalidade e relevância das informações); progressão temática; conhecimento do tema (cobertura dos tópicos, domínio e inter-relação entre os conceitos centrais); capacidade de análise e senso crítico em relação ao tema proposto (item 10.5, tabela)",
+            "pontuacao": 7.5
+          }
+        ],
+        "fonte": "Edital de Abertura, Concurso Público Edital nº 02/2025 (Jequié/BA/IDIB), itens 10.1 a 10.7 (Tabela de critérios). https://www.jequie.ba.gov.br/storage/upload/1762009261-W2TPIC0E7CUB6C8B1EHN2FF6UEKL51KCU9WAGLUVI3OOI24U0PY5V88YV46SLGSWE1N5R0L21D5F0IXR7976.pdf | Prova real aplicada: https://arquivos.qconcursos.com/prova/arquivo_prova/146147/idib-2026-prefeitura-de-jequie-ba-professor-licenciado-em-pedagogia-para-atuar-na-educacao-infantil-e-ensino-fundamental-anos-iniciais-prova.pdf",
+        "observacoes": "Enunciado literal completo e tabela de critérios verificados por mim pessoalmente, direto dos PDFs (edital + caderno de prova real aplicado, baixados e extraídos com pdftotext). Total 30 pontos; aprovação com 50% (item 10.6). Limite de linhas: mínimo 15, máximo 25 (item 10.2). ACHADO NOTÁVEL: esta tabela de critérios é literalmente idêntica, subitem por subitem (mesmos nomes, mesmos valores, mesmo desconto de 0,25/erro), ao modelo já confirmado para a banca IDECAN neste projeto (ver lib/corretor/calibration/idecan/) — sugere infraestrutura/template compartilhado entre bancas, não uma coincidência de conteúdo. Trate como um template real e confirmado do IDIB em 2025-2026, mas ciente de que a fórmula usada por essa mesma banca em 2023 (IDAF-ES: ND = DC - 2×(NE/TL), com pesos de erro diferentes) NÃO é mais o modelo atual — o IDIB mudou de modelo entre 2023/2024 e 2025/2026. Confirmamos ainda outros 2 editais de 2025-2026 (Goianinha/RN, Sena Madureira/AC) com a MESMA estrutura 15/7,5/7,5, mas um edital futuro (Araguaína/TO, ainda não aplicado) usa pesos diferentes (10/10/10) — a distribuição de pontos pode variar por edital mesmo dentro do modelo atual."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": {
+          "disponivel": false,
+          "conteudo": "Existe um documento pós-prova ('Padrão de Resposta - Chave de Correção') publicado pelo IDIB, mas ao renderizar suas páginas (a tabela é imagem, não texto) confirmamos que ele só repete a tabela genérica de critérios já presente no edital — não detalha o que conta como 'conteúdo pleno' para o tema específico da redação.",
+          "fonte": ""
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.jequie.ba.gov.br/storage/upload/1762009261-W2TPIC0E7CUB6C8B1EHN2FF6UEKL51KCU9WAGLUVI3OOI24U0PY5V88YV46SLGSWE1N5R0L21D5F0IXR7976.pdf",
+    "https://arquivos.qconcursos.com/prova/arquivo_prova/146147/idib-2026-prefeitura-de-jequie-ba-professor-licenciado-em-pedagogia-para-atuar-na-educacao-infantil-e-ensino-fundamental-anos-iniciais-prova.pdf"
+  ],
+  "coletadoEm": "2026-07-19"
+}

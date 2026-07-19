@@ -1,0 +1,52 @@
+{
+  "concurso": "Secretaria de Estado de Educação de Minas Gerais (SEE/MG) — Edital SEPLAG/SEE nº 01/2025",
+  "orgao": "Secretaria de Estado de Educação de Minas Gerais",
+  "cargo": "Professor de Educação Básica (PEB)",
+  "dataProva": "2025-09-28",
+  "areaTema": "Redação dissertativo-argumentativa — tema \"Inteligência artificial na educação: avanços, desafios e limites\" (o edital indica que o enunciado completo trazia 6 aspectos temáticos e fontes bibliográficas de apoio, mas o texto literal completo do enunciado — incluindo textos motivadores — não foi capturado por esta pesquisa, só o título do tema).",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Redija um texto dissertativo-argumentativo sobre o tema \"Inteligência artificial na educação: avanços, desafios e limites\" (título do tema confirmado no Padrão de Resposta oficial; o enunciado completo, com textos motivadores e os 6 aspectos temáticos citados no documento, não foi obtido por esta pesquisa).",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Conhecimento e compreensão do conteúdo proposto (relevância e propriedade de resposta à temática e ao tipo de gênero textual solicitado) — Aspecto Macroestrutural, desconto de 1,00 ponto por erro (item 8.9.5)",
+            "pontuacao": 4
+          },
+          {
+            "descricao": "Desenvolvimento da argumentação, objetividade e informatividade dentro do tema proposto (organização considerando introdução, desenvolvimento e conclusão) — Aspecto Macroestrutural, desconto de 1,00 por erro (item 8.9.5)",
+            "pontuacao": 4
+          },
+          {
+            "descricao": "Coerência (relação lógica entre as ideias, distribuição entre as partes do texto, progressão textual) — Aspecto Macroestrutural, desconto de 0,50 por erro (item 8.9.5)",
+            "pontuacao": 4
+          },
+          {
+            "descricao": "Estruturação sintática (truncamentos de períodos, justaposição de orações, excesso/ausência/duplicação de elementos sintáticos) — Aspecto Microestrutural, desconto de 0,25 por erro (item 8.9.5)",
+            "pontuacao": 1
+          },
+          {
+            "descricao": "Morfossintaxe (colocação pronominal, concordância verbal e nominal, conectores, regência, seleção vocabular, tempos e modos verbais) — Aspecto Microestrutural, desconto de 0,25 por erro (item 8.9.5)",
+            "pontuacao": 3
+          },
+          {
+            "descricao": "Desvios: acentuação, ortografia, translineação, uso de maiúsculas/minúsculas, pontuação — Aspecto Microestrutural, desconto de 0,25 por erro (item 8.9.5)",
+            "pontuacao": 4
+          }
+        ],
+        "fonte": "Edital SEPLAG/SEE nº 01/2025 (SEE-MG/Consulplan), item 8.9.5 (tabela de critérios), 8.9.11 (linhas), 8.9.15 (zeramento). https://cdnsite.consulplan.net/concursos/1769/10_1888020.pdf",
+        "observacoes": "Tabela de critérios verificada por mim pessoalmente, direto do PDF do edital (baixado e extraído com pdftotext). Modelo de DESCONTO POR ERRO (não faixa qualitativa): cada aspecto começa no valor máximo e perde pontos por ocorrência de erro, na proporção indicada. Total 20 pontos (macro 12 + micro 8); aprovação mínima não confirmada nesta leitura. Limite de linhas: mínimo 15, máximo 30 (item 8.9.11) — mas isso NÃO é fixo entre editais Consulplan (outros editais da banca usam 20-30, ou faixas diferentes para peça jurídica). Zeramento (item 8.9.15, confirmado): fuga ao tema/tipo de texto, identificação indevida, texto em branco, texto não articulado verbalmente, língua estrangeira, letra ilegível, fora do espaço reservado, 14 linhas ou menos, cópia integral dos textos motivadores, formas propositais de anulação (impropérios, trechos jocosos). NÃO temos o padrão de resposta com o conteúdo temático esperado (o documento de 'Padrão de Respostas' consultado trazia só uma nota introdutória, não o detalhamento do que se espera em cada aspecto para este tema específico)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdnsite.consulplan.net/concursos/1769/10_1888020.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}

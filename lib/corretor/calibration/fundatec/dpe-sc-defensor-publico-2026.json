@@ -1,0 +1,55 @@
+{
+  "concurso": "Defensoria Pública de Santa Catarina (DPE/SC) — Concurso Público nº 01/2026",
+  "orgao": "Defensoria Pública do Estado de Santa Catarina",
+  "cargo": "Defensor Público Substituto",
+  "dataProva": "2026-05-30",
+  "areaTema": "Peça processual e questões discursivas técnico-jurídicas, conforme conteúdo programático do Grupo C do edital — o tema/enunciado literal aplicado no dia da prova não é público.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "1 (uma) Peça Processual, com no mínimo 30 e no máximo 120 linhas, sobre problema envolvendo o conteúdo programático do Grupo C do edital (item 8.5). O enunciado literal (o caso concreto) aplicado no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Adequação ao problema apresentado, domínio do raciocínio jurídico, fundamentação e sua consistência, capacidade de interpretação e exposição, técnica profissional demonstrada (item 8.5.3) — \"a mera transcrição de dispositivos legais, desprovida de justificativa da resposta e de desenvolvimento do raciocínio jurídico, não ensejará pontuação\" (mesmo item)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Uso correto do padrão culto da Língua Portuguesa, considerando os mecanismos básicos de constituição da língua e os procedimentos de coesão e argumentação (item 8.5.3.1 e 8.5.10)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "Edital de Abertura, Concurso Público nº 01/2026 (DPE/SC/FUNDATEC), itens 8.5, 8.5.1 a 8.5.10, 8.10. https://concursos-publicacoes.s3.amazonaws.com/1070/publico/1070-EditaldeAbertura_versAofinal2_698e3c50339c6.pdf",
+        "observacoes": "Documento lido por mim pessoalmente, direto do PDF do edital (baixado e extraído com pdftotext). IMPORTANTE — este é o único critério que consegui confirmar dentro da janela de 12 meses: o edital descreve os aspectos avaliados de forma QUALITATIVA (não há tabela de pontos fixa publicada aqui — por isso 'pontuacao' fica null nos dois itens). O documento de 'padrão de resposta da prova' com a pontuação real por quesito existe (citado no item 8.5.7: 'peça que não esteja exclusivamente em conformidade com a solução técnica indicada no padrão de resposta da prova'), mas não é público — só vi fragmentos dele reproduzidos em julgamentos de recursos (ex: um subitem valendo '4 Pontos', outro '2 Pontos'), não a tabela completa de uma questão. NÃO force uma distribuição numérica a partir disso — trate como estrutura qualitativa até surgir um documento com a pontuação completa. Um concurso de 2022 da mesma banca (PGE/RS, Analista Jurídico) tem um padrão de resposta completo e com pontuação exata por quesito, mas ficou fora da janela de 12 meses — pode servir de referência de como a FUNDATEC estrutura esse tipo de questão quando o documento é público (quesitos com escala 'abordou plenamente/parcialmente/não abordou', pontuação variável por quesito)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "4 (quatro) Questões Discursivas, cada uma com no mínimo 15 e no máximo 30 linhas, sobre conteúdo programático do Grupo C do edital (item 8.5). Os enunciados literais aplicados no dia da prova não são públicos.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Mesmos critérios da Peça Processual (adequação ao problema, raciocínio jurídico, fundamentação, técnica profissional) aplicados a cada questão individualmente (item 8.5.3, 8.5.6)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "Edital de Abertura, Concurso Público nº 01/2026 (DPE/SC/FUNDATEC), item 8.5.",
+        "observacoes": "Mesma ressalva da Peça Processual: critério qualitativo confirmado, sem tabela de pontos pública para uma questão específica dentro da janela de 12 meses."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://concursos-publicacoes.s3.amazonaws.com/1070/publico/1070-EditaldeAbertura_versAofinal2_698e3c50339c6.pdf"
+  ],
+  "coletadoEm": "2026-07-19"
+}

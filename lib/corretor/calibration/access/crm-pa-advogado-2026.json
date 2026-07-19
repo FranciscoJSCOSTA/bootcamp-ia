@@ -1,0 +1,44 @@
+{
+  "concurso": "Conselho Regional de Medicina do Estado do Pará (CRM-PA) — Concurso Público, Edital nº 01/2025",
+  "orgao": "Conselho Regional de Medicina do Estado do Pará",
+  "cargo": "Advogado, Analista de Tecnologia da Informação, Analista de Licitação, Controle Interno, Contador, Médico Fiscal",
+  "dataProva": "2026-03-08",
+  "areaTema": "A atuação de conselhos profissionais como entidades de função pública delegada: transparência, prestação de contas, responsabilidade administrativa e mecanismos de controle.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Redação dissertativo-argumentativa sobre a atuação dos conselhos profissionais como entidades que exercem função pública delegada — abordando transparência e prestação de contas, responsabilidade administrativa, e mecanismos de controle (turno da tarde, cargos de nível superior). O enunciado literal completo com o(s) texto(s) motivador(es) não foi obtido; o que se confirma é o conteúdo da resposta-padrão oficial.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Aspecto Formal — domínio da norma culta da língua, no seu registro formal; pontuação, ortografia, concordância, regência, uso adequado de pronomes, emprego de tempos e modos verbais (item 12.11 do edital)",
+            "pontuacao": 15
+          },
+          {
+            "descricao": "Aspecto Textual — respeito à estrutura da tipologia textual solicitada, paragrafação; uso adequado de conectivos e elementos anafóricos, observância da estrutura sintático-semântica dos períodos (item 12.11)",
+            "pontuacao": 15
+          },
+          {
+            "descricao": "Aspecto Técnico — atendimento à proposta temática, seleção e organização de argumentos consistentes, progressão temática coerente, propriedade vocabular, clareza, apropriação produtiva e autoral do recorte temático (item 12.11). Resposta-padrão esperada: Introdução (conselhos profissionais como entidades de função pública delegada, atuação além da fiscalização, exigência social por transparência); bloco \"Transparência e Prestação de Contas\" (publicidade dos atos, prestação de contas, clareza nas decisões, transparência como instrumento de confiança social); bloco \"Responsabilidade Administrativa\" (dever de atuação conforme a lei, responsabilidade na gestão de recursos, decisões fundamentadas, princípios do art. 37 da CF); bloco \"Mecanismos de Controle\" (controle interno, fiscalização administrativa, prevenção de irregularidades, mitigação de riscos, responsabilização por desvios); Conclusão (transparência+responsabilidade+controle fortalecem a credibilidade institucional e a legitimidade social).",
+            "pontuacao": 20
+          }
+        ],
+        "fonte": "Edital consolidado, Concurso Público CRM-PA, Edital nº 01/2025 de 18/12/2025, item 12.11 (critérios), 12.12, 12.13 (aprovação). Resposta-Padrão da Redação (turno da tarde): documento assinado pelo Instituto ACCESS, Belém/PA, 09/03/2026.",
+        "observacoes": "Documentos lidos por mim pessoalmente, direto dos PDFs (baixados via curl, extraídos com pdftotext). Soma exata: 15+15+20=50,00 pontos, batendo com a escala declarada no edital ('50,0 pontos'). Aprovação: mínimo 50% (25 pontos), item 12.13. Zeramento (item 12.12): texto fora do espaço reservado, ou que ultrapasse a extensão máxima. A resposta-padrão cita fontes normativas reais (CF/88 art. 37; Lei 12.527/2011 - Lei de Acesso à Informação; Lei 9.784/1999; LC 101/2000 - Lei de Responsabilidade Fiscal; Lei 12.846/2013 - Lei Anticorrupção) — conteúdo temático genuíno, não inferido. Existe também uma resposta-padrão separada para os cargos de nível médio (turno da manhã), não incluída aqui por ser de outro nível de escolaridade."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Resposta-padrão da redação com estrutura esperada completa (Introdução + 3 blocos temáticos + Conclusão) e fontes normativas citadas, aplicável aos cargos de nível superior do turno da tarde.",
+          "fonte": "Resposta-Padrão da Redação, CRM-PA, Belém/PA, 09/03/2026 (documento oficial do Instituto ACCESS)."
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://concursos.access.org.br/informacoes/167/"
+  ],
+  "coletadoEm": "2026-07-19"
+}

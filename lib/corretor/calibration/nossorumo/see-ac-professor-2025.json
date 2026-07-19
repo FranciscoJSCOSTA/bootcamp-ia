@@ -1,0 +1,40 @@
+{
+  "concurso": "Secretaria de Estado de Educação e Cultura do Acre (SEE-AC) — Edital nº 001/SEAD/SEE",
+  "orgao": "Secretaria de Estado de Educação e Cultura do Acre",
+  "cargo": "Professor P1 / Professor P2 (várias disciplinas/especialidades)",
+  "dataProva": "2025-04-13",
+  "areaTema": "Estudo de caso da área de Educação — o tema literal aplicado no dia da prova não é público.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "1 (uma) questão de estudo de caso, avaliada na escala de 0 a 10 pontos (item 9.5.1). O enunciado literal aplicado no dia da prova não é público; a extensão mínima/máxima é definida no Caderno de Questões (item 9.6.1), não no edital geral.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Norma-Padrão — domínio da norma-padrão da Língua Portuguesa: ortografia, acentuação, pontuação, regências verbal e nominal, concordâncias verbal e nominal; vícios de linguagem também são considerados (item 9.9)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Coesão e Coerência — seleção e organização de argumentos, articulação das partes do texto, uso adequado de recursos coesivos, parágrafos organizados, clareza e organicidade (item 9.9)",
+            "pontuacao": 2
+          },
+          {
+            "descricao": "Técnica — proposta de intervenção bem articulada à argumentação desenvolvida, domínio total em relação ao tema proposto e ao estudo de caso (item 9.9)",
+            "pontuacao": 6
+          }
+        ],
+        "fonte": "Edital nº 001/SEAD/SEE (SEE-AC/Instituto Nosso Rumo), consolidado até Retificação nº 012 (14/03/2025), itens 9.5.1 a 9.9. https://arquivos.qconcursos.com/regulamento/arquivo/80885/see_ac_2024_edital_n_1_sead-edital.pdf",
+        "observacoes": "Tabela verificada por mim pessoalmente, direto do PDF do edital (baixado e extraído com pdftotext). Soma exata 2+2+6=10 pontos; aprovação com nota ≥5 (item 9.5.3). O objetivo geral descrito para esta prova ('domínio do conhecimento teórico-prático, uso adequado da linguagem, articulação do raciocínio, capacidade de argumentação teórico-metodológica e uso correto do vernáculo') é texto IDÊNTICO ao usado no edital do CREMESP (outro cliente da mesma banca, de 2022, mantido só como referência histórica nesta base — ver README) — confirma que é um template padrão do Instituto Nosso Rumo reaproveitado entre clientes, mesmo com escalas de pontos completamente diferentes (10 pontos aqui vs. 100 no CREMESP). NÃO há limite de linhas fixo no edital — o item 9.6.1 delega a extensão mínima/máxima ao Caderno de Questões (documento específico da prova aplicada, não publicado nesta fonte)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://arquivos.qconcursos.com/regulamento/arquivo/80885/see_ac_2024_edital_n_1_sead-edital.pdf"
+  ],
+  "coletadoEm": "2026-07-19"
+}

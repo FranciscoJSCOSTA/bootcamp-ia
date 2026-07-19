@@ -1,0 +1,75 @@
+{
+  "concurso": "Prefeitura Municipal de Itaitinga/CE — Edital nº 002/2025 (Procurador Jurídico)",
+  "orgao": "Prefeitura Municipal de Itaitinga/CE",
+  "cargo": "Procurador Jurídico",
+  "dataProva": "2025-07-27",
+  "areaTema": "Peça profissional e questões discursivas sobre situações-problema jurídicas.",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Redação de peça profissional cabível, com no mínimo 45 e no máximo 60 linhas, a respeito de situação-problema jurídica (item 11.10). O caso concreto aplicado no dia da prova não é público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Argumentação e informatividade dentro do tema proposto (AI) — originalidade, suficiência, correção, relevância e propriedade das informações. Faixas: 0-05 Ruim / 06-10 Regular / 11-15 Bom / 16-20 Muito Bom (item 11.15, Quadro Avaliativo para a Peça)",
+            "pontuacao": 20
+          },
+          {
+            "descricao": "Coesão e Coerência (CC) — organização adequada de parágrafos, continuidade e progressão de ideias, uso apropriado de articuladores. Faixas: 01 Ruim / 02 Regular / 03-04 Bom / 05 Muito Bom",
+            "pontuacao": 5
+          },
+          {
+            "descricao": "Morfossintaxe (M) — emprego e colocação de pronomes, concordância e regência verbal/nominal, estruturação dos períodos, tempos e modos verbais. Desconto de 0,5 ponto por erro",
+            "pontuacao": 2.5
+          },
+          {
+            "descricao": "Pontuação, acentuação e ortografia (PO) — rasura, translineação, emprego de maiúscula/minúscula, separação silábica. Desconto de 0,5 ponto por erro",
+            "pontuacao": 2.5
+          }
+        ],
+        "fonte": "Edital de Abertura nº 002/2025 (Itaitinga/CE/Consulpam), itens 11.1 a 11.22 (Quadro Avaliativo para a Peça). https://www.consulpam.com.br/arquivos/20250527_172640_EDITAL%20002.%202025%20PREFEITURA%20MUNICIPAL%20DE%20ITATINGA-PROCURADOR_27.05.2025.pdf",
+        "observacoes": "Documento lido por mim pessoalmente, direto do PDF (baixado e extraído com pdftotext). Soma exata: 20+5+2.5+2.5=30 pontos. ACHADO IMPORTANTE: este é um modelo estruturalmente DIFERENTE do modelo genérico da Consulpam (ver exame Paracuru, mesma base) — usa faixas qualitativas (Ruim/Regular/Bom/Muito Bom) para os 2 primeiros critérios em vez de nota contínua, e desconto por erro só nos 2 últimos. Limite de linhas: mínimo 45, máximo 60 para a peça — bem mais longo que o padrão de redação genérica. Penalidade por linha: DESCONTO GRADUADO (0,5 ponto por linha abaixo do mínimo, até 4 descontos; 0,5 ponto por linha acima do máximo) — não é zeramento direto como no modelo Paracuru. Aprovação: 20ª posição classificada é convocada para correção (item 11.4); mínimo de 60% do total geral da prova para aprovação (diferente dos 50% do modelo genérico)."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "2 (duas) questões discursivas sobre situações-problema jurídicas, cada uma com no mínimo 15 e no máximo 30 linhas (item 11.10). Os casos concretos aplicados no dia da prova não são públicos.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Argumentação e informatividade (AI) — mesma descrição da peça. Faixas: 0-02 Ruim / 03-05 Regular / 06-08 Bom / 09-10 Muito Bom (Quadro avaliativo para cada Questão Discursiva)",
+            "pontuacao": 10
+          },
+          {
+            "descricao": "Coesão e Coerência (CC). Faixas: 1,0 Ruim / 2,0 Regular / 2,5 Bom / 3,0 Muito Bom",
+            "pontuacao": 3
+          },
+          {
+            "descricao": "Morfossintaxe (M) — desconto de 0,2 ponto por erro",
+            "pontuacao": 1
+          },
+          {
+            "descricao": "Pontuação, acentuação e ortografia (PO) — desconto de 0,2 ponto por erro",
+            "pontuacao": 1
+          }
+        ],
+        "fonte": "Edital de Abertura nº 002/2025 (Itaitinga/CE/Consulpam), item 11.15 (Quadro avaliativo para cada Questão Discursiva).",
+        "observacoes": "Soma exata por questão: 10+3+1+1=15 pontos; 2 questões = 30 pontos. Junto com a peça (30 pontos), o total da Prova Prático-Profissional-Discursiva é 60 pontos."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.consulpam.com.br/arquivos/20250527_172640_EDITAL%20002.%202025%20PREFEITURA%20MUNICIPAL%20DE%20ITATINGA-PROCURADOR_27.05.2025.pdf"
+  ],
+  "coletadoEm": "2026-07-19"
+}

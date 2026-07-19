@@ -1,0 +1,41 @@
+{
+  "concurso": "SESAP-RN (Secretaria de Estado da Saúde Pública do Rio Grande do Norte) — Edital nº 02/2025",
+  "orgao": "Secretaria de Estado da Saúde Pública do Rio Grande do Norte",
+  "cargo": "Assistente Social",
+  "dataProva": "2025-05-26",
+  "areaTema": "Prova discursiva com tema único definido pela banca, a partir de um caso/situação hipotética envolvendo a prática profissional do Assistente Social (o texto motivador/caso descrito não foi capturado por esta pesquisa, só a instrução final do enunciado).",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "\"Tomando como referência o ocorrido, escreva um texto dissertativo-argumentativo com, no mínimo, 15 (quinze linhas), e no máximo, 20 (vinte) linhas, sobre a postura das profissionais e suas possíveis implicações do ponto de vista legal, bem como dos documentos norteadores da prática profissional do(a) Assistente Social.\" (\"o ocorrido\" refere-se a um caso/situação descrita antes desta instrução, no enunciado completo, que não foi capturado por esta pesquisa)",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "FORMAL (15,0 pontos, 6 subitens de 2,5 cada, desconto de 0,25 por erro em cada um): domínio da norma culta da língua; pontuação, acentuação e ortografia; concordância verbal e nominal; regência verbal e nominal; colocação pronominal; estrutura sintática de orações e períodos, elementos coesivos. (item 9.4) — texto idêntico ao usado no edital DEGASE-RJ 01/2025, mesmo ano, confirmando que é um template fixo da banca.",
+            "pontuacao": 15
+          },
+          {
+            "descricao": "TEXTUAL (7,5 pontos, 5 subitens de 1,5 cada): respeito à estrutura da tipologia textual solicitada; sequência lógica e de organização do pensamento; uso adequado de conectivos e elementos anafóricos; observância da estrutura sintático-semântica dos períodos; coerência e coesão. (item 9.4)",
+            "pontuacao": 7.5
+          },
+          {
+            "descricao": "TÉCNICO (7,5 pontos, 5 subitens de 1,5 cada): compreensão da proposta; habilidade argumentativa; progressão temática; conhecimento do tema; capacidade de análise e senso crítico em relação ao tema proposto. (item 9.4)",
+            "pontuacao": 7.5
+          }
+        ],
+        "fonte": "Edital de Abertura nº 02/2025 (SESAP-RN/IDECAN), itens 9.1 a 9.5. https://anexos.cdn.selecao.net.br/uploads/756/concursos/83/anexos/13f155e1-cb62-4391-b7ee-a8227e9a0ce7.pdf | Prova real aplicada: https://arquivos.qconcursos.com/prova/arquivo_prova/132361/idecan-2025-sesap-rn-assistente-social-prova.pdf",
+        "observacoes": "Estrutura de pontuação e enunciado literal verificados por mim diretamente nos PDFs (baixados e extraídos com pdftotext). Total 30 pontos; aprovação com 60% do total (18 pontos) — item 9.5, diferente do modelo de aprovação por pontuação fixa do DEGASE-RJ (15 pontos = 50%), mesmo com a tabela de critérios idêntica. Limite de linhas: 15 mín. / 20 máx. (item 9.2 e 9.10), sem diferenciação por nível de escolaridade neste edital (diferente do DEGASE-RJ, que diferencia nível superior de médio) — mais uma confirmação de que o limite de linhas varia por edital, não é fixo. Prova aplicada em 26/05/2025, tecnicamente ANTES do início da janela de 12 meses pedida (18/07/2025), mas o resultado definitivo da prova discursiva (documento com notas reais de candidatos por módulo Formal/Textual/Técnico) foi divulgado em 02/09/2025, dentro da janela — incluído com essa ressalva de calendário (mesmo critério usado para o TRE-TO na coleta da AOCP). NÃO temos o padrão de resposta (chave de correção) preenchido, nem o texto motivador/caso completo citado como \"o ocorrido\" no enunciado — só a instrução final."
+      },
+      "gabarito": {
+        "preliminar": { "disponivel": false, "conteudo": "", "fonte": "" },
+        "definitivo": { "disponivel": false, "conteudo": "", "fonte": "" }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://anexos.cdn.selecao.net.br/uploads/756/concursos/83/anexos/13f155e1-cb62-4391-b7ee-a8227e9a0ce7.pdf",
+    "https://arquivos.qconcursos.com/prova/arquivo_prova/132361/idecan-2025-sesap-rn-assistente-social-prova.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}
