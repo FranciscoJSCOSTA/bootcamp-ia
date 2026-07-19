@@ -1,0 +1,35 @@
+{
+  "concurso": "Concurso Público Caixa Econômica Federal - CAIXA-01/2025/NS",
+  "orgao": "Caixa Econômica Federal (CAIXA)",
+  "cargo": "Arquiteto",
+  "dataProva": "2026-02-01",
+  "areaTema": "Arquitetura e Urbanismo - Conforto ambiental e eficiência energética de edificações em clima tropical",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "No âmbito das competências regulamentadas pelo Conselho de Arquitetura e Urbanismo (CAU/BR), destaca-se a atividade de Projeto de Arquitetura de Edificações, que se baseia, entre outras atribuições, na competência de prover, através dessa atividade, possibilidades de melhores condições relativas a conforto ambiental e eficiência energética das edificações. Nesse sentido, tendo em vista a inserção de uma edificação em clima tropical no hemisfério sul do planeta, apresente os aspectos a serem priorizados pelo arquiteto nesse projeto e explicite a finalidade desse tratamento, com relação aos seguintes elementos básicos: a) implantação da edificação (Valor: 2,5 pontos); b) proteção solar de fachadas (Valor: 2,5 pontos); c) iluminação dos ambientes internos (Valor: 2,5 pontos); d) ventilação dos ambientes internos (Valor: 2,5 pontos).",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a) Implantação da edificação: 'o(a) profissional deverá respeitar a orientação solar favorável de acordo com a localização preferencial de forma a considerar a insolação mais intensa.'", "pontuacao": 2.5},
+          {"descricao": "b) Proteção solar de fachadas: 'o(a) profissional deverá utilizar dispositivos de proteção de fachadas, tais como brise-soleil horizontais/verticais e venezianas, entre outras estratégias, de forma a reduzir os impactos da insolação.'", "pontuacao": 2.5},
+          {"descricao": "c) Iluminação dos ambientes internos: 'o(a) profissional deverá orientar a edificação de forma a aproveitar a iluminação natural, priorizando aberturas de vãos nas fachadas voltados a melhores capturas de luz solar direta ou indireta.'", "pontuacao": 2.5},
+          {"descricao": "d) Ventilação dos ambientes internos: 'o(a) profissional deverá orientar as aberturas de vãos nas fachadas, considerando as direções predominantes de ventos durante os diferentes meses do ano e a ventilação cruzada.'", "pontuacao": 2.5}
+        ],
+        "fonte": "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/19/conteudos/9894dfa5-b790-4ce9-b45a-6f30d61c6b09.pdf",
+        "observacoes": "Documento oficial da Cesgranrio intitulado 'PADRÃO DE RESPOSTA' (não 'espelho de correção' nem 'gabarito comentado'). A divisão Conteúdo/Gramática (hipótese preliminar de 50%/50%) NÃO foi confirmada neste documento: o padrão de resposta lista SOMENTE 4 itens de conteúdo técnico (2,5 pontos cada, somando os 10,0 pontos da questão), sem nenhum item, percentual ou menção separada para gramática/norma culta/uso do idioma. O edital (EDITAL Nº 01/2025/NS, subitem 7.3.1) também não estabelece essa divisão percentual: descreve a prova discursiva de forma holística, como avaliação da 'capacidade de o candidato expor com clareza, concisão, precisão, coerência e objetividade assuntos ligados à sua profissão', levando 'em conta a capacidade de organização do texto, de análise e síntese dos fatos e ideias examinados' — sem atribuir peso numérico separado a esse aspecto textual. O subitem 7.3.2 do edital lista as hipóteses de nota ZERO (resposta a lápis, identificação do candidato, letra ilegível ou texto não articulado em língua portuguesa), mas não há regra de 'zerar a nota de gramática se o conteúdo for zero' — não existe nota de gramática autônoma nesta banca/concurso. CONCLUSÃO: para este concurso (CAIXA-01/2025), a hipótese de divisão Conteúdo 50%/Gramática 50% com zeramento automático da gramática NÃO se confirma; a pontuação é 100% baseada em itens de conteúdo técnico-específico, com qualidade textual mencionada apenas de forma qualitativa/holística no edital, sem peso percentual próprio."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": false, "conteudo": "Padrão de resposta divulgado para a prova discursiva (Prova 1 - Arquiteto), mas não foi localizado documento específico de 'gabarito definitivo da discursiva' com notas individuais por candidato; o resultado final consolidado por cargo foi divulgado separadamente (listagem final de resultado).", "fonte": ""}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.cesgranrio.org.br/concurso/caixa-economica-federal-caixa-01-2025/",
+    "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/19/conteudos/d67ed2a6-b45e-4b01-979b-0c19e74b184f.pdf",
+    "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/19/conteudos/f996fb6c-5b19-42b4-ac76-2f8814ab31ce.pdf",
+    "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/19/conteudos/9894dfa5-b790-4ce9-b45a-6f30d61c6b09.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}

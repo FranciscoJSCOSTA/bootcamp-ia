@@ -1,0 +1,51 @@
+{
+  "banca": "fgv",
+  "descricao": "Síntese dos padrões gerais de como a FGV estrutura e pontua o desenvolvimento do tema em questões discursivas de nível superior. Não é uma cópia de nenhuma prova específica — é uma agregação estatística/qualitativa extraída das provas reais da base de calibração (ver lib/corretor/calibration/fgv/*.json). Serve como camada de calibração geral para quando não existe, na base local, nenhuma prova com tema semelhante ao da questão avaliada.",
+  "baseadoEm": {
+    "concursosDistintos": 17,
+    "arquivosDeProva": 23,
+    "questoesDiscursivasTotais": 74,
+    "questoesComPontuacaoNumericaCompleta": 73,
+    "coletadoEm": "2026-07-18"
+  },
+  "estruturaTipica": {
+    "itensPorQuestao": {
+      "min": 2,
+      "max": 9,
+      "mediana": 5,
+      "media": 5.33,
+      "faixaTypica": "3 a 8 itens em questões dissertativas comuns (mediana 5 — mais fragmentado que o Cebraspe, cuja mediana é 3); peças jurídicas complexas (petições, pareceres, sentenças) são uma categoria à parte e podem chegar a 10-25 itens bem granulares, cada um valendo uma fração pequena da nota (frequentemente 0,5 a 1,0 ponto) — não é incomum nem um erro de coleta, é o estilo real da FGV para peças"
+    },
+    "distribuicaoDePeso": {
+      "pesosIguaisEntreQuesitos": "não medido diretamente, mas a distribuição é visivelmente mais uniforme que a do Cebraspe",
+      "quesitoDominanteShareMediana": "25%",
+      "quesitoDominanteShareMedia": "28%",
+      "faixaTypica": "o item de maior peso concentra tipicamente entre 20% e 30% da pontuação total da questão (excluindo peças com muitos itens granulares) — mais equilibrado que o Cebraspe (onde a mediana é 37%); a FGV tende a fatiar o conteúdo em partes mais parecidas em valor, em vez de concentrar peso num único aspecto central"
+    },
+    "linguagemEEstrutura": {
+      "convencaoDominante": "ao contrário do Cebraspe (escala qualitativa 'Conceito 0 a N'), a FGV usa uma ESCALA GRADUADA NUMÉRICA explícita por item, com valores intermediários reais em pontos (ex: '0,00 – 1,00 – 2,00 – 3,00'). Em 71% dos itens da base essa escala aparece de forma explícita no próprio texto do espelho de correção. O número de degraus varia — mais comum é 3 a 4 degraus (o que corresponde a uma diferença de meio a um ponto por degrau), mas 2 degraus (essencialmente binário: zero ou o valor cheio) e escalas de 5-6 degraus também aparecem com frequência considerável; escalas com mais de 7 degraus são raras.",
+      "vocabularioComum": "cada item costuma trazer, junto da escala numérica, uma frase objetiva do que se espera (citando dispositivo legal, conceito técnico ou fato específico), sem a formulação padronizada 'Conceito 0 (...) a Conceito N (...)' do Cebraspe — a FGV descreve o conteúdo esperado em prosa mais direta, ligada diretamente aos valores numéricos.",
+      "exemploDeFormatoTipico": "Item X) <conteúdo específico esperado, citando dispositivo legal ou conceito técnico>. Escala graduada: 0,00 – 1,00 – 2,00 (ou outra progressão numérica correspondente ao valor máximo do item)",
+      "pecasProfissionaisVsQuestoesDissertativas": "questões do tipo peça jurídica (petição, parecer, sentença) tendem a fragmentar o conteúdo esperado em muitos itens pequenos e específicos (um por elemento do documento ou por argumento), diferente das questões dissertativas comuns, que usam menos itens, cada um mais abrangente"
+    }
+  },
+  "conteudoVsCorrecaoGramatical": {
+    "achadoPrincipal": "ao contrário do que uma pesquisa preliminar (não confirmada) sugeria, a divisão explícita entre um bloco de 'conteúdo/estrutura' e um bloco separado de 'correção gramatical/uso do idioma' é RARA na base coletada: só 3 das 74 questões (4%) têm um item próprio para uso do idioma, e NENHUMA das 74 usa um mecanismo de dedução por erro gramatical específico contado (ex: '-0,5 por erro de vocabulário') — apesar de esse mecanismo ter sido mencionado como hipótese em pesquisa anterior sobre a FGV. Quando existe (raro), o item de idioma é POSITIVO (soma pontos por qualidade, não subtrai por erro contado).",
+    "implicacao": "Não assuma que uma questão da FGV terá uma nota de gramática separada — a esmagadora maioria da base (96%) avalia inteiramente por itens de conteúdo, tratando a qualidade da escrita apenas de forma qualitativa dentro dos comentários. Só monte um item de idioma/gramática separado se o padrão de resposta ou o enunciado desta questão específica confirmarem isso."
+  },
+  "deducoes": {
+    "fugaAoTema": {
+      "encontradoNoCorpusDePadraoDeResposta": false,
+      "observacao": "Nenhum dos 23 arquivos de espelho de correção coletados menciona fuga ao tema como regra própria do documento — como no Cebraspe, essa regra tende a estar no edital geral da prova, não no espelho por questão."
+    },
+    "limiteDeLinhas": {
+      "encontradoNoCorpusDePadraoDeResposta": false,
+      "observacao": "Mesma situação: é regra de instrução geral da prova (edital), não aparece nos espelhos de correção por questão coletados nesta base."
+    },
+    "implicacaoParaOMotor": "Esta síntese não pode calibrar como a FGV pontua fuga ao tema ou extrapolação de linhas com base em documentos reais — o motor deve manter o tratamento genérico que já tinha para essas duas deduções. Esta síntese serve exclusivamente para calibrar a estrutura de itens/pontuação do desenvolvimento do tema."
+  },
+  "limitacoes": {
+    "amostra": "17 concursos e 74 questões é uma amostra real mas pequena e concentrada em poucos setores (judiciário/notarial domina a amostra: TJ-AM, TJ-MT, TJ-PE, TJ-SE, TJTO, TJES — 6 dos 17 concursos) — os números acima podem estar enviesados para o estilo de questões jurídicas/peças, que como já apontado, têm uma distribuição de itens diferente das questões dissertativas comuns.",
+    "pesoDivulgado": "diferente do Cebraspe, a esmagadora maioria das questões da FGV (73 de 74, 99%) tem pontuação numérica completa por item — a limitação aqui não é falta de peso divulgado, é o tamanho e a concentração setorial da amostra."
+  }
+}

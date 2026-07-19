@@ -1,0 +1,36 @@
+{
+  "concurso": "Concurso Público para a Defensoria Pública do Estado de Rondônia (DPE-RO)",
+  "orgao": "Defensoria Pública do Estado de Rondônia (DPE-RO)",
+  "cargo": "Analista Jurídico - Classe A",
+  "dataProva": "2025-06-04 (prova objetiva; data exata de aplicação da prova discursiva não confirmada na página oficial consultada - resultado preliminar da prova discursiva publicado em 07/08/2025 e espelho de correção também publicado em 08/08/2025)",
+  "areaTema": "Direito Administrativo - Licitações e Contratos (Lei nº 14.133/2021)",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "O Estado de Rondônia pretende celebrar contrato administrativo, tendo como objeto a prestação de serviços de manutenção de veículos automotores de propriedade do referido ente federativo. Registre-se que os automóveis são essenciais para que a atuação estatal alcance todas as cidades da região, de forma a implementar as políticas públicas estaduais, garantindo a satisfação dos direitos fundamentais em benefício da população em geral. Nesse contexto, após a realização de estudos, constatou-se que a futura contratação envolve o valor aproximado de R$ 90.000,00 (noventa mil reais). Com base no cenário hipotético narrado, responda de forma fundamentada, em um total de 20 a 30 linhas, dispensando-se a referência expressa a dispositivos legais. a) Conceitue o instituto da licitação, trazendo à baila os seus objetivos. b) No âmbito da contratação direta, diferencie inexigibilidade de licitação e licitação dispensável. c) No caso apresentado, se está diante de uma hipótese de licitação inexigível ou dispensável? d) Caso se constate, posteriormente à contratação direta, a ocorrência de fraude, quais são as consequências jurídicas para o agente público responsável e para a sociedade empresária contratada?",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a) Conceituação de licitação e indicação dos objetivos elencados na legislação de regência, dispensando-se a referência expressa ao art. 11 da Lei nº 14.133/2021. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50 – 3,00 – 3,50 – 4,00 – 4,50 – 5,00", "pontuacao": 5.00},
+          {"descricao": "b) Nas hipóteses de dispensa de licitação, a licitação é viável, mas o legislador elencou determinadas situações em que a licitação pode ser afastada para se atender o interesse público de forma mais célere e eficiente. A dispensa de licitação possui duas características principais: rol taxativo; e discricionariedade do administrador. A inexigibilidade de licitação pressupõe a inviabilidade de competição, possuindo duas características principais: rol legal exemplificativo; e vinculação do administrador. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50 – 3,00 – 3,50 – 4,00 – 4,50 – 5,00", "pontuacao": 5.00},
+          {"descricao": "c) É dispensável a licitação para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de serviços de manutenção de veículos automotores. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50 – 3,00", "pontuacao": 3.00},
+          {"descricao": "d) Na hipótese de contratação direta indevida, ocorrida com fraude, o contratado e o agente público responsável responderão solidariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50 – 3,00 – 3,50 – 4,00 – 4,50 – 5,00", "pontuacao": 5.00},
+          {"descricao": "e) Raciocínio jurídico, fluência e coerência da exposição, além da correção linguística. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00", "pontuacao": 2.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhodpe-ro.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Espelho de Correção das Questões Discursivas' (seção 'Analista Jurídico - Classe A'). O espelho da DPE-RO reúne, em um único PDF, o espelho de TODOS os cargos de nível superior do concurso (cada cargo com sua própria Questão 01), diferente do padrão Cebraspe de um PDF por prova. Cabeçalho da questão traz 'Itens = 5.0', somando 20,00 pontos ('Nota da Questão 01 - Gabarito: 20') - a questão discursiva vale 20 pontos neste cargo (mais que a ALE-AM, onde cada questão vale 10). O item 'e' de correção linguística/fluência é pontuado POSITIVAMENTE por qualidade textual (crédito parcial), e não há cláusula de dedução por erro gramatical contado (ex.: '-0,5 por erro'). O enunciado completo desta questão foi extraído do caderno de prova oficial (arquivo 'analista-juridico-classe-acns002-tipo-1.pdf'), que traz a prova discursiva impressa ao final do mesmo caderno da prova objetiva - a DPE-RO não disponibilizou um caderno de discursiva separado nesta página."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva publicado em 07/08/2025, sem detalhamento de notas por item (arquivo de imagem escaneado, texto não extraível automaticamente).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/100-dpero-resultado-preliminar-prova-discursiva-2025-08-07.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva publicado em 08/08/2025, após período recursal (arquivo de imagem escaneado, texto não extraível automaticamente). Espelho de correção com padrão de resposta completo por item graduado publicado na mesma data.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/100-dpero-resultado-definitivo-prova-discursiva.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/dpero25",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/espelhodpe-ro.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/analista-juridico-classe-acns002-tipo-1.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/100-dpero-resultado-definitivo-prova-discursiva.pdf"
+  ],
+  "coletadoEm": "2026-07-16"
+}

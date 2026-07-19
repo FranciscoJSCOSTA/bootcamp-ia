@@ -1,0 +1,49 @@
+{
+  "concurso": "Concurso Público INFRA S.A. 2026",
+  "orgao": "Infraestrutura S.A. (INFRA S.A.)",
+  "cargo": "Analista – Especialidade: Administrador",
+  "dataProva": "2026-03-15",
+  "areaTema": "Monitoramento e Avaliação de Projetos / Lei das Estatais",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A direção da INFRA S.A. convocou uma reunião de última hora sobre o complexo modal de um município-chave para o sistema logístico brasileiro, por sua relevância como polo exportador de commodities. O tema da reunião era a elaboração do projeto de modernização logística do complexo modal, financiado por meio de acordo com o Banco Mundial. Para a aprovação do desembolso, o Banco Mundial requisitou que o projeto incorporasse a realização de três avaliações: uma avaliação de desenho, uma avaliação formativa e uma avaliação somativa. Um analista da INFRA S.A. da especialidade de administração foi convocado para essa reunião, devido à sua experiência e ao seu conhecimento em monitoramento e avaliação de projetos. Ao final do encontro, o analista ficou responsável por desenvolver a estratégia de avaliação do projeto de modernização logística, que deve contar com os três tipos requeridos de avaliação, com ênfase na temporalidade, no foco avaliativo e no uso adequado de cada um desses exercícios avaliativos. Para ajudar na tarefa do analista, a direção lhe enviou um e-mail com um exemplo de avaliação de impacto, cuja temporalidade seria ex-post, após a implementação do projeto, com foco na causalidade e na estimativa de impacto, e cujo uso seria prestar contas ao doador e informar o desenvolvimento de iniciativas futuras similares. A partir da situação-problema apresentada, redija, na condição do referido analista da especialidade de administração, um texto dissertativo a respeito da estratégia de avaliação do projeto de modernização logística em apreço. Em seu texto, aborde os seguintes aspectos: 1 a temporalidade adequada para cada tipo de avaliação (de desenho, formativa e somativa); [valor: 3,10 pontos] 2 o foco de análise principal em cada tipo de avaliação; [valor: 3,20 pontos] 3 o uso típico de cada uma das tipologias de avaliação. [valor: 3,20 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Temporalidade (avaliação de desenho: ex-ante; avaliação formativa: durante a execução/meio-termo; avaliação somativa: ex-post): Conceito 0 (não abordou) a Conceito 3 (abordou temporalidades adequadas às três tipologias)", "pontuacao": 3.10},
+          {"descricao": "Quesito 2.2 – Foco de análise (desenho: qualidade do planejamento/lógica interna; formativa: processos/eficiência/resultados preliminares; somativa: resultados/eficácia/efetividade/sustentabilidade): Conceito 0 (não abordou) a Conceito 3 (abordou o foco principal das três tipologias)", "pontuacao": 3.20},
+          {"descricao": "Quesito 2.3 – Uso típico (desenho: ajustar desenho/reduzir riscos; formativa: corrigir rumos/melhorar eficiência; somativa: prestar contas/decidir continuidade): Conceito 0 (não abordou) a Conceito 3 (abordou corretamente o uso típico das três tipologias)", "pontuacao": 3.20}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/infrasa_26_analista/arquivos/906B510F5C6C8E573583BDA63A0E0918A673D1933FA38AAEA8A03DB7237B49EC.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Prova composta por Questão 1 (avaliação de desenho/formativa/somativa) e Questão 2 (Lei n.º 13.303/2016 - cláusulas contratuais), ambas no mesmo arquivo de padrão. Conteúdo desta questão soma 9,50 pontos + 0,50 ponto de apresentação/estrutura textual = 10,00 pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo (incluindo quadro esquemático das três tipologias de avaliação) e 3 quesitos avaliados por conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/infrasa_26_analista/arquivos/906B510F5C6C8E573583BDA63A0E0918A673D1933FA38AAEA8A03DB7237B49EC.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "A INFRA S.A. pretende contratar a prestação de serviços de engenharia para a construção de uma ferrovia. Determinado empregado público da INFRA S.A., especialista da área de administração, foi designado por sua chefia imediata para prestar esclarecimentos técnicos acerca das disposições da Lei n.º 13.303/2016 a respeito da formalização do referido contrato. Considerando a situação-problema apresentada, redija, na condição do referido empregado público, um texto dissertativo, com base nas disposições da Lei n.º 13.303/2016. Em seu texto, atenda ao que se pede a seguir. 1 Cite cinco cláusulas que devem constar do contrato em questão. [valor: 5,00 pontos] 2 Indique o responsável pelos encargos trabalhistas, fiscais e comerciais resultantes da execução do contrato em apreço. [valor: 1,50 ponto] 3 Aborde as disposições legais aplicáveis à hipótese de inadimplência contratual quanto a tais encargos. [valor: 3,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Cláusulas necessárias no contrato (art. 69, Lei n.º 13.303/2016: objeto, regime de execução, preço e condições de pagamento, prazos, garantias, direitos/responsabilidades/penalidades, casos de rescisão, vinculação ao instrumento convocatório, manutenção das condições de habilitação, matriz de riscos): Conceito 0 (não abordou) a Conceito 5 (citou corretamente pelo menos cinco cláusulas)", "pontuacao": 5.00},
+          {"descricao": "Quesito 2.2 – Responsabilidade pelos encargos trabalhistas, fiscais e comerciais resultantes da execução do contrato (art. 77, Lei n.º 13.303/2016 - o contratado é responsável por todos os encargos): Conceito 0 (não abordou) a Conceito 2 (abordou de forma integralmente correta)", "pontuacao": 1.50},
+          {"descricao": "Quesito 2.3 – Inadimplência do contratado quanto aos encargos trabalhistas, fiscais e comerciais (art. 77, §1.º - a inadimplência não transfere a responsabilidade à empresa pública nem onera o objeto do contrato): Conceito 0 (não abordou) a Conceito 2 (abordou de forma integralmente correta)", "pontuacao": 3.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/infrasa_26_analista/arquivos/906B510F5C6C8E573583BDA63A0E0918A673D1933FA38AAEA8A03DB7237B49EC.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Conteúdo soma 9,50 pontos + 0,50 ponto de apresentação/estrutura textual = 10,00 pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 3 quesitos avaliados por conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/infrasa_26_analista/arquivos/906B510F5C6C8E573583BDA63A0E0918A673D1933FA38AAEA8A03DB7237B49EC.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/infrasa_26_analista/arquivos/906B510F5C6C8E573583BDA63A0E0918A673D1933FA38AAEA8A03DB7237B49EC.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

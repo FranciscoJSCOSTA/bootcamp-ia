@@ -1,0 +1,87 @@
+{
+  "concurso": "Procuradoria-Geral do Estado do Rio Grande do Norte (PGE/RN) - Concurso Público 2026",
+  "orgao": "Procuradoria-Geral do Estado do Rio Grande do Norte (PGE/RN)",
+  "cargo": "Analista Jurídico",
+  "dataProva": "2026-06-21",
+  "areaTema": "Direito Constitucional / Direito Administrativo",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Discorra sobre a legitimidade do TJRN para exercer controle abstrato de constitucionalidade de leis estaduais e municipais em face da Constituição Federal; sobre os efeitos da decisão do TJRN, inclusive quanto à vinculação do Poder Legislativo; sobre a qualificação da conduta dos vereadores e do prefeito quanto à eventual configuração de improbidade administrativa pela aprovação de lei aparentemente inconstitucional; e sobre a constitucionalidade da criação de cargos em comissão na situação apresentada.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Legitimidade do TJRN: Conceito 0 (não respondeu) a Conceito 3 (mencionou corretamente todos os aspectos numerados de (i) a (iii): admissibilidade do controle abstrato por TJ, norma de reprodução obrigatória, regra remissiva à CF)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Efeitos da decisão do TJRN: Conceito 0 a Conceito 2 (mencionou corretamente os aspectos (iv) e (v): não vinculação do Poder Legislativo - Rcl 2.617/MG - e eficácia erga omnes/efeito vinculante - art. 102, §2º, CF)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Qualificação da conduta dos vereadores e do prefeito: Conceito 0 a Conceito 3 (mencionou corretamente todos os aspectos numerados de (vi) a (viii): imunidade parlamentar material não impede improbidade - ARE 1444985 AgR/SP; necessidade de elementos probatórios do dolo)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.4 – Constitucionalidade da criação dos cargos comissionados: Conceito 0 a Conceito 2 (mencionou corretamente os aspectos (ix) e (x): inconstitucionalidade da criação na forma retratada e limitação a funções de direção/chefia/assessoramento - Tema 1.010 de RG do STF)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/pge_rn_26/arquivos/31C6EC47B0A366B4710EE31265B7CE330BB25F208FCB5FDED23008667D695CF5.pdf",
+        "observacoes": "Fundamenta-se no RE 650.898/RS, art. 102, §2º da CF, Rcl 2.617/MG, ARE 1444985 AgR/SP e Tema 1.010 de RG do STF (RE 1.041.210). Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. Concurso classificado como padrão preliminar. | Nota de reconstrução do enunciado: Prova Discursiva - Questão 1. Enunciado original (situação hipotética envolvendo decisão do Tribunal de Justiça do Rio Grande do Norte - TJRN - em controle abstrato de constitucionalidade, aprovação de lei aparentemente inconstitucional por prefeito e vereadores, e criação de cargos em comissão) não reproduzido de forma integral no padrão de resposta consultado; reconstrução baseada no texto-modelo e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar com texto-modelo completo, aspectos numerados de (i) a (x), e 4 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/pge_rn_26/arquivos/31C6EC47B0A366B4710EE31265B7CE330BB25F208FCB5FDED23008667D695CF5.pdf"
+        },
+        "definitivo": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Discorra sobre a desconsideração da personalidade jurídica (teoria maior e teoria menor) e qual delas se aplica ao caso apresentado; sobre o incidente de resolução de demandas repetitivas (IRDR), seus requisitos, legitimidade, recorribilidade e efeitos do recurso; e sobre as medidas judiciais cabíveis contra a decisão que indeferiu a desconsideração da personalidade jurídica em desrespeito a precedente firmado em IRDR.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Desconsideração da personalidade jurídica: Conceito 0 (não abordou) a Conceito 4 (abordou corretamente os quatro aspectos: conceito, teoria maior, teoria menor, teoria aplicável ao caso)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – IRDR: Conceito 0 a Conceito 4 (abordou corretamente os quatro aspectos: requisitos, legitimidade, recorribilidade, efeitos do recurso)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Medidas judiciais cabíveis: Conceito 0 a Conceito 3 (abordou corretamente os três aspectos: agravo de instrumento, tutela provisória recursal, cabimento de reclamação)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/pge_rn_26/arquivos/31C6EC47B0A366B4710EE31265B7CE330BB25F208FCB5FDED23008667D695CF5.pdf",
+        "observacoes": "Fundamenta-se no CPC/2015 (IRDR, agravo de instrumento, reclamação) e nas teorias maior/menor da desconsideração da personalidade jurídica. Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. | Nota de reconstrução do enunciado: Prova Discursiva - Questão 2. Enunciado original (situação hipotética envolvendo pedido de desconsideração da personalidade jurídica, precedente firmado em incidente de resolução de demandas repetitivas - IRDR - e decisão judicial contrária a esse precedente) não reproduzido de forma integral no padrão de resposta consultado; reconstrução baseada no texto-modelo e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar com texto-modelo completo e 3 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/pge_rn_26/arquivos/31C6EC47B0A366B4710EE31265B7CE330BB25F208FCB5FDED23008667D695CF5.pdf"
+        },
+        "definitivo": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/pge_rn_26/arquivos/31C6EC47B0A366B4710EE31265B7CE330BB25F208FCB5FDED23008667D695CF5.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

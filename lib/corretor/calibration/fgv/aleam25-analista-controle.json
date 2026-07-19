@@ -1,0 +1,128 @@
+{
+  "concurso": "Concurso Público para a Assembleia Legislativa do Estado do Amazonas (ALE-AM) - Edital nº 1/2025",
+  "orgao": "Assembleia Legislativa do Estado do Amazonas (ALE-AM)",
+  "cargo": "Analista de Controle",
+  "dataProva": "2025-12-14 (data inferida: gabarito preliminar da prova objetiva foi publicado em 16/12/2025; a página oficial consultada não expõe a data exata de aplicação da prova discursiva, cujo resultado definitivo/espelho foi publicado em 29/04/2026)",
+  "areaTema": "Controle Externo, Auditoria Governamental, Direito Financeiro e Direito Constitucional",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A Constituição Federal (CRFB/88) atribui ao Poder Legislativo a titularidade do exercício do controle externo da Administração Pública Direta e Indireta. Esse controle é exercido com o auxílio dos Tribunais de Contas, a quem a CRFB/88 confere competências e prerrogativas institucionais. Nesse sentido, sobre o controle externo a cargo do Poder Legislativo e dos Tribunais de Contas, responda de forma justificada: a) No que consiste as funções fiscalizatória, sancionatória e consultiva do TCE-AM? Qual é o alcance destas funções no âmbito da Corte de Contas Amazonense. Cite exemplos de cada uma delas. b) O controle externo a cargo do TCE-AM abrange o controle prévio de licitações e contratos administrativos? Justifique sua resposta.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a.1) Informar corretamente que as funções fiscalizatória, sancionatória e consultiva alcançam a administração pública direta e indireta do Estado e dos municípios amazonenses. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "a.2) Informar corretamente que as funções alcançam qualquer pessoa física ou jurídica que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais os referidos entes federativos respondam, ou que, em nome destes, assumam obrigações de natureza pecuniária. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "a.3) Informar corretamente que na função fiscalizatória o TCE-AM fiscaliza os órgãos e entes jurisdicionados. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "a.4) Informar corretamente que a função fiscalizatória compreende a realização de auditorias e inspeções. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "a.5) Informar corretamente que a função fiscalizatória inclui a apreciação da legalidade dos atos de pessoal sujeitos a registro. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "a.6) Informar corretamente que a função fiscalizatória inclui a fiscalização dos atos que resultarem em renúncia de receitas e dos contratos administrativos em geral. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "a.7) Informar corretamente que na função sancionatória o TCE-AM aplica as sanções previstas em lei às pessoas físicas (mormente os agentes públicos) e jurídicas a quem se impute ilegalidades ou irregularidades na gestão, uso, guarda, aplicação ou arrecadação de bens e valores públicos. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "a.8) Apresentar corretamente ao menos dois exemplos de aplicação da função sancionatória, atribuindo-se 0,5 ponto para cada exemplo correto. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "a.9) Informar corretamente que na função consultiva o TCE-AM faculta às autoridades previstas em lei a possibilidade de formularem consultas, em tese, que devem versar sobre dúvidas na aplicação de lei e normas sobre matéria alcançada pela jurisdição da Corte de Contas. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "a.10) Informar corretamente que a função consultiva abrange a emissão de parecer prévio sobre as contas do Governador do Estado e dos prefeitos dos municípios amazonenses. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "b.1) Apresentar a definição correta de controle prévio. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "b.2) Informar corretamente que, na lei de licitações, o controle prévio abrange a fiscalização dos editais de licitação e dos procedimentos de contratação direta (dispensa/inexigibilidade) antes da assinatura do contrato respectivo. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "b.3) Informar que o TCE-AM pode editar medidas cautelares (teoria dos poderes implícitos), suspendendo os efeitos destes atos (editais/dispensa/inexigibilidade) antes da assinatura do contrato. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "b.4) Informar que a sustação do contrato já assinado é de competência do Poder Legislativo. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "b.5) Informar que o TCE-AM decidirá a respeito da sustação do contrato somente na hipótese de o Poder Legislativo e o Poder Executivo, após decorridos 90 (noventa) dias da ciência das irregularidades, não adotarem as medidas corretivas pertinentes, conforme §§ 1º e 2º do art. 71 da CRFB/88. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Espelho de Correção das Questões Discursivas' (Disciplina A - Analista de Controle). Cabeçalho da questão traz 'Itens = 15', correspondente aos 15 sub-itens graduados (a.1 a a.10 e b.1 a b.5) somando 10,00 pontos ('Nota da Questão 01: 10'). Os degraus variam por sub-item: a maioria usa passos de 0,25 (max 0,50) ou 0,50 (max 1,00). Não há menção a dedução por erro gramatical contado nesta questão - a avaliação é toda por crédito parcial positivo em itens de conteúdo técnico."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (pós-recursos) com padrão de resposta completo por sub-item graduado, publicado em 29/04/2026.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "A auditoria governamental é definida como um procedimento sistemático, independente e objetivo em que se avaliam diferentes aspectos da gestão pública, como a legalidade, a legitimidade, a eficácia, a eficiência e a economicidade dos atos de gestão. A auditoria governamental se desenvolve em etapas que são interdependentes e não rígidas, ou seja, durante a realização das atividades de uma dessas etapas podem ser praticados atos típicos e próprios de outras etapas. Uma dessas etapas é o planejamento individual da auditoria, na qual são realizadas diversas atividades e que apresenta como principal produto a matriz de planejamento. Por outro lado, a auditoria governamental pode evidenciar a prática de atos danosos ao erário e a consequente responsabilização dos agentes envolvidos. Para tanto, a matriz de responsabilização tem um papel essencial no devido processo de controle externo. Considerando essa temática, responda fundamentadamente às seguintes perguntas: a) Em qual etapa da auditoria a matriz de planejamento é elaborada e quais são as principais atividades desta etapa? b) Em que consiste a matriz de planejamento e quais são as principais informações (ou campos) nela veiculadas? c) No que consiste a matriz de responsabilização? Quais são as informações (ou campos) nela contidas?",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "A.1) Informar que a matriz de planejamento é um instrumento orientador da execução da auditoria governamental, elaborado na etapa de planejamento individual. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "a.2) Informar corretamente que o planejamento da auditoria inclui: análise preliminar do objeto, avaliação dos riscos inerentes, avaliação preliminar dos controles internos, definição do escopo do trabalho, definição da natureza e extensão dos procedimentos, definição da equipe de auditoria (atribuindo pontuação máxima para apresentação correta de ao menos quatro ações desta etapa da auditoria). Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "B) Apresentar os campos ou as informações constantes da matriz de planejamento, atribuindo-se 0,5 ponto para cada descrição correta destes campos. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "c.1) Apresentar a definição correta de matriz de responsabilização. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50", "pontuacao": 1.50},
+          {"descricao": "c.2) Apresentar os campos ou informações constantes da matriz de responsabilização, atribuindo-se 0,5 ponto para cada descrição correta destes campos. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50 – 3,00", "pontuacao": 3.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+        "observacoes": "Cabeçalho da questão traz 'Itens = 5' (5 sub-itens: A.1, a.2, B, c.1, c.2), somando 10,00 pontos ('Nota da Questão 02: 10'). Escala de crédito parcial em passos de 0,25 a 0,50, variável conforme o número de sub-elementos exigíveis em cada item (ex.: item B concede 0,5 ponto 'para cada descrição correta' de campo da matriz). Não há dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (pós-recursos), publicado em 29/04/2026.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "No contexto do Orçamento Impositivo, a Emenda Constitucional nº 105/2019 instituiu a modalidade de \"Transferência Especial\" para as emendas individuais (art. 166-A da CF/88), popularmente conhecida como \"Emenda Pix\". Um Deputado Estadual solicita um parecer técnico sobre a viabilidade e as regras de contabilização dessa modalidade ao destinar recursos a um Município. Com base na Constituição Federal e no Manual Técnico de Orçamento - MTO, redija um texto dissertativo abordando os seguintes tópicos: a) Definição e características operacionais da Transferência Especial em comparação à Transferência com Finalidade Definida. b) Vedações constitucionais quanto à aplicação desses recursos pelo ente beneficiário. c) Tratamento fiscal dessas receitas no ente recebedor para fins de apuração da Receita Corrente Líquida (RCL) e dos limites de despesa com pessoal e endividamento.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Item a) Afirmação de que o repasse é direto ao ente, sem convênio ou instrumento congênere. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50", "pontuacao": 1.50},
+          {"descricao": "Item a.1) Reconhecimento de que o recurso passa a pertencer ao ente no ato da transferência. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Item a.2) Diferenciação em relação à Transferência com Finalidade Definida. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Item a.3) Referência ao tratamento e orientação do MTO quanto à classificação orçamentária (Fonte de Recursos específica). Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Item b) Menção expressa à vedação de uso para despesas com pessoal e encargos. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Item b.1) Menção à vedação de uso para serviço da dívida. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Item b.2) Indicação de que o mínimo de 70% deve ser destinado a despesas de capital (art. 166-A, §5º). Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "Item c) Explicação de que as transferências especiais não integram a RCL para limites fiscais. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Item c.2) Referência ao registro como dedução/exclusão no Demonstrativo da RCL (RCL Ajustada). Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Item c.3) Relação com os limites de despesa com pessoal e endividamento. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50},
+          {"descricao": "Item c.4) Fundamentação na CF/MTO para evitar margem fictícia de gasto. Escala graduada literal: 0,00 – 0,25 – 0,50", "pontuacao": 0.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+        "observacoes": "Cabeçalho traz 'Itens = 11' (11 sub-itens), somando 10,00 pontos ('Nota da Questão: 10'). Espelho não numera 'c.1' explicitamente (o item 'c)' cumpre esse papel), preservado conforme a nomenclatura original do documento. Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (pós-recursos), publicado em 29/04/2026.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf"}
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "João, Deputado Federal, em conjunto com um terço dos membros da Câmara dos Deputados, apresentou, no âmbito da referida Casa Legislativa, proposta de emenda à Constituição Federal (PEC) em matéria tributária, com significativo impacto potencial para o Estado do Amazonas. Contudo, durante a tramitação da referida PEC, a União procedeu à intervenção no Município Alfa, localizado e integrante do Estado do Amazonas. Argumentou-se, para tanto, que a intervenção federal era necessária para assegurar a observância dos direitos da pessoa humana na localidade. Com base no cenário hipotético narrado, responda, de forma fundamentada, aos questionamentos a seguir, à luz das disposições da Constituição Federal, da jurisprudência dominante do Supremo Tribunal Federal, além do entendimento doutrinário prevalecente. a) A intervenção federal no Município Alfa/AM está em conformidade com os ditames constitucionais? b) A PEC apresentada pelos parlamentares poderá dar ensejo à alteração do texto constitucional na vigência da intervenção federal? c) Qual a competência do Congresso Nacional no contexto da intervenção federal?",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "1) Não. Cabe à União, nas hipóteses definidas na CRFB/88, proceder à intervenção nos Estados ou nos Municípios localizados em Território Federal, cenário ausente no caso apresentado, nos termos dos Arts. 34 e 35, ambos da CRFB/88 (a intervenção federal em Município integrante de Estado, em regra, não é possível - cabe ao próprio Estado, nos termos do art. 35). Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "2) Não. A Constituição não poderá ser emendada na vigência de intervenção federal, conforme preceitua o Art. 60, §1º, da CRFB/88. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "3) É da competência exclusiva do Congresso Nacional aprovar ou suspender a intervenção federal, nos termos do Art. 49, inciso IV, da CRFB/88. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "4) Grau de conhecimento do tema, fluência e coerência da exposição. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+        "observacoes": "Cabeçalho traz 'Itens = 4', somando 10,00 pontos ('Nota da Questão 04: 10'). Todos os 4 itens compartilham a mesma escala graduada de 6 degraus (0,00 a 2,50, passo de 0,50). O item 4 (fluência/coerência) é pontuado com a mesma escala dos itens de conteúdo, não havendo dedução por erro gramatical contado - é crédito positivo por qualidade textual."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (pós-recursos), publicado em 29/04/2026.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf"}
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "Em 01/01/2025, uma entidade do setor público adquiriu, por meio de uma transação sem contraprestação, um imóvel, por R$ 10.000. A entidade estimava utilizar o imóvel durante 50 anos, de modo linear. Na data, foi estimado, ainda, que o valor justo do imóvel era de R$ 500.000. O imóvel foi diretamente destinado a aluguel, a servidores que estavam em estágio probatório. Em 31/12/2025, foi estimado que não houve modificação no valor justo do imóvel. Com relação ao Balanço Patrimonial da entidade do setor público, responda e justifique: a) Qual é a classificação do imóvel? b) Qual é o valor contábil do imóvel em 01/01/2025 e em 31/12/2025?",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a) Classificação como ativo imobilizado (Propriedade para Investimento não se aplica por ser o imóvel destinado a uso institucional/social - aluguel para servidores em estágio probatório, e não para geração de renda de mercado ou valorização) e explicação. Escala graduada literal: 0,00 – 2,00 – 4,00", "pontuacao": 4.00},
+          {"descricao": "b) Valor contábil em 01/01/2025 (custo de aquisição, R$ 10.000, por se tratar de bem recebido sem contraprestação a valor justo na data da transação conforme as normas de ativo imobilizado) e explicação; valor contábil em 31/12/2025 (custo menos depreciação acumulada de 1 ano: R$ 10.000 - R$ 200 = R$ 9.800) e explicação. Escala graduada literal: 0,00 – 1,00 – 2,00 – 3,00 – 4,00 – 5,00 – 6,00", "pontuacao": 6.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+        "observacoes": "Cabeçalho traz 'Itens = 2', somando 10,00 pontos ('Nota da Questão 05: 10'). Item a) tem escala de 3 degraus (passo 2,00); item b) tem escala de 7 degraus (passo 1,00), refletindo que o item b) soma dois cálculos (valor em 01/01 e em 31/12). A descrição do valor contábil de 31/12/2025 (R$9.800) foi reconstruída a partir do enunciado (depreciação linear em 50 anos = R$200/ano) pois o texto extraído do PDF do espelho não trouxe o valor numérico explícito do gabarito nesse trecho — ressalva de que o cálculo é inferência lógica meramente ilustrativa, não uma citação literal do espelho."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (pós-recursos), publicado em 29/04/2026.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/aleam25",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/prova-discursiva-analista-de-controle-csd103-tipo-1.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf"
+  ],
+  "coletadoEm": "2026-07-16"
+}

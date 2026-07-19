@@ -1,0 +1,48 @@
+{
+  "concurso": "Concurso Público para Provimento de Cargos de Agente Fazendário Estadual - SEFA/PR 2025",
+  "orgao": "Secretaria de Estado da Fazenda do Paraná (SEFA/PR)",
+  "cargo": "Cargo 1: Agente Fazendário Estadual – Função: Administrador",
+  "dataProva": "2026-02-22",
+  "areaTema": "Gestão Pública Digital / GovTech",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A partir do texto-modelo do padrão de resposta, infere-se que se pedia ao(à) candidato(a) discorrer, em texto dissertativo, sobre: 1) a aplicação da análise SWOT como ferramenta de diagnóstico para estratégias de GovTech, relacionando forças e ameaças à realidade da gestão pública digital; 2) a integração entre governança digital, accountability, dados abertos e controle social; e 3) o impacto do design thinking na fase de planejamento e na geração de valor público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Análise SWOT e estratégias GovTech: Conceito 0 (não abordou a matriz SWOT ou o fez de maneira totalmente equivocada) / Conceito 1 (abordou de forma genérica, sem aplicá-la ao contexto de GovTech) / Conceito 2 (identificou e descreveu parcialmente os quadrantes forças e ameaças, sem relacioná-los à gestão pública digital) / Conceito 3 (identificou e descreveu corretamente forças e ameaças, mas não os relacionou à gestão pública digital) / Conceito 4 (identificou e descreveu corretamente forças e ameaças e os relacionou adequadamente com a gestão pública digital)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Governança digital, accountability e controle social: Conceito 0 (não tratou dos temas ou o fez de forma totalmente equivocada) / Conceito 1 (abordou corretamente apenas um dos aspectos: relação governança digital-transparência; conceito de accountability; papel dos dados abertos; controle social) / Conceito 2 (abordou corretamente dois aspectos) / Conceito 3 (abordou corretamente três aspectos) / Conceito 4 (abordou corretamente todos os aspectos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Design thinking e valor público: Conceito 0 (não tratou dos temas ou o fez de forma totalmente equivocada) / Conceito 1 (mencionou de forma genérica o design thinking e/ou inovação e agilidade, sem desenvolvimento) / Conceito 2 (discorreu de forma parcialmente adequada, sem detalhar a mentalidade necessária para resolver problemas complexos - empatia, colaboração, experimentação e prototipagem) / Conceito 3 (explicou adequadamente como o design thinking coloca o usuário no centro do planejamento, indicando seus pilares e valores e a geração de valor público pela eficácia na solução de problemas)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/sefa_pr_25/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO' para os Cargos 1 a 6. Há trechos em vermelho e tachados no PDF original indicando alterações incluídas após recursos (especialmente nos Quesitos 2.1 e 2.3). O PDF não indica valor em pontos por quesito (apenas escala de conceitos 0 a 4/3), por isso o campo 'pontuacao' foi deixado como null. Data de aplicação registrada no PDF como 22/2/2026. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original da questão discursiva não foi reproduzido no padrão de resposta consultado, e o arquivo fornecido como 'prova bruta' (raw_0.pdf) estava corrompido/inválido (não pôde ser aberto como PDF), de modo que o comando exato não pôde ser confirmado."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre GovTech, governança digital e design thinking, e 3 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/sefa_pr_25/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/sefa_pr_25/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

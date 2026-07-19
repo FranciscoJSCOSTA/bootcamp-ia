@@ -1,0 +1,84 @@
+{
+  "concurso": "Araucária Nitrogenados S.A. (ANSA) - Concurso Público 2026",
+  "orgao": "Araucária Nitrogenados S.A. (ANSA)",
+  "cargo": "Ênfase 1: Administração",
+  "dataProva": "2026-04-26",
+  "areaTema": "Gestão Pública / Atualidades",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A partir de textos motivadores sobre terras raras, redija um texto dissertativo, de forma coerente e coesa, abordando: (1) os usos e a importância das terras raras na atualidade; (2) os desafios e as oportunidades para o Brasil no comércio internacional de terras raras; e (3) os interesses estrangeiros sobre as terras raras brasileiras e a defesa da soberania nacional.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Usos e importância das terras raras na atualidade: Conceito 0 (não abordou ou equivocado) a Conceito 4 (desenvolveu completamente, abordando usos e importância, corretamente e com exemplos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Desafios e oportunidades para o Brasil no comércio internacional de terras raras: Conceito 0 a Conceito 4 (desenvolveu completamente, com exemplos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Interesses estrangeiros e defesa da soberania nacional: Conceito 0 a Conceito 4 (desenvolveu completamente, com exemplos)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/ansa_26/arquivos/EF22A1824EF585F2CBE1DEEDD2AA21B5C76D2B14904F0BC0DAC08A8D64FF03A0.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Prova comum a 'CONHECIMENTOS BÁSICOS PARA TODOS OS CARGOS DE NÍVEL SUPERIOR', não específica da ênfase Administração. O PDF não indica valores em pontos por quesito (apenas os conceitos 0 a 4); por isso pontuacao ficou como null. Trechos tachados em vermelho no PDF original indicam textos removidos/ajustados (ex.: remoção da exigência de 'exemplos' em alguns conceitos), possivelmente após recursos. | Nota de reconstrução do enunciado: Prova Discursiva - Conhecimentos Básicos para todos os cargos de nível superior, aplicável ao cargo de Ênfase 1: Administração. O documento de padrão de resposta consultado não reproduz o enunciado literal com os textos motivadores; reconstrução baseada no padrão de resposta e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-base dissertativo completo e 3 quesitos avaliados por conceitos (0 a 4), sem atribuição explícita de pontos por quesito no documento.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/ansa_26/arquivos/EF22A1824EF585F2CBE1DEEDD2AA21B5C76D2B14904F0BC0DAC08A8D64FF03A0.pdf"
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "A partir de textos motivadores sobre enchentes em áreas urbanas, redija um texto dissertativo, de forma clara e coerente, abordando: (1) as causas das enchentes nas áreas urbanas; (2) os impactos ambientais e sociais das enchentes; e (3) as ações do governo e da sociedade para prevenir e combater o problema das enchentes em áreas urbanas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Causas das enchentes nas áreas urbanas: Conceito 0 (não abordou) a Conceito 3 (abordou de forma correta e completa)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Impactos ambientais e sociais das enchentes: Conceito 0 a Conceito 3 (abordou ambos de forma correta e completa)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Ações do governo e da sociedade para prevenir e combater o problema das enchentes em áreas urbanas: Conceito 0 a Conceito 3 (abordou corretamente com dois ou mais exemplos práticos)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/ansa_26/arquivos/8562F1C445F63DEF6384F7D5BCE1177B4A58D7FD56CC7C3685369F52EE306F96.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Prova comum a 'CONHECIMENTOS GERAIS PARA TODOS OS CARGOS DE NÍVEL MÉDIO' do mesmo concurso ANSA (item de nível médio associado à mesma listagem de cargoArea 'Ênfase 1: Administração' fornecida na coleta). Documento não atribui valor em pontos explícito por quesito (apenas conceitos 0 a 3), por isso pontuacao ficou como null. Marcas em vermelho no PDF indicam trechos incluídos/alterados possivelmente após análise de recursos. | Nota de reconstrução do enunciado: Prova Discursiva - Conhecimentos Gerais para todos os cargos de nível médio, aplicável de forma correlata ao mesmo concurso (ANSA). O documento consultado não reproduz o enunciado literal com os textos motivadores; reconstrução baseada no padrão de resposta e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-base dissertativo completo e 3 quesitos avaliados por conceitos (0 a 3).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/ansa_26/arquivos/8562F1C445F63DEF6384F7D5BCE1177B4A58D7FD56CC7C3685369F52EE306F96.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/ansa_26/arquivos/EF22A1824EF585F2CBE1DEEDD2AA21B5C76D2B14904F0BC0DAC08A8D64FF03A0.pdf",
+    "https://cdn.cebraspe.org.br/concursos/ansa_26/arquivos/8562F1C445F63DEF6384F7D5BCE1177B4A58D7FD56CC7C3685369F52EE306F96.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

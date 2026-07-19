@@ -1,0 +1,44 @@
+{
+  "concurso": "Concurso Público para Provimento de Cargos de Auditor Fiscal Tributário - SEFAZ/SE 2025",
+  "orgao": "Secretaria de Estado da Fazenda de Sergipe (SEFAZ/SE)",
+  "cargo": "Especialidade 1: Auditor Fiscal Tributário – Geral",
+  "dataProva": "2025-09-28",
+  "areaTema": "Direito Tributário - Processo de Consulta Fiscal",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A partir do texto-modelo do padrão de resposta, infere-se que se pedia ao(à) candidato(a) discorrer sobre: 1) os efeitos jurídicos da consulta fiscal, nos termos da Lei estadual n.º 7.651/2013; e 2) os requisitos do parecer formulado pela SUTRI em resposta à consulta, de acordo com o art. 141 do Decreto estadual n.º 29.803/2014. Trata-se da Questão 1 da Prova Discursiva P4.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Efeitos jurídicos da consulta, conforme disposto na Lei estadual n.º 7.651/2013 (5 aspectos: adoção da orientação no prazo de 10 dias; afastamento de multa fiscal; impedimento de procedimento fiscal contra o contribuinte; não suspensão dos prazos de apuração e recolhimento; sujeição a penalidades após decorrido o prazo sem conformidade): Conceito 0 (não atendeu ou o fez de forma totalmente equivocada) a Conceito 5 (discorreu corretamente sobre os cinco aspectos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Requisitos do parecer emitido em resposta à consulta, de acordo com o art. 141 do Decreto estadual n.º 29.803/2014 (4 elementos: ementa; relatório; fundamentos das questões de fato e de direito; conclusão): Conceito 0 (não atendeu ou o fez de forma totalmente equivocada) a Conceito 4 (apresentou corretamente os quatro elementos)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/sefaz_se_25_auditor/arquivos/66A996D22A2E3D45F104892945F9AB61CC2762CD2893533129AA9DE7454A5DC6.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', referente à Prova Discursiva P4 - Questão 1. O PDF não indica valor em pontos por quesito (apenas escala de conceitos 0 a 5 e 0 a 4), por isso o campo 'pontuacao' foi deixado como null. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original da questão discursiva não foi reproduzido no padrão de resposta consultado; para este item não havia arquivo de 'prova bruta' disponível (apenas o padrão de resposta), de modo que o comando exato não pôde ser confirmado."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre efeitos jurídicos da consulta fiscal e requisitos do parecer da SUTRI, e 2 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/sefaz_se_25_auditor/arquivos/66A996D22A2E3D45F104892945F9AB61CC2762CD2893533129AA9DE7454A5DC6.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/sefaz_se_25_auditor/arquivos/66A996D22A2E3D45F104892945F9AB61CC2762CD2893533129AA9DE7454A5DC6.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

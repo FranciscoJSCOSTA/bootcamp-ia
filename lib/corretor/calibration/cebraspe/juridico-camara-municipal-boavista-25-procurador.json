@@ -1,0 +1,118 @@
+{
+  "concurso": "Câmara Municipal de Boa Vista/RR (CMBV) - Concurso Público para Procurador da Câmara",
+  "orgao": "Câmara Municipal de Boa Vista/RR (CMBV)",
+  "cargo": "Procurador da Câmara",
+  "dataProva": "2026-03-22",
+  "areaTema": "Direito Constitucional / Direito Tributário / Direito Administrativo",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Considerando situação hipotética envolvendo lei municipal com dispositivos pré-constitucionais (redação originária de 1980) e pós-constitucionais (alteração de 1990), discorra sobre a ação cabível para impugnar a referida lei municipal por incompatibilidade com a Constituição Federal, diferenciando-a das demais ações de controle concentrado de constitucionalidade (ADI, ADC, ADO), e sobre as modalidades de controle de compatibilidade constitucional (juízo de recepção/não recepção versus controle de constitucionalidade) aplicáveis aos dispositivos anteriores e posteriores à Constituição Federal.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Ação cabível para impugnar a lei municipal e sua diferenciação das demais ações de controle concentrado de constitucionalidade: Conceito 0 (não atendeu) a Conceito 5 (abordou corretamente e de forma completa os 5 aspectos: cabimento da ADPF, princípio da subsidiariedade, objeto da ADI, objeto da ADC e objeto da ADO)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Modalidades de controle de compatibilidade constitucional pertinentes ao caso (juízo de recepção para normas pré-constitucionais; controle de constitucionalidade para normas pós-constitucionais): Conceito 0 a Conceito 2 (abordou corretamente e de forma completa os dois aspectos)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/camara_municipal_boavista_25/arquivos/83D3BFE3A715B28D7E3A9E4C9800D65A021F66149D8D06D22AFE7A3E8A268E9D.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Fundamenta-se na ADPF (art. 102, §1º, CF; Lei 9.882/1999) e em precedentes do STF (ADI 2.365/DF, ADPF 357/DF, ADPF 1.008/DF, ADPF 495 AgR/PI, ADPF 1.028/PE, ADPF 446/MT, ADPF 573/PI, ADPF 1.095/DF, ADPF 1.029/RJ, RE 1.417.757 AgR/MG). Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. | Nota de reconstrução do enunciado: Prova Discursiva - Questão 1. O documento de padrão de resposta consultado não reproduz o enunciado literal com a situação hipotética original apresentada ao candidato; reconstrução baseada no padrão de resposta e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo (peça dissertativa sobre ADPF) e 2 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/camara_municipal_boavista_25/arquivos/83D3BFE3A715B28D7E3A9E4C9800D65A021F66149D8D06D22AFE7A3E8A268E9D.pdf"
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Considerando situação hipotética de pessoa jurídica sujeita a tributo lançado por homologação que declarou e recolheu o tributo devido acompanhado de juros de mora antes de qualquer procedimento fiscalizatório, discorra sobre o instituto da denúncia espontânea (art. 138 do CTN); sobre a hipótese de o contribuinte ter requerido parcelamento do débito após a declaração; e sobre a possibilidade de exclusão da multa moratória caso o pagamento ocorra após a declaração, mas antes de qualquer procedimento fiscalizatório.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Denúncia espontânea: Conceito 0 (não mencionou nenhum aspecto) a Conceito 6 (mencionou corretamente todos os 6 aspectos: exclusão de responsabilidade pela denúncia espontânea; declaração em tributo por homologação; pagamento acompanhado de juros de mora; dispensa da multa de mora; configuração da denúncia espontânea no caso; Súmula 360 do STJ)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Hipótese de parcelamento do débito conjuntamente com a confissão: Conceito 0 a Conceito 2 (mencionou corretamente que o parcelamento não configura denúncia espontânea, por exigir pagamento integral - REsp 1.102.577/DF)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Possibilidade de exclusão da multa moratória na hipótese de declaração a destempo e pagamento após a declaração, mas antes de procedimento fiscalizatório: Conceito 0 a Conceito 3 (mencionou os 3 aspectos: não configuração de denúncia espontânea, necessidade de pagamento concomitante ou antecipado à declaração, e possibilidade de cobrança administrativa/judicial do crédito já constituído)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/camara_municipal_boavista_25/arquivos/83D3BFE3A715B28D7E3A9E4C9800D65A021F66149D8D06D22AFE7A3E8A268E9D.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Fundamenta-se no art. 138 do CTN, Súmula 360/STJ e no REsp 1.102.577/DF. Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. | Nota de reconstrução do enunciado: Prova Discursiva - Questão 2. Enunciado original não reproduzido no documento de padrão de resposta consultado; reconstrução baseada no padrão de resposta e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre denúncia espontânea tributária e 3 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/camara_municipal_boavista_25/arquivos/83D3BFE3A715B28D7E3A9E4C9800D65A021F66149D8D06D22AFE7A3E8A268E9D.pdf"
+        }
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Elabore parecer técnico sobre proposta legislativa (projeto de lei municipal) que pretende instituir defensores públicos municipais com prerrogativas equivalentes às da Defensoria Pública (art. 134 da CF), com provimento dos cargos exclusivamente em comissão, sem concurso público, abordando a natureza jurídica da Defensoria Pública e a competência constitucional para sua criação; a forma de provimento de cargos em carreiras jurídicas; a (in)constitucionalidade da criação de Defensoria Pública municipal nesses moldes e a possibilidade de lei municipal instituir serviços complementares de assistência jurídica gratuita; e seu posicionamento final sobre o projeto de lei e as possíveis consequências jurídicas de sua aprovação.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Natureza jurídica da Defensoria Pública e competência constitucional para sua criação e organização: Conceito 0 (não abordou) a Conceito 4 (desenvolveu de forma correta e completa os dois aspectos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Forma de provimento de cargos para ingresso em carreiras jurídicas e entendimento do STF sobre criação de cargos de defensor público por meio de cargos em comissão: Conceito 0 a Conceito 4 (abordou corretamente os 4 aspectos: exigência de concurso público - art. 37, II, CF; exceções constitucionais para cargos em comissão; violação aos princípios da legalidade/impessoalidade/moralidade/eficiência; ADI 3.700 do STF)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Inconstitucionalidade da criação de Defensoria Pública municipal e possibilidade de lei municipal instituir serviços complementares de assistência jurídica gratuita: Conceito 0 a Conceito 3 (abordou corretamente os 2 aspectos: impossibilidade de Defensoria Pública municipal nos moldes do art. 134 da CF e possibilidade de serviços complementares - ADPF 279)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.4 – Posicionamento sobre o projeto de lei municipal e possíveis consequências jurídicas de sua aprovação: Conceito 0 a Conceito 4 (abordou corretamente os 4 aspectos: controle concentrado, controle difuso, nulidade dos atos de nomeação/insegurança jurídica, posicionamento pela rejeição da proposta)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/camara_municipal_boavista_25/arquivos/83D3BFE3A715B28D7E3A9E4C9800D65A021F66149D8D06D22AFE7A3E8A268E9D.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Fundamenta-se nos arts. 134, 24 XIII, 37 II e 30 I da CF, no Tema 1.010 de RG do STF (RE 1.041.210), e nas decisões do STF na ADI 3.700 e na ADPF 279. Trecho tachado em vermelho no PDF ('a iniciativa legislativa da Câmara') indica ajuste textual, possivelmente pós-recurso. Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. | Nota de reconstrução do enunciado: Prova Discursiva - Parecer. Enunciado original não reproduzido no documento de padrão de resposta consultado; reconstrução baseada no padrão de resposta e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com parecer técnico-modelo completo e 4 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/camara_municipal_boavista_25/arquivos/83D3BFE3A715B28D7E3A9E4C9800D65A021F66149D8D06D22AFE7A3E8A268E9D.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/camara_municipal_boavista_25/arquivos/83D3BFE3A715B28D7E3A9E4C9800D65A021F66149D8D06D22AFE7A3E8A268E9D.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

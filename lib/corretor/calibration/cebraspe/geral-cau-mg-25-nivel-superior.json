@@ -1,0 +1,31 @@
+{
+  "concurso": "Concurso Público CAU/MG 2025 (Conselho de Arquitetura e Urbanismo do Estado de Minas Gerais)",
+  "orgao": "Conselho de Arquitetura e Urbanismo do Estado de Minas Gerais (CAU/MG)",
+  "cargo": "Cargos de Nível Superior (redação comum, inclui Advogado)",
+  "dataProva": "2025-07-13",
+  "areaTema": "Redação/Conhecimentos Gerais - ESG e Desenvolvimento Urbano Sustentável",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Enunciado original da prova (situação hipotética/comando) não constava no PDF do padrão de resposta lido, e o PDF da prova bruta (raw) não estava disponível para este item (rawLocalPath = null). Com base no padrão de resposta, o tema versava sobre a relação entre os aspectos ambiental, social e de governança (conceito ESG) e sua aplicação ao desenvolvimento urbano sustentável, pedindo-se: 1) a relação entre os aspectos ambiental, social e de governança com base no conceito ESG; 2) três exemplos de práticas relacionadas a esse conceito que contribuem para o desenvolvimento urbano; 3) a forma como cada um dos três exemplos citados contribui para o desenvolvimento urbano.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Relação entre os aspectos ambiental, social e de governança com base no conceito ESG: Conceito 0 (não atendeu) a Conceito 5 (abordou corretamente os cinco tópicos: aspecto ambiental, aspecto social, aspecto de governança, relação entre os aspectos, embasamento no conceito ESG)", "pontuacao": null},
+          {"descricao": "Quesito 2.2 – Três exemplos de práticas relacionadas ao conceito ESG que contribuem para o desenvolvimento urbano (ex.: áreas verdes, transporte público eficiente, gestão de resíduos, governança transparente, participação social, políticas de inclusão/moradia): Conceito 0 (não atendeu) a Conceito 3 (mencionou corretamente três exemplos)", "pontuacao": null},
+          {"descricao": "Quesito 2.3 – Forma como cada um dos três exemplos citados contribui para o desenvolvimento urbano (redução de emissões, redução de desigualdades, fortalecimento do comércio local, melhoria da qualidade de vida): Conceito 0 (não atendeu) a Conceito 3 (discorreu de forma articulada e consistente sobre as três formas)", "pontuacao": null}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/cau_mg_25/arquivos/PADRÃO_DE_RESPOSTA_DEFINITIVO_NÍVEL SUPERIOR.pdf",
+        "observacoes": "IMPORTANTE - discrepância de metadados: a lista de extração associava este documento ao 'CARGO 1: ADVOGADO', mas o próprio PDF (título e conteúdo) indica que se trata de PADRÃO DE RESPOSTA comum a 'CARGOS DE NÍVEL SUPERIOR' em geral (redação de conhecimentos gerais sobre ESG/desenvolvimento urbano, sem conteúdo jurídico específico da advocacia). Não foi possível confirmar o enunciado original da questão nem os valores em pontos de cada quesito, pois o PDF de padrão de resposta não traz o texto do comando/situação hipotética (apenas o texto-modelo e os quesitos avaliados) e não havia PDF de prova bruta (raw) disponível para este item nesta extração."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo e 3 quesitos avaliados por conceitos, para os cargos de nível superior do CAU/MG.", "fonte": "https://cdn.cebraspe.org.br/concursos/cau_mg_25/arquivos/PADRÃO_DE_RESPOSTA_DEFINITIVO_NÍVEL SUPERIOR.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/cau_mg_25/arquivos/PADRÃO_DE_RESPOSTA_DEFINITIVO_NÍVEL SUPERIOR.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

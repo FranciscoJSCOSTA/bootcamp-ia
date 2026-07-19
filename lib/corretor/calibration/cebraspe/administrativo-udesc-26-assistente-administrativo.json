@@ -1,0 +1,31 @@
+{
+  "concurso": "Concurso Público UDESC 2026 (Fundação Universidade do Estado de Santa Catarina)",
+  "orgao": "Fundação Universidade do Estado de Santa Catarina (UDESC)",
+  "cargo": "Técnico Universitário de Suporte – Função: Assistente Administrativo (cargos 11 e 12)",
+  "dataProva": "2026-03-29",
+  "areaTema": "Redação/Conhecimentos Gerais - Sociedade Hiperconectada e Bem-Estar",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "O medo de perder algo tem sido uma sombra constante em nossas vidas. O ritmo acelerado e a competição são implacáveis e a FOMO (fear of missing out) tem sido um fenômeno predominante. [...] (Internet: forbes.com.br, com adaptações). Enquanto a agenda de eventos, encontros e atividades segue insana, um novo comportamento na sociedade vem chamando a atenção. Após a febre do FOMO, surge uma nova sigla que possui uma atitude libertadora de se permitir dizer \"não\" quando todos dizem \"sim\": o JOMO (joy of missing out, ou o prazer de perder). [...] (Internet: harpersbazaar.uol.com.br, com adaptações). Considerando que os fragmentos de texto apresentados tenham caráter meramente motivador, redija um texto dissertativo acerca do tema a seguir. A BUSCA PELO BEM-ESTAR MENTAL EM UMA SOCIEDADE HIPERCONECTADA. Ao elaborar seu texto, aborde os seguintes aspectos: 1 possíveis benefícios de uma sociedade hiperconectada para o ser humano; [valor: 3,00 pontos] 2 o impacto do uso indiscriminado de redes sociais e outros dispositivos eletrônicos e(ou) digitais na saúde mental das pessoas; [valor: 3,00 pontos] 3 estratégias que podem trazer equilíbrio para o bem-estar do ser humano em um contexto de hiperconexão. [valor: 3,50 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Possíveis benefícios de uma sociedade hiperconectada para o ser humano: Conceito 0 (não apresentou) a Conceito 3 (apresentou benefícios de forma satisfatória e conectada com o restante do texto)", "pontuacao": 3.00},
+          {"descricao": "Quesito 2.2 – Impacto do uso indiscriminado de redes sociais e outros dispositivos eletrônicos e(ou) digitais na saúde mental das pessoas: Conceito 0 a Conceito 3 (apresentou de forma satisfatória o impacto de redes sociais e de outros dispositivos eletrônicos e(ou) digitais)", "pontuacao": 3.00},
+          {"descricao": "Quesito 2.3 – Estratégias para o equilíbrio: Conceito 0 (não apresentou) a Conceito 3 (apresentou de forma satisfatória estratégias que podem trazer equilíbrio para o bem-estar do ser humano)", "pontuacao": 3.50}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/udesc_26/arquivos/A2FAD2AD706AB8746C1EA51865851F5C1118F00E6E5A4676C90B6061163639AA.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', comum aos cargos 11 e 12 (Técnico Universitário de Suporte, incluindo Assistente Administrativo). Redação dissertativa de conhecimentos gerais, sem conteúdo técnico específico do cargo. Conteúdo soma 9,50 pontos + 0,50 ponto de apresentação/estrutura textual = 10,00 pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo e 3 quesitos avaliados por conceitos, comum aos cargos 11 e 12.", "fonte": "https://cdn.cebraspe.org.br/concursos/udesc_26/arquivos/A2FAD2AD706AB8746C1EA51865851F5C1118F00E6E5A4676C90B6061163639AA.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/udesc_26/arquivos/A2FAD2AD706AB8746C1EA51865851F5C1118F00E6E5A4676C90B6061163639AA.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

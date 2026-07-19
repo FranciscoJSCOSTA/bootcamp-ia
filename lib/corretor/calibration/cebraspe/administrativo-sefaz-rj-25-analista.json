@@ -1,0 +1,48 @@
+{
+  "concurso": "Concurso Público para o Provimento de Vagas e a Formação de Cadastro de Reserva em Cargos Efetivos de Analista em Finanças Públicas - SEFAZ/RJ 2025",
+  "orgao": "Secretaria de Estado da Fazenda do Governo do Estado do Rio de Janeiro (SEFAZ/RJ)",
+  "cargo": "Cargo 1: Analista em Finanças Públicas - Especialidade: Administrativo-Financeira",
+  "dataProva": "2025-04-27",
+  "areaTema": "Direito Financeiro e Orçamentário",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Trata-se de Prova Discursiva P3, parte comum para todos os cargos de Analista em Finanças Públicas, na forma de Nota Técnica. O texto-modelo indica que se pedia ao candidato a elaboração de nota técnica sobre a análise da compatibilidade de uma proposta de operação de crédito de R$ 3 bilhões (destinada ao pagamento de despesas correntes, inclusive folha de pessoal ativo e inativo) com a regra de ouro (art. 167, III, da Constituição Federal de 1988) e a apresentação de alternativas fiscais para o reequilíbrio orçamentário do Estado.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1: Conceito 0 (não abordou o aspecto ou fez de forma totalmente equivocada) / Conceito 1 (discorreu de forma parcialmente consistente sobre apenas um dos elementos do aspecto - importância da regra de ouro ou sua aplicação aos entes subnacionais) / Conceito 2 (discorreu corretamente sobre apenas um dos elementos) / Conceito 3 (discorreu de forma parcialmente consistente sobre todo o aspecto) / Conceito 4 (discorreu de forma consistente sobre todo o aspecto)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2: Conceito 0 (não abordou) / Conceito 1 (mencionou apenas a inviabilidade da operação, sem tratar de aspecto legal) / Conceito 2 (mencionou inviabilidade e ilegalidade, mas sem justificativa) / Conceito 3 (discorreu sobre inviabilidade e ilegalidade com fundamentação parcialmente consistente) / Conceito 4 (discorreu com fundamentação consistente)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3: Conceito 0 (não abordou) / Conceito 1 (mencionou apenas que há alternativa fiscal, sem dizer qual) / Conceito 2 (mencionou uma alternativa fiscal, mas sem observância à regra de ouro) / Conceito 3 (mencionou alternativa fiscal citando a regra de ouro, mas de forma insuficiente) / Conceito 4 (mencionou alternativa fiscal em observância à regra de ouro)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/sefaz_rj_25_analista/arquivos/SEFAZ_RJ_25_ANALISTA_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. O PDF não indica valor em pontos por quesito (apenas escala de conceitos 0 a 4), por isso o campo 'pontuacao' foi deixado como null. Texto-modelo estruturado como Nota Técnica citando a LRF (LC 101/2000, arts. 29 a 32), a ADI 5.683 do STF e orientações da STN. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original não foi reproduzido no padrão de resposta consultado; o PDF fornecido como 'prova bruta' para este item era, na verdade, um edital de resultado final da prova discursiva (lista de notas de candidatos), sem o caderno de questões, de modo que o comando exato não pôde ser confirmado."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo (nota técnica) e 3 quesitos avaliados por conceitos (0 a 4).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/sefaz_rj_25_analista/arquivos/SEFAZ_RJ_25_ANALISTA_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/sefaz_rj_25_analista/arquivos/SEFAZ_RJ_25_ANALISTA_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

@@ -1,0 +1,48 @@
+{
+  "banca": "cebraspe",
+  "descricao": "Síntese dos padrões gerais de como o Cebraspe estrutura e pontua o desenvolvimento do tema em questões discursivas de nível superior. Não é uma cópia de nenhuma prova específica — é uma agregação estatística/qualitativa extraída das provas reais da base de calibração (ver lib/corretor/calibration/cebraspe/*.json). Serve como camada de calibração geral para quando não existe, na base local, nenhuma prova com tema semelhante ao da redação avaliada.",
+  "baseadoEm": {
+    "concursosDistintos": 35,
+    "arquivosDeProva": 42,
+    "questoesDiscursivasTotais": 71,
+    "questoesComPontuacaoNumericaCompleta": 35,
+    "coletadoEm": "2026-07-13"
+  },
+  "estruturaTipica": {
+    "itensPorQuestao": {
+      "min": 2,
+      "max": 6,
+      "mediana": 3,
+      "media": 3.47,
+      "faixaTypica": "3 a 4 quesitos avaliados por questão discursiva; 2 é comum em questões mais curtas/específicas, 5-6 aparece em peças técnicas mais complexas ou questões com múltiplos comandos"
+    },
+    "distribuicaoDePeso": {
+      "pesosIguaisEntreQuesitos": "raro — só 2 de 30 questões analisadas (~7%) dividem a pontuação igualmente entre todos os quesitos",
+      "quesitoDominanteShareMediana": "37%",
+      "quesitoDominanteShareMedia": "40%",
+      "faixaTypica": "o quesito de maior peso concentra tipicamente entre 25% e 50% da pontuação total da questão — pesos desiguais são a norma, mas raramente um único quesito domina quase toda a nota (extremos abaixo de 20% ou acima de 65% são incomuns)",
+      "posicaoDoQuesitoDominante": "não segue padrão fixo de posição no enunciado (não é sempre o primeiro comando nem sempre a conclusão) — o peso maior tende a acompanhar o quesito de maior complexidade/abrangência argumentativa, não sua ordem de aparição"
+    },
+    "linguagemEEstrutura": {
+      "convencaoDominante": "praticamente todo quesito (235/235 nos dados coletados) é descrito como uma escala 'Conceito 0 (não atendeu / abordou de forma equivocada) a Conceito N (abordou corretamente todos os aspectos esperados)', com o intermediário descrevendo atendimento parcial",
+      "vocabularioComum": "a palavra 'aspecto(s)' aparece em ~1/3 dos quesitos como forma de enumerar o que se espera dentro de um mesmo quesito; menções explícitas a 'elementos essenciais' são raras (~2%) — a maioria descreve o conteúdo esperado em prosa direta, citando dispositivo legal, conceito técnico ou fato específico que deveria constar na resposta",
+      "exemploDeFormatoTipico": "Quesito 2.X – <subtema específico, ex: 'fundamentos jurídicos da medida X'>: Conceito 0 (não abordou ou abordou de forma equivocada) a Conceito N (abordou corretamente os N aspectos: <lista específica do tema>)",
+      "pecasProfissionaisVsQuestoesDissertativas": "questões do tipo 'peça profissional/técnica' costumam incluir um quesito próprio para a estrutura formal da peça (endereçamento, cabeçalho, pedidos, etc.), separado dos quesitos de conteúdo jurídico/técnico — ao montar os itens estimados por esta síntese, trate esse quesito de estrutura formal como um item independente quando o tipo de questão for peça (não como uma categoria fixa obrigatória em toda questão — o motor só inclui um item de aspectos textuais/estrutura quando a fonte disponível indicar que ele é avaliado separadamente)"
+    }
+  },
+  "deducoes": {
+    "fugaAoTema": {
+      "encontradoNoCorpusDePadraoDeResposta": false,
+      "observacao": "Nenhum dos 42 documentos de padrão de resposta coletados menciona fuga ao tema. Isso não é uma lacuna da coleta — essa regra normalmente é definida nas instruções gerais da prova discursiva (edital do concurso), não no padrão de resposta específico de cada questão, que só lista os critérios de conteúdo esperado. O padrão de resposta simplesmente não é o documento onde essa regra apareceria."
+    },
+    "limiteDeLinhas": {
+      "encontradoNoCorpusDePadraoDeResposta": false,
+      "observacao": "Mesma situação da fuga ao tema: é regra de instrução geral da prova (edital), não aparece nos padrões de resposta por questão coletados nesta base."
+    },
+    "implicacaoParaOMotor": "Esta síntese não pode calibrar como o Cebraspe pontua fuga ao tema ou extrapolação de linhas com base em documentos reais — não há esse dado no corpus coletado. O motor deve manter o tratamento genérico que já tinha para essas duas deduções (baseado no enunciado da própria redação avaliada, não em calibração externa). Esta síntese serve exclusivamente para calibrar a competência 'desenvolvimento do tema'."
+    },
+  "limitacoes": {
+    "amostra": "35 concursos e 71 questões é uma amostra real mas não exaustiva do universo de provas Cebraspe — os números acima (medianas, faixas típicas) são um retrato do padrão observado nesta amostra, não uma regra fixa da banca.",
+    "pesoNaoDivulgado": "51% das questões coletadas (36 de 71) têm o padrão de resposta descrevendo os quesitos avaliados mas sem informar o peso numérico exato de cada um — nesses casos só se sabe a pontuação total da questão, não a quebra por quesito. Isso é mais comum em questões do tipo peça profissional. A análise de distribuição de peso acima usa só as 35 questões com pontuação numérica completa."
+  }
+}

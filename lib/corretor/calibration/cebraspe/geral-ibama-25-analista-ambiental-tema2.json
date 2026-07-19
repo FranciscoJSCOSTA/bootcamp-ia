@@ -1,0 +1,33 @@
+{
+  "concurso": "Concurso Público IBAMA 2025",
+  "orgao": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA)",
+  "cargo": "Analista Ambiental – Tema 2: Manejo, Conservação e Reabilitação da Fauna Silvestre",
+  "dataProva": "2025-04-06",
+  "areaTema": "Manejo e Conservação de Fauna Silvestre",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "O agravamento das mudanças climáticas intensifica os incêndios florestais e afeta gravemente a fauna silvestre. As queimadas destroem hábitats, reduzem alimento, forçam deslocamentos, dificultam a sobrevivência e comprometem a reprodução das espécies. Além das mortes diretas, as queimadas deixam animais órfãos, privados de proteção e alimentação materna. O resgate e a reabilitação das espécies exigem intervenções especializadas, com suporte nutricional, cuidados veterinários e preparo para a sua reintegração ao ambiente natural. A ausência dessas ações pode comprometer a recuperação populacional e agravar ainda mais os impactos das queimadas sobre a biodiversidade. Considerando o texto precedente como unicamente motivador, redija um texto dissertativo acerca do resgate de animais silvestres afetados por queimadas, com base nos princípios básicos da biossegurança. Ao elaborar seu texto, aborde os seguintes aspectos: 1 importância da biossegurança no resgate da fauna atingida por queimadas e principais riscos envolvidos; [valor: 2,00 pontos] 2 equipamentos de proteção individual da equipe de resgate; [valor: 2,00 pontos] 3 materiais de contenção física adequados para as diferentes espécies; [valor: 2,00 pontos] 4 cuidados iniciais necessários ao resgate de animal silvestre ferido com queimaduras, incluindo-se a estabilização e os desafios da reabilitação; [valor: 7,00 pontos] 5 impactos das queimadas sobre filhotes sem pais e estratégias para sua sobrevivência após o resgate, como alimentação, adaptação ao cativeiro e critérios para sua reintrodução na natureza. [valor: 6,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Aspecto 1 (Quesitos 2.1.1 e 2.1.2) – Importância da biossegurança no resgate da fauna atingida por queimadas (Conceito 0-2) e principais riscos envolvidos: exposição a agentes infecciosos, estresse animal, acidentes com animais debilitados (Conceito 0-3)", "pontuacao": 2.00},
+          {"descricao": "Quesito 2.2 – Equipamentos de proteção individual da equipe de resgate (luvas, aventais, máscaras, óculos de proteção, botas impermeáveis, capacete, roupa resistente ao fogo): Conceito 0 (não abordou) a Conceito 3 (abordou corretamente todos os sete equipamentos)", "pontuacao": 2.00},
+          {"descricao": "Quesito 2.3 – Materiais de contenção física adequados para as diferentes espécies (mamíferos: puçás, cambão, laço de Lutz; aves: toalhas, puçás; répteis: ganchos herpetológicos, pinças): Conceito 0 (não abordou) a Conceito 4 (distinção correta entre as três espécies com material de contenção para cada uma)", "pontuacao": 2.00},
+          {"descricao": "Aspectos 2.4.1 e 2.4.2 – Cuidados iniciais ao resgate de animal silvestre ferido com queimaduras: estabilização (segurança do resgatador, evitar manipulação excessiva, avaliação visual, controle da dor, cuidado com hipotermia, hidratação oral, proteção das áreas queimadas - Conceito 0-4) e desafios da reabilitação (fisioterapia/nutrição, infraestrutura/equipe capacitada, reintrodução com sequelas - Conceito 0-3)", "pontuacao": 7.00},
+          {"descricao": "Aspectos 2.5.1 e 2.5.2 – Impactos das queimadas sobre filhotes sem pais (desnutrição, vulnerabilidade a predadores, estresse extremo, dificuldades de adaptação - Conceito 0-4) e estratégias para sobrevivência (alimentação específica por espécie, adaptação ao cativeiro, critérios de reintrodução - Conceito 0-3)", "pontuacao": 6.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/ibama_25/arquivos/PADRÃO_RESPOSTA_DEFINITIVO_CARGO_3.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. O padrão subdivide alguns aspectos em quesitos duplos (2.1.1/2.1.2, 2.4.1/2.4.2, 2.5.1/2.5.2), mas a prova bruta atribui valor em pontos apenas por aspecto numerado (1 a 5); não há indicação explícita de como o valor de cada aspecto se divide entre os sub-quesitos correspondentes, por isso os itens acima foram agrupados conforme a estrutura de pontuação da prova. Conteúdo soma 19,00 pontos + 1,00 ponto de apresentação/estrutura textual = 20,00 pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 8 sub-quesitos (agrupados em 5 itens de pontuação) avaliados por conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/ibama_25/arquivos/PADRÃO_RESPOSTA_DEFINITIVO_CARGO_3.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/ibama_25/arquivos/PADRÃO_RESPOSTA_DEFINITIVO_CARGO_3.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

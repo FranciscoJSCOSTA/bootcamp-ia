@@ -1,0 +1,48 @@
+{
+  "concurso": "Concurso Público para Provimento de Vagas e Formação de Cadastro de Reserva em Cargos de Analista Ministerial e de Técnico Ministerial - MPCE 2025",
+  "orgao": "Ministério Público do Estado do Ceará (MPCE)",
+  "cargo": "Cargo 11: Técnico Ministerial",
+  "dataProva": "2025-04-13",
+  "areaTema": "Gestão Pública / Direitos da Pessoa com Deficiência",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A partir do texto-modelo do padrão de resposta, infere-se que se pedia ao(à) candidato(a) discorrer, em texto dissertativo, sobre: 1) a relação entre acesso de pessoas com deficiência a serviços públicos e o exercício da cidadania; 2) exemplos de barreiras (físicas e não físicas) enfrentadas por pessoas com deficiência no acesso a serviços públicos; e 3) a relação entre acessibilidade a serviços públicos e o desenvolvimento econômico do país.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Acessibilidade e cidadania: Conceito 0 (não abordou o aspecto) / Conceito 1 (tangenciou o aspecto) / Conceito 2 (abordou superficialmente acessibilidade e cidadania) / Conceito 3 (abordou de forma parcialmente correta, indicando acessibilidade como condição para a cidadania) / Conceito 4 (desenvolveu adequadamente o aspecto)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Barreiras ao acesso: Conceito 0 (não abordou) / Conceito 1 (tangenciou, tratando apenas da definição de barreiras) / Conceito 2 (abordou superficialmente, sem exemplos) / Conceito 3 (exemplificou de forma parcialmente correta duas ou mais barreiras) / Conceito 4 (exemplificou adequadamente duas ou mais barreiras)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Desenvolvimento econômico e acesso a serviços públicos: Conceito 0 (não abordou) / Conceito 1 (tangenciou, tratando apenas de desenvolvimento econômico) / Conceito 2 (abordou superficialmente a relação entre desenvolvimento econômico e acesso) / Conceito 3 (abordou de forma parcialmente correta a relação entre desenvolvimento econômico e acesso de pessoas com deficiência a serviços públicos) / Conceito 4 (desenvolveu adequadamente o aspecto)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/mp_ce_25_servidor/arquivos/PADRÃO DE RESPOSTA DEFINITIVO _ CARGO 11.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO' (após julgamento de recursos; há trechos em vermelho no PDF original indicando ajustes de redação nos quesitos 2.1 e 2.3 em decorrência de recursos). O PDF não indica valor em pontos por quesito (apenas escala de conceitos 0 a 4), por isso o campo 'pontuacao' foi deixado como null. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original da questão discursiva não foi reproduzido no padrão de resposta consultado; o PDF fornecido como 'prova bruta' para este item era, na verdade, o Edital nº 5 – MPCE, de 13 de maio de 2025 (resultado final nas provas objetivas e resultado provisório na prova discursiva), sem o caderno de questões, de modo que o comando exato não pôde ser confirmado."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre acessibilidade de pessoas com deficiência a serviços públicos e 3 quesitos avaliados por conceitos (0 a 4).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/mp_ce_25_servidor/arquivos/PADRÃO DE RESPOSTA DEFINITIVO _ CARGO 11.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/mp_ce_25_servidor/arquivos/PADRÃO DE RESPOSTA DEFINITIVO _ CARGO 11.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

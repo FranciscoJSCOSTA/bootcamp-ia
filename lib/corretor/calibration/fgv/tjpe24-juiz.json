@@ -1,0 +1,118 @@
+{
+  "concurso": "Concurso Público para o Tribunal de Justiça do Estado de Pernambuco 2024",
+  "orgao": "Tribunal de Justiça do Estado de Pernambuco (TJPE)",
+  "cargo": "Juiz Substituto",
+  "dataProva": "2025-02-02",
+  "areaTema": "Direito Civil, Direito Penal, Direito Administrativo, Direito Constitucional e Direito Processual Civil",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Questão 1 – Direito Civil. O espólio de Geraldo G., representado por seu inventariante Geraldinho, aciona Cristine Y. e XXX Empreendimentos. Alega, em síntese, que o de cujus legara gigantesco imóvel comercial no centro de Pernambuco em favor da primeira ré, Cristine. O imóvel, à época, estava locado à XXX Empreendimentos. Desde o óbito, em 2018, Cristine vinha colhendo os frutos dessa locação, isto é, a XXX Empreendimentos passou a pagar-lhe os aluguéis. Sucede que, em 2023, foi reconhecido o rompimento do testamento que beneficiava Cristine. Assim, os pagamentos feitos pela XXX Empreendimentos a quem jamais fora herdeira a qualquer título não podem ser considerados liberatórios, tanto mais porque ambos os ora réus foram cientificados da demanda em que se pleiteava o rompimento da disposição de última vontade, de modo que não podem alegar desconhecimento quanto a isso. Pede, portanto, a condenação solidária ao pagamento de todos os valores vencidos desde o óbito. Analise o pleito, de maneira justificada, em relação a ambos os réus. Ao final, indique sua conclusão, também apresentando e detalhando os conceitos jurídicos envolvidos. Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Identificação, à luz da escada ponteana, de que o rompimento da disposição de última vontade opera no plano da eficácia, conforme doutrina majoritária. Diferenciação entre vícios congênitos e fatos supervenientes que levam à retirada de efeitos. Pontuação: 0.50 (fixa, sem degraus intermediários explicitados no espelho)", "pontuacao": 0.50},
+          {"descricao": "Por força da saisine, Cristine adquiriu o bem tão logo faleceu Geraldo G. (Art. 1.784 do CC). Quanto aos frutos, aplica-se o Art. 1.923, §2º, do mesmo código. Pontuação: 0.50 (fixa)", "pontuacao": 0.50},
+          {"descricao": "Reconhecimento de que sua posse era de boa-fé, porque não contaminada por vício algum, de modo que faz jus aos frutos percebidos enquanto durou (Art. 1.214, caput, do CC). Pontuação: 0.50 (fixa)", "pontuacao": 0.50},
+          {"descricao": "Admissão da força liberatória dos pagamentos feitos pela pessoa jurídica a credor putativo (Art. 309 do CC); e, à luz do Art. 10 da Lei 8.245/91, a locação se transmitiu a Cristine, sendo indiferente sua qualidade de proprietária ou legítima possuidora para a validade da locação, desde que assegurada a permanência do inquilino no imóvel. Pontuação: 0.50 (fixa)", "pontuacao": 0.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Conferência da Tabela de Questões' (espelho de correção). Nesta questão os 4 itens aparecem com pontuação fixa de 0,50 cada no espelho publicado, sem degraus intermediários explícitos (diferente de outras questões do mesmo espelho que trazem escala 0,00-x-y). 'Nota da Questão 01 - Gabarito 1' = 2 (soma dos 4 itens). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (Conferência da Tabela de Questões) com texto-modelo por item (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Questão 2 – Direito Penal. Sobre o tema do sistema disciplinar no direito de execução penal, responda as perguntas a seguir de forma objetivamente fundamentada, à luz da Lei de Execução Penal, da principiologia constitucional e da jurisprudência do Supremo Tribunal Federal. a) Como repercute o princípio da legalidade, levando em conta seus desdobramentos e princípios relacionados, sobre a definição das faltas disciplinares, na execução da pena privativa de liberdade? b) Como repercute o princípio da humanidade sobre as sanções disciplinares em geral e em especial sobre a sanção de isolamento da pessoa presa? c) A pessoa presa cumprindo sanção de isolamento disciplinar tem direito de sair ao pátio para banho de sol? Explique. Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a) Princípio da legalidade no sistema disciplinar: análise qualificada do Art. 45, caput, da Lei de Execução Penal (anterioridade e taxatividade na definição das hipóteses de faltas e sanções). Há reserva legal somente para faltas graves (Art. 49, LEP). Pontuação: 0.75 (fixa)", "pontuacao": 0.75},
+          {"descricao": "b1) Princípio da humanidade no sistema disciplinar: análise qualificada do Art. 45, §§1º e 2º, da LEP, com vedação a sanções que coloquem em perigo a integridade física e moral do condenado e ao emprego de celas escuras, e do princípio constitucional de vedação a penas cruéis e tratamento desumano ou degradante (Art. 5º, III e XLVII, 'e', CF). Pontuação: 0.50 (fixa)", "pontuacao": 0.50},
+          {"descricao": "b2) Restrições legais à sanção de isolamento disciplinar: máximo de dez dias se isolamento preventivo, garantida a detração (Art. 60, LEP) ou de trinta dias, salvo Regime Disciplinar Diferenciado, e obrigação de comunicação ao juiz da execução (Art. 58, LEP). Pontuação: 0.25 (fixa)", "pontuacao": 0.25},
+          {"descricao": "c) Sim, também pessoas presas em sanção de isolamento disciplinar têm direito a ao menos 2 (duas) horas diárias de pátio e 'banho de sol', conforme Art. 40 e Art. 41, V, LEP, e decisão do STF em interpretação do Art. 52, IV, da LEP (STF, HC 172.136/SP, 2ª T., j. 10.10.2020). Pontuação: 0.50 (fixa)", "pontuacao": 0.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf",
+        "observacoes": "'Nota da Questão 02 - Gabarito 1' = 2 (soma dos 4 itens: 0,75+0,50+0,25+0,50). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Questão 3 – Direito Administrativo. Em matéria de responsabilidade civil do Estado, responda as perguntas a seguir de forma objetivamente fundamentada. a) A responsabilização civil do Estado pode advir da prática de atos estatais lícitos e legítimos? b) Discorra sobre a responsabilidade civil das concessionárias de rodovias por acidentes causados pelo ingresso de animais domésticos na pista de rolamento, com base no atual entendimento do Superior Tribunal de Justiça, abordando os seguintes aspectos: (b.1) Aplicam-se as regras do Código de Defesa do Consumidor? (b.2) É aplicável a teoria da culpa administrativa? (b.3) Para reparação dos danos da vítima, há necessidade de identificação do proprietário do animal cujo ingresso na rodovia causou o acidente? (b.4) Caso não exercido pelo poder concedente o dever de fiscalização, afasta-se a responsabilidade civil das concessionárias? Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a) O Art. 37, §6º, da CF dispõe sobre a responsabilidade civil objetiva do Estado (Art. 43 do CC acompanha o teor da norma constitucional). O dever de indenizar do Estado emerge do nexo causal entre um fato administrativo e o dano, não sendo o ato ilícito elemento indispensável. A responsabilização do Estado pode advir da prática de atos lícitos e legítimos, quando certo ato causa danos a uma parcela específica da sociedade (distribuição igualitária dos ônus e encargos, ex.: obra pública com dano anormal e especial). Pontuação: 1.00 (fixa)", "pontuacao": 1.00},
+          {"descricao": "b1) Sim, aplicam-se as regras do Código de Defesa do Consumidor aos casos de reparação de danos oriundos de acidentes causados pelo ingresso de animais domésticos nas faixas de rolamento de rodovias objeto de concessão. Pontuação: 0.25 (fixa)", "pontuacao": 0.25},
+          {"descricao": "b2) Não se aplica a teoria da culpa administrativa, pois a concessionária responde objetivamente, independentemente de culpa, pelos danos sofridos pelo usuário. Pontuação: 0.25 (fixa)", "pontuacao": 0.25},
+          {"descricao": "b3) Não. O princípio da primazia do interesse da vítima, decorrente da solidariedade, impõe a reparação dos danos independentemente da identificação do proprietário do animal. Pontuação: 0.25 (fixa)", "pontuacao": 0.25},
+          {"descricao": "b4) Não. O dever de fiscalização dos entes públicos não afasta a responsabilidade civil das concessionárias, nos termos do Art. 25 da Lei das Concessões (STJ, REsp 1.908.738-SP, Tema Repetitivo 1.122). Pontuação: 0.25 (fixa)", "pontuacao": 0.25}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf",
+        "observacoes": "'Nota da Questão 03 - Gabarito 1' = 2 (soma: 1,00+0,25+0,25+0,25+0,25). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf"}
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Questão 4 – Direito Constitucional. No mês imediatamente anterior à realização de uma eleição municipal, foi organizada grande solenidade religiosa, no maior templo da religião X existente no município Alfa. Durante a solenidade, o sacerdote que a conduzia, perante um público de milhares de pessoas, enalteceu as características pessoais de João, que estava presente, ocupava uma posição de destaque e era candidato ao cargo eletivo de prefeito do município Alfa, e ressaltou que a sua eleição representaria um salto de qualidade para a vida de todos os munícipes. Maria, que figura como candidata a vice-prefeita de Alfa na mesma chapa de João, somente tomou conhecimento do ocorrido pela imprensa. Joana, que também figurava como candidata ao cargo eletivo de prefeita do município Alfa, ficou irresignada com o ocorrido e imediatamente ajuizou ação de investigação judicial eleitoral (AIJE) em face de João e Maria, tendo requerido a cassação do registro de candidatura, bem como a declaração da inelegibilidade de ambos para concorrerem nas eleições a serem realizadas nos oito anos subsequentes à eleição em que os fatos ocorreram. Após o trâmite regular da relação processual, os fatos foram devidamente comprovados. Analise a situação descrita, incursionando nos seguintes aspectos: a) o cabimento da AIJE; b) a legitimidade passiva; e c) o pedido. Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "1) A situação configura hipótese de 'abuso do poder religioso', que não está previsto como ilícito autônomo na LC nº 64/1990. Escala graduada literal: 0.00 – 0.20", "pontuacao": 0.20},
+          {"descricao": "1.1) Para o ajuizamento da AIJE é necessário enquadramento como abuso do poder econômico, político ou de autoridade, ou uso indevido de meios de comunicação social ou de transportes (Art. 22, caput, LC 64/1990), o que não ocorreu no caso. Escala graduada literal: 0.00 – 0.30", "pontuacao": 0.30},
+          {"descricao": "2) Como João e Maria formam chapa única, ambos devem figurar no polo passivo da AIJE ajuizada por Joana (litisconsórcio passivo necessário). Escala graduada literal: 0.00 – 0.30", "pontuacao": 0.30},
+          {"descricao": "2.1) O desconhecimento de Maria não seria óbice à sua inclusão no polo passivo. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10},
+          {"descricao": "2.2) A AIJE também poderia ser ajuizada em face do sacerdote que praticou a conduta. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10},
+          {"descricao": "2.3) Interpretação do Art. 22, caput e XIV, da LC 64/1990. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10},
+          {"descricao": "3) O requerimento de cassação da candidatura de João e Maria foi regularmente formulado, considerando que ambos foram beneficiados pela conduta, sendo candidatos em chapa única. Escala graduada literal: 0.00 – 0.20", "pontuacao": 0.20},
+          {"descricao": "3.1) A inelegibilidade apenas deve alcançar os praticantes da conduta, somente João, não Maria, que a desconhecia. Escala graduada literal: 0.00 – 0.30", "pontuacao": 0.30},
+          {"descricao": "3.2) O sacerdote, caso figurasse no polo passivo, também poderia ser alcançado pela inelegibilidade, se demonstrada a prática de conduta que a ensejasse. Escala graduada literal: 0.00 – 0.30", "pontuacao": 0.30},
+          {"descricao": "3.3) Interpretação do Art. 1º, I, 'd', e do Art. 22, XIV, da LC 64/1990. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf",
+        "observacoes": "'Nota da Questão 04 - Gabarito 1' = 2 (soma dos 10 itens). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf"}
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "Questão 5 – Direito Processual Civil. Regina ajuizou ação rescisória em face de Marina, na qual pretende desconstituir acórdão proferido pela 1ª Câmara Cível do Tribunal de Justiça do Estado Alfa, que a condenou ao pagamento de pensionamento mensal e pagamento de indenização a título de danos morais e materiais, tudo em razão da prática de ato ilícito, resultante de acidente de trânsito. A ação rescisória foi distribuída em 02/06/2023. O mencionado acórdão conheceu e desproveu recurso de apelação interposto por Regina com o intuito de obter a reforma da sentença condenatória. Após o julgamento da apelação, que ocorreu em 01/12/2020, Regina interpôs recurso especial em face do acórdão, que não foi conhecido pela Vice-Presidência do Tribunal de Justiça em razão da ausência de preparo tempestivo. A decisão de inadmissão do recurso especial transitou em julgado em 03/06/2021. Como fundamento para a propositura da ação rescisória, Regina sustenta que o acórdão rescindendo admitiu fato inexistente, pois, em seu entender, a prova oral e a pericial carreadas aos autos não demonstraram que Marina sofreu lesões em razão do acidente. Em acréscimo, apontou que o juiz deixou de considerar diversas alegações que fez acerca do evento danoso, que foi objeto de amplo debate entre as partes no processo originário. Tomando o caso acima como premissa, responda, de maneira fundamentada: a) A ação rescisória foi tempestivamente proposta por Regina? b) O fundamento sustentado por Regina é idôneo para ensejar o cabimento de ação rescisória? Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a1) Indicar a tempestividade da ação rescisória, com fundamento no Art. 975 do CPC. Pontuação: 0.50 (fixa)", "pontuacao": 0.50},
+          {"descricao": "a2) Apontar que, pela Súmula 401 do STJ, o prazo decadencial da ação rescisória só se inicia quando não for cabível qualquer recurso do último pronunciamento judicial. Pontuação: 0.50 (fixa)", "pontuacao": 0.50},
+          {"descricao": "b1) Apontar que o fundamento invocado por Regina não enseja o cabimento de ação rescisória, porque, embora a ação rescisória fundada em erro de fato pressuponha que a decisão tenha admitido fato inexistente ou considerado inexistente fato ocorrido, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre o fato. Pontuação: 0.50 (fixa)", "pontuacao": 0.50},
+          {"descricao": "b2) Narrar que a autora pretende desconstituir a decisão transitada em julgado em razão de má valoração dos fatos por parte do acórdão rescindendo. Pontuação: 0.50 (fixa)", "pontuacao": 0.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf",
+        "observacoes": "'Nota da Questão 05 - Gabarito 1' = 2 (soma dos 4 itens de 0,50 cada). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/tjpe24",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-prova-discursiva.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/tjpe-2025-espelho-de-correcao-provas-discursivas-publicacao.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/tribunal-de-justica-do-estado-de-pernambuco-sentencas.pdf"
+  ],
+  "coletadoEm": "2026-07-17"
+}

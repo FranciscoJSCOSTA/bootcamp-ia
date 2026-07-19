@@ -1,0 +1,48 @@
+{
+  "concurso": "Concurso Público para Provimento de Vagas e Formação de Cadastro de Reserva em Cargos de Analista Técnico - SUSEP 2025",
+  "orgao": "Superintendência de Seguros Privados (SUSEP)",
+  "cargo": "Cargo 1: Analista Técnico – Área: Contabilidade Pública",
+  "dataProva": "2025-06-08",
+  "areaTema": "Educação Financeira / Inclusão Financeira",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A partir do texto-modelo do padrão de resposta, infere-se que se pedia ao(à) candidato(a), comum a todos os cargos, discorrer sobre: 1) os empecilhos para a efetiva inclusão financeira dos cidadãos; 2) o papel da educação financeira na prevenção do endividamento; e 3) os reflexos da educação financeira no desenvolvimento econômico do país.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Empecilhos para a efetiva inclusão financeira dos cidadãos: Conceito 0 (não abordou ou o fez de forma totalmente equivocada) / Conceito 1 (discorreu sobre apenas um empecilho) / Conceito 2 (discorreu sobre dois ou mais empecilhos, com argumentação precária) / Conceito 3 (discorreu sobre dois ou mais empecilhos, com argumentação parcialmente consistente) / Conceito 4 (discorreu sobre dois ou mais empecilhos, com argumentação plenamente consistente)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Papel da educação financeira no combate ao endividamento: Conceito 0 (não abordou ou o fez de forma totalmente equivocada) / Conceito 1 (discorreu sem relacionar ao combate ao endividamento) / Conceito 2 (discorreu de forma superficial) / Conceito 3 (discorreu de forma parcialmente consistente) / Conceito 4 (discorreu de forma plenamente consistente)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Reflexos da educação financeira no desenvolvimento econômico do país: Conceito 0 (não abordou ou o fez de forma totalmente equivocada) / Conceito 1 (discorreu sobre apenas um reflexo, ou sem abordar o contexto do desenvolvimento econômico do país) / Conceito 2 (discorreu sobre dois ou mais reflexos, com argumentação precária) / Conceito 3 (discorreu sobre dois ou mais reflexos, com argumentação parcialmente consistente) / Conceito 4 (discorreu sobre dois ou mais reflexos, com argumentação plenamente consistente)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/susep_25/arquivos/SUSEP_25_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', comum 'PARA TODOS OS CARGOS' do concurso SUSEP. Há trechos em vermelho no PDF original indicando ajustes de redação incluídos após recursos. O PDF não indica valor em pontos por quesito (apenas escala de conceitos 0 a 4), por isso o campo 'pontuacao' foi deixado como null. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original da questão discursiva não foi reproduzido no padrão de resposta consultado; o PDF fornecido como 'prova bruta' para este item era, na verdade, o Edital nº 8 – SUSEP, de 29 de agosto de 2025 (resultado final na prova discursiva e convocação para avaliação de títulos), sem o caderno de questões, de modo que o comando exato não pôde ser confirmado."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre inclusão e educação financeira, e 3 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/susep_25/arquivos/SUSEP_25_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/susep_25/arquivos/SUSEP_25_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

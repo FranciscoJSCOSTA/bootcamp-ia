@@ -1,0 +1,111 @@
+{
+  "concurso": "Concurso Público para o Provimento de Vagas e a Formação de Cadastro de Reserva em Cargo Efetivo de Auditor Fiscal da Receita Estadual - SEFAZ/RJ 2025",
+  "orgao": "Secretaria de Estado da Fazenda do Governo do Estado do Rio de Janeiro (SEFAZ/RJ)",
+  "cargo": "Cargo de Auditor Fiscal da Receita Estadual (3.ª Categoria)",
+  "dataProva": "2025-05-04",
+  "areaTema": "Tecnologia da Informação Fiscal / Direito Tributário",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Prova Discursiva P3 - Questão 1. O texto-modelo indica que se pedia ao candidato um texto dissertativo sobre o uso de tecnologias de bancos de dados no controle fiscal, abordando governança de dados (políticas e processos, papéis/responsabilidades/qualidade de dados, metadados), a linguagem SQL (análise de dados, consultas/filtros/agregações, junções/views/integridade referencial) e bancos de dados NoSQL (flexibilidade e escalabilidade/indexação) aplicados ao armazenamento de documentos fiscais eletrônicos.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "QUESITO 2.1.1 - Governança de dados - garantia de qualidade e confiabilidade: Conceito 0 (não abordou ou fez de forma totalmente equivocada) / Conceito 1 (relacionou corretamente governança de dados à garantia da qualidade e confiabilidade das informações)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.1.2 - Governança de dados - políticas e processos: Conceito 0 (não abordou) / Conceito 1 (mencionou corretamente que a governança de dados define políticas e processos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.1.3 - Governança de dados - papéis, responsabilidades e qualidade de dados: Conceito 0 (não abordou) / Conceito 1 (mencionou corretamente que a governança de dados define os papéis, as responsabilidades e a qualidade de dados)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.1.4 - Governança de dados - metadados: Conceito 0 (não abordou) / Conceito 1 (mencionou corretamente que a governança de dados estabelece critérios de gestão de metadados, como dicionários e catálogo de dados)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.2.1 - Linguagem SQL - análise de dados: Conceito 0 (não abordou) / Conceito 1 (mencionou corretamente que a linguagem SQL auxilia a análise de grandes volumes de dados)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.2.2 - Linguagem SQL - consultas, filtros e agregações: Conceito 0 (não abordou) / Conceito 1 (mencionou corretamente as funcionalidades de consultas SELECT, filtros WHERE OU agregações SUM/AVG/MAX/HAVING)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.2.3 - Linguagem SQL - junções, views e integridade referencial: Conceito 0 (não abordou) / Conceito 1 (mencionou corretamente as funcionalidades de junções JOIN, view OU integridade referencial)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.3.1 - Banco de dados NoSQL - flexibilidade: Conceito 0 (não abordou) / Conceito 1 (abordou corretamente a vantagem de flexibilidade dos bancos NoSQL em comparação aos relacionais, por possuírem esquemas flexíveis ou inexistentes)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.3.2 - Banco de dados NoSQL - escalabilidade e indexação: Conceito 0 (não abordou) / Conceito 1 (abordou corretamente a propriedade de escalabilidade horizontal OU a possibilidade de indexação de atributos)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/sefaz_rj_25_auditor/arquivos/SEFAZ_RJ_25_AUDITOR_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Todos os quesitos desta questão são binários (Conceito 0 ou 1), sem valor em pontos explicitado no PDF; campo 'pontuacao' deixado como null. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original não foi reproduzido no padrão de resposta consultado; o PDF fornecido como 'prova bruta' para este item era, na verdade, um edital de resultado final da prova discursiva (lista de notas de candidatos), sem o caderno de questões, de modo que o comando exato não pôde ser confirmado."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 9 quesitos binários (Conceito 0 ou 1).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/sefaz_rj_25_auditor/arquivos/SEFAZ_RJ_25_AUDITOR_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf"
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Prova Discursiva P3 - Questão 2. O texto-modelo indica que se pedia ao candidato um texto dissertativo sobre o lançamento tributário, com base no Código Tributário Nacional (CTN), abordando: o conceito de lançamento tributário (art. 142, CTN); o conceito da modalidade de lançamento direto/de ofício e as hipóteses para sua aplicação (art. 149, CTN); as atribuições da Fazenda Pública e do contribuinte quanto à iniciativa, ao cálculo e à constituição do crédito tributário nessa modalidade; e os momentos em que o tributo é calculado, pago e constituído no lançamento direto.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "QUESITO 2.1 - Conceito de lançamento tributário - itens (i) procedimento administrativo, (ii) autoridade fiscal, (iii) constituição do crédito tributário: Conceito 0 (não atendeu) a Conceito 3 (abordou corretamente os três itens)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.2 - Conceito da modalidade de lançamento tributário direto e três hipóteses para sua aplicação - itens (iv) a (viii): Conceito 0 a Conceito 5 (abordou corretamente os cinco itens)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.3 - Atribuições da Fazenda Pública e do contribuinte quanto à iniciativa, ao cálculo e à constituição do crédito tributário - itens (ix) a (xii): Conceito 0 a Conceito 4 (abordou corretamente os quatro itens)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "QUESITO 2.4 - Momentos em que o tributo é calculado, pago e constituído na modalidade lançamento tributário direto - itens (xiii) a (xvi): Conceito 0 a Conceito 4 (abordou corretamente os quatro itens)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/sefaz_rj_25_auditor/arquivos/SEFAZ_RJ_25_AUDITOR_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Sem valor em pontos por quesito explicitado no PDF (apenas escala de conceitos); campo 'pontuacao' deixado como null. Texto-modelo numera 16 itens específicos (i a xvi) distribuídos nos 4 quesitos. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original não foi reproduzido no padrão de resposta consultado; o PDF fornecido como 'prova bruta' para este item era, na verdade, um edital de resultado final da prova discursiva, sem o caderno de questões."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 4 quesitos avaliados por conceitos (0 a 3, 0 a 5, 0 a 4 e 0 a 4).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/sefaz_rj_25_auditor/arquivos/SEFAZ_RJ_25_AUDITOR_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/sefaz_rj_25_auditor/arquivos/SEFAZ_RJ_25_AUDITOR_PADRÃO_DE_RESPOSTA_DEFINITIVO.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

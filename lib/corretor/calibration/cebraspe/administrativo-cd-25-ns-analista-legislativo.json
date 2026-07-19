@@ -1,0 +1,69 @@
+{
+  "concurso": "Concurso Público Câmara dos Deputados 2025 – Nível Superior",
+  "orgao": "Câmara dos Deputados",
+  "cargo": "Analista Legislativo – Especialidade: Processo Legislativo e Gestão (código CD-AL-011)",
+  "dataProva": "2026-03-08",
+  "areaTema": "Direito Constitucional e Gestão Pública",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Criada comissão parlamentar de inquérito (CPI) na Câmara dos Deputados com o objetivo de apurar supostas irregularidades envolvendo recursos públicos federais, seus membros deliberaram pela adoção de diversas medidas em relação a um dos investigados, entre as quais, a quebra dos sigilos bancário, fiscal, telefônico e telemático, bem como a realização de busca domiciliar e a decretação de intercepção telefônica. No curso das investigações, determinado indivíduo que não figurava formalmente como investigado foi convocado para comparecer perante a CPI, a fim de prestar esclarecimentos sobre fatos e circunstâncias de que teria conhecimento. Embora ele não figurasse como investigado, os fundamentos da convocação indicavam situação típica de investigado. No ato da convocação, tal indivíduo foi advertido de que o comparecimento para depor era obrigatório, sob pena de condução coercitiva e responsabilização pelo crime de desobediência. Foi-lhe entregue o termo de compromisso para ser assinado na qualidade de testemunha. A partir da situação hipotética precedente, redija, com fundamento nas disposições da Constituição Federal de 1988 e na jurisprudência do Supremo Tribunal Federal, um texto dissertativo a respeito da comissão parlamentar de inquérito. Em seu texto, atenda ao que se pede a seguir. 1 Esclareça se as CPIs possuem poderes para determinar a quebra dos sigilos bancário, fiscal, telefônico e telemático, bem como a realização de busca domiciliar e a decretação de intercepção telefônica. [valor: 6,00 pontos] 2 Discorra acerca dos direitos e deveres assegurados aos convocados para comparecer perante uma CPI, tanto na condição de investigado como na de testemunha. [valor: 7,00 pontos] 3 Esclareça se é possível que o indivíduo mencionado na situação cumule as posições de investigado e de testemunha no mesmo procedimento investigatório. [valor: 1,30 ponto]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Poderes investigatórios das CPIs: Conceito 0 a Conceito 5, considerando 7 aspectos possíveis (competência para quebra de sigilo bancário/fiscal/telefônico/telemático; incompetência para busca domiciliar e interceptação telefônica; reserva de jurisdição para tais medidas), com base no MS n.º 39.382/DF (STF, 2ª Turma, rel. Min. André Mendonça) e MS n.º 23.452/RJ (STF, Pleno, rel. Min. Celso de Mello)", "pontuacao": 6.00},
+          {"descricao": "Quesito 2.2 – Direitos e deveres assegurados ao investigado e à testemunha: Conceito 0 a Conceito 5, considerando 10 aspectos possíveis (direito à não incriminação, ao silêncio, faculdade de não comparecer, assistência por advogado, dever de depor da testemunha etc.), com base nos HC n.º 171.438/DF, HC n.º 247.450 AgR/PE e outros precedentes do STF", "pontuacao": 7.00},
+          {"descricao": "Quesito 2.3 – Vedação de cumulação das posições de investigado e de testemunha: Conceito 0 (não abordou ou afirmou possibilidade) a Conceito 2 (citou e explicou a vedação, com fundamentação correta de violação das garantias contra autoincriminação e da imparcialidade da prova testemunhal)", "pontuacao": 1.30}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/D5F3CAA9B8BAEA93D7B1750A43949FF94C88F2DA3F44ADAE978062F601A94FDD.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Prova composta por Questão 1 (CPI), Questão 2 (BSC/gestão de riscos/teoria da agência) e Peça de Natureza Técnica (medida provisória), todas incluídas neste mesmo arquivo de padrão. Conteúdo da Questão 1 soma 14,30 pontos + 0,70 ponto de apresentação = 15,00 pontos. Trechos em vermelho no PDF original indicam ajustes pós-recursos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 3 quesitos avaliados por conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/D5F3CAA9B8BAEA93D7B1750A43949FF94C88F2DA3F44ADAE978062F601A94FDD.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Tanto na administração pública quanto na iniciativa privada, a governança corporativa é fundamental para assegurar que as decisões organizacionais estejam alinhadas aos interesses das partes interessadas. Para que a estratégia não seja apenas um plano abstrato, ferramentas como o balanced scorecard (BSC) e estruturas de gestão de riscos tornam-se essenciais, de modo a transformar a visão institucional em resultados mensuráveis e seguros. Considerando que o texto apresentado tem caráter unicamente motivador, redija um texto dissertativo acerca da relação entre os mecanismos de controle e o alcance dos objetivos organizacionais. Em seu texto, aborde os seguintes aspectos: 1 importância do mapa estratégico e da relação de causa e efeito para a execução da estratégia, considerando a aplicação do BSC; [valor: 6,00 pontos] 2 contribuição da identificação de riscos para a integridade e a continuidade dos negócios; [valor: 5,00 pontos] 3 explicação do conflito básico que fundamenta a necessidade de ferramentas de governança como elo entre gestão e propriedade, de acordo com a teoria da agência. [valor: 3,30 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – BSC (mapa estratégico e relação de causa e efeito para a execução da estratégia): Conceito 0 (não apontou) a Conceito 3 (apontou de forma consistente e completa)", "pontuacao": 6.00},
+          {"descricao": "Quesito 2.2 – Gestão de riscos (contribuição da identificação de riscos para integridade e continuidade dos negócios): Conceito 0 a Conceito 2 (discorreu de forma consistente e completa)", "pontuacao": 5.00},
+          {"descricao": "Quesito 2.3 – Teoria da agência (conflito básico que fundamenta a necessidade de ferramentas de governança como elo entre gestão e propriedade): Conceito 0 a Conceito 2 (explicou de forma completa e consistente)", "pontuacao": 3.30}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/D5F3CAA9B8BAEA93D7B1750A43949FF94C88F2DA3F44ADAE978062F601A94FDD.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Conteúdo soma 14,30 pontos + 0,70 ponto de apresentação = 15,00 pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 3 quesitos avaliados por conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/D5F3CAA9B8BAEA93D7B1750A43949FF94C88F2DA3F44ADAE978062F601A94FDD.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Peça de natureza técnica. Em novembro de 2025, o Poder Executivo federal editou medida provisória para abertura de crédito extraordinário no valor de R$ 3 bilhões, com fundamento em previsão da Constituição Federal de 1988, sem indicação expressa da correspondente fonte de custeio. O crédito estava destinado, entre outras coisas, à manutenção e à recuperação ordinária de rodovias federais, à aquisição de equipamentos permanentes para órgãos da administração pública e a reforço de dotações para programas já constantes da Lei Orçamentária Anual. Na exposição de motivos, sustentou-se a necessidade de \"assegurar a continuidade de políticas públicas relevantes\", tendo sido invocada urgência administrativa diante do risco de paralisação de serviços inadiáveis. Parte das despesas começou a ser executada imediatamente após a edição da medida provisória. Contudo, durante a tramitação da medida provisória no Congresso Nacional, surgiram dúvidas sobre sua constitucionalidade. O presidente da Câmara dos Deputados solicitou parecer à Secretaria Geral da Mesa, para orientá-lo sobre tais questões. Considerando a situação hipotética precedente, redija parecer técnico acerca da medida provisória em questão, contemplando os seguintes aspectos: 1 rito de tramitação no Congresso Nacional; [valor: 6,00 pontos] 2 pressupostos constitucionais para a abertura do crédito extraordinário por medida provisória; [valor: 8,00 pontos] 3 distinção entre créditos extraordinários e créditos suplementares ou especiais; [valor: 2,00 pontos] 4 vício existente na medida provisória em apreço e (im)possibilidade de convalidação decorrente de sua conversão em lei; [valor: 7,00 pontos] 5 efeitos jurídicos de eventual rejeição da medida provisória pelo Congresso Nacional. [valor: 5,50 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Rito de tramitação de medidas provisórias: Conceito 0 a Conceito 2 (eficácia imediata e submissão ao Congresso Nacional via comissão mista; prazo de vigência de 60 dias prorrogável)", "pontuacao": 6.00},
+          {"descricao": "Quesito 2.2 – Pressupostos constitucionais para abertura de crédito extraordinário por medida provisória: Conceito 0 a Conceito 2 (relevância/urgência do art. 62 e despesas imprevisíveis/urgentes do art. 167 §3.º)", "pontuacao": 8.00},
+          {"descricao": "Quesito 2.3 – Distinção de crédito extraordinário e créditos suplementares/especiais: Conceito 0 a Conceito 2 (crédito extraordinário não depende de recursos disponíveis; suplementares/especiais dependem de autorização legislativa e indicação de recursos)", "pontuacao": 2.00},
+          {"descricao": "Quesito 2.4 – Vício da medida provisória e (im)possibilidade de convalidação: Conceito 0 a Conceito 2 (vício material por ausência de imprevisibilidade/urgência; conversão em lei não convalida o vício, conforme ADI-MC n.º 4.048 e 4.049)", "pontuacao": 7.00},
+          {"descricao": "Quesito 2.5 – Validade ou nulidade das despesas na hipótese de rejeição da medida provisória: Conceito 0 a Conceito 3 (perda de eficácia desde a edição, vedação de reedição, disciplina por decreto legislativo e ausência de nulidade automática das despesas executadas)", "pontuacao": 5.50}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/D5F3CAA9B8BAEA93D7B1750A43949FF94C88F2DA3F44ADAE978062F601A94FDD.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', peça de natureza técnica (parecer). Conteúdo soma 28,50 pontos + 1,50 ponto de apresentação = 30,00 pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com parecer técnico-modelo completo e 5 quesitos avaliados por conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/D5F3CAA9B8BAEA93D7B1750A43949FF94C88F2DA3F44ADAE978062F601A94FDD.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/cd_25_ns/arquivos/D5F3CAA9B8BAEA93D7B1750A43949FF94C88F2DA3F44ADAE978062F601A94FDD.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

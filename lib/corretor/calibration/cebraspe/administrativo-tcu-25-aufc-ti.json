@@ -1,0 +1,145 @@
+{
+  "concurso": "Concurso Público do Tribunal de Contas da União (TCU) 2025 - Auditor Federal de Controle Externo (AUFC)",
+  "orgao": "Tribunal de Contas da União (TCU)",
+  "cargo": "Auditor Federal de Controle Externo - Área de Controle Externo / Orientação: Auditoria de Tecnologia da Informação",
+  "dataProva": "2026-02-22",
+  "areaTema": "Auditoria de Tecnologia da Informação / Controle Externo",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Prova Discursiva - Questão 1. O texto-modelo indica que se pedia ao candidato um texto dissertativo sobre a teoria do risco administrativo e o direito de regresso do Estado (responsabilidade civil objetiva prevista no art. 37, §6º, da CF/1988) e sobre a competência do TCU para atuar nos casos em que irregularidade cometida por agente público resulte em prejuízo ao erário (art. 71 da CF/1988).",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Teoria do risco administrativo e direito de regresso do Estado: Conceito 0 (não abordou ou fez de maneira totalmente equivocada) / Conceito 1 (abordou corretamente apenas um dos aspectos: responsabilidade civil objetiva do Estado por danos causados por seus agentes; adoção da teoria do risco administrativo; comprovação de elementos - ação/omissão, dano, nexo causal, ausência de excludente, exigindo-se ao menos dois; ou prerrogativa de ação regressiva contra o agente público) / Conceito 2 (dois aspectos) / Conceito 3 (três aspectos) / Conceito 4 (todos os aspectos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 - Competência do TCU para atuar nos casos em que irregularidade cometida por agente público resulte em prejuízo ao erário: Conceito 0 (não abordou ou fez de maneira totalmente equivocada) / Conceito 1 (abordou corretamente apenas um dos aspectos: TCU exerce o controle externo; competência para julgar irregularidades que resultem em prejuízo ao erário; ou competência para determinar o ressarcimento integral do dano) / Conceito 2 (dois aspectos) / Conceito 3 (todos os aspectos)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_aufc/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Sem valor em pontos por quesito explicitado no PDF (apenas escala de conceitos 0 a 4 e 0 a 3); campo 'pontuacao' deixado como null. Texto-modelo cita a tese da dupla garantia fixada pelo STF e a teoria do risco integral para casos excepcionais. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original não foi reproduzido no padrão de resposta consultado; não havia PDF da prova discursiva bruta disponível para este item (rawLocalPath = null), de modo que o comando exato não pôde ser confirmado."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 2 quesitos avaliados por conceitos (0 a 4 e 0 a 3).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_aufc/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf"
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Prova Discursiva - Questão 2. O texto-modelo indica que se apresentava um cenário hipotético de um pipeline de MLOps em nuvem com múltiplas falhas de configuração de segurança (permissão excessiva de acesso de um contêiner de inferência a buckets fora do escopo autorizado, ausência de gates de revisão/validação na promoção de modelos, configuração incorreta de deploy permitindo egress não controlado, ausência de monitoramento e de política de classificação/DLP para documentos sensíveis), pedindo-se ao candidato que identificasse as falhas de configuração que comprometem a confidencialidade dos dados e apresentasse medidas corretivas de segurança para o pipeline.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Falhas de configuração da segurança: Conceito 0 (não abordou ou fez de maneira totalmente equivocada) / Conceito 1 (identificou apenas uma falha, descrita de forma superficial/incompleta ou sem relação direta com o cenário) / Conceito 2 (identificou duas falhas corretamente, mas descritas de forma incompleta) / Conceito 3 (identificou e descreveu corretamente duas ou mais falhas de configuração diretamente ligadas à perda de confidencialidade no cenário descrito)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 - Medidas corretivas de segurança: Conceito 0 (não abordou) / Conceito 1 (apresentou apenas uma medida, de forma superficial e sem relação adequada com a proteção da confidencialidade) / Conceito 2 (apresentou apenas uma medida correta com adequada relação com a proteção da confidencialidade) / Conceito 3 (apresentou duas medidas corretas, mas com detalhamento técnico parcialmente inconsistente ou incompleto) / Conceito 4 (apresentou duas ou mais medidas corretas, com detalhamento técnico consistente)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_aufc/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Sem valor em pontos por quesito explicitado no PDF (apenas escala de conceitos 0 a 3 e 0 a 4); campo 'pontuacao' deixado como null. Texto-modelo aborda princípio do menor privilégio, IAM granular, gates de aprovação/DevSecOps, Network Policies/egress allowlist, criptografia e DLP. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original não foi reproduzido no padrão de resposta consultado; não havia PDF da prova discursiva bruta disponível (rawLocalPath = null)."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 2 quesitos avaliados por conceitos (0 a 3 e 0 a 4).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_aufc/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf"
+        }
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Prova Discursiva - Questão 3. O texto-modelo indica que se apresentava um cenário hipotético em que uma equipe Scrum atribuía ao product owner a remoção de impedimentos técnicos (função do scrum master) e afirmava adotar TDD realizando testes somente após a codificação, negligenciando o DDD. Pedia-se ao candidato que avaliasse a conformidade dos papéis de product owner e scrum master e a compatibilidade da prática relatada com TDD, além de discorrer sobre a importância do DDD para a auditoria de TI.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Papéis do product owner e do scrum master: Conceito 0 (não avaliou a conformidade dos papéis ou afirmou que estão de acordo com o Guia Scrum) / Conceito 1 (identificou o erro na situação, mas não definiu corretamente as atribuições de nenhum dos dois papéis) / Conceito 2 (identificou a inversão de papéis e definiu corretamente as atribuições apenas do product owner ou do scrum master) / Conceito 3 (definiu de forma parcialmente correta as atribuições de ambos) / Conceito 4 (identificou a inversão de papéis e definiu corretamente as atribuições de ambos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 - Engenharia e valor (TDD e DDD): Conceito 0 (não concluiu que a prática relatada é incompatível com TDD nem explicou a importância do DDD, ou fez de forma totalmente equivocada) / Conceito 1 (mencionou e desenvolveu corretamente apenas um dos aspectos: desenvolvimento orientado a testes/test-first no ciclo red-green-refactor; relação do DDD com a verificação da aderência do sistema às regras de negócio e entrega de valor real; ou DDD como foco na modelagem do domínio e na linguagem ubíqua) / Conceito 2 (dois aspectos) / Conceito 3 (todos os aspectos)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_aufc/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Sem valor em pontos por quesito explicitado no PDF (apenas escala de conceitos 0 a 4 e 0 a 3); campo 'pontuacao' deixado como null. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original não foi reproduzido no padrão de resposta consultado; não havia PDF da prova discursiva bruta disponível (rawLocalPath = null)."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 2 quesitos avaliados por conceitos (0 a 4 e 0 a 3).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_aufc/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf"
+        }
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Prova Discursiva - Peça de Natureza Prática. O texto-modelo indica que se apresentava um cenário hipotético de contratação pública de TI com três achados de auditoria: (1) escolha de solução de TI sem considerar o custo total de propriedade (TCO) nem justificar a preterição de soluções de software livre/estruturantes de governo, com pesquisa de preços em desacordo com a Lei n.º 14.133/2021; (2) modelagem de pagamento fixo sem SLA/IMR, sem cláusulas de reversibilidade/portabilidade e com potencial violação da LGPD; e (3) violação da segregação de funções entre fiscal técnico, fiscal administrativo e gestor, com designação de servidor sem qualificação técnica. Pedia-se ao candidato que redigisse parecer técnico analisando a (ir)regularidade de cada achado e apresentando conclusão com as medidas de saneamento cabíveis.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Análise do achado 1 (irregularidade no ETP e na pesquisa de preços): Conceito 0 (não analisou ou indicou regularidade) a Conceito 4 (abordou corretamente todos os elementos: TCO considerando todo o ciclo de vida; justificativa técnica e econômica para preterição de soluções livres/de governo; e violação do art. 23, §1º, da Lei 14.133/2021 quanto à prioridade dos parâmetros públicos de preços)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 - Análise do achado 2 (irregularidade na falta de SLA e no pagamento fixo; riscos de lock-in e violação à LGPD; segurança em nuvem): Conceito 0 a Conceito 4 (abordou corretamente todos os elementos: violação do art. 144 da Lei 14.133/2021 e da IN SGD/ME 94/2022; obrigatoriedade de SLA/IMR com glosas; risco de vendor lock-in por ausência de cláusulas de reversibilidade/portabilidade; e exigências da LGPD quanto a papéis de controlador/operador e soberania de dados)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 - Análise do achado 3 (violação da segregação de funções e da qualificação técnica): Conceito 0 a Conceito 4 (abordou corretamente todos os elementos: violação do princípio da segregação de funções do art. 5º da Lei 14.133/2021; distinção de papéis entre fiscal técnico, fiscal administrativo e gestor conforme IN SGD/ME 94/2022; e violação do princípio da eficiência e do art. 117 da Lei 14.133/2021 pela designação de servidor sem qualificação técnica)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.4 - Conclusão (síntese da análise dos achados e recomendação de saneamento ou anulação): Conceito 0 (não concluiu ou fez de forma totalmente equivocada) a Conceito 3 (apresentou conclusão correta quanto a todos os elementos: irregularidade dos três achados e recomendação de anulação/suspensão/saneamento dos atos viciados, com refação do ETP, ajuste da minuta contratual e designação de nova equipe de fiscalização)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_aufc/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO' para a peça de natureza prática (parecer técnico). Sem valor em pontos por quesito explicitado no PDF (apenas escala de conceitos, 0 a 4 nos três primeiros quesitos e 0 a 3 no último); campo 'pontuacao' deixado como null. Os quesitos também mencionam explicitamente aspectos de coesão, concisão e clareza como parte da avaliação de cada achado. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original não foi reproduzido no padrão de resposta consultado; não havia PDF da prova discursiva bruta disponível (rawLocalPath = null)."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com parecer técnico-modelo completo e 4 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_aufc/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/tcu_25_aufc/arquivos/9DE5A2A09DFA527B96AEDBB3838F7B448A59C7E4A2564F4A5778CA44B8613573.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

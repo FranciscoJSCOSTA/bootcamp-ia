@@ -1,0 +1,32 @@
+{
+  "concurso": "Concurso Público IBAMA 2025",
+  "orgao": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA)",
+  "cargo": "Analista Ambiental – Tema 1: Proteção, Licenciamento, Monitoramento e Qualidade Ambiental",
+  "dataProva": "2025-04-06",
+  "areaTema": "Sensoriamento Remoto e Monitoramento Ambiental",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Há um novo hotspot de desmatamento por corte raso na Amazônia brasileira, localizado nos municípios de Apuí, Aruanã e arredores, no sul do estado do Amazonas, ao longo da rodovia BR-230 (Transamazônica). Com o intuito de reduzir as atividades ilegais de desmatamento nessa região, o governo brasileiro pretende intensificar as ações de fiscalização em campo com o suporte de um sistema de alerta de desmatamento em tempo quase real, baseado em imagens de satélites ópticos e de radar, além de inteligência artificial. Considerando as informações precedentes, redija um texto dissertativo sobre a implantação do referido sistema de alerta de desmatamento. Em seu texto, aborde os seguintes aspectos: 1 duas possíveis técnicas de realce de imagens ópticas para a detecção de desmatamento por corte raso em tempo quase real; [valor: 5,00 pontos] 2 banda espectral e polarização mais adequadas dos satélites de radar para a detecção de desmatamento por corte raso na referida região; [valor: 5,00 pontos] 3 uma estratégia baseada em inteligência artificial para priorização de polígonos de desmatamento para fins de fiscalização em campo; [valor: 5,00 pontos] 4 dois possíveis alvos que podem causar erros de comissão no monitoramento de desmatamento por corte raso na região em questão. [valor: 4,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Duas possíveis técnicas de realce de imagens ópticas para detecção de desmatamento por corte raso (modelos de mistura espectral, NDVI, NDWI, EVI, índice de solo exposto, atributos texturais): Conceito 0 (não abordou) a Conceito 3 (abordou corretamente duas técnicas)", "pontuacao": 5.00},
+          {"descricao": "Quesito 2.2 – Banda espectral e polarização mais adequadas dos satélites de radar (banda L, polarização horizontal, combinação HH/HV): Conceito 0 (não abordou) a Conceito 4 (abordou corretamente banda e polarização)", "pontuacao": 5.00},
+          {"descricao": "Quesito 2.3 – Estratégia baseada em inteligência artificial para priorização de polígonos de desmatamento (priorização de polígonos ativos, sistema de IA com periodicidade de análise de 1-2 dias, bancos de dados geoespaciais multicritério): Conceito 0 (não abordou) a Conceito 2 (abordou de forma correta e suficiente)", "pontuacao": 5.00},
+          {"descricao": "Quesito 2.4 – Dois possíveis alvos que podem causar erros de comissão (áreas de queimadas, sombras de nuvens, mudanças no tipo de uso da terra, áreas de inundação): Conceito 0 (não abordou) a Conceito 3 (abordou corretamente dois alvos)", "pontuacao": 4.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/ibama_25/arquivos/PADRÃO_RESPOSTA_DEFINITIVO_CARGO_2.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Conteúdo soma 19,00 pontos + 1,00 ponto de apresentação/estrutura textual = 20,00 pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 4 quesitos avaliados por conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/ibama_25/arquivos/PADRÃO_RESPOSTA_DEFINITIVO_CARGO_2.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/ibama_25/arquivos/PADRÃO_RESPOSTA_DEFINITIVO_CARGO_2.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

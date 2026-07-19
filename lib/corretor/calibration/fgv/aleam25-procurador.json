@@ -1,0 +1,117 @@
+{
+  "concurso": "Concurso Público para a Assembleia Legislativa do Estado do Amazonas (ALE-AM) - Edital nº 1/2025",
+  "orgao": "Assembleia Legislativa do Estado do Amazonas (ALE-AM)",
+  "cargo": "Procurador",
+  "dataProva": "2025-12-14 (data inferida: gabarito preliminar da prova objetiva foi publicado em 16/12/2025; a página oficial consultada não expõe a data exata de aplicação da prova discursiva, cujo resultado definitivo/espelho foi publicado em 29/04/2026)",
+  "areaTema": "Direito Constitucional, Direito Administrativo, Direito Financeiro, Direito Ambiental e Direito Previdenciário",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Matheus, Deputado Federal, foi convidado a ministrar palestra aos servidores da Assembleia Legislativa do Estado do Amazonas. Em assim sendo, o parlamentar compareceu à repartição pública, ocasião em que tratou dos mais variados temas afetos à carreira e ao Estado Democrático de Direito. Com base no cenário hipotético narrado, responda, de forma fundamentada, aos questionamentos a seguir, à luz das disposições da Constituição Federal, da jurisprudência dominante do Supremo Tribunal Federal, além do entendimento doutrinário prevalecente. a) É juridicamente cabível a prisão em flagrante de parlamentar federal? b) Exige-se autorização da Câmara dos Deputados para que o Supremo Tribunal Federal proceda ao recebimento de denúncia oferecida pela Procuradoria-Geral da República em face de parlamentar federal, por crime ocorrido após a diplomação? c) Admite-se a suspensão das imunidades parlamentares durante o estado de sítio?",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "1) Sim. Desde a expedição do diploma, os membros do Congresso Nacional não poderão ser presos, salvo em flagrante de crime inafiançável. Nesse caso, os autos serão remetidos dentro de vinte e quatro horas à Casa respectiva, para que, pelo voto da maioria de seus membros, resolva sobre a prisão, nos termos do Art. 53, §2º, da CRFB/88. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "2) Não. Recebida a denúncia contra o Deputado, por crime ocorrido após a diplomação, o Supremo Tribunal Federal dará ciência à Casa respectiva, que, por iniciativa de partido político nela representado e pelo voto da maioria de seus membros, poderá, até a decisão final, sustar o andamento da ação, conforme prevê o Art. 53, §3º, da CRFB/88. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "3) Sim. As imunidades de Deputados ou Senadores subsistirão durante o estado de sítio, só podendo ser suspensas mediante o voto de dois terços dos membros da Casa respectiva, nos casos de atos praticados fora do recinto do Congresso Nacional, que sejam incompatíveis com a execução da medida, nos termos do Art. 53, §8º, da CRFB/88. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "4) Grau de conhecimento do tema, fluência e coerência da exposição. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Espelho de Correção das Questões Discursivas' (Disciplina C - Procurador). Cabeçalho traz 'Itens = 4', somando 10,00 pontos ('Nota da Questão 01: 10'). Estrutura idêntica à Questão 04 do cargo de Analista de Controle no mesmo espelho: 3 itens de conteúdo + 1 item de fluência/coerência, todos na mesma escala de 6 degraus (passo 0,50). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (pós-recursos) com padrão de resposta completo por item graduado, publicado em 29/04/2026.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Situações envolvendo agentes públicos foram submetidas à apreciação da Procuradoria Jurídica da Assembleia Legislativa de determinado Estado da Federação. Responda cada um dos questionamentos delas decorrentes, fundamentadamente, à luz dos ditames constitucionais e em consonância com o entendimento do Supremo Tribunal Federal. a) Os agentes políticos que respondem por crime de responsabilidade estão imunizados da aplicação de sanções com base na Lei de Improbidade Administrativa (Lei nº 8.429/92), ao argumento de que aquela esfera absorve esta última? Algum agente político é excepcionado da resposta anterior? Em caso positivo, qual ou quais. b) Os servidores de carreira da Assembleia Legislativa têm direito de greve? Caso não haja conduta ilícita por parte da Administração, devem ser descontados os dias parados do servidor em razão de adesão ao movimento grevista? c) A demissão de empregado público de empresa pública é possível sem a instauração de processo administrativo? É necessário que a motivação da demissão se enquadre dentre as hipóteses de justa causa elencadas na legislação trabalhista? d) O agente regularmente contratado temporariamente, nos termos do Art. 37, IX, da CRFB/88 e de norma local constitucional, tem direito ao décimo terceiro e férias remuneradas, acrescidas do terço constitucional? Existem exceções à resposta anterior? Em caso positivo, indique qual ou quais.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "A1) Não. Inexiste fundamento constitucional para afastar a concorrência das esferas de responsabilidade, de modo que os agentes políticos estão submetidos tanto à responsabilização civil pelos atos de improbidade administrativa, quanto à responsabilização político-administrativa por crimes de responsabilidade. Escala graduada literal (conforme extração do PDF, com possível degrau intermediário não capturado pela ferramenta de extração de texto): 0,00 – 0,25 – 0,50 – 0,75 – 1,25", "pontuacao": 1.25},
+          {"descricao": "A2) Sim. Exceção: Presidente da República, por ser o único agente político expressamente mencionado na Lei Maior com relação aos crimes de responsabilidade (art. 85, V, da CRFB/88). Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,25", "pontuacao": 1.25},
+          {"descricao": "B1) Sim. O direito de greve é assegurado aos servidores públicos em questão, notadamente porque não exercem atividade de segurança pública (Art. 37, VII, da CRFB/88). Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,25", "pontuacao": 1.25},
+          {"descricao": "B2) Sim. Em decorrência da suspensão do vínculo funcional, a Administração deve promover o desconto dos dias parados, considerando que não houve conduta ilícita da Administração. Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,25", "pontuacao": 1.25},
+          {"descricao": "C1) Sim. É possível a demissão de empregado público de empresa pública sem a instauração de processo administrativo, considerando que a eles não é assegurada a estabilidade, tendo em vista que se submetem ao regime trabalhista (art. 173, §1º, CRFB/88). Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,25", "pontuacao": 1.25},
+          {"descricao": "C2) Não. A motivação da demissão deve se enquadrar dentre as hipóteses de justa causa previstas na lei trabalhista, de modo que é cabível a demissão sem justa causa, desde que motivada. Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,25", "pontuacao": 1.25},
+          {"descricao": "D1) Não. Agentes públicos contratados temporariamente, nos termos do Art. 37, IX, da CRFB/88, não fazem jus ao décimo terceiro salário e férias remuneradas, acrescidas do terço constitucional. Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,25", "pontuacao": 1.25},
+          {"descricao": "D2) Sim. Exceções: previsão na lei ou no contrato, ou desvirtuamento da contratação temporária pela Administração Pública, em razão de sucessivas e reiteradas renovações e/ou prorrogações. Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,25", "pontuacao": 1.25}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+        "observacoes": "Cabeçalho traz 'Itens = 8', somando 10,00 pontos ('Nota da Questão 02: 10'), 8 sub-itens de 1,25 ponto cada. A escala impressa no PDF mostra os valores 0,00 / 0,25 / 0,50 / 0,75 / 1,25 para cada sub-item (o degrau 1,00 pode não ter sido capturado pela extração automática de texto da tabela — ressalva registrada por fidelidade, já que a soma dos máximos, 1,25 x 8 = 10,00, confere exatamente com a nota total da questão)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (pós-recursos), publicado em 29/04/2026.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "A Constituição da República e a legislação financeira admitem a criação de fundos especiais de despesa como instrumentos de gestão e de execução de políticas públicas. No âmbito estadual, destacam-se o Fundo dos Direitos da Criança e do Adolescente e o Fundo da Pessoa Idosa, que recebem recursos orçamentários e doações incentivadas (dedutíveis do Imposto de Renda), demandando atuação institucional da Assembleia Legislativa do Amazonas (ALE-AM) no exercício das funções legislativa, fiscalizatória e de controle. Considerando o papel constitucional da Assembleia Legislativa na fiscalização e controle dos fundos públicos, redija um texto dissertativo abordando: a) A natureza jurídica do Fundo dos Direitos da Criança e do Adolescente e o Fundo da Pessoa Idosa à luz da Lei nº 4.320/1964, diferenciando o conceito de fundo especial de despesa das noções de fundos financeiros e fundos rotativos; b) O regime de transferência desses recursos para o Terceiro Setor e a competência fiscalizatória da ALE-AM sobre tais repasses; c) A relação entre a gestão desses fundos e a qualidade do gasto público, considerando os riscos de \"empoçamento\" de receitas e o princípio da vedação ao contingenciamento injustificado.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Item a) Identificação da natureza jurídica dos Fundos como Fundos Especiais de Despesa (art. 71 da Lei nº 4.320/1964), com indicação de que são unidades orçamentárias sem personalidade jurídica própria e com receitas vinculadas a finalidade determinada. Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,00 – 1,25 – 1,50", "pontuacao": 1.50},
+          {"descricao": "Item a) Diferenciação técnica entre: (i) fundos especiais de despesa; (ii) fundos financeiros, voltados a operações de financiamento, crédito ou capitalização, com gestão por instituição financeira oficial e lógica de retorno dos recursos; e (iii) fundos rotativos, enquadrados como modalidade de inversões financeiras (art. 13 da Lei 4.320), que não se destinam a custeio ou investimento, mas a aplicações temporárias e recuperáveis, com reinversão das receitas próprias. Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,00 – 1,25 – 1,50 – 1,75 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Item b) Reconhecimento de que a execução dos recursos do FDCA e do FPI ocorre, em regra, por meio de parcerias com Organizações da Sociedade Civil, regidas pela Lei nº 13.019/2014 (MROSC), mediante Termos de Fomento ou Colaboração e plano de trabalho com metas e indicadores. Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,00 – 1,25 – 1,50 – 1,75", "pontuacao": 1.75},
+          {"descricao": "Item b) Demonstração da competência fiscalizatória da ALE-AM, com auxílio do TCE-AM, nos termos dos arts. 70 e 71 da CF/88, abrangendo controle de legalidade, legitimidade, economicidade e efetividade, inclusive quanto ao cumprimento das metas pelas entidades privadas (parágrafo único do art. 70 da CF/88). Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,00 – 1,25 – 1,50 – 1,75", "pontuacao": 1.75},
+          {"descricao": "Item c) Fundamentação na prioridade absoluta (art. 227 da CF/88 e art. 4º do ECA) como parâmetro material para a gestão dos fundos e para a atuação de controle do Legislativo. Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Item c) Abordagem da qualidade do gasto público, com referência a planejamento, transparência, avaliação de resultados e eficiência na aplicação dos recursos dos fundos. Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Item c) Análise dos riscos de \"empoçamento\" de receitas e do contingenciamento injustificado, com indicação do dever da ALE-AM de coibir tais práticas por violarem a lógica do fundo especial. Escala graduada literal: 0,00 – 0,25 – 0,50 – 0,75 – 1,00", "pontuacao": 1.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+        "observacoes": "Cabeçalho traz 'Itens = 7', somando 10,00 pontos ('Nota da Questão 03 - Gabarito 1: 10'). Os 3 tópicos do enunciado (a, b, c) são desdobrados em 2 a 3 sub-itens cada no espelho, todos rotulados apenas com a letra do tópico (sem numeração a.1/a.2), preservado conforme o documento original. Escalas graduadas em passo de 0,25, com número de degraus variável por item (de 5 a 9 degraus). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (pós-recursos), publicado em 29/04/2026.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf"}
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Durante viagem institucional ao interior do Estado do Amazonas, João, Deputado Estadual, se deparou com determinada unidade de conservação denominada de Monumento Natural. Interessado na temática afeta à proteção do meio ambiente, direito fundamental de terceira geração e uma de suas bandeiras eleitorais, o parlamentar solicitou à sua equipe a apresentação de informações detalhadas sobre a matéria. Com base no cenário hipotético narrado, responda, de forma fundamentada, aos questionamentos a seguir, à luz das disposições da Lei nº 9.985/2000 e do entendimento doutrinário dominante. a) Indique a categoria a que pertence a unidade de conservação denominada de Monumento Natural e o seu objetivo básico. b) A unidade de conservação denominada de Monumento Natural pode ser constituída por áreas particulares? c) É juridicamente cabível a desafetação ou a redução dos limites de uma unidade de conservação?",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "1) O Monumento Natural, unidade de conservação de proteção integral, tem como objetivo básico preservar sítios naturais raros, singulares ou de grande beleza cênica, nos termos do Art. 8º, inciso IV e Art. 12, caput, ambos da Lei nº 9.985/2000. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "2) Sim. O Monumento Natural pode ser constituído por áreas particulares, desde que seja possível compatibilizar os objetivos da unidade com a utilização da terra e dos recursos naturais do local pelos proprietários. Contudo, havendo incompatibilidade entre os objetivos da área e as atividades privadas, ou não havendo aquiescência do proprietário às condições propostas pelo órgão responsável pela administração da unidade para a coexistência do Monumento Natural com o uso da propriedade, a área deve ser desapropriada, de acordo com o que dispõe a lei, conforme preceitua o Art. 12, §1º e §2º, da Lei nº 9.985/2000. Escala graduada literal (a exata paginação de degraus deste item ficou parcialmente sobreposta à do item 3 na extração automática do PDF; valor máximo do item preservado por consistência com o total da questão): 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "3) Sim. A desafetação ou redução dos limites de uma unidade de conservação só pode ser feita mediante lei específica, nos termos do Art. 22, §7º, da Lei nº 9.985/2000. Escala graduada literal (idem, ver ressalva no item 2): 0,00 – 0,50 – 1,00 – 1,50 – 2,00", "pontuacao": 2.00},
+          {"descricao": "4) Grau de conhecimento do tema, fluência e coerência da exposição. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+        "observacoes": "Cabeçalho traz 'Itens = 4', somando 10,00 pontos ('Nota da Questão 04: 10'). ATENÇÃO - a tabela de pontuação dos itens 2 e 3 apareceu parcialmente sobreposta na extração automática de texto do PDF (colunas de escala de itens adjacentes se intercalaram na conversão), de modo que os valores máximos (2,50 e 2,00, respectivamente) foram inferidos para fechar a soma total de 10,00 pontos, mas os degraus intermediários exatos de cada item não puderam ser confirmados com certeza absoluta a partir do texto extraído; recomenda-se conferência manual do PDF original antes de uso em produção. Itens 1 e 4 foram extraídos com clareza."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (pós-recursos), publicado em 29/04/2026.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf"}
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "O sistema previdenciário brasileiro, no âmbito dos regimes básicos de proteção social, permite identificar a segregação entre o Regime Geral de Previdência Social – RGPS, administrado pelo Instituto Nacional do Seguro Social e, ainda, os Regimes Próprios de Previdência Social de Servidores Públicos, os quais são organizados por entes federativos. Tudo isso sem prejuízo de regimes especiais e, também, o modelo de previdência complementar. Nesse contexto, é natural que haja relativa confusão entre a correta vinculação previdenciária e os requisitos de elegibilidade para fins de obtenção de benefícios. Diante desse cenário normativo, em uma hipotética situação na qual um advogado militante na atividade privada obtenha ingresso na carreira pública de procurador do Estado do Amazonas, algumas indagações surgem. A nomeação e exercício efetivo do hipotético novo servidor toma lugar em janeiro de 2026. Sendo assim responda, de forma fundamentada: a) A qual regime previdenciário estará filiado o Procurador do Estado, partindo da premissa que a função pública será sua única atividade remunerada? b) Caso o tempo de atividade privada anterior tenha sido como segurado empregado do RGPS, poderá o mesmo ser computado para fins de aposentadoria no cargo público? c) O Procurador será obrigatoriamente filiado a algum regime de previdência complementar?",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "1) Expor a correta filiação do procurador, como servidor público titular de cargo efetivo com regime próprio instituído, ao Regime Próprio de Previdência Social (RPPS) local. Escala graduada literal (extração parcialmente incompleta ao final do documento - ver observações): 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "2) Identificar tratar-se de hipótese de contagem recíproca de tempo de contribuição entre o RGPS e o RPPS e apontar sua possibilidade, nos termos do art. 201, §9º, da CRFB/88 e da legislação de regência. Escala graduada literal (não plenamente recuperável na extração automática - ver observações): 0,00 – ... – 10,00 (valor máximo do item não determinado com segurança)", "pontuacao": null},
+          {"descricao": "3) Reconhecer a facultatividade do regime de previdência complementar dos servidores públicos (art. 40, §§14 a 16, CRFB/88), inexistindo filiação obrigatória. Escala graduada literal não plenamente recuperável na extração automática - ver observações.", "pontuacao": null}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+        "observacoes": "Cabeçalho indica 'Itens = 3' e 'Nota da Questão 05: 10', mas esta é a última questão do documento e a tabela de pontuação apareceu visivelmente truncada/corrompida na extração automática de texto do PDF (colunas de escala dos itens 2 e 3 não foram recuperadas de forma confiável, aparecendo apenas fragmentos genéricos de sequências numéricas ao final do arquivo). Por integridade, o item 1 foi preservado com a escala que pôde ser lida com confiança (0,00 a 2,50); os itens 2 e 3 tiveram a pontuação marcada como null, e a descrição qualitativa foi mantida a partir do texto do enunciado dos critérios (que estava legível), mas SEM o valor numérico exato de cada degrau. Recomenda-se fortemente reabrir o PDF original (https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf, página final, Disciplina C - Procurador, Questão 05) para conferência manual antes de usar este item como calibração de produção."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (pós-recursos), publicado em 29/04/2026. Ver ressalva de extração incompleta nas observações desta questão.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/aleam25",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_assembleia-legislativa-do-estado-do-amazonas.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/prova-discursiva-procurador-csd101-tipo-1.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/gabarito-definitivo-ale-am.pdf"
+  ],
+  "coletadoEm": "2026-07-16"
+}

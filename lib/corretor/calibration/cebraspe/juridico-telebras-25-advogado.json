@@ -1,0 +1,31 @@
+{
+  "concurso": "Concurso Público TELEBRAS 2025 (Telecomunicações Brasileiras S.A.)",
+  "orgao": "Telecomunicações Brasileiras S.A. (TELEBRAS)",
+  "cargo": "Especialista em Gestão de Telecomunicações – Advogado",
+  "dataProva": "2026-02-08",
+  "areaTema": "Direito Civil/Processual Civil - Arbitragem e Execução",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A TELEBRAS celebrou contrato de compartilhamento de infraestrutura de rede com a ConnectNet Ltda., empresa privada do mesmo segmento. No contrato, firmado em janeiro de 2023 e assinado por duas testemunhas, há cláusula compromissória na qual é estabelecido que \"todas as controvérsias decorrentes do presente instrumento serão dirimidas por arbitragem institucional perante a Câmara de Arbitragem do Mercado\". Atualmente, encontra-se em curso procedimento arbitral instaurado pela ConnectNet Ltda. no qual a empresa questiona os valores cobrados pela TELEBRAS referentes ao compartilhamento de torres de transmissão nos últimos 12 meses. A requerente alega cobrança em duplicidade e aplicação incorreta dos índices de reajuste previstos contratualmente. Paralelamente, a TELEBRAS constatou que a ConnectNet Ltda. descumpriu reiteradamente as cláusulas contratuais relativas aos prazos de manutenção preventiva dos equipamentos compartilhados, o que gerou aplicação de multa contratual no valor de R$ 2.500.000, devidamente prevista em cláusula penal específica do contrato, com vencimento em 30 dias após a notificação extrajudicial, realizada há 45 dias. Com base na situação hipotética apresentada, redija texto dissertativo em atendimento ao que se pede a seguir. 1 Indique, com a devida justificativa, a medida judicial adequada para satisfazer a pretensão da TELEBRAS. [valor: 9,00 pontos] 2 Explique se é juridicamente possível a judicialização pretendida pela TELEBRAS durante o curso do procedimento arbitral instaurado pela ConnectNet Ltda. [valor: 10,00 pontos] 3 Mencione, com a devida fundamentação, o órgão ao qual caberia a deliberação a respeito da competência para a análise das questões relativas ao contrato caso as questões levadas ao juízo arbitral e ao juízo estatal fossem idênticas. [valor: 9,50 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Medida judicial adequada para satisfazer a pretensão e devida justificativa: Conceito 0 (não atendeu ou o fez de forma totalmente equivocada) a Conceito 3 (indicou corretamente a medida judicial adequada - ação de execução fundada em título executivo extrajudicial, art. 784, III, CPC - e apresentou justificativa correta e completa)", "pontuacao": 9.00},
+          {"descricao": "Quesito 2.2 – Possibilidade de judicialização durante o curso do procedimento arbitral: Conceito 0 a Conceito 3 (reconheceu a possibilidade jurídica de ajuizamento da execução mesmo com procedimento arbitral em curso, fundamentando com base na competência exclusiva do Poder Judiciário para atos de constrição patrimonial e na jurisprudência do STJ - REsp n.º 2.167.089/RJ)", "pontuacao": 10.00},
+          {"descricao": "Quesito 2.3 – Juízo responsável pela deliberação da competência e devida fundamentação: Conceito 0 a Conceito 4 (mencionou corretamente o juízo arbitral como responsável pela deliberação, com fundamentação nos três aspectos: princípio da competência-competência (kompetenz-kompetenz), sua positivação no art. 8.º da Lei n.º 9.307/1996, e jurisprudência do STJ consolidada sobre o tema)", "pontuacao": 9.50}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/telebras_25/arquivos/51AF4523DC40D5890A7AAF10F8E5DF4A0D1138772FAB294965F3DC86529EB641.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. O texto-modelo cita o REsp n.º 2.167.089/RJ (rel. Min. Nancy Andrighi, 3ª Turma, j. 19/8/2025) e o AgInt no AREsp n.º 1.276.872/RJ (rel. Min. Og Fernandes, 2ª Turma) como fundamentos jurisprudenciais do STJ. Pontuação por quesito (valor em pontos) extraída do caderno de prova bruto (raw), pois o padrão de resposta em si não traz os valores; conteúdo total da questão soma 28,50 pontos + 1,50 ponto de apresentação/estrutura textual = 30,00 pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo publicado como texto-modelo completo (reproduzido no campo padraoResposta) com 3 quesitos avaliados por conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/telebras_25/arquivos/51AF4523DC40D5890A7AAF10F8E5DF4A0D1138772FAB294965F3DC86529EB641.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/telebras_25/arquivos/51AF4523DC40D5890A7AAF10F8E5DF4A0D1138772FAB294965F3DC86529EB641.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

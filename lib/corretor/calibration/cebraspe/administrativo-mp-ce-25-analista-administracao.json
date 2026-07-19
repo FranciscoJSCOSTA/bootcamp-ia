@@ -1,0 +1,48 @@
+{
+  "concurso": "Concurso Público para Provimento de Vagas e Formação de Cadastro de Reserva em Cargos de Analista Ministerial e de Técnico Ministerial - MPCE 2025",
+  "orgao": "Ministério Público do Estado do Ceará (MPCE)",
+  "cargo": "Cargo 1: Analista Ministerial – Especialidade: Administração",
+  "dataProva": "2025-04-13",
+  "areaTema": "Gestão Pública / Direitos da Pessoa Idosa",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A partir do texto-modelo do padrão de resposta, infere-se que se pedia ao(à) candidato(a) discorrer, em texto dissertativo, sobre: 1) os fatores de risco para a ocorrência de violência patrimonial ou financeira contra a pessoa idosa; 2) exemplos de atos de violência financeira contra a pessoa idosa; e 3) formas de detecção e de prevenção dessas situações de violência.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Fatores de risco para situações de abuso financeiro contra a pessoa idosa: Conceito 0 (não abordou nenhum aspecto) / Conceito 1 (tangenciou o quesito) / Conceito 2 (abordou apenas um fator de risco) / Conceito 3 (abordou dois ou mais fatores de risco, de forma inconsistente) / Conceito 4 (abordou dois ou mais fatores de risco, de forma integralmente adequada)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Exemplos de atos de violência financeira contra a pessoa idosa: Conceito 0 (não abordou) / Conceito 1 (tangenciou o quesito) / Conceito 2 (abordou apenas um exemplo, ou dois ou mais sem desenvolvê-los) / Conceito 3 (abordou dois ou mais exemplos de forma inconsistente) / Conceito 4 (abordou dois ou mais exemplos de forma integralmente adequada)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Formas de detecção e de prevenção dessas situações de violência: Conceito 0 (não abordou) / Conceito 1 (abordou, de forma geral, apenas uma forma de detecção ou de prevenção) / Conceito 2 (abordou apenas formas de detecção ou apenas formas de prevenção) / Conceito 3 (abordou duas ou mais formas de detecção e apenas uma de prevenção, ou vice-versa) / Conceito 4 (abordou duas ou mais formas de detecção e duas ou mais de prevenção, de forma inconsistente) / Conceito 5 (abordou duas ou mais formas de detecção e duas ou mais de prevenção, de forma integralmente adequada)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/mp_ce_25_servidor/arquivos/PADRÃO DE RESPOSTA DEFINITIVO _ CARGOS 1 A 10.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO' (após julgamento de recursos; há trechos em vermelho no PDF original indicando alterações incluídas após recursos no Quesito 2.3). O PDF não indica valor em pontos por quesito (apenas escala de conceitos 0 a 4/5), por isso o campo 'pontuacao' foi deixado como null. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original da questão discursiva não foi reproduzido no padrão de resposta consultado; o PDF fornecido como 'prova bruta' para este item era, na verdade, o Edital nº 5 – MPCE, de 13 de maio de 2025 (resultado final nas provas objetivas e resultado provisório na prova discursiva), sem o caderno de questões, de modo que o comando exato não pôde ser confirmado."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre violência patrimonial/financeira contra a pessoa idosa e 3 quesitos avaliados por conceitos (0 a 4 ou 0 a 5).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/mp_ce_25_servidor/arquivos/PADRÃO DE RESPOSTA DEFINITIVO _ CARGOS 1 A 10.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/mp_ce_25_servidor/arquivos/PADRÃO DE RESPOSTA DEFINITIVO _ CARGOS 1 A 10.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

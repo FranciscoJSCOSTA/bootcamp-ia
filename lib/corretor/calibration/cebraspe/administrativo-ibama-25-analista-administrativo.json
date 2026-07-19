@@ -1,0 +1,31 @@
+{
+  "concurso": "Concurso Público IBAMA 2025",
+  "orgao": "Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA)",
+  "cargo": "Analista Administrativo",
+  "dataProva": "2025-04-06",
+  "areaTema": "Licitações e Contratos Administrativos",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "No ano de 2024, o Instituto Nacional de Pesquisas Espaciais (INPE) registrou a ocorrência de 278.299 focos de incêndio no território nacional. Com vistas a fortalecer e intensificar as atividades de prevenção e combate de incêndios florestais, o IBAMA pretende contratar uma empresa prestadora de serviço contínuo de motorista, a fim de atender o Centro Nacional de Prevenção e Combate aos Incêndios Florestais (PREVFOGO). Considerando a situação hipotética apresentada e a legislação aplicável à contratação do referido serviço, redija um texto dissertativo acerca dessa contratação. Em seu texto, atenda ao que se pede a seguir. 1 Explique a modalidade de licitação que deve ser adotada na situação em questão, mencionando suas características e a justificativa para sua adoção. [valor: 8,50 pontos] 2 Indique as sucessivas fases do processo licitatório na modalidade de licitação a ser adotada. [valor: 5,00 pontos] 3 Apresente o conceito de serviço contínuo e explique, fundamentadamente, se é permitida a prorrogação de contratos cujo objeto seja serviço dessa natureza. [valor: 5,50 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Pregão eletrônico, suas características e justificativa para sua adoção no caso: Conceito 0 (não abordou) a Conceito 4 (acertou a modalidade - pregão eletrônico - e abordou corretamente justificativa, características e critérios de julgamento - menor preço ou maior desconto)", "pontuacao": 8.50},
+          {"descricao": "Quesito 2.2 – Fases do procedimento licitatório do pregão eletrônico (preparatória, divulgação do edital, apresentação de propostas e lances, julgamento, habilitação, recursal, homologação): Conceito 0 (não acertou nenhuma fase) a Conceito 4 (acertou as sete fases)", "pontuacao": 5.00},
+          {"descricao": "Quesito 2.3 – Conceito de serviços contínuos e possibilidade de prorrogação do contrato: Conceito 0 (não apresentou) a Conceito 5 (apresentou corretamente os cinco aspectos: conceito de serviço contínuo, possibilidade legal de prorrogação sucessiva, requisito de previsão em edital, respeito à vigência máxima decenal, e requisito de atestação de vantajosidade)", "pontuacao": 5.50}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/ibama_25/arquivos/PADRÃO_RESPOSTA_DEFINITIVO_CARGO_1.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Baseado na Lei n.º 14.133/2021, na Instrução Normativa SEGES/ME n.º 73/2022 e no Decreto n.º 10.024/2019. Conteúdo soma 19,00 pontos + 1,00 ponto de apresentação/estrutura textual = 20,00 pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 3 quesitos avaliados por conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/ibama_25/arquivos/PADRÃO_RESPOSTA_DEFINITIVO_CARGO_1.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/ibama_25/arquivos/PADRÃO_RESPOSTA_DEFINITIVO_CARGO_1.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

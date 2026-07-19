@@ -1,0 +1,119 @@
+{
+  "concurso": "Concurso Público para a Assembleia Legislativa do Estado do Paraná (ALEP) - Edital nº 01/2024",
+  "orgao": "Assembleia Legislativa do Estado do Paraná (ALEP)",
+  "cargo": "Procurador",
+  "dataProva": "2024-05-05",
+  "areaTema": "Direito Constitucional, Administrativo, Tributário e Ambiental (Peça Jurídica + 4 Questões Discursivas)",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "PEÇA JURÍDICA. Policiais militares do Estado Alfa, que trabalham no período da noite, procuram a associação dos cabos e soldados da Polícia Militar do Estado Alfa, inconformados por não receberem adicional noturno do Estado, que se recusa a pagar o referido benefício, em razão da inexistência de lei estadual que regulamente as normas da Constituição do Estado Alfa as quais asseguram o pagamento, em favor deles, da remuneração do trabalho noturno em valor superior ao do diurno. A associação resolve, então, ingressar com o adequado remédio judicial, a fim de viabilizar o exercício, por seus associados, da supramencionada prerrogativa constitucional estadual, sabendo que há a previsão do valor de vinte por cento, a título de adicional noturno, na Consolidação das Leis do Trabalho. Considerando os dados acima, utilizando-se do instrumento constitucional adequado, elabore a medida judicial cabível.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Item A) Fundamentação constitucional: cabimento de Mandado de Injunção Coletivo ajuizado pela Associação, com base no Art. 5º, LXXI, da CRFB/88, e no Tema 1038 de Repercussão Geral do STF (a CF não prevê adicional noturno aos Militares Estaduais/Distritais, mas o Mandado de Injunção é cabível para aplicar aos militares estaduais as normas que regulamentam o adicional noturno dos servidores civis, desde que o direito esteja previsto na Constituição Estadual). Fundamentação legal: Lei 13.300/2016. Escala graduada literal do espelho: 0,0 – 2,0 – 4,0", "pontuacao": 4.0},
+          {"descricao": "Item B) As partes: impetrante é a Associação (art. 12, III, da Lei 13.300/2016, dispensada autorização especial dos associados); impetrado é o Governador do Estado Alfa, por deter competência privativa para iniciar o processo legislativo (art. 61, §1º, 'f', da CRFB/88, por simetria). Escala graduada literal do espelho: 0,0 – 2,0 – 4,0", "pontuacao": 4.0},
+          {"descricao": "Item C) Competência: do Tribunal de Justiça do Estado Alfa, pois a CRFB repartiu a competência conforme a fonte de onde deveria emanar a norma faltante, cabendo às Constituições Estaduais instituir o Mandado de Injunção no plano estadual, por simetria. Escala graduada literal do espelho: 0,0 – 2,0 – 4,0", "pontuacao": 4.0},
+          {"descricao": "Item D) Fundamentos da mora legislativa: o direito ao adicional noturno decorre dos arts. 7º, IX, e 39, §3º, da CRFB/88, mas o STF (Tema RG 1038) entendeu não haver previsão constitucional federal para militares, de modo que a Constituição do Estado Alfa serve de base para a garantia do direito. Escala graduada literal do espelho: 0,0 – 2,0 – 4,0", "pontuacao": 4.0},
+          {"descricao": "Item E) Pedidos: reconhecimento da omissão e mora legislativa, com concessão da ordem de injunção coletiva para: a) fixação de prazo razoável para o Governador editar a norma regulamentadora; b) supressão da omissão garantindo o adicional noturno de 20% por analogia à CLT, com eficácia para todos os militares em atividade noturna, caso não suprida a mora no prazo (arts. 8º, I e II, e 13 da Lei 13.300/2016). Escala graduada literal do espelho: 0,0 – 2,0 – 4,0", "pontuacao": 4.0}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/alep-procurador-espelho-retificado.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Distribuição dos Pontos' (espelho de correção), aplicado a uma peça jurídica (Mandado de Injunção Coletivo). Cada questão vale até 20 pontos nesta peça (5 itens de 4,0 cada). Escala GRADUADA com apenas 3 degraus por item (0,0 – 2,0 – 4,0), sem meio-termo intermediário nesta questão específica. Não há cláusula de dedução por erro gramatical contado nesta peça; a 'abordagem geral' de língua portuguesa aparece como item positivo apenas na Questão Discursiva 1 do mesmo cargo (não nesta peça)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva, com notas por candidato, publicado em 25/07/2024.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-preliminar-prova-discursiva-2024-07-25.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva, com notas por candidato, publicado em 14/08/2024. Documento de resultado, sem detalhamento de notas individuais por item (detalhamento consta apenas no espelho 'Distribuição dos Pontos').", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-definitivo-prova-discursiva-2024-08-14_0.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "QUESTÃO DISCURSIVA 1. A Assembleia Legislativa do Estado Delta realizou concurso público, cujo edital previa existência de 10 vagas para o cargo de analista legislativo, além de cadastro de reserva, pelo prazo de dois anos, prorrogável por igual período. O certame foi devidamente homologado e, ao longo do primeiro ano, houve a convocação e investidura dos 5 mais bem colocados. Considerando que o prazo inicial de dois anos está terminando, as autoridades competentes estão debatendo sobre a obrigatoriedade de convocação dos demais aprovados dentro do número de vagas previsto no edital, bem como quanto à viabilidade de não prorrogar o concurso, diante da verificação de fatos supervenientes, imprevisíveis e graves, em decorrência de um evento climático que assolou a localidade, de modo que a não nomeação dos candidatos se apresenta como a medida menos gravosa para lidar com a aludida situação excepcional. Diante dessa situação hipotética, analise, fundamentadamente, as matérias objeto de debate, à luz da orientação do Supremo Tribunal Federal, notadamente quanto: A) ao direito subjetivo dos candidatos aprovados dentro do número de vagas previsto no edital à nomeação, à luz do princípio pertinente; B) a existência de discricionariedade da Administração quanto ao momento para promover a nomeação; C) a possibilidade de o Poder Público se recusar a realizar a nomeação dos candidatos aprovados dentro do número de vagas previsto no edital; D) a viabilidade de não prorrogar o prazo de validade do concurso.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Item A) Segundo o STF (Tema 161), os candidatos aprovados dentro do número de vagas previsto no edital têm direito subjetivo à nomeação, à luz do princípio da proteção da confiança (dimensão subjetiva da segurança jurídica). Escala graduada literal do espelho: 0,00 – 1,75 – 3,5", "pontuacao": 3.5},
+          {"descricao": "Item B) Segundo o STF (Tema 784), a Administração tem discricionariedade quanto ao momento da nomeação durante o prazo de validade do concurso. Escala graduada literal do espelho: 0,00 – 1,75", "pontuacao": 1.75},
+          {"descricao": "Item C) A recusa da Administração (Tema 161) depende de: I. motivação explícita indicando causa excepcionalíssima; II. causa justificadora dotada de superveniência, imprevisibilidade, gravidade e necessidade (medida menos gravosa). Escala graduada literal do espelho: 0,00 – 1,0 – 1,25 – 2,25", "pontuacao": 2.25},
+          {"descricao": "Item D) O STF consolidou que a prorrogação do concurso se submete à discricionariedade da Administração, sendo viável não prorrogar (AR 1734-AgR, Rel. Min. Roberto Barroso). Escala graduada literal do espelho: 0,00 – 1,75", "pontuacao": 1.75},
+          {"descricao": "Abordagem geral: uso correto da língua portuguesa, fluência e coerência da exposição. Escala graduada literal do espelho: 0,00 – 0,75. Item positivo (não é dedução por erro contado, é pontuação por qualidade textual). Observação do espelho: não há pontuação para a indicação do número dos Temas ou dos Julgados do STF.", "pontuacao": 0.75}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/alep-procurador-espelho-retificado.pdf",
+        "observacoes": "Questão de até 10 pontos, com 4 itens de conteúdo técnico-jurídico mais um item de 'abordagem geral' (uso correto da língua portuguesa, fluência e coerência), pontuado positivamente em escala de 2 degraus (0,00 – 0,75) — não se trata de dedução por erro contado, e sim de crédito adicional por qualidade textual, distinto do modelo Cebraspe de desconto por erro."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva, com notas por candidato, publicado em 25/07/2024.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-preliminar-prova-discursiva-2024-07-25.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva, com notas por candidato, publicado em 14/08/2024.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-definitivo-prova-discursiva-2024-08-14_0.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "QUESTÃO DISCURSIVA 2. A Emenda Constitucional nº 42, de 19 de dezembro de 2003, previu que poderia ser criado um regime de tributação simplificada das microempresas e empresas de pequeno porte. A Lei Complementar nº 123, 14 de dezembro de 2006, por sua vez, instituiu o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte e o Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional. Em relação ao Simples Nacional, considere as seguintes situações hipotéticas: Primeira situação: O Estado X instituiu, via Decreto, a cobrança do diferencial de alíquotas de empresas optantes do Simples Nacional nas operações de aquisição interestadual de mercadorias, visando regulamentar a Lei Complementar nº 123/2006. A ABC Comércio Ltda., optante pelo Simples Nacional, ajuizou ação declaratória de inexistência de relação jurídica, em face do Estado X, alegando que: i. viola o princípio da não cumulatividade a previsão da Lei Complementar nº 123/2006 que impõe diferencial de alíquota do ICMS pelo Estado de destino na entrada de mercadoria em seu território devido por empresa optante do Simples Nacional, independentemente da posição desta na cadeia produtiva ou da possibilidade de compensação dos créditos; e ii. ainda que assim não fosse, a despeito de haver previsto a antecipação do diferencial de alíquota na Lei Complementar 123/2003, a Constituição Federal a regulamentação via decreto. Segunda situação: A empresa XYZ Serviços Ltda. teve sua adesão ao Simples Nacional negada, pois possui débitos com a Fazenda Pública Federal, cuja exigibilidade não está suspensa. Considerando a legislação constitucional e infraconstitucional e, ainda, as decisões do Supremo Tribunal Federal sobre o tema, responda o questionado a seguir. A) Está correta a primeira alegação da empresa ABC Comércio Ltda.? Fundamente. B) Está correta a segunda alegação da empresa ABC Comércio Ltda.? Fundamente. C) Em relação à negativa de adesão ao Simples à empresa XYZ Serviços Ltda., qual é o entendimento da jurisprudência sobre o assunto? Fundamente e destaque, especialmente, os princípios aplicáveis ao caso.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Item 1.1) Não viola: é constitucional a imposição do diferencial de alíquota do ICMS pelo Estado de destino, devido por empresa optante do Simples Nacional. Escala graduada literal do espelho: 0,0 – 0,5 – 1,0", "pontuacao": 1.0},
+          {"descricao": "Item 1.2) Não viola o princípio da não cumulatividade, pois há previsão em lei complementar que veda apropriação/compensação de créditos relativos a impostos abrangidos pelo Simples Nacional. Escala graduada literal do espelho: 0,0 – 1,0 – 2,0", "pontuacao": 2.0},
+          {"descricao": "Item 2.1) Sim: o STF consolidou que a cobrança do ICMS-DIFAL de optantes do Simples Nacional deve ter fundamento em lei estadual em sentido estrito. Escala graduada literal do espelho: 0,0 – 0,5 – 1,0", "pontuacao": 1.0},
+          {"descricao": "Item 2.2) Viola o Princípio da Legalidade a cobrança do ICMS-DIFAL por meio de Decreto. Escala graduada literal do espelho: 0,0 – 1,0 – 2,0", "pontuacao": 2.0},
+          {"descricao": "Item 3.1) É constitucional vedar a adesão ao Simples Nacional a ME/EPP com débito não suspenso perante Fazendas Públicas. Escala graduada literal do espelho: 0,0 – 0,5 – 1,0", "pontuacao": 1.0},
+          {"descricao": "Item 3.2) A previsão (i) não viola a isonomia, confirmando o valor da igualdade jurídica (0,0–0,5); e (ii) está em conformidade com o princípio da capacidade contributiva (0,0–0,5). Escala graduada literal do espelho: 0,0 – 0,5 – 1,0 (soma dos dois sub-itens de 0,5 cada)", "pontuacao": 1.0},
+          {"descricao": "Item 3.3) A previsão não se caracteriza como meio ilícito de coação ao pagamento de tributo (afastamento de eventual alegação de 'sanção política'). Escala graduada literal do espelho: 0,0 – 0,5 – 1,0", "pontuacao": 1.0}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/alep-procurador-espelho-retificado.pdf",
+        "observacoes": "Questão de até 10 pontos (soma dos 7 itens = 9,0 pontos nominais na tabela do espelho, possivelmente com arredondamento/ajuste na nota final da questão para 10). Não há item de 'abordagem geral'/língua portuguesa nesta questão, diferentemente da Questão Discursiva 1 do mesmo cargo. Não há dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva, com notas por candidato, publicado em 25/07/2024.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-preliminar-prova-discursiva-2024-07-25.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva, com notas por candidato, publicado em 14/08/2024.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-definitivo-prova-discursiva-2024-08-14_0.pdf"}
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "QUESTÃO DISCURSIVA 3. As licenças ambientais, conforme definido pela Resolução CONAMA nº 237/1997, são o ato administrativo pelo qual o órgão ambiental competente estabelece as condições, restrições e medidas de controle ambiental que deverão ser obedecidas pelo empreendedor, pessoa física ou jurídica, para localizar, instalar, ampliar e operar empreendimentos ou atividades utilizadoras dos recursos ambientais consideradas efetiva ou potencialmente poluidoras ou aquelas que, sob qualquer forma, possam causar degradação ambiental. Com a promulgação da Lei Complementar Federal nº 140/2011 foi regulamentada a competência dos entes federativos e fixadas normas de cooperação entre eles, reduzindo assim as superposições e conflitos de atuação. Além disso, nos últimos anos, os desastres socioambientais e as mudanças climáticas têm ocupado o centro das preocupações globais, tendo reflexo inclusive no processo de licenciamento ambiental. Diante dessa realidade, um estado específico da federação optou por regulamentar a necessidade de estudos climáticos no processo de licenciamento ambiental. Essa medida foi adotada com a compreensão de que tais estudos podem contribuir significativamente para uma abordagem eficaz em relação às questões climáticas. A respeito do licenciamento ambiental e das suas potencialidades: 1) esclareça qual é o tipo de competência material para o licenciamento ambiental. 2) especifique o âmbito de competência do estado e dos municípios para expedir a licença ambiental. 3) esclareça como se dá as atuações supletivas e subsidiárias no âmbito do licenciamento ambiental entre estado e municípios. 4) apresente os principais fundamentos jurídicos para uma possível exigência de estudos climáticos de empreendimentos e atividades consideradas efetiva ou potencialmente causadoras de significativo dano climático.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Item 1) Competência comum (material) dos entes federativos para o licenciamento ambiental. Escala graduada literal do espelho: 0,0 – 1,0 – 2,0", "pontuacao": 2.0},
+          {"descricao": "Item 2.1) Município: nos termos do art. 9º da LC 140/2011, cabe aos municípios o licenciamento de atividades/empreendimentos de impacto ambiental local, e os localizados em unidades de conservação municipais, exceto APAs e delegações estaduais. Escala graduada literal do espelho: 0,0 – 0,5 – 1,0", "pontuacao": 1.0},
+          {"descricao": "Item 2.2) Estado: competência licenciatória residual (o que extrapola a competência municipal e não é da União). Escala graduada literal do espelho: 0,0 – 0,5 – 1,0", "pontuacao": 1.0},
+          {"descricao": "Item 3.1) Atuação supletiva (art. 15 da LC 140/2011): inexistindo órgão ambiental capacitado ou conselho de meio ambiente no Município, o Estado desempenha as ações administrativas municipais até sua criação. Escala graduada literal do espelho: 0,0 – 0,75 – 1,5", "pontuacao": 1.5},
+          {"descricao": "Item 3.2) Atuação subsidiária (art. 16 da LC 140/2011): apoio técnico, científico, administrativo ou financeiro, solicitado pelo ente originariamente detentor da atribuição. Escala graduada literal do espelho: 0,0 – 0,75 – 1,5", "pontuacao": 1.5},
+          {"descricao": "Item 4a-b) Princípios constitucionais e natureza intergeracional; impacto climático e Política Nacional de Meio Ambiente (PNMA). Escala graduada literal do espelho: 0,0 – 0,5 – 1,0", "pontuacao": 1.0},
+          {"descricao": "Item 4c-d) Desenvolvimento sustentável; direito fundamental à estabilidade climática e princípios da prevenção, precaução e poluidor-pagador. Escala graduada literal do espelho: 0,0 – 0,5 – 1,0", "pontuacao": 1.0},
+          {"descricao": "Item 4e-f) Acordo de Paris; Política Nacional sobre Mudança do Clima. Escala graduada literal do espelho: 0,0 – 0,5 – 1,0", "pontuacao": 1.0}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/alep-procurador-espelho-retificado.pdf",
+        "observacoes": "Questão de até 10 pontos, 8 itens somando 10,0 pontos. Não há item de língua portuguesa nem dedução por erro gramatical contado nesta questão."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva, com notas por candidato, publicado em 25/07/2024.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-preliminar-prova-discursiva-2024-07-25.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva, com notas por candidato, publicado em 14/08/2024.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-definitivo-prova-discursiva-2024-08-14_0.pdf"}
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "QUESTÃO DISCURSIVA 4. Determinada Lei do Estado Gama, de iniciativa da Assembleia Legislativa, fixou o valor teto de 20 (vinte) salários mínimos para as obrigações de pequeno valor decorrentes de sentenças judiciais para pagamento independentemente de precatórios. Por sua vez, a referida norma estadual estipulou hipóteses excepcionais de flexibilização do teto estabelecido, no valor de: i) sessenta salários mínimos quando os beneficiários sejam idosos ou pessoas com doença grave; e ii) nos respectivos valores nominais, quando egressos dos Juizados Especiais da Fazenda Pública e tenham natureza alimentícia. Diante do exposto, responda as seguintes questões: A) A referida norma estadual respeitou a sistemática constitucional sob o aspecto formal? Justifique. B) A referida norma estadual respeitou a sistemática constitucional sob o aspecto material? Justifique. Obs.: o examinando deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Item A) Aspecto formal: não houve violação. Compete a cada ente federativo, segundo sua capacidade econômica, fixar o valor-teto das obrigações de pequeno valor para pagamento sem precatórios, desde que o valor mínimo corresponda ao maior benefício do RGPS (CF/1988, art. 100, §§3º e 4º; ADCT, art. 87). Trata-se de matéria de iniciativa concorrente (não privativa do Executivo), pois o mero aumento de despesa não atrai iniciativa privativa. Escala graduada literal do espelho: 0,0 – 1,0 – 2,0 – 3,0 – 4,0 – 5,0", "pontuacao": 5.0},
+          {"descricao": "Item B) Aspecto material: houve violação parcial. Compete a cada ente fixar o valor-teto, mas é vedado ampliar a dispensa de precatórios para hipóteses não previstas no texto constitucional, sob pena de ofensa à isonomia (CF/1988, art. 5º, caput). A norma estadual elegeu categoria de dívidas para pagamento sem precatório independentemente do valor, configurando exceção não prevista constitucionalmente. Escala graduada literal do espelho: 0,0 – 1,0 – 2,0 – 3,0 – 4,0 – 5,0", "pontuacao": 5.0}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/alep-procurador-espelho-retificado.pdf",
+        "observacoes": "Questão de até 10 pontos, apenas 2 itens de 5,0 cada, com escala graduada de 6 degraus (0,0 a 5,0, de 1 em 1). Nota explícita no enunciado: 'a mera citação do dispositivo legal não confere pontuação' - exige fundamentação argumentativa, não apenas referência normativa. Não há dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva, com notas por candidato, publicado em 25/07/2024.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-preliminar-prova-discursiva-2024-07-25.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva, com notas por candidato, publicado em 14/08/2024.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-definitivo-prova-discursiva-2024-08-14_0.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/alep24/01",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/edital-no-01.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/procurador-discursivae1cns1002.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/alep-procurador-espelho-retificado.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/764_alep_edital-1-resultado-definitivo-prova-discursiva-2024-08-14_0.pdf"
+  ],
+  "coletadoEm": "2026-07-17"
+}

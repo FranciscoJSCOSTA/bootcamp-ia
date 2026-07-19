@@ -1,0 +1,117 @@
+{
+  "concurso": "Concurso Público para o Tribunal de Justiça do Estado do Amazonas 2024",
+  "orgao": "Tribunal de Justiça do Estado do Amazonas (TJAM)",
+  "cargo": "Juiz Substituto",
+  "dataProva": "2025-04-14",
+  "areaTema": "Direito Penal, Direito Administrativo, Direito Constitucional, Direito Civil e Direito Processual Civil",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Questão 1 – Direito Penal. Alberto, às 2 horas da madrugada do dia 11/12/2024, depois de arrombar a porta de uma creche municipal, ingressa na unidade, de onde retira para si materiais de escritório, no valor total de R$ 119,00, vendendo-os, no dia seguinte, a Bernardo, dono de uma pequena papelaria, ao preço de R$ 30,00. Na ocasião, Bernardo, mesmo desconfiando da procedência irregular dos materiais, nada questiona a Alberto (que também silencia sobre a questão) e decide adquiri-los, no intuito de comercializá-los em seu estabelecimento. Alberto possui condenação anterior transitada em julgado por crime de insubmissão, cuja pena se extinguiu no dia 12/06/2021, ao passo que Bernardo possui condenação anterior por crime de estelionato, cujo processo está aguardando o julgamento de apelação interposta pela defesa. Diante do caso narrado, responda fundamentadamente: a) Qual a expressão penal das condutas de Alberto e Bernardo, com todas as suas circunstâncias? b) Cabe a incidência, em favor de Alberto ou de Bernardo, do princípio da insignificância? Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "1. Responder que Alberto, ao subtrair, para si, materiais de escritório, cometeu o crime de furto, qualificado pela destruição ou rompimento de obstáculo, haja vista que arrombou a porta da escola para ingressar no local (Código Penal, Art. 155, §4º, I). Escala graduada literal do espelho: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "2. Explicar que Alberto é primário, pois a condenação penal anterior transitada em julgado que possui é por crime militar próprio (insubmissão), não gerando reincidência (Código Penal, Art. 64, II). Considerando que a coisa subtraída é de pequeno valor, cabível o reconhecimento da forma privilegiada do crime (Art. 155, §2º), aplicável em conjunto com a qualificadora, por ser esta de ordem objetiva (Súmula 511-STJ e Tema Repetitivo 561-STJ). Escala graduada literal do espelho: 0.00 – 0.15 – 0.30", "pontuacao": 0.30},
+          {"descricao": "3. Esclarecer que, considerando o horário do crime (2h da madrugada), seria possível o reconhecimento da causa de aumento do repouso noturno (Art. 155, §1º), porém, nos termos do Tema Repetitivo 1.087 do STJ, não é possível aplicar ao furto qualificado a referida majorante. Escala graduada literal do espelho: 0.00 – 0.15 – 0.30", "pontuacao": 0.30},
+          {"descricao": "4. Responder que a conduta de Bernardo, por ter, no exercício de atividade comercial, adquirido bens que devia saber serem produto de crime (dolo eventual), se conforma à figura típica da receptação qualificada (Código Penal, Art. 180, §1º). Escala graduada literal do espelho: 0.00 – 0.15 – 0.30", "pontuacao": 0.30},
+          {"descricao": "5. Explicar que, por ser a receptação qualificada modalidade de receptação dolosa, tendo em vista o pequeno valor da coisa e a primariedade de Bernardo, nos termos da Súmula 444-STJ, incide o privilégio previsto no Art. 180, §5º, 2ª parte, c/c Art. 155, §2º, ambos do CP. Escala graduada literal do espelho: 0.00 – 0.15 – 0.30", "pontuacao": 0.30},
+          {"descricao": "6. Informar que, apesar do valor ínfimo dos bens subtraídos, não é possível reconhecer em favor de Alberto o princípio da insignificância, pois sua conduta não apresenta o elemento da inexpressividade da lesão jurídica, por ter sido praticada em detrimento do patrimônio público de uma creche municipal. Escala graduada literal do espelho: 0.00 – 0.15 – 0.30", "pontuacao": 0.30},
+          {"descricao": "7. Esclarecer que, em relação a Bernardo, também não será possível aplicar o princípio da insignificância, já que, nos termos da jurisprudência do STF, o crime de receptação não é passível de sua incidência, por ser crime pluriofensivo que afeta a própria administração da justiça. Escala graduada literal do espelho: 0.00 – 0.15 – 0.30", "pontuacao": 0.30}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Espelho de Correção'. Escala GRADUADA por item, com degraus intermediários literais (ex.: 0.00 – 0.15 – 0.30), permitindo crédito parcial. 'Nota da Questão 01' consolidada = 2 (soma dos 7 itens). Não há mecanismo de dedução por erro gramatical contado nesta questão; não há item autônomo de 'correção da linguagem' nesta prova (diferente do observado no espelho do TJSE24 da mesma banca)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Questão 2 – Direito Administrativo. Em matéria de processo administrativo disciplinar, responda aos itens a seguir, de forma objetivamente fundamentada, com base na jurisprudência do Superior Tribunal de Justiça. a) A autoridade administrativa que se utilizar de fundamentação per relationem ou aliunde nos processos disciplinares pratica ato ilegal? Existe base legal para tal forma de fundamentação em processos administrativos? b) É cabível a comunicação entre as esferas penal e administrativa quando o juízo criminal reconhece, de maneira contundente, a inimputabilidade do agente, fundada no Art. 26 do Código Penal, e profere sentença absolutória imprópria, com imposição de medida de segurança, especificamente em situações nas quais, constatada enfermidade psíquica, o servidor público acusado era, ao tempo da ação ou omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento? Nesse caso, comprovada a prática de falta disciplinar, é cabível a imposição de sanção administrativa disciplinar? Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a.1) Não, a autoridade administrativa pode se utilizar de fundamentação per relationem nos processos disciplinares, com base na Súmula 674-STJ (Info 835). Escala graduada literal: 0.00 – 0.10 – 0.20 – 0.30 – 0.40 – 0.50", "pontuacao": 0.50},
+          {"descricao": "a.2) Sim, a motivação mediante 'declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, serão parte integrante do ato' (motivação aliunde) tem expressa base legal no Art. 50, §1º, da Lei nº 9.784/1999. Escala graduada literal: 0.00 – 0.10 – 0.20 – 0.30 – 0.40 – 0.50", "pontuacao": 0.50},
+          {"descricao": "b.1) Sim, à luz do princípio constitucional da culpabilidade, é cabível a comunicação entre as esferas penal e administrativa, quando o juízo criminal reconhece que o servidor público réu era inteiramente incapaz de entender o caráter ilícito do fato, porquanto causa excludente da culpa em sentido lato. Escala graduada literal: 0.00 – 0.10 – 0.20 – 0.30 – 0.40 – 0.50", "pontuacao": 0.50},
+          {"descricao": "b.2) Não, constatada a prática de falta disciplinar quando o agente estava em surto psicótico e absolutamente incapaz de entender o caráter ilícito do fato, descabe a fixação de sanção administrativa, impondo-se à Administração Pública avaliar a eventual concessão de licença para tratamento de saúde ou aposentadoria por invalidez. Escala graduada literal: 0.00 – 0.10 – 0.20 – 0.30 – 0.40 – 0.50", "pontuacao": 0.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf",
+        "observacoes": "Bibliografia de referência citada no espelho: STJ, 1ª Turma, RMS 72.642-PR, Rel. Min. Regina Helena Costa, julgado em 1/10/2024 (Info 828). 'Nota da Questão 02' = 2 (soma dos 4 itens de 0,50 cada). Sem dedução por erro gramatical."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Questão 3 – Direito Constitucional. No âmbito do Município Alfa, foram iniciados estudos para a formação da agenda de uma política pública, de caráter contínuo e ininterrupto, especificamente direcionada a um grupo que historicamente era visto como inferior por inúmeros atores do ambiente sociopolítico, situação que se almejava contornar a partir de um tratamento diferenciado e mais benéfico. Outros setores, no entanto, tanto da coletividade como das estruturas estatais de poder, argumentaram que o tratamento diferenciado que se almejava instituir afrontava a concepção de isonomia, gerando o risco de perpetuar uma ruptura que o mero fluir do tempo poderia suprimir. Analise a compatibilidade, com a ordem constitucional, da política pública que o Município Alfa pretende instituir e incursione, necessariamente, nos seguintes aspectos: I. a concepção de igualdade; II. a neutralidade do Estado e as minorias; III. a discriminação reversa. Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "1. A política pública, em razão da histórica exclusão de um grupo social, distancia-se da igualdade formal com o objetivo de alcançar a igualdade material. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "1.1. A igualdade formal é a estabelecida pela lei, aplicável a todos indistintamente. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "1.2. A igualdade material é a vivenciada na realidade, de modo efetivo. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "1.3. A política pública está comprometida, portanto, com a igualdade consagrada no Art. 5º, caput, da CRFB/1988. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "2. O delineamento de uma política pública direcionada a quem está em posição de inferioridade consubstancia uma ação afirmativa. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "2.1. Essa política pública, no entanto, não pode ter caráter contínuo e ininterrupto, devendo ser reavaliada e extinta no momento em que a posição de inferioridade for superada. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "3. A neutralidade do Estado, ao se manter equidistante dos distintos grupos sociais, prestigia a igualdade formal e tende a perpetuar a desigualdade material, distanciando-se da concepção de ação afirmativa. Escala graduada literal: 0.00 – 0.20 – 0.40", "pontuacao": 0.40},
+          {"descricao": "4. A discriminação reversa é aquela imposta ao grupo majoritário, que é preterido por políticas públicas direcionadas ao grupo minoritário historicamente excluído, sendo compatível com o processo de construção da igualdade material. Escala graduada literal: 0.00 – 0.20 – 0.40", "pontuacao": 0.40}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf",
+        "observacoes": "'Nota da Questão 03' = 2 (soma dos 8 itens). Sem dedução por erro gramatical contado; sem item autônomo de correção da linguagem."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf"}
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Questão 4 – Direito Civil. O Banco Anatos, promitente comprador de um imóvel incorporado por XXX Construtora Ltda., acionou a vendedora reclamando do atraso na entrega da unidade que havia adquirido para construção de sua sede. Antes da sentença, as partes compuseram acordo judicial, que foi homologado pela Primeira Vara de Manaus, prevendo a entrega das chaves em 30 dias, sob pena de multa diária de 1% do valor pago pelo imóvel. Passado o trintídio, como a construtora não cumpria a obrigação, a instituição financeira passou a executar o acordo, constituindo a ré em mora. Depois de 150 dias de inércia, o juízo penhora o valor acumulado da multa diária nas contas da devedora, o que a faz vir aos autos, tempestiva e adequadamente, requerer a redução sob os seguintes fundamentos: (i) já supera o valor do próprio imóvel; e, (ii) embora não negue a inadimplência, ela seria parcial, na medida em que 75% de todas as providências necessárias para a entrega da unidade já teriam sido tomadas. Analise o pleito, de maneira justificada, em relação a ambos os argumentos do réu. Ao final, indique sua conclusão, também apresentando e detalhando os conceitos jurídicos envolvidos. Desnecessária a forma de sentença. Considere provados todos os fatos. 1. A resposta deve ser fundamentada, de modo que a mera referência a entendimento jurisprudencial ou doutrinário, sem justificativa específica, não pontuará. 2. A mera citação de artigo legal, ou de resposta 'sim' ou 'não', desacompanhada da devida justificativa, não garante a pontuação na questão. Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "1. Identificação da natureza jurídica da multa diária como cláusula penal moratória, inserida em contrato de transação, nos termos dos Arts. 840 c/c 847 do Código Civil. Especificação do conceito e preterição do regime jurídico das astreintes e da Lei 4.591/64. Escala graduada literal: 0.00 – 0.25 – 0.50 – 0.75", "pontuacao": 0.75},
+          {"descricao": "2. Impossibilidade de o valor da multa ultrapassar o da obrigação principal, por força do princípio da gravitação jurídica (Art. 412 do Código Civil). A mera menção a enriquecimento sem causa ou aos princípios da proporcionalidade e razoabilidade não pontuou. Escala graduada literal: 0.00 – 0.25 – 0.50", "pontuacao": 0.50},
+          {"descricao": "3. Conclusão no sentido de que há direito subjetivo do devedor à redução equitativa quando cumpre parcialmente a obrigação nos termos do Art. 413 do Código Civil, não necessariamente proporcional matematicamente, conforme entendimento do STJ. Escala graduada literal: 0.00 – 0.25 – 0.50 – 0.75", "pontuacao": 0.75}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf",
+        "observacoes": "'Nota da Questão 04 - Gabarito 1' = 2 (soma dos 3 itens). Espelho registra explicitamente critérios negativos: mera citação de jurisprudência/doutrina sem justificativa específica, ou resposta 'sim/não' sem fundamentação, não pontua — mas isso é regra de não-pontuação do item, não dedução de nota já obtida."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf"}
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "Questão 5 – Direito Processual Civil. O condomínio Apartamentos Grandes ajuizou ação de cobrança em face do estado do Amazonas, que figura como proprietário de uma das unidades autônomas, com o intuito de receber o valor equivalente a R$ 35.000,00, referente a cotas condominiais inadimplidas. A petição inicial foi instruída com diversos documentos, dentre eles, os boletos mensais de cobrança, enviados a e-mail institucional administrado pela Secretaria de Estado de Planejamento. O juízo da Primeira Vara de Fazenda Pública da Comarca de Manaus, ao efetuar o juízo de admissibilidade da petição inicial, entendeu que o autor deveria ter ajuizado ação de execução fundada em título extrajudicial, em razão de o crédito estar documentado. Além disso, pelo fato de o valor atribuído à causa ser inferior a 60 salários mínimos, o magistrado considerou que o processo deveria tramitar perante o Juizado Especial de Fazenda Pública, em razão da competência determinada em lei ao Juizado. Fundado em tais razões, o juízo proferiu decisão na qual determinou (i) a emenda da petição inicial, adaptando-a ao procedimento da execução de título extrajudicial; e, (ii) após, a remessa dos autos ao Juizado Especial de Fazenda Pública. Considerando o caso acima narrado, responda fundamentadamente: a) A emenda à inicial, no que se refere à adaptação da peça exordial ao procedimento executivo, foi acertada? b) O Juizado Especial de Fazenda Pública é competente para apreciar a causa? Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "1.1. A decisão judicial, ao determinar a emenda da inicial para adaptá-la ao procedimento da execução fundada em título extrajudicial, não foi acertada. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10},
+          {"descricao": "1.2. Em que pese o crédito referente às contribuições do condomínio edilício estar documentado, o que confere força de título executivo extrajudicial nos termos do Art. 784, X, do CPC, é lícito ao detentor do título ajuizar ação pelo procedimento comum de modo a obter título executivo judicial, nos termos do Art. 785 do CPC. Escala graduada literal: 0.00 – 0.30 – 0.40 – 0.50 – 0.70 – 0.80 – 0.90", "pontuacao": 0.90},
+          {"descricao": "2.1. O Juizado Especial de Fazenda Pública é competente para apreciar a causa. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10},
+          {"descricao": "2.2. A despeito de o Art. 8º, §1º, da Lei nº 9.099/1995 (aplicável subsidiariamente por força do Art. 27 da Lei nº 12.153/2009) não indicar o condomínio edilício como parte admitida a litigar perante o Juizado Especial, o Juizado Fazendário possui competência absoluta para apreciar causas de valor até 60 salários-mínimos, nos termos do Art. 2º, caput e §4º, da Lei nº 12.153/2009 e do entendimento do STJ. Escala graduada literal: 0.00 – 0.30 – 0.40 – 0.50 – 0.70 – 0.80 – 0.90", "pontuacao": 0.90}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf",
+        "observacoes": "'Nota da Questão 05' = 2 (soma dos 4 itens: 0,10+0,90+0,10+0,90). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/tjam24",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/tjam-prova-discursiva.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotjamdiscursiva.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-tjamjuizsentencas.pdf"
+  ],
+  "coletadoEm": "2026-07-17"
+}

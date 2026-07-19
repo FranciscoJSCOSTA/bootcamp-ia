@@ -1,0 +1,44 @@
+{
+  "concurso": "Fundação de Previdência Complementar do Servidor Público Federal do Poder Judiciário (FUNPRESP-JUD) - Concurso Público 2026",
+  "orgao": "Fundação de Previdência Complementar do Servidor Público Federal do Poder Judiciário (FUNPRESP-JUD)",
+  "cargo": "Emprego 1: Advogado",
+  "dataProva": "2026-07-05",
+  "areaTema": "Atualidades / Tecnologia e Sociedade",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A partir dos textos motivadores, redija um texto dissertativo, de forma clara e coerente, abordando: (1) o papel das plataformas digitais na formação de opiniões e na manipulação de comportamentos dos usuários (algoritmos, capitalismo de vigilância, coleta e uso de dados); e (2) as consequências desse cenário para o debate público e o funcionamento da democracia, incluindo a importância de ferramentas democráticas como transparência, liberdade de escolha e acesso a informações diversificadas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Papel das plataformas digitais na formação de opiniões e na manipulação de comportamentos: Conceito 0 (não abordou ou equivocado) a Conceito 4 (desenvolveu completamente, com abordagem pertinente e conectada ao tema)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Consequências desse cenário para o debate público e o funcionamento da democracia: Conceito 0 a Conceito 4 (desenvolveu completamente, com abordagem pertinente e conectada ao tema)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/funpresp_26_jud/arquivos/7A0A4D02B9F1116BBCC780889B68A9AB3AD36C21D775ABAC9449265EFB4A4912.pdf",
+        "observacoes": "Documento intitulado apenas 'PADRÃO DE RESPOSTA' (sem qualificação de preliminar/definitivo no cabeçalho, mas o item foi coletado como padrão preliminar conforme metadado do concurso). Prova comum a todos os cargos do concurso, incluindo o Emprego 1: Advogado. Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. | Nota de reconstrução do enunciado: Prova Discursiva - Parte Comum para todos os cargos (aplicável ao Emprego 1: Advogado). O documento de padrão de resposta consultado não reproduz o enunciado literal com os textos motivadores; reconstrução baseada no padrão de resposta e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar com texto-base dissertativo completo e 2 quesitos avaliados por conceitos (0 a 4).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/funpresp_26_jud/arquivos/7A0A4D02B9F1116BBCC780889B68A9AB3AD36C21D775ABAC9449265EFB4A4912.pdf"
+        },
+        "definitivo": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/funpresp_26_jud/arquivos/7A0A4D02B9F1116BBCC780889B68A9AB3AD36C21D775ABAC9449265EFB4A4912.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

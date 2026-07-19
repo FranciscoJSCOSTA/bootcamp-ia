@@ -1,0 +1,72 @@
+{
+  "concurso": "Concurso Público TCU 2025 - Técnico Federal de Controle Externo (TEFC)",
+  "orgao": "Tribunal de Contas da União (TCU)",
+  "cargo": "Técnico Federal de Controle Externo (TEFC)",
+  "dataProva": "2025-08-03",
+  "areaTema": "Controle Externo",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "O texto originário da Constituição de determinado estado da Federação tem o seguinte dispositivo. Art. 33. Compete, exclusivamente, à Assembleia Legislativa: (...) III – tomar e julgar, anualmente, as contas prestadas pelo Presidente do Tribunal de Justiça do Estado; Considerando o dispositivo hipotético anteriormente apresentado, analise a constitucionalidade da norma, com base na jurisprudência do STF e nos princípios constitucionais aplicáveis. Em seu texto, aborde os seguintes aspectos: 1 o princípio constitucional aplicável à análise; [valor: 1,20 ponto] 2 a distribuição de competências entre o Poder Legislativo e os tribunais de contas para julgamento de contas públicas, conforme estabelecido pela Constituição Federal de 1988; [valor: 1,20 ponto] 3 a exceção constitucionalmente prevista para essa regra geral; [valor: 1,20 ponto] 4 conclusão sobre a (in)constitucionalidade do dispositivo em questão. [valor: 1,20 ponto]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Princípio da simetria: Conceito 0 (não identificou o princípio da simetria nem fez menção à regra constitucional de observância obrigatória do modelo federal de controle orçamentário e financeiro pelos estados) / Conceito 1 (identificou)", "pontuacao": 1.20},
+          {"descricao": "Quesito 2.2 – Distribuição de competências entre o Poder Legislativo e os tribunais de contas para julgamento das contas públicas: Conceito 0 (não abordou) / Conceito 1 (parcialmente inconsistente ou incompleta) / Conceito 2 (totalmente correta e completa)", "pontuacao": 1.20},
+          {"descricao": "Quesito 2.3 – Exceção constitucionalmente prevista para essa regra geral: Conceito 0 (não abordou ou equivocado) / Conceito 1 (identificou a exceção mas não mencionou a obrigação relativa ao governador) / Conceito 2 (identificou e mencionou a obrigação relativa ao governador)", "pontuacao": 1.20},
+          {"descricao": "Quesito 2.4 – Conclusão sobre a (in)constitucionalidade do dispositivo em questão: Conceito 0 (não se posicionou ou defendeu a constitucionalidade) / Conceito 1 (defendeu a inconstitucionalidade sem citar jurisprudência do STF) / Conceito 2 (defendeu a inconstitucionalidade fundamentando na jurisprudência do STF)", "pontuacao": 1.20}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_tefc/arquivos/0ADBEF3225D8419ED817E95CDCE3DCAF93CF2739C3F80FFE95496FB10E3989D6.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO' (já após julgamento de recursos). Texto-base do padrão cita a ADI 6.981/SP (STF) como fundamento jurisprudencial. Trechos em vermelho no PDF original indicam alterações incluídas após recursos em relação ao padrão preliminar."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo publicado como texto-base completo (reproduzido no campo padraoResposta), não um gabarito de múltipla escolha - trata-se de questão discursiva com texto-modelo e quesitos avaliados por conceitos (0 a 2).", "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_tefc/arquivos/0ADBEF3225D8419ED817E95CDCE3DCAF93CF2739C3F80FFE95496FB10E3989D6.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Com base na Lei n.º 14.133/2021 e na Instrução Normativa n.º 5/2017 da Secretaria de Gestão do então Ministério do Planejamento, Desenvolvimento e Gestão, discorra sobre dois motivos que justificam a adoção da gestão de riscos nos processos de contratação pública [valor: 2,40 pontos] e cite três circunstâncias em que o mapa de riscos da contratação pública deve ser necessariamente atualizado e juntado aos autos do processo de contratação [valor: 2,40 pontos].",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Motivos que justificam a adoção da gestão de riscos nos processos de contratação pública: Conceito 0 (não atendeu) a Conceito 5 (mencionou e explicou corretamente dois motivos)", "pontuacao": 2.40},
+          {"descricao": "Quesito 2.2 – Circunstâncias em que o mapa de riscos deve ser necessariamente atualizado e juntado aos autos: Conceito 0 (não atendeu) a Conceito 3 (citou corretamente três circunstâncias previstas na IN n.º 5/2017)", "pontuacao": 2.40}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_tefc/arquivos/0ADBEF3225D8419ED817E95CDCE3DCAF93CF2739C3F80FFE95496FB10E3989D6.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Texto-modelo lista 9 motivos possíveis (art. 11, parágrafo único, Lei 14.133/2021) e 4 circunstâncias de atualização do mapa de riscos (art. 26, IN 5/2017), dos quais o candidato deveria citar apenas 2 e 3, respectivamente."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e quesitos avaliados por conceitos (0 a 5 e 0 a 3).", "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_tefc/arquivos/0ADBEF3225D8419ED817E95CDCE3DCAF93CF2739C3F80FFE95496FB10E3989D6.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Peça de natureza técnica. Durante o curso de processo de fiscalização do repasse de recursos federais vinculados a convênio firmado com prefeitura municipal, o TCU apurou os seguintes fatos: realização de despesa sem a emissão do prévio empenho e ocorrência de contratação direta com fundamento em dispensa indevida de licitação, que resultou em prejuízo ao erário. A auditoria concluiu que o prefeito agiu deliberadamente para causar dano aos cofres públicos. Antes da deliberação do TCU, o tribunal de contas estadual com jurisdição sobre o município emitira parecer prévio com a recomendação de aprovação das contas do chefe do Poder Executivo municipal, sem ressalvas. A partir da situação hipotética apresentada, redija um parecer técnico no qual sejam apontadas eventuais impropriedades observadas no caso em questão. Ao elaborar seu texto, atenda ao que se pede a seguir. 1 Apresente os fundamentos constitucionais que conferem ao TCU competência para fiscalizar os atos descritos na situação hipotética. [valor: 3,00 pontos] 2 Analise a legalidade da realização de despesa sem a emissão do prévio empenho, elencando as fases da execução da despesa pública. [valor: 4,00 pontos] 3 Apresente a qualificação jurídica da contratação direta com fundamento em dispensa indevida de licitação. [valor: 4,00 pontos] 4 Esclareça se a aprovação das contas de governo do prefeito pelo tribunal de contas estadual interfere no procedimento instaurado no âmbito do TCU. [valor: 4,00 pontos] 5 Classifique o tipo de controle exercido pelo TCU no caso, conforme o seu objeto e momento, e a posição do órgão controlador. [valor: 4,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Fundamentos constitucionais da competência do TCU para fiscalizar os atos descritos: Conceito 0 a Conceito 2 (abordou de forma consistente e completa os fundamentos constitucionais - art. 71, VI e art. 70, parágrafo único, CF/1988)", "pontuacao": 3.00},
+          {"descricao": "Quesito 2.2 – Ilegalidade da realização de despesa sem emissão do prévio empenho e fases da execução da despesa pública: Conceito 0 a Conceito 4 (abordou corretamente os quatro aspectos: ilegalidade + fases de empenho, liquidação e pagamento)", "pontuacao": 4.00},
+          {"descricao": "Quesito 2.3 – Qualificação jurídica da contratação direta com fundamento em dispensa indevida de licitação: Conceito 0 a Conceito 4 (mencionou ato de improbidade administrativa - Lei 8.429/1992, art. 10, VIII - e responsabilização da Lei de Licitações, arts. sobre frustração, perda patrimonial e conduta dolosa)", "pontuacao": 4.00},
+          {"descricao": "Quesito 2.4 – Independência do julgamento do TCE e do TCU: Conceito 0 a Conceito 3 (fundamentação consistente e completa)", "pontuacao": 4.00},
+          {"descricao": "Quesito 2.5 – Classificação do controle exercido pelo TCU no caso (posterior, de legalidade, externo): Conceito 0 a Conceito 3 (abordou corretamente as três classificações)", "pontuacao": 4.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_tefc/arquivos/0ADBEF3225D8419ED817E95CDCE3DCAF93CF2739C3F80FFE95496FB10E3989D6.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO' para a peça de natureza técnica (valor total 19,00 pontos de conteúdo + 1,00 ponto de apresentação/estrutura textual = 20,00 pontos). Trechos em vermelho no PDF indicam ajustes pós-recursos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com parecer técnico-modelo completo e 5 quesitos avaliados por conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/tcu_25_tefc/arquivos/0ADBEF3225D8419ED817E95CDCE3DCAF93CF2739C3F80FFE95496FB10E3989D6.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.cebraspe.org.br/concursos/tcu_25_tefc",
+    "https://cdn.cebraspe.org.br/concursos/tcu_25_tefc/arquivos/108_TCUTEFC_002_DISC.pdf",
+    "https://cdn.cebraspe.org.br/concursos/tcu_25_tefc/arquivos/0ADBEF3225D8419ED817E95CDCE3DCAF93CF2739C3F80FFE95496FB10E3989D6.pdf",
+    "https://cdn.cebraspe.org.br/concursos/tcu_25_tefc/arquivos/Ed_1_TCU_25_TEFC_Abertura.html"
+  ],
+  "coletadoEm": "2026-07-11"
+}

@@ -1,0 +1,30 @@
+{
+  "concurso": "Concurso Público UDESC 2026 (Fundação Universidade do Estado de Santa Catarina)",
+  "orgao": "Fundação Universidade do Estado de Santa Catarina (UDESC)",
+  "cargo": "Técnico Universitário de Desenvolvimento – Função: Administrador (cargos 1 a 10)",
+  "dataProva": "2026-03-29",
+  "areaTema": "Redação/Conhecimentos Gerais - Administração Pública e Sociedade",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Os serviços públicos representam hoje um papel determinante em todos os países industrializados em setores como saúde, educação, cultura, serviços sociais, e o Estado cumpre sempre funções centrais na vida coletiva mesmo no contexto de liberalização que conhecemos hoje. Para muita gente, os serviços públicos ficam associados à imagem de funcionários pouco inclinados a trabalhar e preocupados principalmente com suas vantagens e seus privilégios. [...] (Jean-François Chanlat, com adaptações). Frente a um olhar preconceituoso da sociedade, o servidor experimenta sentimentos ambíguos: por um lado, constrangimento pelo não reconhecimento social do seu trabalho, por outro, orgulho por ser um felizardo [...] (Carla Vaz dos Santos Ribeiro e Deise Mancebo, com adaptações). Considerando que os fragmentos de texto acima têm caráter unicamente motivador, redija um texto dissertativo acerca do seguinte tema. OS FUNCIONÁRIOS PÚBLICOS NO MUNDO DO TRABALHO CONTEMPORÂNEO. Em seu texto, aborde os seguintes aspectos: 1 visão atual da sociedade quanto ao funcionalismo público: elementos positivos e negativos; [valor: 4,50 pontos] 2 necessidade de manutenção de valores essenciais ao serviço público: integridade, receptividade ao usuário, engajamento e busca pela qualidade. [valor: 5,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Visão atual da sociedade quanto ao funcionalismo público: elementos positivos e negativos: Conceito 0 (não abordou) a Conceito 3 (abordou de forma satisfatória, mencionando elementos positivos e negativos de forma consistente, relacional, coesa e coerente)", "pontuacao": 4.50},
+          {"descricao": "Quesito 2.2 – Manutenção dos valores essenciais ao serviço público (integridade, receptividade ao usuário, engajamento e busca pela qualidade): Conceito 0 (não abordou) a Conceito 4 (abordou de forma consistente e coerente os quatro valores essenciais)", "pontuacao": 5.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/udesc_26/arquivos/70987DF1D83E2040C46776F4E2D9747B9254ED8D8BC903F02760C4E65B72C3AC.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', comum aos cargos 1 a 10 (Técnico Universitário de Desenvolvimento, incluindo Administrador). Trata-se de redação dissertativa sobre tema de conhecimentos gerais/atualidades, sem conteúdo técnico-jurídico específico do cargo. Conteúdo soma 9,50 pontos + 0,50 ponto de apresentação/estrutura textual = 10,00 pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo e 2 quesitos avaliados por conceitos, comum aos cargos 1 a 10.", "fonte": "https://cdn.cebraspe.org.br/concursos/udesc_26/arquivos/70987DF1D83E2040C46776F4E2D9747B9254ED8D8BC903F02760C4E65B72C3AC.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/udesc_26/arquivos/70987DF1D83E2040C46776F4E2D9747B9254ED8D8BC903F02760C4E65B72C3AC.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

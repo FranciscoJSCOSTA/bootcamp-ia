@@ -1,0 +1,31 @@
+{
+  "concurso": "Concurso Público do Tribunal de Contas do Estado do Rio Grande do Norte (TCE/RN) 2025",
+  "orgao": "Tribunal de Contas do Estado do Rio Grande do Norte (TCE/RN)",
+  "cargo": "Cargo 1: Analista Administrativo - Especialidade: Arquivologia",
+  "dataProva": "2026-04-12",
+  "areaTema": "Arquivologia - Gestão de Documentos",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Considerando que a gestão de documentos não é apenas uma atividade administrativa, mas um pilar estratégico das organizações, redija texto dissertativo em atendimento ao que se pede a seguir. 1 Defina gestão de documentos. [valor: 4,00 pontos] 2 Indique as fases da gestão de documentos, descrevendo as atividades contempladas em cada uma delas. [valor: 12,00 pontos] 3 Cite os instrumentos básicos de gestão de documentos. [valor: 3,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 - Definição de gestão de documentos: Conceito 0 (não apresentou a definição ou fez de forma totalmente equivocada) / Conceito 1 (apresentou a definição incompleta ou parcialmente incorreta) / Conceito 2 (apresentou a definição completa e correta)", "pontuacao": 4.00},
+          {"descricao": "Quesito 2.2 - Fases da gestão de documentos com a descrição das respectivas atividades: Conceito 0 (não indicou nenhuma fase nem as descreveu) / Conceito 1 (mencionou corretamente apenas os nomes das três fases, sem discorrer sobre as atividades) / Conceito 2 (mencionou as três fases e discorreu adequadamente sobre as atividades de apenas uma delas) / Conceito 3 (discorreu adequadamente sobre as atividades de apenas duas delas) / Conceito 4 (discorreu adequadamente sobre as atividades de todas elas - produção, utilização e destinação)", "pontuacao": 12.00},
+          {"descricao": "Quesito 2.3 - Instrumentos básicos de gestão de documentos: Conceito 0 (não citou nenhum instrumento ou fez de forma totalmente equivocada) / Conceito 1 (citou corretamente apenas um dos dois instrumentos - plano/código de classificação ou tabela de temporalidade e destinação) / Conceito 2 (citou corretamente os dois instrumentos)", "pontuacao": 3.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tce_rn_25/arquivos/DB293A68860E7B6E83FC3329D8BB2A117D3C658624A83738DB07655CFCBFDDC8.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Dos 20,00 pontos totais da questão, até 1,00 ponto refere-se a apresentação/estrutura textual (não incluído nos itens de conteúdo acima, cuja soma é 19,00). Enunciado confirmado a partir do caderno de prova discursiva bruta (raw_0.pdf). Texto-modelo cita a Lei n.º 8.159/1991 (Lei dos Arquivos) e descreve as três fases (produção, utilização e destinação) com as respectivas atividades."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 3 quesitos avaliados por conceitos (0 a 2, 0 a 4 e 0 a 2).", "fonte": "https://cdn.cebraspe.org.br/concursos/tce_rn_25/arquivos/DB293A68860E7B6E83FC3329D8BB2A117D3C658624A83738DB07655CFCBFDDC8.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/tce_rn_25/arquivos/DB293A68860E7B6E83FC3329D8BB2A117D3C658624A83738DB07655CFCBFDDC8.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

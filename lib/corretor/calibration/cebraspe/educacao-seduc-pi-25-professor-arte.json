@@ -1,0 +1,30 @@
+{
+  "concurso": "Concurso Público para o Provimento de Vagas e Formação de Cadastro de Reserva no Cargo de Professor da Educação Básica do Estado do Piauí",
+  "orgao": "Secretaria de Estado da Educação do Piauí (SEDUC-PI)",
+  "cargo": "Cargo 1: Professor da Educação Básica - Disciplina: Arte",
+  "dataProva": "2026-03-22",
+  "areaTema": "Educação - Ensino de Arte",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "O currículo do Piauí fundamenta-se na BNCC e nos vários currículos dos municípios do estado. No currículo do Piauí, o ensino da Arte está centrado no desenvolvimento de competências e habilidades que contribuem para a formação integral dos estudantes. Tais competências e habilidades são oportunizadas via experiências e vivências artísticas na forma de práticas para incentivar o protagonismo dos estudantes pela ação de criar e interferir na realidade ao seu redor, tomando consciência do exercício da cidadania. (Carlos A. Silva et. al. Currículo do Piauí. Teresina: SEDUC, 2019 - com adaptações). Considerando que o fragmento de texto acima tem caráter unicamente motivador, redija um texto dissertativo abordando os seguintes aspectos: 1 orientações da BNCC para o ensino da Arte visando à formação integral; [valor: 4,00 pontos] 2 experiências e vivências artísticas para promover o protagonismo dos estudantes e a cidadania por meio do ensino da Arte. [valor: 5,50 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 - Orientações da BNCC para o ensino da Arte visando à formação integral: Conceito 0 (não abordou ou fez de forma totalmente equivocada) / Conceito 1 (abordou de forma superficial, sem desenvolvê-lo) / Conceito 2 (desenvolveu de forma parcialmente inconsistente ou incompleta) / Conceito 3 (desenvolveu de forma consistente e completa)", "pontuacao": 4.00},
+          {"descricao": "Quesito 2.2 - Experiências e vivências artísticas para promover o protagonismo dos estudantes e a cidadania por meio do ensino da Arte: Conceito 0 (não abordou ou fez de forma totalmente equivocada) / Conceito 1 (abordou de forma superficial, sem desenvolvê-lo) / Conceito 2 (desenvolveu de forma parcialmente inconsistente ou incompleta, deixando de abordar algum dos elementos do quesito - experiências/vivências artísticas, promoção do protagonismo, cidadania pela Arte) / Conceito 3 (desenvolveu de forma consistente e completa)", "pontuacao": 5.50}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/seduc_pi_25_professor/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Dos 10,00 pontos totais da questão, até 0,50 ponto refere-se a apresentação/estrutura textual (não incluído nos itens de conteúdo acima, cuja soma é 9,50). Enunciado confirmado a partir do caderno de prova discursiva bruta (raw_0.pdf)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 2 quesitos avaliados por conceitos (0 a 3 cada).", "fonte": "https://cdn.cebraspe.org.br/concursos/seduc_pi_25_professor/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/seduc_pi_25_professor/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

@@ -1,0 +1,91 @@
+{
+  "concurso": "Concurso Público TCE/MS 2025 - Auditor de Controle Externo (Área: Tecnologia da Informação)",
+  "orgao": "Tribunal de Contas do Estado do Mato Grosso do Sul (TCE/MS)",
+  "cargo": "Auditor de Controle Externo - Área: Tecnologia da Informação (Cargo 5)",
+  "dataProva": "2025-10-26",
+  "areaTema": "Controle Externo / Tecnologia da Informação",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A inteligência artificial (IA) tem promovido transformações significativas em diversos setores, inclusive na administração pública, ao viabilizar melhorias na prestação de serviços por meio de tecnologias avançadas. O uso crescente da IA, no entanto, exige uma reflexão crítica sobre seus impactos na gestão pública, especialmente à luz dos princípios que regem a atuação do Estado. É necessário considerar tanto os avanços proporcionados por essa tecnologia quanto os desafios que sua implementação pode trazer, com vistas a promover maior agilidade, precisão e economia na administração pública, além de aprimorar a experiência do cidadão no acesso aos serviços oferecidos. Considerando que o fragmento de texto acima tem caráter unicamente motivador, redija um texto dissertativo a respeito do uso da IA no contexto da administração pública. Em seu texto, aborde os seguintes aspectos: 1 dois benefícios e duas limitações relacionados à infraestrutura tecnológica ou à integração de sistemas para o uso da IA na administração pública; [valor: 7,00 pontos] 2 dois exemplos práticos e tecnicamente viáveis de aplicação da IA em sistemas públicos de grande escala, bem como a abordagem técnica adequada para cada um deles. [valor: 7,25 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Benefícios do uso da IA na administração pública (infraestrutura e integração de sistemas): Conceito 0 (não abordou) a Conceito 3 (citou corretamente dois benefícios relacionados à infraestrutura tecnológica ou integração de sistemas, com relação clara ao contexto da administração pública). Exemplos de benefícios aceitos: escalabilidade via computação em nuvem, integração de dados heterogêneos (datalakes/lakehouse), redução de custos por automação, interoperabilidade via APIs/microsserviços, modernização de sistemas legados, uso de deep learning/LLMs, suporte à decisão via painéis preditivos", "pontuacao": 3.50},
+          {"descricao": "Quesito 2.2 – Limitações do uso da IA na administração pública (infraestrutura e integração de sistemas): Conceito 0 a Conceito 3 (citou corretamente duas limitações - dependência de sistemas legados/baixa interoperabilidade, custos e infraestrutura especializada, indisponibilidade em ambientes críticos, vulnerabilidades de segurança, falta de padronização de protocolos/metadados)", "pontuacao": 3.50},
+          {"descricao": "Quesito 2.3 – Exemplos práticos de aplicação de IA em sistemas públicos de grande escala: Conceito 0 a Conceito 3 (citou corretamente dois exemplos com descrição adequada da abordagem técnica - ex.: chatbots com NLP integrados a gov.br/TCU/INSS, detecção de fraudes via aprendizado supervisionado, análise preditiva em saúde pública, visão computacional em inspeções urbanas ou imagens de satélite/drones, sumarização de documentos via LLMs/RAG/agentes inteligentes)", "pontuacao": 7.25}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/737DF8925BAB03880ECC1029ABB1F3CCFD17897262638E79E1D5466427410693.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', específico para o Cargo 5 (Auditor de Controle Externo, área Tecnologia da Informação). O padrão publicado não atribui explicitamente pontuação a cada conceito (0 a 3) por quesito; a divisão de pontuação entre os quesitos 2.1/2.2/2.3 (3,50/3,50/7,25) foi inferida a partir dos valores atribuídos aos itens 1 e 2 do enunciado (7,00 e 7,25 pontos, respectivamente), já que o item 1 (benefícios e limitações) foi desdobrado em dois quesitos de avaliação (2.1 e 2.2) e o item 2 (exemplos de aplicação) corresponde ao quesito 2.3. Trechos em vermelho no PDF original indicam alterações incluídas após recursos em relação ao padrão preliminar."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo publicado como texto-modelo completo (reproduzido no campo padraoResposta), com quesitos avaliados por conceitos (0 a 3), sem gabarito de múltipla escolha por se tratar de questão discursiva.", "fonte": "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/737DF8925BAB03880ECC1029ABB1F3CCFD17897262638E79E1D5466427410693.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "No que concerne à contratação de bens e serviços de TI pela administração pública, redija um texto dissertativo abordando os seguintes aspectos: 1 os deveres do fiscal na fiscalização da execução do contrato, conforme as previsões da Lei n.º 14.133/2021. [valor: 5,25 pontos] 2 as fases do processo de contratação de TI, bem como pelo menos dois aspectos relevantes de cada fase, de acordo com a IN SGD/ME n.º 94/2022. [valor: 9,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Deveres do fiscal do contrato (art. 117 da Lei n.º 14.133/2021): Conceito 0 (não abordou) / Conceito 1 (abordou corretamente apenas um dos dois deveres - registrar ocorrências e determinar providências; informar à autoridade superior situação que ultrapasse sua competência) / Conceito 2 (abordou corretamente os dois deveres)", "pontuacao": 1.75},
+          {"descricao": "Quesito 2.2 – Fase de planejamento da contratação (DFD, EPC, ETP, mapa de riscos, TR, alinhamento ao PDTIC): Conceito 0 (não mencionou) a Conceito 3 (mencionou a fase e abordou corretamente pelo menos dois de seus aspectos relevantes)", "pontuacao": 3.00},
+          {"descricao": "Quesito 2.3 – Fase de seleção do fornecedor (encaminhamento do TR, condução do processo licitatório, atuação da EPC, gerenciamento de riscos): Conceito 0 a Conceito 3 (mencionou a fase e abordou corretamente pelo menos dois aspectos relevantes)", "pontuacao": 3.00},
+          {"descricao": "Quesito 2.4 – Fase de gestão do contrato (nomeação de fiscais, reunião inicial, ordens de serviço, monitoramento, transição/encerramento, TRP, gerenciamento de riscos): Conceito 0 a Conceito 3 (mencionou a fase e abordou corretamente pelo menos dois aspectos relevantes)", "pontuacao": 3.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/737DF8925BAB03880ECC1029ABB1F3CCFD17897262638E79E1D5466427410693.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Item 2 do enunciado (9,00 pontos) foi desdobrado em três quesitos de avaliação (2.2, 2.3, 2.4), um para cada fase da contratação de TI (planejamento, seleção do fornecedor, gestão do contrato), cada um valendo 3,00 pontos (escala de conceito 0 a 3). O quesito 2.1 corresponde ao item 1 do enunciado (deveres do fiscal, 5,25 pontos totais, mas escala de conceito vai de 0 a 2 - valor exato por conceito não explicitado no documento; estimativa de 1,75 por ponto de conceito é aproximação linear). Trechos em vermelho no PDF indicam ajustes pós-recursos (ex.: adição do gerenciamento de riscos como aspecto relevante nas fases de seleção e gestão)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo (deveres do fiscal e as três fases da contratação de TI segundo a IN SGD/ME n.º 94/2022), avaliado por quesitos com escala de conceitos.", "fonte": "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/737DF8925BAB03880ECC1029ABB1F3CCFD17897262638E79E1D5466427410693.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Uma empresa de comércio eletrônico identificou que, durante os finais de semana, o tempo de resposta do seu site aumenta de forma expressiva, o que gera reclamações de clientes e abertura de diversos chamados no service desk. Além disso, o contrato firmado entre a empresa e seus clientes prevê que o site deve manter 95% de disponibilidade mensal, mas o relatório do último mês evidenciou apenas 91%. Durante análise, verificou-se que não havia informações completas sobre dependências entre serviços e infraestrutura, dificultando a identificação da causa-raiz do problema. A partir da situação hipotética apresentada, redija, com base no ITIL V4, um texto dissertativo a respeito de gestão e segurança de tecnologia da informação. Em seu texto, atenda ao que se pede a seguir. 1 Explique o papel do gerenciamento de problemas e como ele deve atuar para evitar que se repitam as falhas de desempenho do site aos finais de semana. [valor: 5,00 pontos] 2 Discorra sobre o papel do gerenciamento de nível de serviço diante da quebra do acordo de disponibilidade com os clientes. [valor: 5,00 pontos] 3 Explique de que forma o gerenciamento de configuração de serviço poderia ter contribuído para reduzir o impacto e acelerar a solução dos problemas da empresa em apreço. [valor: 4,25 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Gerenciamento de problemas: Conceito 0 (não abordou) a Conceito 3 (explicou o papel do gerenciamento de problemas - identificar causa-raiz de falhas recorrentes - relacionando-o adequadamente à situação hipotética)", "pontuacao": 5.00},
+          {"descricao": "Quesito 2.2 – Gerenciamento de nível de serviço: Conceito 0 a Conceito 3 (discorreu sobre o papel do gerenciamento de nível de serviço - garantir cumprimento de SLA, reportar resultados, negociar ações corretivas - relacionando-o adequadamente à situação)", "pontuacao": 5.00},
+          {"descricao": "Quesito 2.3 – Gerenciamento de configuração de serviço: Conceito 0 a Conceito 2 (explicou de que forma o gerenciamento de configuração de serviço, via CMDB, poderia reduzir o impacto e acelerar a solução dos problemas)", "pontuacao": 4.25}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/737DF8925BAB03880ECC1029ABB1F3CCFD17897262638E79E1D5466427410693.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Cada quesito corresponde 1:1 a um item do enunciado (5,00 / 5,00 / 4,25 pontos), com base nas práticas ITIL V4 de gerenciamento de problemas, de nível de serviço e de configuração de serviço."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre as três práticas do ITIL V4 aplicadas à situação hipotética, avaliado por quesitos com escala de conceitos (0 a 3 e 0 a 2).", "fonte": "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/737DF8925BAB03880ECC1029ABB1F3CCFD17897262638E79E1D5466427410693.pdf"}
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Peça de natureza técnica. Um órgão da administração pública federal realizou a contratação direta, por inexigibilidade, de uma empresa para desenvolvimento e implantação de um novo sistema de processo eletrônico. O processo foi instruído com estudo técnico preliminar (ETP) genérico, que não detalhava os requisitos da solução nem apresentava um levantamento aprofundado de alternativas no mercado, encerrando-se com uma alegação sucinta de inviabilidade de competição para justificar a inexigibilidade. Na fase de seleção, a análise da proposta técnica da empresa contratada consistiu simplesmente na expressão \"De acordo\", dada por um gestor, sem parecer técnico que avaliasse o alinhamento da solução ofertada com os requisitos do órgão. Após seis meses de execução contratual, período no qual os pagamentos estavam sendo realizados com base nas horas trabalhadas pela equipe da contratada (pagamento por esforço), o órgão celebrou um termo aditivo que aumentou o valor global do contrato em 35%, sob a mera justificativa de \"novas necessidades funcionais\". A partir da situação hipotética apresentada, elabore um parecer técnico acerca da condução do processo de contratação descrito, com fundamentação jurídica e técnica, à luz da legislação vigente e dos princípios da administração pública. Em seu parecer, analise os seguintes aspectos: 1 escolha da contratação direta por inexigibilidade na situação, abordando três pressupostos legais indispensáveis para sua caracterização; [valor: 16,60 pontos] 2 irregularidade do ETP elaborado no caso, considerando sua finalidade, e princípio administrativo violado na situação; [valor: 10,20 pontos] 3 irregularidade da análise da proposta técnica feita na situação, considerando sua finalidade, e exemplos de itens a serem verificados; [valor: 9,60 pontos] 4 modalidade de pagamento adotada e riscos a ela associados, recomendando outra modalidade de pagamento mais apropriada e esclarecendo a necessidade de cláusulas de nível de serviço (SLA); [valor: 11,85 pontos] 5 legalidade do termo aditivo celebrado, indicando o limite percentual admitido pela legislação vigente para acréscimos contratuais. [valor: 4,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Escolha da contratação direta por inexigibilidade e pressupostos legais indispensáveis (art. 74, Lei 14.133/2021 - inviabilidade de competição, notória especialização, singularidade do objeto, vício por planejamento falho): Conceito 0 (não analisou) a Conceito 4 (abordou corretamente os 4 aspectos i a iv)", "pontuacao": 16.60},
+          {"descricao": "Quesito 2.2 – Finalidade do ETP, irregularidade do ETP elaborado e princípio administrativo violado (fundamentação da necessidade, violação do princípio da motivação - art. 5º Lei 14.133/2021 e art. 37 CF): Conceito 0 a Conceito 3 (abordou corretamente os 3 aspectos v a vii)", "pontuacao": 10.20},
+          {"descricao": "Quesito 2.3 – Finalidade da análise da proposta técnica, irregularidade da análise realizada e exemplos de itens a verificar (arquitetura da solução, segurança, escalabilidade, aderência ao PDTIC): Conceito 0 a Conceito 3 (abordou corretamente os 3 aspectos viii a x)", "pontuacao": 9.60},
+          {"descricao": "Quesito 2.4 – Inadequação do pagamento por esforço, riscos associados, adequação do pagamento vinculado a produtos/resultados e necessidade de SLA (vedação pela IN SGD/ME 94/2022, art. 5º, VIII): Conceito 0 a Conceito 3 (abordou corretamente os 3 aspectos xi a xiii)", "pontuacao": 11.85},
+          {"descricao": "Quesito 2.5 – Ilegalidade do termo aditivo celebrado e limite percentual para acréscimos contratuais (art. 125, Lei 14.133/2021 - limite de 25% para acréscimos em serviços): Conceito 0 a Conceito 2 (abordou corretamente os 2 aspectos xiv e xv)", "pontuacao": 4.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/737DF8925BAB03880ECC1029ABB1F3CCFD17897262638E79E1D5466427410693.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO' para a peça de natureza técnica (parecer técnico), valor total de conteúdo 52,25 pontos + apresentação/estrutura (2,75 pontos, conforme instruções gerais da prova) = 55,00 pontos. O padrão numera explicitamente 15 aspectos (i a xv) distribuídos nos 5 quesitos, cada aspecto correspondendo a um ponto de fundamentação jurídica/técnica específico. Trechos em vermelho no PDF indicam ajustes pós-recursos (ex.: qualificação do modelo de pagamento por esforço e citação do art. 5º da Lei 9.784/1999 substituída por remissão à Lei 14.133/2021)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com parecer técnico-modelo completo e 5 quesitos avaliados por conceitos, cobrindo contratação direta por inexigibilidade (Lei 14.133/2021), ETP, análise de proposta técnica, modalidade de pagamento (vedação ao pagamento por esforço, IN SGD/ME 94/2022) e limite legal para termo aditivo.", "fonte": "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/737DF8925BAB03880ECC1029ABB1F3CCFD17897262638E79E1D5466427410693.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.cebraspe.org.br/concursos/tce_ms_25",
+    "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/9D84E7DA00CB1E6420C5FA623DFD21125CAE15D164C982C05536423237BFC1BC.pdf",
+    "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/737DF8925BAB03880ECC1029ABB1F3CCFD17897262638E79E1D5466427410693.pdf",
+    "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/Ed_1_2025_TCE_MS_Servidor_Abertura.pdf"
+  ],
+  "coletadoEm": "2026-07-11"
+}

@@ -1,0 +1,60 @@
+{
+  "concurso": "Prefeitura Municipal de Andradina/SP - Concurso Público 2025 - Procurador Jurídico Municipal",
+  "orgao": "Prefeitura Municipal de Andradina/SP",
+  "cargo": "Procurador Jurídico Municipal",
+  "dataProva": "2025-08-03",
+  "areaTema": "Direito Tributário / Direito Processual Civil",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Na qualidade de Procurador Jurídico Municipal, redija impugnação aos embargos à execução fiscal, endereçada ao Juiz de Direito da Vara de Fazenda Pública da Comarca de Andradina/SP, arguindo, em preliminar, a ausência de garantia da execução fiscal (art. 16, §1º, da Lei nº 6.830/1980) e, no mérito, a legitimidade dos lançamentos de IPTU e do redirecionamento da execução fiscal por sucessão empresarial (arts. 130 a 133 do CTN; Tema 1.049 dos recursos repetitivos do STJ), bem como a impossibilidade de reconhecimento de imunidade tributária em favor da empresa embargante (Temas 437, 508 e 1.140 de repercussão geral do STF).",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Requisitos formais da peça jurídica (endereçamento; cabeçalho de identificação; preliminares; mérito; pedido; local/data; assinatura): Conceito 0 (não apresentou nenhum) a Conceito 4 (apresentou corretamente todos os sete requisitos formais)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Preliminar: ausência de garantia da execução fiscal: Conceito 0 (não elaborou) a Conceito 3 (elaborou abordando corretamente os três aspectos: art. 16, §1º da Lei 6.830/1980; regime concorrencial sem prerrogativas de fazenda pública - Tema 253; não conhecimento dos embargos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Mérito: legitimidade dos lançamentos de IPTU e do redirecionamento da execução fiscal: Conceito 0 a Conceito 5 (abordou corretamente os cinco aspectos enumerados de (iv) a (viii): responsabilidade por sucessão - arts. 130-133 CTN; Tema 1.049 do STJ; necessidade de comunicação da incorporação ao fisco)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.4 – Mérito: impossibilidade de reconhecimento da imunidade tributária em favor da empresa Alfa S.A - Tema 437 de RG: Conceito 0 a Conceito 4 (abordou corretamente os quatro aspectos enumerados de (ix) a (xii))",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.5 – Mérito: impossibilidade de reconhecimento da imunidade tributária em favor da empresa Alfa S.A - Temas 508 e 1.140 de RG: Conceito 0 a Conceito 2 (abordou corretamente os dois aspectos enumerados (xiii) e (xiv): imunidade tributária recíproca não aplicável a sociedade de economia mista com ações negociadas em bolsa)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.6 – Pedidos: Conceito 0 (não mencionou nenhum) a Conceito 4 (mencionou corretamente os quatro pedidos: não conhecimento dos embargos, rejeição no mérito, condenação em custas, honorários sucumbenciais)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/pref_andradina_25_procurador/arquivos/2B6E5AC00C8D35B4D9AFAFE7969A9CB9F972D0DAC20B2640D040EED66CF77BB7.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Fundamenta-se na Lei nº 6.830/1980 (LEF), CTN (arts. 130-133), Tema 1.049 dos recursos repetitivos do STJ, Tema 437, 508 e 1.140 de RG do STF e Lei nº 14.133/2021 (art. 121). Trechos em vermelho no PDF (ex.: ajuste na escala de conceitos do Quesito 2.1, que substituiu faixas 'dois a três'/'quatro a seis' por valores fixos) indicam alterações pós-recurso. Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. | Nota de reconstrução do enunciado: Prova Discursiva - Peça Jurídica. Enunciado original (situação hipotética envolvendo execução fiscal de IPTU movida contra Alfa S.A., sociedade de economia mista incorporadora de empresa devedora, que opôs embargos à execução sem garantia do juízo) não reproduzido de forma integral no padrão de resposta consultado; reconstrução baseada no texto-modelo e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo da peça de impugnação aos embargos à execução fiscal e 6 quesitos avaliados por conceitos, com correções pós-recurso destacadas em vermelho no documento.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/pref_andradina_25_procurador/arquivos/2B6E5AC00C8D35B4D9AFAFE7969A9CB9F972D0DAC20B2640D040EED66CF77BB7.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/pref_andradina_25_procurador/arquivos/2B6E5AC00C8D35B4D9AFAFE7969A9CB9F972D0DAC20B2640D040EED66CF77BB7.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

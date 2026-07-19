@@ -1,0 +1,48 @@
+{
+  "concurso": "Processo Seletivo Simplificado para a Contratação, por Prazo Determinado, de Supervisores Pedagógicos - UNIVESP 2025",
+  "orgao": "Universidade Virtual do Estado de São Paulo (UNIVESP)",
+  "cargo": "Área de Atuação 1: Administração e Áreas Afins",
+  "dataProva": "2025-05-03",
+  "areaTema": "Ética e Inteligência Artificial na Ciência",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A partir do texto-modelo do padrão de resposta, infere-se que se pedia ao(à) candidato(a), na 'PARTE COMUM PARA TODAS AS ÁREAS DE ATUAÇÃO' (incluindo a Área 1: Administração e Áreas Afins), discorrer sobre: 1) as contribuições da Inteligência Artificial (IA) para a construção do conhecimento científico; 2) as implicações éticas do uso de IA na ciência (confiabilidade, transparência, autoria de material produzido por IA); e 3) caminhos para superar os riscos associados ao uso de IA na ciência.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Contribuições da IA para o conhecimento científico: Conceito 0 (não abordou) / Conceito 1 (tangenciou o aspecto) / Conceito 2 (abordou apenas de forma superficial) / Conceito 3 (desenvolveu de forma insuficiente, mencionando apenas uma ou duas contribuições) / Conceito 4 (desenvolveu adequadamente, mencionando pelo menos duas contribuições)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Ética no uso de IA na ciência: Conceito 0 (não abordou) / Conceito 1 (tangenciou o aspecto) / Conceito 2 (abordou apenas de forma superficial) / Conceito 3 (desenvolveu de forma insuficiente, mencionando apenas uma ou duas implicações éticas) / Conceito 4 (desenvolveu adequadamente, mencionando pelo menos duas implicações éticas)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Caminhos para superar os riscos do uso de IA na ciência: Conceito 0 (não abordou) / Conceito 1 (tangenciou o aspecto, de forma genérica) / Conceito 2 (abordou apenas de forma superficial) / Conceito 3 (desenvolveu de forma insuficiente, mencionando apenas um ou dois caminhos) / Conceito 4 (desenvolveu de forma adequada, mencionando pelo menos dois caminhos)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/univesp_25_pss/arquivos/UNVESP_25_PSS_PADRÃO DEFINITIVO DE RESPOSTA_PROVA DISCURSIVA.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', parte comum a todas as áreas de atuação do processo seletivo simplificado de Supervisores Pedagógicos da UNIVESP. O PDF não indica valor em pontos por quesito (apenas escala de conceitos 0 a 4), por isso o campo 'pontuacao' foi deixado como null. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original da questão discursiva não foi reproduzido no padrão de resposta consultado; o PDF fornecido como 'prova bruta' para este item era, na verdade, o Edital nº 8/2025 – UNIVESP, de 23 de maio de 2025 (resultado final nas provas objetivas e na prova discursiva), sem o caderno de questões, de modo que o comando exato não pôde ser confirmado."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre contribuições e implicações éticas do uso de IA na ciência, e 3 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/univesp_25_pss/arquivos/UNVESP_25_PSS_PADRÃO DEFINITIVO DE RESPOSTA_PROVA DISCURSIVA.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/univesp_25_pss/arquivos/UNVESP_25_PSS_PADRÃO DEFINITIVO DE RESPOSTA_PROVA DISCURSIVA.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

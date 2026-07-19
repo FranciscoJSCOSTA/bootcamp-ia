@@ -1,0 +1,34 @@
+{
+  "concurso": "Concurso Público STM 2025 - Analista Judiciário e Técnico Judiciário",
+  "orgao": "Superior Tribunal Militar (STM)",
+  "cargo": "Analista Judiciário - Área: Judiciária",
+  "dataProva": "2025-06-01",
+  "areaTema": "Direito Processual Penal Militar",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "O cabo Davi, da Aeronáutica, foi condenado por sentença transitada em julgado à pena de dois anos de reclusão, pela prática do crime de falsidade ideológica previsto no art. 312 do Código Penal Militar, sob a acusação de que, no exercício de sua função como controlador de patrimônio, ele havia inserido declarações falsas em documentos públicos, tendo gerado dano ao erário. Um ano depois da transição em julgado da sentença condenatória, a defesa de Davi ingressou com pedido de revisão criminal sustentado na ausência de dolo em sua conduta e na existência de suposta nova prova, um documento que indicaria que os erros nos registros patrimoniais teriam sido cometidos por outro militar. Contudo, tal documento já havia sido citado e juntado como anexo em habeas corpus impetrado antes da sentença condenatória, tendo sido, inclusive, analisado pelo juízo sentenciante e pelo tribunal, em sede recursal. A partir da situação hipotética precedente, redija um texto dissertativo, atendendo, com fundamento no Código de Processo Penal Militar e no entendimento consolidado da jurisprudência militar, ao que se pede a seguir. 1 Discorra sobre os pressupostos legais para a admissibilidade da revisão criminal no processo penal militar. [valor: 12,50 pontos] 2 Esclareça se é possível propor revisão criminal apenas para a reanálise de argumentos e provas já debatidos na ação penal originária. [valor: 12,50 pontos] 3 Esclareça se, no caso hipotético em apreço, a prova apresentada justifica a reabertura da ação penal por meio de revisão criminal. [valor: 13,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 - Pressupostos legais para a admissibilidade da revisão criminal: Conceito 0 (não discorreu ou o fez de forma totalmente equivocada) / Conceito 1 (citou genericamente a revisão, sem precisão dos pressupostos legais) / Conceito 2 (mencionou os pressupostos legais, mas de forma incompleta ou parcialmente correta) / Conceito 3 (mencionou corretamente que a revisão exige sentença com trânsito em julgado e pode se basear em prova falsa, erro evidente ou prova nova de inocência ou redução de pena)", "pontuacao": 12.50},
+          {"descricao": "Quesito 2.2 - Inadmissibilidade de 'prova nova' preexistente: Conceito 0 (não abordou ou afirmou incorretamente que é possível propor revisão criminal apenas para reanálise de argumentos e provas já debatidos) / Conceito 1 (afirmou corretamente que não é possível, mas sem fundamentação ou com fundamentação totalmente equivocada) / Conceito 2 (afirmou corretamente, mas com fundamentação incompleta ou parcialmente correta) / Conceito 3 (afirmou corretamente e fundamentou que, segundo o STM, não se admite como nova a prova já conhecida e juntada antes da sentença, por violar a coisa julgada)", "pontuacao": 12.50},
+          {"descricao": "Quesito 2.3 - Impossibilidade de reabertura da ação penal: Conceito 0 (não abordou ou afirmou incorretamente que a prova justifica a reabertura) / Conceito 1 (afirmou corretamente que não justifica, mas sem fundamentação ou com fundamentação totalmente equivocada) / Conceito 2 (afirmou corretamente, mas com fundamentação incompleta ou parcialmente correta) / Conceito 3 (afirmou corretamente que a prova apresentada não justifica a reabertura da ação penal, com fundamentação completa e adequada, citando o RvC 7000292-33.2024.7.00.0000 do STM)", "pontuacao": 13.00}
+        ],
+        "fonte": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/132649/cespe-cebraspe-2025-stm-analista-judiciario-area-judiciaria-discursiva-gabarito.pdf",
+        "observacoes": "Documento com timbre e formatação oficial do Cebraspe (título 'SUPERIOR TRIBUNAL MILITAR (STM) - CARGO 7: ANALISTA JUDICIÁRIO - ÁREA: JUDICIÁRIA - Prova Discursiva - Aplicação: 01/06/2025 - PADRÃO DE RESPOSTA'), espelhado no site QConcursos a partir do PDF originalmente publicado pelo Cebraspe em www.cebraspe.org.br/concursos/stm_25 (não foi possível localizar a URL direta do arquivo no domínio cdn.cebraspe.org.br, que usa nomes de arquivo com hash). O documento não indica explicitamente se é a versão 'preliminar' ou 'definitiva'; dado o teor com fundamentação completa incluindo precedente jurisprudencial (RvC 7000292-33.2024.7.00.0000), presume-se ser a versão definitiva (pós-recursos), mas isso não pôde ser confirmado com certeza absoluta."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "Não localizado separadamente da versão obtida (ver observações no campo padraoResposta).", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta com texto-modelo completo sobre revisão criminal no processo penal militar (CPPM, arts. 550 e 551) e 3 quesitos avaliados por conceitos de 0 a 3.", "fonte": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/132649/cespe-cebraspe-2025-stm-analista-judiciario-area-judiciaria-discursiva-gabarito.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.cebraspe.org.br/concursos/stm_25",
+    "https://cdn.cebraspe.org.br/concursos/STM_25/arquivos/ED_1_2025_STM_ABERTURA.PDF",
+    "https://cdn.cebraspe.org.br/concursos/stm_25/arquivos/072_STM_007_DISC.pdf",
+    "https://arquivos.qconcursos.com/prova/arquivo_gabarito/132649/cespe-cebraspe-2025-stm-analista-judiciario-area-judiciaria-discursiva-gabarito.pdf"
+  ],
+  "coletadoEm": "2026-07-11"
+}

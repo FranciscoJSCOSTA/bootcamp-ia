@@ -1,0 +1,60 @@
+{
+  "concurso": "Concurso Público NITERÓI TRÂNSITO S.A. (NITTRANS) 2025",
+  "orgao": "Niterói Trânsito S.A. (NITTRANS) - Prefeitura de Niterói",
+  "cargo": "Engenheiro Civil",
+  "dataProva": "2025-12-12",
+  "areaTema": "Engenharia Civil - Terraplenagem Rodoviária e Hidráulica de Canais",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Um trecho entre as estacas 140 e 150 de uma estrada apresenta o perfil de terreno original, mostrado na tabela a seguir. Estaca 140: cota 121,0m; 141: 121,5m; 142: 122,0m; 143: 121,5m; 144: 121,0m; 145: 119,0m; 146: 118,0m; 147: 117,5m; 148: 116,5m; 149: 116,0m; 150: 116,0m. A cota do greide da estrada na estaca 140 (antes de aplicação das camadas de pavimentação) é de 121,0m, e a estrada terá, em todo o trecho entre as estacas 140 e 150, um declive longitudinal com rampa de 2%. O estaqueamento padrão é de 20,0m e a largura da plataforma da estrada, para fins de movimento de terra, é de 12,0m. Dados adicionais para envio de material escavado para bota-fora: Peso específico do material (após escavação) 1,6 g/cm³; Proporção de material de corte que pode ser utilizado para aterros 80%; Empolamento do material 30%; Distância ao bota-fora 20km; Custo de carga R$15,00/m³; Custo de transporte R$2,00/t x km. Assume-se, também, que o material reaterrado terá o mesmo peso específico do material original in loco. Com base nas informações, redija um texto de 15 (quinze) a 30 (trinta) linhas, sobre as seguintes explanações: 1) explicar como devem ser estimados os montantes de movimento de terra para uma estrada, e calcular, para o exemplo acima, os valores de movimentos de terra desde a estaca 140 até a estaca 150, considerando apenas a largura referente à plataforma da estrada; 2) indicar como se calcula a compensação longitudinal do movimento de terra em uma estrada, e calcular a compensação de terra para o exemplo acima, entre as estacas 140 e 150; 3) explicar como se determinam os quantitativos necessários para o cálculo do custo de carga e transporte para bota-fora, e calcular este custo para o exemplo em questão. Em todos os itens acima, indicar cuidadosamente todas as unidades utilizadas nos cálculos.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Cálculo das cotas de greide entre as estacas 140 a 150. Escala graduada literal: 0,00 – 1,00 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Cálculo correto dos montantes de movimento de terra entre as estacas 140 a 150. Escala graduada literal: 0,00 – 1,00 – 2,00 – 3,00 – 4,00", "pontuacao": 4.00},
+          {"descricao": "Cálculo da compensação de terra entre as estacas 140 e 150. Escala graduada literal: 0,00 – 1,00 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Cálculo do custo de transporte para bota-fora. Escala graduada literal: 0,00 – 1,00 – 2,00", "pontuacao": 2.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+        "observacoes": "Espelho de correção FGV. 'Nota da Questão 01 - Gabarito 1: 10' (soma 2+4+2+2). Questão de cálculo técnico de engenharia; itens descrevem apenas os passos de cálculo esperados, sem texto-modelo prosaico (diferente das questões jurídicas/administrativas do mesmo concurso)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com itens de cálculo e escala graduada de pontuação (total 10,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Uma prefeitura planeja construir um canal de drenagem urbana para escoar as águas pluviais de um bairro. O canal terá seção retangular de 4 m de largura e será pavimentado com material liso com rugosidade de Manning igual a 0,010. A inclinação do fundo do canal é de 0,004 e a profundidade média de escoamento prevista é de 2,0 m. Considerando o escoamento em regime uniforme, redija um texto de 15 (quinze) a 30 (trinta) linhas, contendo as seguintes exigências: a) calcule o raio hidráulico da seção; b) determine a vazão aproximada no canal, utilizando a fórmula de Manning; c) calcule a velocidade média da água no canal; d) discuta qualitativamente como o aumento da profundidade do canal para 2,5 m, devido à ocorrência de chuvas, afetaria a velocidade e a vazão no canal. Admita que √10 = 3,2 por simplificação.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Área molhada. Escala graduada literal: 0,00 – 0,50", "pontuacao": 0.50},
+          {"descricao": "Perímetro molhado. Escala graduada literal: 0,00 – 0,50", "pontuacao": 0.50},
+          {"descricao": "Raio hidráulico. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Fórmula de Manning. Escala graduada literal: 0,00 – 1,00 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Cálculo (da vazão). Escala graduada literal: 0,00 – 1,00 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Relação entre vazão e área. Escala graduada literal: 0,00 – 0,50", "pontuacao": 0.50},
+          {"descricao": "Cálculo (da velocidade). Escala graduada literal: 0,00 – 0,50", "pontuacao": 0.50},
+          {"descricao": "Impacto na velocidade no canal (discussão qualitativa). Escala graduada literal: 0,00 – 1,00 – 1,50", "pontuacao": 1.50},
+          {"descricao": "Impacto na vazão do canal (discussão qualitativa). Escala graduada literal: 0,00 – 1,00 – 1,50", "pontuacao": 1.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+        "observacoes": "Espelho de correção FGV. 'Nota da Questão 02: 10' (soma 0,5+0,5+1+2+2+0,5+0,5+1,5+1,5). Esta questão é a de maior granularidade entre as observadas no concurso NITTRANS, com 9 itens distintos de pontuação, vários deles com valor máximo de apenas 0,50 ponto. Sem mecanismo de dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com itens de cálculo e escala graduada de pontuação (total 10,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/nittrans25",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/edital-final-21.08.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/engenheiro-civilcns010-tipo-1.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"
+  ],
+  "coletadoEm": "2026-07-16"
+}

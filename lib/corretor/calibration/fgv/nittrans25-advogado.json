@@ -1,0 +1,58 @@
+{
+  "concurso": "Concurso Público NITERÓI TRÂNSITO S.A. (NITTRANS) 2025",
+  "orgao": "Niterói Trânsito S.A. (NITTRANS) - Prefeitura de Niterói",
+  "cargo": "Advogado",
+  "dataProva": "2025-12-12",
+  "areaTema": "Direito Administrativo - Responsabilidade Civil do Estado / Direito Constitucional",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "No dia 31 de julho de 2025, João, agente público no Município de Niterói, dirigia um veículo automotor oficial com destino ao bairro de Piratininga, para atender chamado vinculado à NITTRANS. Em razão de conduta negligente e imprudente do referido servidor, consistente no excesso de velocidade e na troca de faixa de rolamento sem os devidos cuidados, o automóvel colidiu com a motocicleta de Caio. Constatou-se, após os eventos, que o motociclista sofreu leves escoriações, muito embora a sua motocicleta tenha suportados graves prejuízos. Nesse contexto, Caio, com o objetivo de ser ressarcido pelos danos materiais e morais suportados, buscou o auxílio de um advogado, para tomar ciência sobre os seus direitos. Com base nesse cenário hipotético, responda de forma fundamentada, à luz das disposições da Constituição Federal, da jurisprudência dominante dos Tribunais Superiores e do entendimento majoritário da doutrina, aos questionamentos a seguir, em um texto de 15 (quinze) a 30 (trinta) linhas. a) Qual é a natureza da responsabilidade civil do Município de Niterói? b) Conceitue e diferencie a teoria do risco administrativo e a teoria do risco integral, no contexto da responsabilidade civil do Estado. c) Quais são as causas excludentes do nexo de causalidade no âmbito da responsabilidade civil do Estado? d) Eventual ação indenizatória poderá ser proposta originariamente em face do agente público João?",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Item a) Natureza da responsabilidade civil do Município: 'A responsabilidade civil do Município de Niterói tem natureza objetiva, nos termos do art. 37, §6º, da CRFB/88, ao prever que as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa.' Escala graduada literal do espelho: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "Item b) Teoria do risco administrativo x teoria do risco integral: conteúdo-modelo explica que a teoria do risco administrativo admite causas excludentes do nexo causal por parte do Estado, enquanto a teoria do risco integral as afasta (Estado responsabilizado até em caso fortuito e força maior). Escala graduada literal do espelho: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "Item c) Causas excludentes do nexo causal: fato exclusivo da vítima (autolesão), fato de terceiro sem vínculo jurídico com o Estado, e caso fortuito/força maior. Escala graduada literal do espelho: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "Item d) Cabimento de ação indenizatória originária contra o agente público João: 'Não. A ação indenizatória deverá ser proposta, apenas, em face do Município de Niterói... em razão da teoria da dupla garantia, adotada pelo Supremo Tribunal Federal (Tema nº 940)...'. Escala graduada literal do espelho: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50", "pontuacao": 2.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Espelho de Correção' (não 'padrão de resposta' - terminologia própria da banca FGV, distinta da Cebraspe). A escala de pontuação é GRADUADA por item, com degraus intermediários explícitos (ex.: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50), permitindo crédito parcial, diferente do 'abordou ou não abordou' binário do Cebraspe. A 'Nota da Questão 01' consolidada no espelho é 10 (soma dos 4 itens de 2,50 cada). Este espelho específico NÃO apresenta mecanismo de dedução por erro gramatical contado (não há cláusula do tipo '-0,5 por erro de vocabulário'); a qualidade textual não é tratada como item autônomo nesta questão de Advogado (diferente da Questão 2 do mesmo cargo e de outras disciplinas do mesmo concurso, que incluem item de 'fluência e coerência da exposição' pontuado positivamente e de forma graduada, não deduzido)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (0,00 a 2,50 por item, total 10,00 na questão). Documento de resultado definitivo da prova discursiva publicado separadamente, sem detalhamento de notas individuais por item.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Após ampla mobilização de diversos segmentos da sociedade civil organizada, um grupo de vereadores da Câmara Municipal de Alfa apresentou projeto de lei instituindo uma política pública destinada a moradores de rua. De acordo com essa política, seriam oferecidos artigos de higiene pessoal, além dos meios necessários para a reinserção familiar e social dessas pessoas, sendo previsto que o Prefeito Municipal regulamentaria o novel diploma normativo nos sessenta dias subsequentes à sua entrada em vigor. O projeto ainda criava uma estrutura orgânica específica, vinculada à administração pública direta do Poder Executivo, com competência para implementar a política pública, além de promover reavaliações periódicas, de modo a verificar a necessidade de readequação da forma de atuação estatal. Após regular tramitação no âmbito do Poder Legislativo, que aprovou o projeto de lei sem qualquer alteração, com a posterior sanção do Chefe do Poder Executivo, sobreveio a Lei Municipal nº X. Analise, em um texto de 15 (quinze) a 30 (trinta) linhas, a constitucionalidade formal e material da Lei Municipal nº X.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Competência comum do Município para instituir política pública de interesse local. Escala graduada literal: 0,00 – 1,00 – 2,50", "pontuacao": 2.50},
+          {"descricao": "Poder de editar normas afetas ao interesse local. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Vício de iniciativa em relação à criação da estrutura orgânica. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Fundamento: matéria de iniciativa legislativa privativa do Chefe do Poder Executivo. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Vício material: afronta à separação dos poderes ao fixar prazo para regulamentação pelo Executivo. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50", "pontuacao": 1.50},
+          {"descricao": "Harmonia com o direito fundamental à igualdade. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Tratamento diferenciado a pessoas em situação de desigualdade material. Escala graduada literal: 0,00 – 1,00 – 2,00", "pontuacao": 2.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+        "observacoes": "Espelho de correção FGV com 7 itens de pontuação graduada (somando 10,00 pontos - 'Nota da Questão 02: 10'). Note-se a variação nos degraus entre itens: alguns têm apenas 3 degraus (0 / 1 / 2,5), outros têm 4 degraus (0 / 0,5 / 1 / 1,5). Não há mecanismo de dedução por erro gramatical contado nesta questão."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 10,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/nittrans25",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/edital-final-21.08.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/advogadocns006-tipo-1.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"
+  ],
+  "coletadoEm": "2026-07-16"
+}

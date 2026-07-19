@@ -1,0 +1,35 @@
+{
+  "concurso": "Concurso Público Caixa Econômica Federal - CAIXA-01/2025/NS",
+  "orgao": "Caixa Econômica Federal (CAIXA)",
+  "cargo": "Médico do Trabalho",
+  "dataProva": "2026-02-01",
+  "areaTema": "Medicina do Trabalho / Clínica Médica - Emergência clínica em paciente diabético com suspeita de estado hiperglicêmico hiperosmolar e pneumonia bacteriana",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Um gerente de recursos humanos de uma empresa, com 62 anos de idade e diagnóstico de diabetes tipo 2, em tratamento irregular, com controle glicêmico e de peso inadequado (IMC de 37,9 kg/m2), apresentava ainda como comorbidades hipercolesterolemia mista e hipertensão arterial moderada. Como não compareceu ao trabalho nos últimos cinco dias, o serviço médico da empresa organizou uma visita domiciliar. Ao chegar à sua residência, o serviço verificou que o paciente estava com febre (38,8o C), taquipneico, torporoso, extremamente desidratado, hipotenso e taquicárdico. A esposa disse que ele estava com febre e tosse contínua nos últimos dias e tomou, por automedicação, uma injeção de dexametasona. Ela também notou que o marido estava bebendo muita água. Na sua ausculta pulmonar, foi identificada presença de estertores crepitantes na base do hemitórax esquerdo. Nas últimas 48 horas, passou a ficar sonolento e um pouco desorientado. O médico da empresa solicitou internação imediata de emergência. A partir dessa história clínica, apresente: a) duas hipóteses diagnósticas (Valor: 2,0 pontos); b) quatro achados esperados nos exames de laboratório de análises clínicas (Valor: 2,0 pontos); c) um exame de imagem necessário a ser solicitado e descreva o resultado esperado (Valor: 2,0 pontos); d) quatro condutas terapêuticas imediatas e descreva cada uma delas (Valor: 4,0 pontos).",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a) Hipóteses diagnósticas: Estado Hiperglicêmico Hiperosmolar (ou coma hiperosmolar diabético) e Pneumonia bacteriana.", "pontuacao": 2.0},
+          {"descricao": "b) Análises clínicas (o candidato deve apresentar quatro dos seguintes achados): 1. leucocitose com desvio para esquerda (com aumento percentual de bastões); 2. glicose > 600 mg/dL; 3. osmolaridade plasmática elevada (acima de 320 mOsm/kg); 4. elementos anormais e sedimento de urina sem presença de corpos cetônicos; 5. gasometria arterial com pH > 7,3; 6. ureia e creatinina elevados.", "pontuacao": 2.0},
+          {"descricao": "c) Exame de imagem: radiografia ou tomografia computadorizada de tórax; espera-se a constatação de condensação no 1/3 inferior do hemitórax esquerdo.", "pontuacao": 2.0},
+          {"descricao": "d) Condutas terapêuticas: soro fisiológico a 0,9% (isotônica) — 1.000 mL na primeira hora, ajustando depois conforme status hemodinâmico/eletrolítico (250 a 500 mL/hora); insulina IV em bolus (0,1 unidade/kg), seguida de infusão de 0,1 unidade/kg/hora após o primeiro litro de solução salina e correção da hipopotassemia, reduzindo para níveis basais (1-2 unidade/hora) quando glicemia atingir 300 mg/dL; reposição de potássio (40 mEq/hora se K < 3,3 mEq/L; 20-30 mEq/hora se K entre 3,3 e 4,9 mEq/L; não repor se K ≥ 5 mEq/L); antibioticoterapia intravenosa, dada a gravidade do caso e necessidade de efeito rápido.", "pontuacao": 4.0}
+        ],
+        "fonte": "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/19/conteudos/d335c3d8-76cd-48f8-8515-ca2d7c26f4f7.pdf",
+        "observacoes": "Documento oficial da Cesgranrio intitulado 'PADRÃO DE RESPOSTA' (mesmo modelo do cargo Arquiteto do mesmo concurso). A divisão Conteúdo/Gramática (hipótese preliminar de 50%/50%, com zeramento da gramática se o conteúdo for zero) NÃO foi confirmada neste documento: os 4 itens do padrão de resposta somam os 10,0 pontos da questão (2,0+2,0+2,0+4,0) usando somente critérios técnico-clínicos, sem nenhum item, percentual ou menção a gramática/norma culta/uso do idioma. Assim como no cargo Arquiteto do mesmo edital (EDITAL Nº 01/2025/NS), a avaliação textual (clareza, concisão, organização) é tratada de forma holística e qualitativa no edital (subitem 7.3.1), sem peso percentual próprio, e não há regra de 'zerar gramática se conteúdo zero' porque não existe nota de gramática separada nesta banca/concurso. CONCLUSÃO: reforça, para um segundo cargo do mesmo concurso, que a hipótese de divisão Conteúdo 50%/Gramática 50% NÃO se aplica à Cesgranrio no concurso CAIXA-01/2025 — divergindo do que foi confirmado para o CPNU Bloco 7 (mesma banca, edital diferente), o que mostra que a regra de composição da nota discursiva da Cesgranrio varia por edital/contratante e não é um padrão fixo da banca."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": false, "conteudo": "Padrão de resposta divulgado para a prova discursiva (Prova 6 - Médico do Trabalho), mas não foi localizado documento específico de 'gabarito definitivo da discursiva' com notas individuais por candidato; o resultado final consolidado por cargo foi divulgado separadamente (listagem final de resultado).", "fonte": ""}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.cesgranrio.org.br/concurso/caixa-economica-federal-caixa-01-2025/",
+    "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/19/conteudos/d67ed2a6-b45e-4b01-979b-0c19e74b184f.pdf",
+    "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/19/conteudos/fee0d210-bc3a-4c5a-9b27-a06ffb774fde.pdf",
+    "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/19/conteudos/d335c3d8-76cd-48f8-8515-ca2d7c26f4f7.pdf"
+  ],
+  "coletadoEm": "2026-07-18"
+}

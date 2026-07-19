@@ -1,0 +1,161 @@
+{
+  "concurso": "Concurso Público Polícia Federal 2025 (PF 2025)",
+  "orgao": "Ministério da Justiça e Segurança Pública (MJSP) - Polícia Federal",
+  "cargo": "Delegado de Polícia Federal (Cargo 1)",
+  "dataProva": "2025-07-27",
+  "areaTema": "Segurança Pública",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Considerando as disposições da Lei n.º 8.429/1992 e o entendimento jurisprudencial do STF referente à improbidade administrativa, redija um texto dissertativo, de maneira fundamentada, abordando os seguintes aspectos: 1 natureza do ato de improbidade administrativa; [valor: 0,90 ponto] 2 evolução da legislação e da jurisprudência do STF acerca das modalidades do ato de improbidade, considerando o elemento subjetivo; [valor: 1,40 ponto] 3 possibilidade, ou não, de retroatividade da legislação mais benéfica ao agente de ato de improbidade, no contexto do direito administrativo sancionador; [valor: 0,80 ponto] 4 prescritibilidade das ações de ressarcimento ao erário em razão de atos de improbidade administrativa. [valor: 0,70 ponto]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Natureza do ato de improbidade: Conceito 0 (não atendeu) a Conceito 3 (mencionou corretamente todos os aspectos: ato ilícito de natureza civil, qualificado pela prática de corrupção, exige desvio de conduta tipificado em lei)",
+            "pontuacao": 0.9
+          },
+          {
+            "descricao": "Quesito 2.2 - Evolução da legislação e jurisprudência do STF acerca das modalidades do ato de improbidade (dolosa/culposa, Lei 14.230/2021, Tema 309 STF): Conceito 0 a Conceito 4 (versão definitiva ampliou de 4 para até 5 aspectos avaliáveis)",
+            "pontuacao": 1.4
+          },
+          {
+            "descricao": "Quesito 2.3 - Irretroatividade da Lei de Improbidade Administrativa (Tema 1.199 STF, princípio tempus regit actum): Conceito 0 a Conceito 2 (versão definitiva passou a exigir 3 aspectos em vez de 2)",
+            "pontuacao": 0.8
+          },
+          {
+            "descricao": "Quesito 2.4 - Prescritibilidade das ações de ressarcimento ao erário (Tema 897 STF - imprescritibilidade para atos dolosos, prescritibilidade para culposos): Conceito 0 a Conceito 2",
+            "pontuacao": 0.7
+          }
+        ],
+        "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-definitivos-de-resposta/padrao-definitivo-da-prova-discursiva-cargo-01.pdf",
+        "observacoes": "Padrão de resposta definitivo (pós-recursos) altera e amplia o padrão preliminar: no quesito 2.2 acrescentou-se o aspecto (vi) sobre natureza específica dos atos tipificados na nova lei e renumerou-se os aspectos até (viii); no quesito 2.3 passou a exigir três aspectos (viii, ix, x) em vez de dois. Padrão preliminar disponível em: https://cdn.cebraspe.org.br/concursos/pf_25/arquivos/0ADBEF... (ver fonte do preliminar no campo gabarito)."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar com texto-modelo e quesitos avaliados por conceitos (0 a 3/4), publicado em 29/07/2025.",
+          "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-preliminares-de-resposta/padrao-preliminar-de-respostas-2013-prova-discursiva-2013-cargo-1.pdf"
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo (pós-recursos), com alterações destacadas em vermelho no PDF oficial, ampliando os quesitos avaliados (ver observações).",
+          "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-definitivos-de-resposta/padrao-definitivo-da-prova-discursiva-cargo-01.pdf"
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Por Estatuto dos Congressistas devemos entender o conjunto de normas constitucionais que estatui o regime jurídico dos membros do Congresso Nacional, prevendo suas prerrogativas e direitos, seus deveres e incompatibilidades. As prerrogativas são estabelecidas menos em favor dos congressistas que da instituição parlamentar, como garantia de sua independência perante os outros poderes constitucionais. (José Afonso da Silva. Curso de Direito Constitucional Positivo. 44.ª ed. São Paulo: Malheiros, 2022, p. 539 - com adaptações). Considerando que o texto acima tem caráter unicamente motivador, disserte acerca da imunidade material dos parlamentares federais [valor: 0,50 ponto] e das imunidades formais relativas ao foro por prerrogativa de função [valor: 0,80 ponto], à prisão [valor: 1,00 ponto] e ao processo [valor: 1,50 ponto].",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Imunidade material dos parlamentares federais (art. 53, caput, CF): 3 elementos essenciais - impossibilidade de responsabilização penal/civil, opiniões/palavras/votos, exercício das funções parlamentares. Conceito 0 a 3",
+            "pontuacao": 0.5
+          },
+          {
+            "descricao": "Quesito 2.2 - Imunidade formal relativa ao foro por prerrogativa de função (art. 53, §1º, CF): 3 elementos essenciais - marco temporal da diplomação, julgamento perante o STF, objetivo de proteger o cargo/mandato. Conceito 0 a 3",
+            "pontuacao": 0.8
+          },
+          {
+            "descricao": "Quesito 2.3 - Imunidade formal relativa à prisão (art. 53, §2º, CF): 6 elementos essenciais - impeditivo da prisão, marco temporal, ressalva de flagrante inafiançável, remessa em 24h, voto aberto, maioria absoluta. Conceito 0 a 5",
+            "pontuacao": 1
+          },
+          {
+            "descricao": "Quesito 2.4 - Imunidade formal relativa ao processo (art. 53, §§3º a 5º, CF): 9 elementos essenciais sobre recebimento de denúncia, sustação do processo, prazo de 45 dias, suspensão da prescrição. Conceito 0 a 4",
+            "pontuacao": 1.5
+          }
+        ],
+        "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-definitivos-de-resposta/padrao-definitivo-da-prova-discursiva-cargo-01.pdf",
+        "observacoes": "Texto-modelo e quesitos avaliados idênticos entre padrão preliminar e definitivo - esta questão não sofreu alterações após recursos."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar, texto e quesitos idênticos ao definitivo.",
+          "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-preliminares-de-resposta/padrao-preliminar-de-respostas-2013-prova-discursiva-2013-cargo-1.pdf"
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo, sem alterações de conteúdo em relação ao preliminar para esta questão.",
+          "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-definitivos-de-resposta/padrao-definitivo-da-prova-discursiva-cargo-01.pdf"
+        }
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "No curso de investigação da Polícia Federal sobre a execução de contratos administrativos firmados por determinado órgão público federal com uma empresa de engenharia, apurou-se que um servidor público federal lotado no setor de fiscalização do órgão atestava a regularidade de serviços não executados ou parcialmente realizados, viabilizando o pagamento integral das parcelas contratuais, e, em contrapartida, recebia valores mensais em espécie diretamente da empresa, correspondentes a 10% do montante pago, os quais posteriormente eram transferidos à conta bancária de um terceiro, que consentia com a operação e sabia que tais valores eram oriundos de vantagem indevida vinculada à função pública do servidor. A partir dessa situação hipotética, redija, com base no Código Penal e na jurisprudência dominante dos tribunais superiores, um texto dissertativo abordando os seguintes aspectos: 1 o tipo penal que caracteriza a conduta do servidor público federal no caso e a (in)existência de causa de aumento de pena; [valor: 1,90 ponto] 2 a responsabilidade penal do terceiro referido no caso. [valor: 1,90 ponto]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Enquadramento da conduta do servidor público (corrupção passiva art. 317 CP, ou alternativamente fraude em licitação art. 337-L ou modificação/pagamento irregular em contrato art. 337-H), com causa de aumento de pena quando cabível: Conceito 0 a 5",
+            "pontuacao": 1.9
+          },
+          {
+            "descricao": "Quesito 2.2 - Responsabilidade penal do terceiro como partícipe ou coautor (comunicabilidade da elementar funcional art. 30 CP, entendimento do STJ, subsunção ao tipo penal): Conceito 0 a 4",
+            "pontuacao": 1.9
+          }
+        ],
+        "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-definitivos-de-resposta/padrao-definitivo-da-prova-discursiva-cargo-01.pdf",
+        "observacoes": "Alteração relevante pós-recursos: o padrão preliminar admitia apenas o enquadramento em corrupção passiva (art. 317 CP); o padrão definitivo passou a aceitar, alternativamente, também fraude em licitação/contrato (art. 337-L CP) ou modificação/pagamento irregular em contrato administrativo (art. 337-H CP), e passou a admitir responsabilização do terceiro como partícipe OU coautor (não apenas partícipe)."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar considerava apenas corrupção passiva (art. 317 CP) como tipo penal correto e responsabilização do terceiro apenas como partícipe.",
+          "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-preliminares-de-resposta/padrao-preliminar-de-respostas-2013-prova-discursiva-2013-cargo-1.pdf"
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo, ampliado após recursos para aceitar tipificações alternativas (arts. 317, 337-H ou 337-L do CP) e responsabilização do terceiro como partícipe ou coautor.",
+          "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-definitivos-de-resposta/padrao-definitivo-da-prova-discursiva-cargo-01.pdf"
+        }
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Peça profissional. Momentos após ter recebido informações constantes de um relatório de inteligência, a Delegacia de Repressão a Entorpecentes (DRE) da Polícia Federal no estado X articulou, em caráter emergencial, um cerco operacional em pontos estratégicos de algumas vias de acesso da capital desse estado, com o objetivo de interceptar um caminhão que havia saído do estado Y, transportando grande quantidade de material entorpecente, e que tinha como destino final a capital do estado X. Após cerca de quatro horas do início do cerco, a equipe tática obteve êxito na localização e abordagem do referido veículo. Foram encontrados, no interior de um fundo falso, cerca de 800 kg de material entorpecente do tipo cloridrato de cocaína, cuja qualidade e natureza ilícitas foram devidamente confirmadas por laudo pericial. Segundo as informações preliminares, o motorista do caminhão, José, de 38 anos de idade, natural do estado Z, admitiu ter recebido a quantia de R$ 15 mil para a realização do transporte interestadual do referido material, o qual deveria ser entregue na comunidade Alfa a um indivíduo conhecido apenas como 'Baralho'. No local da apreensão, José narrou aos policiais federais que não possuía qualquer vínculo com organizações criminosas e que somente havia aceitado, de forma livre e consciente, realizar o transporte desse material porque estava enfrentando graves dificuldades financeiras, sobretudo na criação de seus dois filhos menores. Concluída a operação, a equipe policial, composta por João, Paulo e Maria, conduziu coercitivamente José, o veículo e todo o material apreendido para a unidade policial, para fins de adoção das medidas procedimentais cabíveis. Considerando a situação hipotética apresentada, elabore, na qualidade de delegado da Polícia Federal responsável pelo caso, a adequada peça profissional em relação à captura de José, apresentando os fundamentos jurídicos e as providências legais necessárias ao regular deslinde da persecução penal. Aborde toda a matéria de direito material e processual pertinente ao caso. Dispense a narrativa dos fatos e não crie fatos novos. [valor total: 12,00 pontos de conteúdo + 0,60 ponto de apresentação/estrutura textual]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Estrutura da peça (despacho de auto de prisão em flagrante delito, com introdução, fundamentação jurídica e providências legais): Conceito 0 a 3",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 - Fundamentos jurídicos da prisão em flagrante delito (crime de tráfico - art. 33 Lei 11.343/2006, materialidade, autoria, causa de aumento de pena art. 40 V, prisão flagrancial art. 302 I CPP; versão definitiva acrescentou fundamento na Súmula 587 do STJ): Conceito 0 a 5",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 - Providências legais do despacho de auto de prisão em flagrante (nota de culpa, comunicação em 24h, garantias constitucionais, destruição das drogas etc. - versão definitiva ampliou a lista de 11 para 14 providências possíveis, incluindo auto de apreensão, laudo pericial/preliminar e encaminhamento ao IML): Conceito 0 a 5",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-definitivos-de-resposta/padrao-definitivo-da-prova-discursiva-cargo-01.pdf",
+        "observacoes": "Pontuação total da peça profissional é 12,00 pontos de conteúdo + 0,60 de apresentação/estrutura (conforme instruções da prova), mas o PDF do padrão de resposta não discrimina a pontuação exata de cada quesito/conceito para a peça (apenas para as questões dissertativas 1-3 o edital deixa claro o valor por quesito). Padrão definitivo renomeou 'peça profissional' para 'despacho de auto de prisão em flagrante delito' e ampliou significativamente o rol de providências aceitas e fundamentos jurídicos (incluiu Súmula 587 STJ) após recursos."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar com rol de 11 providências legais possíveis e 5 fundamentos jurídicos.",
+          "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-preliminares-de-resposta/padrao-preliminar-de-respostas-2013-prova-discursiva-2013-cargo-1.pdf"
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo, com rol ampliado para 14 providências legais possíveis e acréscimo da Súmula 587/STJ como fundamento jurídico adicional.",
+          "fonte": "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-definitivos-de-resposta/padrao-definitivo-da-prova-discursiva-cargo-01.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.cebraspe.org.br/concursos/pf_25",
+    "https://cdn.cebraspe.org.br/concursos/pf_25/arquivos/Ed_1_PF_25_Abertura.html",
+    "https://cdn.cebraspe.org.br/concursos/pf_25/arquivos/PROVA%20DISCURSIVA%20%E2%80%93%20CARGO%201.pdf",
+    "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-preliminares-de-resposta",
+    "https://www.gov.br/pf/pt-br/acesso-a-informacao/servidores/concursos/provas-e-gabaritos-de-concursos-anteriores/concurso-carreira-policial-2025/provas-discursivas/gabaritos/padroes-definitivos-de-resposta"
+  ],
+  "coletadoEm": "2026-07-11"
+}

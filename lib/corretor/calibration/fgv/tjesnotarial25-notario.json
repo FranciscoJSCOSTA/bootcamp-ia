@@ -1,0 +1,152 @@
+{
+  "concurso": "Concurso Público para o Tribunal de Justiça do Estado do Espírito Santo - Atividade Notarial e de Registro",
+  "orgao": "Tribunal de Justiça do Estado do Espírito Santo (TJES)",
+  "cargo": "Notário e Registrador - Ingresso por Provimento e/ou Remoção",
+  "dataProva": "2025-09-23",
+  "areaTema": "Direito Notarial e Registral / Direito Civil / Direito Administrativo / Direito Constitucional / Direito Processual Civil (prova escrita e prática multitemática, com peça prática e dissertação)",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Peça Prática - Direito Notarial e Registral. José, solteiro, sem união estável, comparece a um Tabelionato de Notas, em Vitória/ES, buscando a regularização de um imóvel situado na Bahia, que comprou em 2005. Relata que adquiriu o imóvel de Antônio e sua esposa Mônica, casados pelo regime da comunhão universal de bens, por meio de um contrato particular de compra e venda, com firmas reconhecidas à época. O instrumento particular previu o pagamento do preço em dez parcelas mensais sucessivas de R$ 10.000,00, totalizando R$ 100.000,00. Dado o tempo transcorrido, José perdeu alguns dos recibos, somente tendo em mãos os comprovantes de transferência bancária das parcelas 1 e 5 e os recibos, passados pelos vendedores, sem ressalvas, das parcelas 8 e 10, todas pagas nos respectivos vencimentos. José relata que, há dois anos, tentou contato com os proprietários para regularizar a situação. Nessa ocasião, foi informado por Mônica que Antônio havia falecido em 2010, deixando como único herdeiro o filho Alfredo, solteiro, maior e capaz. O inventário de Antônio não incluiu o imóvel em questão, uma vez que a família considerava que o bem não mais lhes pertencia. Questionados sobre a lavratura da escritura pública de compra e venda, Mônica e Alfredo não demostraram interesse, dizendo a José que \"o problema não era deles\". Examinando a certidão da matrícula 1.234, do 1º Registro de Imóveis de Salvador, o tabelião verifica que o imóvel, situado na Rua dos Alfeneiros, 42, está registrado em nome de Antônio e Mônica, constando uma penhora oriunda de uma execução movida pelas Empresa Alfa S/A e uma indisponibilidade decretada pela Justiça do Trabalho. Analisando o contrato de compra e venda, você verifica que nele não há referência ao número da matrícula, embora seja possível identificar com segurança o imóvel objeto do negócio, uma vez que foi corretamente indicado o endereço. Com base nessas informações, elabore, com a melhor técnica, o ato notarial adequado para iniciar a regularização da propriedade em nome de José, ou redija nota fundamentada sobre a impossibilidade de fazê-lo. Não há necessidade de inserir dados de qualificação das partes ou quaisquer outros dados não constantes do enunciado, devendo ser substituídos por reticências (...), quando for o caso. Valor: 3 pontos. Máximo de 80 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Identificar o ato como ata notarial de adjudicação compulsória. Escala graduada literal: 0,00 – 0,35", "pontuacao": 0.35},
+          {"descricao": "Identificar que o fato de o imóvel estar situado em outro município não impede a lavratura. Escala graduada literal: 0,00 – 0,35", "pontuacao": 0.35},
+          {"descricao": "Constatar a conversão da compra e venda nula em compromisso de compra e venda. Escala graduada literal: 0,00 – 0,35", "pontuacao": 0.35},
+          {"descricao": "Reconhecer o pagamento integral do preço, face a apresentação do último recibo sem ressalva. Escala graduada literal: 0,00 – 0,35", "pontuacao": 0.35},
+          {"descricao": "Complementar a descrição contratual em relação ao número da matrícula. Escala graduada literal: 0,00 – 0,35", "pontuacao": 0.35},
+          {"descricao": "Reconhecer que o falecimento de Antônio não impede a adjudicação. Escala graduada literal: 0,00 – 0,35", "pontuacao": 0.35},
+          {"descricao": "Mencionar a penhora e a indisponibilidade, reconhecendo que não são impeditivas da lavratura, destacando que esta última deverá ser baixada antes da decisão final do registrador. Escala graduada literal: 0,00 – 0,40", "pontuacao": 0.40},
+          {"descricao": "Mencionar que a ata notarial não tem valor como título de propriedade. Escala graduada literal: 0,00 – 0,35", "pontuacao": 0.35},
+          {"descricao": "Utilização correta do idioma oficial e capacidade de exposição. Escala graduada literal: 0,00 – 0,15", "pontuacao": 0.15}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Espelho de Correção' (não 'padrão de resposta'). Nota da Questão 01 = 3,00 (soma dos 9 itens). O espelho contém DUAS tabelas separadas e virtualmente idênticas para esta mesma peça: uma para 'Provimento' e outra para 'Remoção' na Atividade Notarial e de Registro do TJES — mesmo enunciado, mesmos itens e mesma pontuação nas duas modalidades (a FGV aplicou a mesma prova escrita e prática às duas modalidades de ingresso, apenas segregando a correção/nota por modalidade). Há item de 'Utilização correta do idioma oficial e capacidade de exposição' pontuado POSITIVAMENTE em escala graduada (não é dedução por erro contado)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com escala graduada de pontuação por item, publicado em 05/11/2025, aplicável identicamente às modalidades Provimento e Remoção.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Dissertação - Direito Civil. Com a intenção de realizar um planejamento sucessório, João, casado sob o regime da comunhão parcial de bens com Marta, com quem teve seus únicos dois filhos, solicita orientação jurídica acerca do destino dos direitos obrigacionais e reais sobre os bens singularmente considerados e a seguir listados, que correspondem à totalidade de seu patrimônio particular e comum, bem como da tributação (competência e espécies de tributos) incidente sobre a transmissão de cada qual, caso venha a falecer sem testamento: (i) apartamento localizado em Vitória/ES, recebido por herança e no qual reside e mantém domicílio com Marta, havido por cem mil reais e avaliado, atualmente, em um milhão e quinhentos mil reais; (ii) cotas de sociedade unipessoal inscritas na Junta Comercial de São Paulo, subscritas e integralizadas na constância do casamento e avaliadas no valor de trezentos mil reais; e (iii) casa de veraneio localizada em Armação dos Búzios, Estado do Rio de Janeiro, recém-adquirida com Marta por oitocentos mil reais (atual valor de mercado). Valor: 3 pontos. Máximo de 80 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Apartamento em Vitória/ES – um terço para cada herdeiro (Marta e dois filhos), conforme o Art. 1.829, I, Código Civil. Escala graduada literal: 0,00 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "Apartamento em Vitória/ES – direito real de habitação para Marta, conforme o Art. 1.831, Código Civil. Escala graduada literal: 0,00 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "Apartamento em Vitória/ES – ITCMD para o Estado do Espírito Santo, conforme o Art. 155, §1º, I, CRFB/1988. Escala graduada literal: 0,00 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "Apartamento em Vitória/ES – possibilidade de incidência de IRPF, a depender do valor declarado, conforme o Art. 23, §1º, Lei nº 9.532/1997. Escala graduada literal: 0,00 – 0,35 – 0,45", "pontuacao": 0.45},
+          {"descricao": "Cotas da sociedade unipessoal – um quarto para cada filho, conforme o Art. 1.829, I, Código Civil. Escala graduada literal: 0,00 – 0,10 – 0,20", "pontuacao": 0.20},
+          {"descricao": "Cotas da sociedade unipessoal – ITCMD para o Estado do Espírito Santo, conforme o Art. 155, §1º, II, CRFB/1988. Escala graduada literal: 0,00 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "Casa de veraneio em Armação dos Búzios/RJ – um quarto para cada filho, conforme o Art. 1.829, I, Código Civil. Escala graduada literal: 0,00 – 0,10 – 0,20", "pontuacao": 0.20},
+          {"descricao": "Casa de veraneio em Armação dos Búzios/RJ – ITCMD para o Estado do Rio de Janeiro, conforme o Art. 155, §1º, I, CRFB/1988. Escala graduada literal: 0,00 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "Utilização correta do idioma oficial e capacidade de exposição. Escala graduada literal: 0,00 – 0,15", "pontuacao": 0.15}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf",
+        "observacoes": "Nota da Questão 02 = 3,00 (soma dos 9 itens). Idêntico nas duas tabelas de correção (Provimento e Remoção). Item de 'Utilização correta do idioma oficial e capacidade de exposição' pontuado positivamente em escala graduada; sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo publicado em 05/11/2025, aplicável identicamente às modalidades Provimento e Remoção.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Questão 1 - Direito Administrativo. Lei nº XX/2024, do Estado Alfa, de iniciativa do Poder Judiciário estadual, atribuiu a especialidade de Protesto de Letras e Títulos ao já existente Oficial de Registro Civil das Pessoas Naturais, Interdições e Tutelas e Tabelião de Notas da Comarca Y, que passou a ser denominada \"Oficial de Registro Civil das Pessoas Naturais, Interdições e Tutelas e Tabelião de Notas e de Protesto de Letras e Títulos da Sede da Comarca Y\". Em situações como a em tela, de acordo com a jurisprudência do Supremo Tribunal Federal, é constitucional essa acumulação de especialidade em serventia preexistente nos casos de distribuição de nova função notarial ou de registro a um cartório já existente e cuja função era antes exercida por outra serventia (\"desacumulação\")? (Resposta objetivamente fundamentada, discorrendo sobre a \"desacumulação\" e contendo as razões de decidir utilizadas pela Suprema Corte). Valor: 1 ponto. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "A desacumulação corresponde à distribuição de nova função notarial ou de registro a um cartório já existente e cuja função era antes exercida por outra serventia; é reestruturação distinta do desmembramento e do desdobramento, pois não se cria serventia (incabível o direito de escolha do delegatário); somente pode ser operada quando houver vacância do cartório desacumulado (Art. 49, Lei nº 8.935/1994), assegurado ao agente o direito de exercício das atribuições delegadas enquanto não extinta (Art. 39, Lei nº 8.935/1994); vaga a serventia, deve ser provida mediante concurso, exigindo-se demonstração da inviabilidade econômica da atividade na localidade, cabendo ao Poder Judiciário elaborar estudos que demonstrem essa inviabilidade. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30", "pontuacao": 0.30},
+          {"descricao": "O requisito constitucional do concurso público é inafastável na hipótese de delegação de serventias extrajudiciais, em quaisquer de suas modalidades: no ingresso, concurso público de provas e títulos; na remoção (até a Lei nº 10.506/2002), também concurso público de provas e títulos. Escala graduada literal: 0,00 – 0,10", "pontuacao": 0.10},
+          {"descricao": "Deve ser dada interpretação conforme a Constituição à Lei nº XX/2024 (ou: a acumulação de especialidade em serventia preexistente na 'desacumulação' é constitucional), desde que observados requisitos como a exigência de preenchimento da vaga mediante concurso público da serventia desacumulada, não havendo violação constitucional na acumulação caso o delegatário já tenha sido habilitado, em concurso público, para uma das atividades, na hipótese excepcional do Art. 26, parágrafo único, da Lei nº 8.935/1994 (Municípios que não comportam mais de um serviço, em razão do volume/receita). Bibliografia de referência: STF, Plenário, ADI 7.655/SP, Rel. Min. Alexandre de Moraes, julgado em 09/09/2024 (Info 1149). Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30 – 0,40 – 0,55", "pontuacao": 0.55},
+          {"descricao": "Utilização correta do idioma oficial e capacidade de exposição. Escala graduada literal: 0,00 – 0,05", "pontuacao": 0.05}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf",
+        "observacoes": "Nota da Questão 03 = 1,00 (soma dos 4 itens). Idêntico nas duas tabelas de correção (Provimento e Remoção). Este é o item com maior número de degraus observado no espelho (6 degraus: 0,00/0,10/0,20/0,30/0,40/0,55), evidenciando granularidade fina de correção mesmo em questões de valor total baixo (1,00 ponto)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo publicado em 05/11/2025, aplicável identicamente às modalidades Provimento e Remoção.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf"}
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Questão 2 - Direito Constitucional. Foi editada, no âmbito do Estado Alfa, a Lei nº X, que alterou o Código de Organização e Divisão Judiciária do Estado Alfa. De acordo com o Art. 2º desse diploma normativo, os notários e registradores têm o dever de residir na sede do foro central ou regional da comarca da região metropolitana ou da comarca em que exerçam suas funções. O Art. 3º, por sua vez, estabeleceu um prazo máximo de 24 horas para a expedição de certidões, sob pena de responsabilização do serventuário, sendo que esse prazo máximo é inferior ao estabelecido na legislação federal. Em razão da irresignação de alguns delegatários com o teor desse diploma normativo, o Partido Político Sigma, legitimado para ajuizar representação de inconstitucionalidade perante o Tribunal de Justiça do Estado Alfa, conforme dispõe a Constituição Estadual, já que possui deputados na respectiva Assembleia Legislativa, deflagrou o controle concentrado de constitucionalidade perante o referido Tribunal. Na ocasião, sustentou a inconstitucionalidade formal dos Arts. 2º e 3º, argumentando com a afronta exclusiva a comandos da Constituição da República que dispõem sobre competência e iniciativa legislativa. No entanto, no curso do processo objetivo, em momento anterior à apreciação do mérito, o Partido Político Sigma deixou de contar com representantes na Assembleia Legislativa. Considerando os balizamentos oferecidos pela narrativa, o candidato deve se posicionar sobre os seguintes aspectos: a) a constitucionalidade formal dos Arts. 2º e 3º da Lei nº X; b) a competência do Tribunal de Justiça do Estado Alfa para processar e julgar a representação de inconstitucionalidade, considerando o paradigma de confronto utilizado; e c) a possibilidade de uma representação de inconstitucionalidade continuar a tramitar quando o partido político que a ajuizou deixa de ter representação na Assembleia Legislativa, apesar da exigência dessa representação, pela Constituição Estadual, para que a legitimidade seja reconhecida. Valor: 1 ponto. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Apesar de a União ter competência privativa para legislar sobre registros públicos (Art. 22, XXV, CRFB/1988), Escala graduada literal: 0,00 – 0,05 – 0,10", "pontuacao": 0.10},
+          {"descricao": "e para estabelecer normas gerais sobre as atividades notariais e registrais (Art. 236, §2º, CRFB/1988), Escala graduada literal: 0,00 – 0,05 – 0,10", "pontuacao": 0.10},
+          {"descricao": "os Arts. 2º e 3º da Lei nº X foram editados com base na competência dos Estados para disciplinar os poderes fiscalizatórios do Poder Judiciário estadual sobre os serviços notariais e de registro (Art. 236, §1º, CRFB/1988). Escala graduada literal: 0,00 – 0,05 – 0,10", "pontuacao": 0.10},
+          {"descricao": "O Tribunal de Justiça do Estado Alfa tem competência para processar e julgar a representação de inconstitucionalidade (Art. 125, §2º, CRFB/1988), Escala graduada literal: 0,00 – 0,05 – 0,10", "pontuacao": 0.10},
+          {"descricao": "apesar de o paradigma de confronto utilizado ser a Constituição da República. Escala graduada literal: 0,00 – 0,05 – 0,10", "pontuacao": 0.10},
+          {"descricao": "Assim ocorre por se tratar de normas de reprodução obrigatória, Escala graduada literal: 0,00 – 0,05 – 0,10", "pontuacao": 0.10},
+          {"descricao": "mesmo que não tenham sido efetivamente reproduzidas na Constituição Estadual. Escala graduada literal: 0,00 – 0,05", "pontuacao": 0.05},
+          {"descricao": "Ainda que ocorra a perda superveniente de representação do partido político na Assembleia Legislativa, isto não afetará sua legitimidade. Escala graduada literal: 0,00 – 0,05 – 0,10", "pontuacao": 0.10},
+          {"descricao": "Assim ocorre porque a legitimidade é aferida por ocasião da deflagração do controle concentrado de constitucionalidade, Escala graduada literal: 0,00 – 0,05 – 0,10", "pontuacao": 0.10},
+          {"descricao": "ao que se soma a constatação de que o respectivo autor não tem qualquer disposição sobre o respectivo processo objetivo. Escala graduada literal: 0,00 – 0,05 – 0,10", "pontuacao": 0.10},
+          {"descricao": "Utilização correta do idioma oficial e capacidade de exposição. Escala graduada literal: 0,00 – 0,05", "pontuacao": 0.05}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf",
+        "observacoes": "Nota da Questão 04 = 1,00 (soma dos 11 itens). Idêntico nas duas tabelas de correção (Provimento e Remoção). Exemplo extremo de fragmentação: 11 microitens, muitos valendo apenas 0,05-0,10, cada um correspondendo a uma frase/proposição específica exigida no texto-modelo — ilustra que a FGV pode fatiar uma única linha de raciocínio jurídico em vários microitens sequenciais e cumulativos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo publicado em 05/11/2025, aplicável identicamente às modalidades Provimento e Remoção.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf"}
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "Questão 3 - Direito Processual Civil. Mário requereu sua pensão previdenciária perante o Instituto Nacional do Seguro Social (INSS), após o falecimento de sua esposa. Ocorre que seu requerimento foi rejeitado porque, no registro do óbito realizado perante o Cartório de Registro Civil das Pessoas Naturais (RCPN) da comarca de Vitória/ES, o sobrenome de sua esposa constava errado, o que gerou uma certidão de óbito inadequada. Ao tentar solucionar o problema perante o RCPN, foi informado de que para isso havia a necessidade de uma ordem judicial. Todavia, somente após três anos desse requerimento, e ainda sem receber a pensão devida, é que conseguiu retificar o sobrenome de sua esposa. Inconformado com o prejuízo advindo do ato registral equivocado, Mário intentou uma demanda indenizatória em face do Estado do Espírito Santo, pleiteando valores certos a título de ressarcimento de dano material, cumulado com pedido compensatório de danos morais, por entender que o ente estadual responde pelos atos dos titulares de cartórios sediados em seu território. Citado, o estado requereu a extinção do processo, sem a resolução do mérito, arguindo sua ilegitimidade passiva. Afirmou que a demanda deveria ter sido proposta em face do tabelião, uma vez que a responsabilidade pelo erro era exclusiva do delegatário e que o estado só responderia por atos de prestadores de serviço público e que os tabeliães de notas são pessoas naturais que exercem atividade particular. Nesse cenário, responda fundamentadamente aos questionamentos a seguir. a) À luz da técnica acolhida no direito processual civil pátrio, no tocante à aferição das condições para o legítimo exercício da ação, foi correta a arguição da ilegitimidade passiva do estado? b) Identifique qual o tipo de cumulação de pedidos se encontra presente na petição inicial, discorrendo sobre suas espécies. c) Se fossem demandados o estado e o tabelião conjuntamente, haveria um litisconsórcio necessário ou facultativo? O que faz um litisconsórcio ser necessário? Valor: 1 ponto. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Não assiste razão ao estado em arguir sua ilegitimidade passiva. Deve mencionar a técnica da asserção (in statu assertionis), cuja análise das condições da ação é feita à luz das afirmações do demandante contidas na petição inicial; a parte autora afirmou que o estado é responsável civilmente pelos atos dos delegatários, logo o estado é parte legítima; não há que se extinguir o processo sem resolução do mérito, pois se o estado é ou não responsável pelos atos dos delegatários é questão meritória. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30", "pontuacao": 0.30},
+          {"descricao": "A cumulação de pedidos pode ser própria ou imprópria; no caso, cumulação própria simples, pois as pretensões (reparação de dano material e compensação por dano moral) não têm entre si relação de precedência lógica ou prejudicialidade; não se trata de cumulação sucessiva (que exige acolhimento do pedido anterior) nem de cumulação imprópria (subsidiária ou alternativa), já que o autor pretende obter ambos os pedidos. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "Se demandados em conjunto, haveria litisconsórcio facultativo, não necessário; o autor pode demandar em face do estado (responsabilidade objetiva) ou do tabelião (nessa hipótese, com necessidade de provar culpa), sem obrigatoriedade de que ambos figurem conjuntamente no polo passivo; litisconsórcio só é necessário se houver disposição de lei ou quando a natureza da relação jurídica for incindível, de modo que a eficácia da sentença dependa da citação de todos os litisconsortes. Escala graduada literal: 0,00 – 0,10 – 0,25", "pontuacao": 0.25},
+          {"descricao": "Utilização correta do idioma oficial e capacidade de exposição. Escala graduada literal: 0,00 – 0,05", "pontuacao": 0.05}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf",
+        "observacoes": "Nota da Questão 05 = 1,00 (soma dos 4 itens). No arquivo do espelho, esta questão aparece rotulada 'Nota da Questão 05 - Gabarito 1' (variação de rotulagem do documento, provavelmente por haver mais de um tipo de prova/gabarito). Idêntico nas duas tabelas de correção (Provimento e Remoção)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo publicado em 05/11/2025, aplicável identicamente às modalidades Provimento e Remoção.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf"}
+      }
+    },
+    {
+      "numero": 6,
+      "enunciado": "Questão 4 - Direito Notarial e Registral. João firmou contrato relativamente à aquisição com pagamento em prestações de uma unidade habitacional em um prédio em construção, objeto do R-10 (registro de incorporação imobiliária) da matrícula nº 53.457 do 10º Registro de Imóveis de Vila Velha/ES, incorporação essa sob o regime de administração, também chamada de construção \"a preço de custo\". O contrato previa um pagamento como sinal, já adimplido pelo comprador, além de mais 30 parcelas mensais, iguais e sucessivas. Tal contrato possui cláusula, entre outras, prevendo que caso o adquirente deixe de pagar 3 parcelas, após a sua correta notificação e prazo para purga de mora, poderá haver leilão público para a venda da fração ideal que corresponderá ao imóvel em construção. No caso, João se encontra inadimplente das últimas 5 parcelas mensais. Tendo em vista o caso concreto, discorra a respeito: a) da legalidade da cláusula citada, requisito de validade da mesma e a sua previsão legal; b) da explicação da função da comissão de representantes no caso de inadimplemento e a sua previsão legal; c) do modo de eleição da comissão de representantes em uma incorporação imobiliária e a sua previsão legal. Valor: 1 ponto. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "A cláusula que prevê a venda pela comissão de representantes de imóvel no caso de inadimplemento por ao menos 3 prestações consecutivas é legal e encontra respaldo na lei. Escala graduada literal: 0,00 – 0,15", "pontuacao": 0.15},
+          {"descricao": "Para que tal cláusula seja considerada válida, se faz necessário que esteja expressa no contrato. Escala graduada literal: 0,00 – 0,15", "pontuacao": 0.15},
+          {"descricao": "A previsão legal se encontra no Art. 63, caput, da Lei nº 4.591/1964. Escala graduada literal: 0,00 – 0,15", "pontuacao": 0.15},
+          {"descricao": "A função da comissão de representantes no caso de inadimplemento é de realizar a cobrança de prestações em atraso, possuindo mandato outorgado pela lei para a cobrança. Escala graduada literal: 0,00 – 0,075 – 0,15", "pontuacao": 0.15},
+          {"descricao": "A previsão legal de cobrança por parte da comissão se encontra no §1º do Art. 63 da Lei nº 4.591/1964 (também correta a menção ao Art. 43, §5º, da mesma lei). Escala graduada literal: 0,00 – 0,10", "pontuacao": 0.10},
+          {"descricao": "A comissão de representantes poderá ser designada no contrato de construção ou eleita em assembleia geral dos adquirentes, a ser realizada em até 6 meses do registro do memorial de incorporação. Escala graduada literal: 0,00 – 0,075 – 0,15", "pontuacao": 0.15},
+          {"descricao": "A previsão legal se encontra no Art. 50 da Lei nº 4.591/1964. Escala graduada literal: 0,00 – 0,10", "pontuacao": 0.10},
+          {"descricao": "Utilização correta do idioma oficial e capacidade de exposição. Escala graduada literal: 0,00 – 0,05", "pontuacao": 0.05}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf",
+        "observacoes": "Nota da Questão 06 = 1,00 (soma dos 8 itens). Idêntico nas duas tabelas de correção (Provimento e Remoção). Contém dois itens com degrau intermediário fracionário incomum (0,075), evidenciando que a granularidade da escala pode descer abaixo de centavos de ponto redondos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo publicado em 05/11/2025, aplicável identicamente às modalidades Provimento e Remoção.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/tjesnotarial25",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/tjes-notario-edital-01.08.2025-retificado-04.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/notario-prova-discursiva-e-peca-pratica.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/espelho-notarial-tribunal-de-justica-do-estado-do-espirito-santo.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/123-tjes-resultado-final-de-aprovados-2026-04-20.pdf"
+  ],
+  "coletadoEm": "2026-07-17"
+}

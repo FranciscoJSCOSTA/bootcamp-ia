@@ -1,0 +1,157 @@
+{
+  "concurso": "Polícia Civil do Distrito Federal (PCDF) - Concurso Público 2026",
+  "orgao": "Polícia Civil do Distrito Federal (PCDF)",
+  "cargo": "Delegado de Polícia do Distrito Federal",
+  "dataProva": "2026-07-05",
+  "areaTema": "Segurança Pública / Direito Constitucional e Processual Penal",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Discorra sobre a comissão parlamentar de inquérito (CPI) quanto aos requisitos de criação, tempo de funcionamento, poderes e limitações; sobre a busca domiciliar, considerando o conceito constitucional de casa, a definição de dia e a possibilidade de realização da busca domiciliar em situação hipotética concreta; e sobre a responsabilidade civil do Estado, considerando sua natureza, requisitos, excludentes e a ação regressiva contra o agente público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – CPI (requisitos de criação; tempo de funcionamento; poderes e limitações): Conceito 0 (não discorreu) a Conceito 4 (discorreu corretamente sobre os quatro aspectos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Busca domiciliar (conceito constitucional de casa; definição de dia; busca domiciliar no caso concreto): Conceito 0 a Conceito 3 (abordou corretamente os três aspectos)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Responsabilidade civil do Estado (natureza; requisitos; excludentes; ação regressiva): Conceito 0 a Conceito 4 (discorreu corretamente sobre os quatro aspectos)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/pc_df_26_delegado/arquivos/E42C74D87A35253AF378838E38895F75C5F9D4D09A0BAFD675D64727922A76DD.pdf",
+        "observacoes": "Fundamenta-se no art. 58, §3º da CF (CPI), art. 5º, XI da CF (inviolabilidade de domicílio), Tema 280 de RG do STF (busca domiciliar noturna) e art. 37, §6º da CF (responsabilidade civil objetiva do Estado). Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. Este item do concurso está classificado como padrão preliminar. | Nota de reconstrução do enunciado: Prova Discursiva - Questão 1. Enunciado original (situação hipotética) não reproduzido no padrão de resposta consultado; reconstrução baseada no padrão de resposta e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar com texto-base completo e 3 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/pc_df_26_delegado/arquivos/E42C74D87A35253AF378838E38895F75C5F9D4D09A0BAFD675D64727922A76DD.pdf"
+        },
+        "definitivo": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Discorra sobre a posse de arma de fogo e munições de uso restrito por herdeiro de proprietário falecido, com registro vencido, e a medida a ser adotada pela autoridade policial (prisão em flagrante, nos termos do art. 16 da Lei nº 10.826/2003); e sobre as medidas de apreensão de aparelho celular encontrado fortuitamente pela autoridade policial no local da investigação e o acesso aos dados nele contidos, à luz da Lei nº 9.296/1996 e do entendimento do STF (Tema 977 de repercussão geral).",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Posse de arma de fogo e de munições de uso restrito e medida a ser adotada pela autoridade policial: Conceito 0 (não abordou) a Conceito 4 (abordou corretamente os quatro aspectos enumerados de (i) a (iv))",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Medidas de apreensão do aparelho celular encontrado pela autoridade policial no local da investigação e acesso aos dados nele contidos: Conceito 0 a Conceito 5 (abordou corretamente os cinco aspectos enumerados de (v) a (ix))",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/pc_df_26_delegado/arquivos/E42C74D87A35253AF378838E38895F75C5F9D4D09A0BAFD675D64727922A76DD.pdf",
+        "observacoes": "Fundamenta-se no art. 16 da Lei nº 10.826/2003 (Estatuto do Desarmamento), art. 6º do CPP, Lei nº 9.296/1996 e Tema 977 de RG do STF (encontro fortuito de celular). Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. | Nota de reconstrução do enunciado: Prova Discursiva - Questão 2. Enunciado original (situação hipotética envolvendo José, herdeiro de arma de fogo de uso restrito com registro vencido, e encontro fortuito de aparelho celular durante cumprimento de mandado judicial) não reproduzido de forma integral no padrão de resposta consultado; reconstrução baseada no texto-modelo e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar com texto-base completo, aspectos numerados de (i) a (ix), e 2 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/pc_df_26_delegado/arquivos/E42C74D87A35253AF378838E38895F75C5F9D4D09A0BAFD675D64727922A76DD.pdf"
+        },
+        "definitivo": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        }
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Analise a procedência de sentença que reconheceu a responsabilidade civil do Estado no contexto de operação policial (Tema nº 1237 de RG do STF); discorra sobre o requisito legal para a conversão da investigação preliminar sumária (IPS) em processo administrativo disciplinar (PAD) e a penalidade cabível, nos termos da Lei nº 15.047/2024; e analise os argumentos utilizados pelo policial civil para subsidiar a nulidade do PAD.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Procedência da sentença que reconheceu a responsabilidade civil do Estado no contexto da operação policial: Conceito 0 (não abordou) a Conceito 5 (abordou corretamente os cinco aspectos enumerados de (i) a (v))",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Requisito legal para a conversão da IPS em PAD e penalidade cabível: Conceito 0 a Conceito 5 (abordou corretamente os cinco aspectos enumerados de (vi) a (x))",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Análise dos argumentos utilizados pelo policial civil para subsidiar a nulidade do PAD: Conceito 0 a Conceito 5 (abordou corretamente os cinco aspectos enumerados de (xi) a (xv))",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/pc_df_26_delegado/arquivos/E42C74D87A35253AF378838E38895F75C5F9D4D09A0BAFD675D64727922A76DD.pdf",
+        "observacoes": "Fundamenta-se no Tema nº 1237 de RG do STF, art. 48, II e art. 6º, II, §1º da Lei nº 15.047/2024, Súmula Vinculante nº 5 do STF, art. 75, §1º da Lei nº 15.047/2024 e RMS 28.774/DF. Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. | Nota de reconstrução do enunciado: Prova Discursiva - Questão 3. Enunciado original (situação hipotética envolvendo sentença que reconheceu responsabilidade civil do Estado por ferimento decorrente de operação policial, e processo administrativo disciplinar - PAD - contra policial civil) não reproduzido de forma integral no padrão de resposta consultado; reconstrução baseada no texto-modelo e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar com texto-base completo, aspectos numerados de (i) a (xv), e 3 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/pc_df_26_delegado/arquivos/E42C74D87A35253AF378838E38895F75C5F9D4D09A0BAFD675D64727922A76DD.pdf"
+        },
+        "definitivo": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        }
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Redija, na qualidade de Delegado de Polícia, representação pela decretação da prisão preventiva de Fábio Francisco de Oliveira, endereçada ao juízo competente, abordando os pressupostos e requisitos do art. 312 e 313 do CPP, o modelo de cautelaridade do CPP, a comprovação da materialidade delitiva e da autoria, a necessidade e proporcionalidade da medida em face de medidas cautelares diversas da prisão (art. 319 do CPP), e formulando os pedidos cabíveis.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Cabeçalho, endereçamento e representação pela prisão preventiva: Conceito 0 (não apresentou) a Conceito 3 (apresentou corretamente os três aspectos enumerados de (i) a (iii))",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Conceito e requisitos da prisão preventiva e modelo da cautelaridade adotado pelo CPP: Conceito 0 a Conceito 3 (apresentou corretamente os três aspectos enumerados de (iv) a (vi))",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 – Comprovação da materialidade delitiva e da autoria: Conceito 0 a Conceito 4 (abordou corretamente os quatro aspectos enumerados de (vii) a (x))",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.4 – Necessidade e proporcionalidade da prisão preventiva: Conceito 0 a Conceito 2 (abordou corretamente ambos os aspectos enumerados (xi) e (xii))",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.5 – Pedidos e fechamento: Conceito 0 a Conceito 3 (apresentou corretamente os três aspectos enumerados de (xiii) a (xv))",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/pc_df_26_delegado/arquivos/E42C74D87A35253AF378838E38895F75C5F9D4D09A0BAFD675D64727922A76DD.pdf",
+        "observacoes": "Fundamenta-se nos arts. 5º, LXI e 144, §4º da CF, art. 312, 313, I, 282, I/II/§6º e 319 do CPP. Documento não atribui valor em pontos explícito por quesito no trecho lido; pontuacao ficou como null. | Nota de reconstrução do enunciado: Prova Discursiva - Peça Profissional. Enunciado original (situação hipotética de investigação de roubo majorado praticado por Fábio Francisco de Oliveira e João, com apreensão de joias, aparelhos celulares e veículo com compartimento dissimulado) não reproduzido de forma integral no padrão de resposta consultado; reconstrução baseada no texto-modelo e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta preliminar com texto-modelo completo da peça de representação pela prisão preventiva, aspectos numerados de (i) a (xv), e 5 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/pc_df_26_delegado/arquivos/E42C74D87A35253AF378838E38895F75C5F9D4D09A0BAFD675D64727922A76DD.pdf"
+        },
+        "definitivo": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/pc_df_26_delegado/arquivos/E42C74D87A35253AF378838E38895F75C5F9D4D09A0BAFD675D64727922A76DD.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

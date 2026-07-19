@@ -1,0 +1,110 @@
+{
+  "concurso": "Concurso Público da Secretaria de Estado da Educação do Estado de Sergipe (SEED/SE) 2025",
+  "orgao": "Secretaria de Estado da Educação do Estado de Sergipe (SEED/SE)",
+  "cargo": "Cargo 1: Professor de Educação Básica - Área de Atuação: Grupo I - Ensino Fundamental e Ensino Médio - Disciplina: Arte",
+  "dataProva": "2026-01-11",
+  "areaTema": "Educação - Ensino de Arte",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Trata-se de questão de Estudo de Caso comum a todos os cargos do concurso, cujo texto-modelo indica que se pedia ao candidato: 1) apresentar o panorama da educação em tempo integral no estado de Sergipe, com base em dados do Censo Escolar 2024 (aumento de matrículas em escolas de tempo integral, com destaque para o aumento de 5,4% em Sergipe no período 2022-2024); e 2) discorrer sobre políticas públicas que contribuem para o cumprimento das metas da Agenda 2030 da ONU para a educação (ex.: Programa Escola em Tempo Integral).",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Panorama da educação em tempo integral no estado de Sergipe: Conceito 0 (não desenvolveu ou fez de forma totalmente equivocada) / Conceito 1 (abordou de forma apenas superficial, sem referência aos dados inicialmente apresentados) / Conceito 2 (desenvolveu de forma mediana, com referência parcial aos dados) / Conceito 3 (desenvolveu de forma completa, com referência adequada aos dados)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 - Políticas públicas que contribuem para o cumprimento das metas previstas na Agenda 2030 para a educação: Conceito 0 (não abordou nenhuma política pública) / Conceito 1 (apenas mencionou uma política pública, sem explicitá-la) / Conceito 2 (mencionou ao menos uma política pública, mas explicou de forma insuficiente sua contribuição) / Conceito 3 (mencionou ao menos uma política pública e explicou corretamente sua contribuição) / Conceito 4 (mencionou duas ou mais políticas públicas e explicou corretamente suas contribuições)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/seed_se_25_professor/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO' (Prova Discursiva - Estudo de Caso, comum para todos os cargos). O PDF não indica valor em pontos por quesito (apenas a escala de conceitos 0 a N), por isso o campo 'pontuacao' foi deixado como null nesta questão. | Nota de reconstrução do enunciado: NOTA: o padrão de resposta consultado não reproduz o enunciado/comando original da questão (não havia PDF da prova discursiva bruta disponível para este item); apenas o texto-modelo de resposta e os quesitos avaliados foram localizados."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 2 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/seed_se_25_professor/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf"
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Questão 1 da disciplina Arte. O texto-modelo indica que se pedia ao candidato que discorresse sobre a contribuição da abordagem triangular concebida por Ana Mae Barbosa (contextualizar, apreciar e fazer) para a produção de sentidos em processos de aprendizagem da Arte, com argumentação crítica sobre processos educativos, saberes e experiências em espaços formais e não formais de ensino da Arte (citando exemplos como a Escolinha de Arte do Brasil e o Centro de Criatividade em Sergipe) e sua relação com a comunidade no entorno desses espaços.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Contribuição da abordagem concebida por Ana Mae Barbosa para a produção de sentidos em processos de aprendizagem da arte: Conceito 0 (não atendeu ou fez de forma totalmente equivocada) / Conceito 1 (abordou apenas de forma superficial) / Conceito 2 (desenvolveu de forma parcialmente consistente ou incompleta) / Conceito 3 (desenvolveu de forma consistente e completa)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 - Argumentação crítica sobre os processos educativos, os saberes e as experiências em espaços formais e não formais de ensino da arte: Conceito 0 a Conceito 3 (de não atendido a desenvolvido de forma consistente, completa e com criticidade)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 - Exemplos de atividades de arte em espaços não formais de ensino e suas relações com a comunidade no entorno desses espaços: Conceito 0 (não atendeu) / Conceito 1 (abordou superficialmente, sem exemplos) / Conceito 2 (apresentou apenas um exemplo adequado) / Conceito 3 (apresentou mais de um exemplo adequado)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/seed_se_25_professor/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Sem indicação de valor em pontos por quesito no PDF (apenas escala de conceitos 0 a 3). | Nota de reconstrução do enunciado: NOTA: enunciado/comando original não reproduzido no padrão de resposta consultado; nenhum PDF da prova discursiva bruta estava disponível para confirmação."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 3 quesitos avaliados por conceitos (0 a 3).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/seed_se_25_professor/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf"
+        }
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Questão 2 da disciplina Arte. O texto-modelo indica que se pedia ao candidato que estabelecesse relações diretas entre o teatro do oprimido (Augusto Boal) e a pedagogia do oprimido (Paulo Freire), e que apontasse um aspecto do trabalho docente que promova a aprendizagem em teatro a partir da abordagem do teatro épico (Bertolt Brecht) e do teatro do oprimido em sala de aula.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Relação direta entre o teatro do oprimido e a pedagogia do oprimido: Conceito 0 (não estabeleceu relação ou fez de forma totalmente equivocada) / Conceito 1 (mencionou uma ideia presente em ambos, mas não desenvolveu a relação expressamente) / Conceito 2 (relacionou expressamente, com desenvolvimento parcialmente consistente) / Conceito 3 (relacionou expressamente, com desenvolvimento integralmente consistente)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 - Aspecto do trabalho docente que promova a aprendizagem em teatro a partir da abordagem do teatro épico e do teatro do oprimido em sala de aula: Conceito 0 (não mencionou nenhum aspecto ou fez de forma totalmente equivocada) / Conceito 1 (mencionou um aspecto limitado a uma abordagem, sem desenvolvimento ou com desenvolvimento precário) / Conceito 2 (mencionou um aspecto limitado a uma abordagem, com desenvolvimento mediano) / Conceito 3 (relacionou a apenas uma das abordagens, com desenvolvimento adequado) / Conceito 4 (relacionou a ambas as abordagens, com desenvolvimento parcialmente adequado) / Conceito 5 (relacionou a ambas as abordagens, com desenvolvimento integralmente adequado)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/seed_se_25_professor/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Sem indicação de valor em pontos por quesito no PDF (apenas escala de conceitos). | Nota de reconstrução do enunciado: NOTA: enunciado/comando original não reproduzido no padrão de resposta consultado; nenhum PDF da prova discursiva bruta estava disponível para confirmação."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 2 quesitos avaliados por conceitos (0 a 3 e 0 a 5).",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/seed_se_25_professor/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/seed_se_25_professor/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

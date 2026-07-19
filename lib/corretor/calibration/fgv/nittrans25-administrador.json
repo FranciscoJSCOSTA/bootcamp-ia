@@ -1,0 +1,55 @@
+{
+  "concurso": "Concurso Público NITERÓI TRÂNSITO S.A. (NITTRANS) 2025",
+  "orgao": "Niterói Trânsito S.A. (NITTRANS) - Prefeitura de Niterói",
+  "cargo": "Administrador",
+  "dataProva": "2025-12-12",
+  "areaTema": "Administração Pública - Empreendedorismo Público e Gestão de Pessoas",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Em tempos de escassez de recursos e aumento das demandas sociais, gestores públicos têm sido incentivados a adotar posturas empreendedoras dentro das organizações estatais, criando soluções inovadoras para velhos problemas. Em uma autarquia municipal de trânsito, um grupo de servidores propôs um projeto interno de reestruturação da comunicação com os cidadãos sobre interrupções viárias, acidentes e obras. A proposta surgiu da percepção de que falhas na comunicação impactavam negativamente a fluidez do tráfego e a segurança pública, devido a problemas como: ausência de avisos prévios sobre interdições, causando congestionamentos; desinformação sobre acidentes, dificultando o atendimento de emergência; uso ineficaz de canais de comunicação com os cidadãos; linguagem técnica e confusa nas mensagens veiculadas; desconfiança, da gestão institucional, gerada pela percepção de desorganização. Para apresentar a proposta à diretoria, a equipe elaborou um discurso de elevador (elevator speech) — uma apresentação breve, clara e estratégica da ideia, estruturada com base no problema identificado, na solução proposta, nos benefícios esperados, nos recursos necessários, nos riscos previstos e nos apoios institucionais já conquistados. Considerando os elementos do empreendedorismo e os passos para a construção de um discurso de elevador, redija um texto de 15 (quinze) a 30 (trinta) linhas abordando: 1. Como a identificação do problema e o foco na criação de valor para o cidadão configuram uma atitude empreendedora no setor público; 2. Que tipo de benefícios esse projeto pode gerar para a organização e para a sociedade; 3. Qual a importância de mapear riscos e recursos, desde o início do projeto.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Diagnóstico do problema e foco no valor público: relaciona o problema com a necessidade de inovação interna; explica que o foco na criação de valor para o cidadão orienta a ação pública para resultados; usa linguagem técnica e contextualizada (eficiência, efetividade, resultados públicos etc.); demonstra compreensão do papel do servidor como agente de transformação. Escala graduada literal: 0,00 – 1,00 – 2,00 – 3,00 – 4,00", "pontuacao": 4.00},
+          {"descricao": "Benefícios organizacionais e sociais esperados: lista e explica benefícios para a autarquia (eficiência, uso da informação, agilidade, redução de falhas); lista e explica benefícios para a sociedade (transparência, segurança viária, menor tempo de deslocamento etc.); estabelece relação lógica entre os benefícios e o problema proposto; demonstra visão de curto e longo prazo dos efeitos do projeto. Escala graduada literal: 0,00 – 1,00 – 2,00 – 3,00", "pontuacao": 3.00},
+          {"descricao": "Mapeamento de riscos e recursos: reconhece a importância do planejamento de recursos humanos, financeiros, tecnológicos; explicita a importância do apoio institucional (sponsors); identifica possíveis resistências e riscos e propõe estratégias de mitigação; aponta que o mapeamento inicial aumenta a viabilidade e sustentabilidade do projeto. Escala graduada literal: 0,00 – 1,00 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Fluência e coerência da exposição (aplicado transversalmente aos itens acima): estrutura bem organizada (início, meio e fim); coesão textual entre as partes da resposta; linguagem clara, objetiva, com uso adequado da norma culta; texto dentro do limite de linhas (15 a 30), sem repetições desnecessárias. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+        "observacoes": "Espelho de correção FGV. 'Nota da Questão 01 - Gabarito 1: 10' (soma 4+3+2+1). Diferente da questão de Advogado do mesmo concurso, aqui a fluência/coerência textual É tratada como item próprio de pontuação positiva graduada (não é uma dedução por erro contado, mas um item de crédito adicional de até 1,00 ponto)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 10,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Beatriz é servidora pública em uma autarquia municipal e atua há cinco anos na coordenação de processos administrativos. Nos últimos meses, passou a sentir que o reconhecimento institucional por seu desempenho não corresponde à complexidade e à responsabilidade de suas atribuições. Embora tenha apresentado resultados consistentes, como a melhoria nos prazos de tramitação e a revisão de procedimentos internos, não recebeu retorno formal algum por parte da chefia. Diante dessa percepção de desequilíbrio entre esforço e recompensa, Beatriz começou a refletir sobre formas de lidar com a situação. Entre suas alternativas estão: intensificar o diálogo com a liderança, aumentar ainda mais sua produtividade na esperança de ser reconhecida, ou buscar oportunidades externas. Após tomar uma decisão e colocar o plano em prática, ela experimentará os efeitos — positivos ou negativos — dessa escolha e, com base neles, poderá redefinir seus objetivos ou estratégias. A situação de Beatriz exemplifica o funcionamento do quadro motivacional, em que a deficiência percebida em relação a uma necessidade desencadeia a busca por satisfação mediante comportamentos orientados a metas. Com base no caso descrito e no modelo do comportamento motivacional, redija um texto de 15 (quinze) a 30 (trinta) linhas, respondendo: 1. Como a percepção de uma necessidade não satisfeita pode desencadear comportamentos no ambiente de trabalho; 2. Que fatores podem influenciar a escolha do comportamento adotado e como a organização pode atuar para fortalecer a motivação dos servidores; 3. Por que a reavaliação final do processo é importante para o ciclo motivacional e para a gestão de pessoas no setor público.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Percepção de necessidade não satisfeita e gatilho comportamental: explica como a percepção de uma necessidade não satisfeita desencadeia comportamentos no ambiente de trabalho; demonstra compreensão do papel das necessidades como gatilho do comportamento motivado. Escala graduada literal: 0,00 – 1,00 – 2,00 – 3,00", "pontuacao": 3.00},
+          {"descricao": "Fatores que influenciam a escolha comportamental e papel da organização na motivação: identifica os fatores que influenciam a escolha comportamental (internos e externos) e apresenta o papel da organização no fortalecimento da motivação dos servidores públicos. Escala graduada literal: 0,00 – 1,00 – 2,00 – 3,00", "pontuacao": 3.00},
+          {"descricao": "Importância da reavaliação final no ciclo motivacional e na gestão de pessoas: explica a importância da reavaliação final do processo no ciclo motivacional e sua relevância para a gestão de pessoas no setor público. Escala graduada literal: 0,00 – 1,00 – 2,00 – 3,00", "pontuacao": 3.00},
+          {"descricao": "Fluência e coerência da exposição (aplicado transversalmente aos itens acima): estrutura bem organizada (início, meio e fim); coesão textual entre as partes da resposta; linguagem clara, objetiva, com uso adequado da norma culta; texto dentro do limite de linhas (15 a 30), sem repetições desnecessárias. Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+        "observacoes": "Espelho de correção FGV. 'Nota da Questão 02 - Gabarito 1: 10' (soma 3+3+3+1). Item de fluência/coerência textual é positivo e graduado, não dedução por erro contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 10,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/nittrans25",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/edital-final-21.08.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/administradorcns007-tipo-1.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"
+  ],
+  "coletadoEm": "2026-07-16"
+}

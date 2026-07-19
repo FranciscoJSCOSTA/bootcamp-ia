@@ -1,0 +1,37 @@
+{
+  "concurso": "Concurso Público para a Assembleia Legislativa do Estado de Santa Catarina (ALESC) - Edital nº 01/2024",
+  "orgao": "Assembleia Legislativa do Estado de Santa Catarina (ALESC)",
+  "cargo": "Analista Legislativo III - Direito",
+  "dataProva": "2024-05-14",
+  "areaTema": "Direito Administrativo - Poder de Polícia",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "João, empresário, residente e domiciliado no Município Alfa, pretendia explorar determinada atividade econômica organizada para a produção de bens, de forma a lhe gerar lucro e, ao mesmo tempo, beneficiar a população local. Após consultar o seu advogado, o particular foi informado sobre a necessidade de obter, junto ao Poder Público, uma licença, garantindo o regular funcionamento do novo empreendimento. Desta forma, João ingressou com o requerimento na municipalidade, visando à expedição da licença, mas o pedido foi negado, em observância às formalidades legais. Irresignado, o particular resolveu exercer a atividade de forma irregular, ao argumento de que surgiriam externalidades positivas à coletividade com a arrecadação de impostos e a geração de empregos. Nada obstante, dois meses após a abertura do estabelecimento comercial, houve uma fiscalização realizada pelos agentes públicos competentes, os quais, sem a intervenção do Poder Judiciário, interditaram o local. Com base no cenário hipotético narrado, responda de forma fundamentada ao que se pede a seguir. 1. Conceitue o poder de polícia, trazendo à baila as quatro fases do ciclo de polícia. 2. Qual é a natureza jurídica da licença de polícia? Diferencie a licença de polícia da autorização de polícia. 3. Os agentes públicos, ao interditarem o estabelecimento comercial sem a prévia intervenção do Poder Judiciário, atuaram de forma regular? Fundamente a resposta perpassando pelos atributos do poder de polícia. 4. É possível, em tese e nos termos da jurisprudência do Supremo Tribunal Federal, a delegação do poder de polícia a pessoas jurídicas de direito privado ou somente pessoas jurídicas de direito público podem exercê-lo? Caso o candidato (a) entenda que o poder de polícia pode ser delegado, quais são os requisitos para tanto? Caso o candidato (a) conclua pela impossibilidade, qual é a ratio por trás da vedação?",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Item 1 (parte a - conceituação): Conceituação do poder de polícia. Escala graduada literal do espelho: 0,00 – 1,00 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Item 1 (parte b - quatro fases): Correta abordagem das quatro fases do ciclo de polícia (ordem de polícia, consentimento de polícia, fiscalização de polícia e sanção de polícia). Escala graduada literal do espelho: 0,00 – 1,00 – 2,00 – 3,0 – 4,00", "pontuacao": 4.00},
+          {"descricao": "Item 2: Natureza jurídica da licença de polícia e distinção entre licença de polícia e autorização de polícia. Escala graduada literal do espelho: 0,00 – 1,00 – 2,00 – 3,00", "pontuacao": 3.00},
+          {"descricao": "Item 3: Atributos do poder de polícia e possibilidade de os agentes públicos interditarem o estabelecimento comercial, independentemente da intervenção do Poder Judiciário. Escala graduada literal do espelho (com salto, sem degraus intermediários em 4 e 5): 0,00 – 1,00 – 2,00 – 3,00 – 6,00", "pontuacao": 6.00},
+          {"descricao": "Item 4: Requisitos para a delegação do poder de polícia a pessoas jurídicas de direito privado. Escala graduada literal do espelho: 0,00 – 1,00 – 2,00 – 3,00 – 4,00 – 5,00", "pontuacao": 5.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/alesc-espelho-correcao.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Espelhos de Correção' (não 'padrão de resposta'), cobrindo em um único PDF de 4 páginas as 8 especialidades do cargo Analista Legislativo III (Médico, Administrador, Direito, Contador, Economista, Curso Superior em qualquer área, Analista de Sistemas), cada uma com sua própria Questão 01 e itens de pontuação distintos, todas somando 20,00 pontos na questão (nota bruta, antes de eventual conversão de escala). Escala GRADUADA por item, com degraus explícitos que variam de item para item (alguns com incrementos de 1 em 1, outros com saltos maiores, como o item 3 desta cargo que pula de 3,00 direto para 6,00, sem degraus intermediários em 4,00 e 5,00 - reproduzido literalmente como consta no espelho). Não há, nesta questão, nenhuma cláusula de dedução por erro gramatical/ortográfico contado; a avaliação é inteiramente por conteúdo técnico-jurídico. O enunciado completo da questão discursiva foi extraído do caderno de provas (não consta no PDF do espelho, que traz apenas os itens de pontuação)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva, com notas por candidato, publicado em 18/07/2024.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/394-alesc-resultado-preliminar-prova-discursiva-2024-07-18_0.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva, com notas por candidato, publicado após período recursal. Documento de resultado, sem detalhamento de notas individuais por item (o detalhamento por item consta apenas no Espelho de Correção).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/394-alesc-resultado-definitivo-prova-discursiva.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/alesc24",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/alesc_edital-retificado-26.02.24_0.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/analista-legislativo-iii-direitocns106-tipo-1.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/alesc-espelho-correcao.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/394-alesc-resultado-definitivo-prova-discursiva.pdf"
+  ],
+  "coletadoEm": "2026-07-17"
+}

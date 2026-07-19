@@ -1,0 +1,57 @@
+{
+  "concurso": "Concurso Público NITERÓI TRÂNSITO S.A. (NITTRANS) 2025",
+  "orgao": "Niterói Trânsito S.A. (NITTRANS) - Prefeitura de Niterói",
+  "cargo": "Arquiteto",
+  "dataProva": "2025-12-12",
+  "areaTema": "Arquitetura e Urbanismo - Política Habitacional e História da Arquitetura Brasileira",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "O Programa Minha Casa Minha Vida (PMCMV), criado em 2009, marcou uma das principais políticas habitacionais do Brasil nas últimas décadas, com o objetivo de reduzir o déficit habitacional por meio da produção em larga escala de moradias, especialmente para famílias de baixa renda. Apesar de sua relevância, o programa recebeu muitas críticas, principalmente do meio acadêmico. Por outro lado, a Nova Agenda Urbana (NAU), documento aprovado pela ONU, em 2016, apresenta diretrizes globais para o desenvolvimento urbano sustentável, com foco na inclusão social, qualidade de vida e integração dos espaços urbanos. Considerando esses dois contextos, redija um texto de 15 (quinze) a 30 (trinta) linhas, analisando como um dos princípios da NAU poderiam ser incorporados à política habitacional brasileira, em especial ao PMCMV, apontando possíveis soluções para os desafios sociais, urbanos e ambientais identificados na implementação do programa.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Priorizar áreas bem localizadas, evitando a periferização dos empreendimentos OU Garantir acesso a transporte público e conexões com empregos e serviços urbanos. Escala graduada literal: 0,00 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Planejar empreendimentos com escolas, áreas de lazer, comércio, saúde e cultura próximos OU Integrar as habitações à rede de saneamento, iluminação, energia e internet. Escala graduada literal: 0,00 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Incorporar soluções baseadas na natureza (drenagem sustentável, áreas verdes) OU Incentivar eficiência energética e gestão adequada de resíduos. Escala graduada literal: 0,00 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Promover uso misto do solo, incluindo comércio, serviços e habitação no mesmo território OU Criar oportunidades de geração de renda e capacitação profissional para os moradores. Escala graduada literal: 0,00 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Envolver moradores e comunidades no planejamento e gestão dos empreendimentos OU Integrar políticas habitacionais com planejamento urbano e regional. Escala graduada literal: 0,00 – 2,00", "pontuacao": 2.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+        "observacoes": "Espelho de correção FGV. 'Nota da Questão 01 - Gabarito 1: 10' (5 itens de 2,00 cada). Particularidade: cada item aceita uma de duas alternativas de conteúdo equivalentes (formato 'X OU Y'), com escala binária simples (0,00 ou 2,00), sem degraus intermediários dentro do item - a graduação da questão como um todo vem da soma de 5 itens binários, não de degraus dentro de cada item."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item (total 10,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "No início do século XX, os avanços tecnológicos no campo da construção civil permitiram um maior uso do concreto armado na Arquitetura Brasileira, que foi amplamente explorado por arquitetos e arquitetas do Movimento Moderno. Na sequência de transformações oriundas da Revolução Industrial, que alteraram profundamente a maneira de construir e de pensar cidades ao redor do mundo, a consolidação desse movimento no Brasil esteve também ligado a um novo vocabulário plástico, construtivo e, além disso, à construção da identidade nacional. Nesse contexto, formou-se a noção de Brutalismo, vertente do Movimento Moderno, que explora o uso do concreto armado e aparente. Disserte, em um texto de 15 (quinze) a 30 (trinta) linhas, sobre as particularidades do Brutalismo no Brasil, articulando-o ao Movimento Moderno na Arquitetura Brasileira e a sua relação com a industrialização do país, bem como a formação de uma identidade nacional.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Definições e origens da vertente brutalista do Movimento Moderno, considerando o contexto brasileiro da primeira metade do século XX, em contraponto ao contexto de guerra na Europa. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50 – 3,00", "pontuacao": 3.00},
+          {"descricao": "Exemplos de arquitetos/as e escritórios construídos nesse âmbito, como João Batista Vilanova Artigas, Lina Bo Bardi e Oscar Niemeyer. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00", "pontuacao": 2.00},
+          {"descricao": "Características principais de edificações, como a plasticidade dos volumes, a valorização da estrutura portante (muitas vezes exposta como linguagem arquitetônica), as plantas-baixas abertas e espaços fluídos, associados a uma dimensão social do projeto, e a escala monumental. Escala graduada literal: 0,00 – 0,50 – 1,00 – 1,50 – 2,00 – 2,50 – 3,00", "pontuacao": 3.00},
+          {"descricao": "Diferenças entre as produções de São Paulo e Rio de Janeiro; relação entre o desenvolvimento da indústria da construção civil no Brasil e a produção do concreto armado (1 ponto). Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00},
+          {"descricao": "Relação com as artes plásticas e o paisagismo, bem como outras manifestações culturais da época (1 ponto). Escala graduada literal: 0,00 – 0,50 – 1,00", "pontuacao": 1.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+        "observacoes": "Espelho de correção FGV. 'Nota da Questão 02 - Gabarito 1: 10' (soma 3+2+3+1+1). Não há mecanismo de dedução por erro gramatical contado em nenhum dos itens desta questão."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 10,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/nittrans25",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/edital-final-21.08.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/arquitetocns008-tipo-1.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/nittransespelhos.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/197_nittrans-resultado-definitivo-prova-discursiva-2026-01-07.pdf"
+  ],
+  "coletadoEm": "2026-07-16"
+}

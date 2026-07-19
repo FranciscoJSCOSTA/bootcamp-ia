@@ -1,0 +1,51 @@
+{
+  "concurso": "Concurso Público para o Tribunal de Contas do Estado de Goiás 2024",
+  "orgao": "Tribunal de Contas do Estado de Goiás (TCE-GO)",
+  "cargo": "Analista de Controle Externo - Ciências Contábeis",
+  "dataProva": "2024-06-16",
+  "areaTema": "Contabilidade Societária - Demonstração das Mutações do Patrimônio Líquido, Distribuição de Dividendos e Indicadores de Liquidez",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A Cia ABC foi constituída em 01/01/2023 com a integralização de R$300.000 de capital social por seus sócios. No ano de 2023, não houve movimentação em seu capital social. Em 31/12/2023, a Cia ABC reconheceu lucro de R$800.000. Na data, as seguintes reservas foram constituídas: Legal: de acordo com a Lei 6.404/76 e modificações. Contingências: R$80.000. Estatutária: R$50.000. Além disso, a Cia ABC distribuiu dividendos de 25% do lucro ajustado, de acordo com a lei. O saldo remanescente foi apropriado para a constituição de reservas para expansão. Indique, em 31/12/2023: a) Os saldos apresentados na Demonstração das Mutações do Patrimônio Líquido da Cia ABC. b) O patrimônio líquido total. c) Como foi calculada a distribuição dos dividendos, assim como o seu saldo.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a) Saldos na Demonstração das Mutações do Patrimônio Líquido: Capital social: R$300.000; reserva legal: R$40.000; reserva para contingências: R$80.000; reserva estatutária: R$50.000; reserva para expansão: R$460.000 (1,0 ponto cada saldo correto). Escala graduada literal do espelho: 0.00 – 1.00 – 2.00 – 3.00 – 4.00 – 5.00", "pontuacao": 5.00},
+          {"descricao": "b) Patrimônio Líquido total: R$930.000. Escala graduada literal do espelho: 0.00 – 2.00", "pontuacao": 2.00},
+          {"descricao": "c) Cálculo da distribuição dos dividendos. Escala graduada literal do espelho: 0.00 – 2.00 – 3.00", "pontuacao": 3.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tce-go-espelhos-prova-discursiva-2028.08.22-retificado-em-26.08.2024.pdf",
+        "observacoes": "Documento oficial FGV com enunciado e tabela de pontuação exibidos lado a lado ('Item / Fatores e requisitos para pontuação / Pontos'). Escala graduada por item, com degraus literais explícitos (ex.: 0.00;1.00;2.00;3.00;4.00;5.00). Não há nota consolidada explícita da questão neste espelho (formato difere do modelo 'Conferência da Tabela de Questões' usado em outros concursos FGV). Não há dedução por erro gramatical contado — trata-se de questão técnico-numérica de contabilidade."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (retificado em 26/08/2024) com enunciado, itens e escala graduada de pontuação por item.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tce-go-espelhos-prova-discursiva-2028.08.22-retificado-em-26.08.2024.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "A Cia Green vendia produtos naturais. A empresa apresentava o seguinte balanço patrimonial em 31/12/2023: Ativo Circulante 92.000 (Caixa 40.000, Clientes 15.000, Estoques 25.000, Despesas antecipadas 12.000); Passivo Circulante 50.000 (Fornecedores 50.000); Ativo não Circulante: Realizável a Longo Prazo 100.000 (Contas a receber 100.000), Propriedade para Investimento 120.000, Terreno 120.000; Passivo não Circulante 70.000 (Contas a pagar 70.000); Patrimônio Líquido 192.000 (Capital Social 200.000, Prejuízos Acumulados -8.000); Ativo Total 312.000, Passivo + PL 312.000. Com base no balanço patrimonial: a) Determine o indicador de liquidez seca, de liquidez corrente e de liquidez geral, explicando o que significa cada resultado obtido. b) Explique qual dos três indicadores é considerado o mais conservador e por quê. c) Indique uma decisão que pode ser tomada pelos administradores da Cia Green, com base nos indicadores obtidos.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a) Indicador de liquidez seca, corrente e geral. Escala graduada literal do espelho: 0.00 – 2.0 – 4.0 – 6.0", "pontuacao": 6.0},
+          {"descricao": "b) Indicação e explicação sobre o indicador mais conservador. Escala graduada literal do espelho: 0.00 – 1.00 – 2.0 – 3.00", "pontuacao": 3.00},
+          {"descricao": "c) Decisão que pode ser tomada pelos administradores. Escala graduada literal do espelho: 0.00 – 1.00", "pontuacao": 1.00}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tce-go-espelhos-prova-discursiva-2028.08.22-retificado-em-26.08.2024.pdf",
+        "observacoes": "Escala graduada por item, degraus literais explícitos. Soma máxima da questão = 10,00 pontos (6,00+3,00+1,00). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo (retificado em 26/08/2024) com enunciado, itens e escala graduada de pontuação por item.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/tce-go-espelhos-prova-discursiva-2028.08.22-retificado-em-26.08.2024.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/tcego24",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/analista-de-controle-externo-ciencias-contabeiscns201-tipo-1.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/tce-go-espelhos-prova-discursiva-2028.08.22-retificado-em-26.08.2024.pdf"
+  ],
+  "coletadoEm": "2026-07-17"
+}

@@ -1,0 +1,44 @@
+{
+  "concurso": "Concurso Público para Provimento de Cargos do Quadro de Pessoal - Tribunal de Justiça do Estado do Pará (TJ/PA) 2025",
+  "orgao": "Tribunal de Justiça do Estado do Pará (TJ/PA)",
+  "cargo": "Cargo 1: Analista Judiciário – Área Administrativa",
+  "dataProva": "2025-08-31",
+  "areaTema": "Redação Dissertativo-Argumentativa (Liberdade Individual e Democracia)",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "A partir do texto-modelo do padrão de resposta, infere-se que se pedia ao(à) candidato(a), comum a 'TODOS OS CARGOS', a redação de texto dissertativo-argumentativo opinando sobre a máxima segundo a qual 'a liberdade de um indivíduo termina onde começa a do outro', bem como sobre as relações entre democracia e liberdade na vida cotidiana, com base em textos motivadores.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 – Opinião a respeito da máxima de que a liberdade de um indivíduo termina onde começa a do outro: Conceito 0 (não atendeu ao solicitado ou tangenciou o assunto) / Conceito 1 (opinou, mas não articulou argumentos em defesa do ponto de vista) / Conceito 2 (opinou, mas articulou argumentos de forma meramente superficial) / Conceito 3 (opinou, mas articulou argumentos de forma pouco consistente) / Conceito 4 (opinou e articulou argumentos consistentes em defesa do seu ponto de vista)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 – Relações entre democracia e liberdade nas sociedades modernas e exemplificação da vida cotidiana que ilustre essa relação: Conceito 0 (não atendeu ao solicitado ou tangenciou o assunto) / Conceito 1 (abordou de forma superficial e desarticulada, sem exemplificar) / Conceito 2 (abordou de forma pouco consistente e exemplificou com exemplo pouco convincente) / Conceito 3 (abordou de forma consistente, mas sem exemplo totalmente convincente) / Conceito 4 (abordou de forma consistente e forneceu pelo menos um exemplo convincente)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tj_pa_25_servidor/arquivos/73F1AE792CB7443161E526AB5189BE05BDB207B8F7CC3F4B3FD8033CC0B2AEEA.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', comum 'TODOS OS CARGOS' do concurso TJ/PA (inclui o Cargo 1: Analista Judiciário – Área Administrativa). Trata-se de redação dissertativo-argumentativa sobre tema de cultura geral/atualidades (liberdade individual e democracia), não de conteúdo técnico-jurídico específico do cargo. O PDF não indica valor em pontos por quesito (apenas escala de conceitos 0 a 4), por isso o campo 'pontuacao' foi deixado como null. | Nota de reconstrução do enunciado: NOTA: o enunciado/comando original (frase-tema e textos motivadores) não foi reproduzido no padrão de resposta consultado; para este item não havia arquivo de 'prova bruta' disponível (apenas o padrão de resposta), de modo que o comando exato não pôde ser confirmado."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre a relação entre liberdade individual e democracia, e 2 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/tj_pa_25_servidor/arquivos/73F1AE792CB7443161E526AB5189BE05BDB207B8F7CC3F4B3FD8033CC0B2AEEA.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/tj_pa_25_servidor/arquivos/73F1AE792CB7443161E526AB5189BE05BDB207B8F7CC3F4B3FD8033CC0B2AEEA.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

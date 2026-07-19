@@ -1,0 +1,137 @@
+{
+  "concurso": "Concurso Público para Provimento de Vagas e Formação de Cadastro de Reserva em Cargos de Delegado de Polícia Civil do Estado do Ceará (PC-CE 2025)",
+  "orgao": "Polícia Civil do Estado do Ceará (PCCE) / Academia Estadual de Segurança Pública do Ceará (AESP/CE)",
+  "cargo": "Delegado de Polícia Civil",
+  "dataProva": "2025-05-25",
+  "areaTema": "Segurança Pública",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Em um município do estado do Ceará com população de 70 mil habitantes, ocorreu um feminicídio, o qual estava sendo investigado pela delegacia local não especializada. Durante as investigações, a polícia civil interrogou o suspeito do crime, que, logo após o interrogatório, impetrou habeas corpus, requerendo o trancamento do inquérito policial, sob a alegação de não haver na localidade delegacia especializada em atendimento à mulher. Considerando a situação hipotética apresentada, redija um texto dissertativo em atendimento ao que se pede a seguir. 1 Responda, justificadamente, com base na Constituição do Estado do Ceará, se é necessária a criação de delegacia especializada de atendimento à mulher no município citado. [valor: 1,50 ponto] 2 Aborde, à luz do direito constitucional, o bem jurídico tutelado por habeas corpus [valor: 0,40 ponto], identifique a espécie do habeas corpus impetrado no caso apresentado [valor: 0,40 ponto] e discorra sobre as circunstâncias em que é cabível habeas corpus para o trancamento de inquérito policial [valor: 1,50 ponto].",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Necessidade de delegacia especializada de atendimento à mulher (art. 185, Constituição do Ceará, municípios com mais de 60 mil habitantes): Conceito 0 (não respondeu/negou) a Conceito 2 (afirmou e justificou corretamente)",
+            "pontuacao": 1.5
+          },
+          {
+            "descricao": "Quesito 2.2 - Bem jurídico tutelado pelo habeas corpus (liberdade de locomoção): Conceito 0 ou 1",
+            "pontuacao": 0.4
+          },
+          {
+            "descricao": "Quesito 2.3 - Espécie de habeas corpus impetrado (preventivo, por ameaça de constrangimento ilegal): Conceito 0 a 2",
+            "pontuacao": 0.4
+          },
+          {
+            "descricao": "Quesito 2.4 - Circunstâncias de cabimento de habeas corpus para trancamento de inquérito policial (natureza excepcional; demonstração inequívoca de constrangimento ilegal): Conceito 0 a 3",
+            "pontuacao": 1.5
+          }
+        ],
+        "fonte": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/132372/cespe-cebraspe-2025-pc-ce-delegado-de-policia-civil-discursiva-gabarito.pdf",
+        "observacoes": "PDF do padrão de resposta obtido via espelho (qconcursos), reproduzindo documento oficial do Cebraspe com cabeçalho 'CONCURSO PÚBLICO PARA PROVIMENTO DE VAGAS E A FORMAÇÃO DE CADASTRO DE RESERVA EM CARGOS DE DELEGADO DE POLÍCIA CIVIL DO ESTADO DO CEARÁ'. O título do documento é apenas 'PADRÃO DE RESPOSTA' (sem qualificador 'preliminar' ou 'definitivo' explícito no cabeçalho); não foi possível confirmar com certeza, a partir das fontes consultadas, se este é o padrão preliminar ou o definitivo (pós-recursos). O prazo de recursos contra o padrão preliminar ocorreu em 28-29/05/2025, o que sugere que este documento, coletado por agregador após essa data, pode já ser o definitivo, mas isso não foi verificado diretamente na página oficial cebraspe.org.br/concursos/pc_ce_25_delegado (JS-renderizada, não indexável por fetch direto)."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "Não localizado separadamente das fontes consultadas.",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta com texto-modelo completo e quesitos avaliados por conceitos (0 a 2/3) - status preliminar/definitivo não confirmado com certeza (ver observações).",
+          "fonte": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/132372/cespe-cebraspe-2025-pc-ce-delegado-de-policia-civil-discursiva-gabarito.pdf"
+        }
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "No ano de 2016, durante uma manifestação popular autorizada, o policial civil Marcos, de folga e à paisana, estava em sua residência quando percebeu que um grupo de manifestantes, entoando palavras de ordem contra servidores da segurança pública, se aproximava. Diante disso, ele saiu da residência, com sua arma de fogo em punho, e, em via pública, efetuou disparos para o alto. Ninguém ficou ferido, porém foi feita uma denúncia anônima a respeito da conduta praticada pelo policial civil, o que motivou a instauração de inquérito policial para apurá-la. No ano de 2025, durante o interrogatório policial, o investigado alegou prescrição e declarou que, à época do fato, acreditava que sua conduta estava resguardada pela legítima defesa da integridade física dele e de seu patrimônio. Concluído o inquérito policial, o delegado de polícia elaborou relatório, no qual refutou a alegação de prescrição, por entender que não ocorre prescrição antes do recebimento da denúncia. No entanto, considerando a possibilidade de extinção da punibilidade de Marcos em razão de erro sobre a ilicitude da conduta, o delegado de polícia encaminhou os autos ao Ministério Público, com sugestão de arquivamento. Até o momento, não houve o recebimento de denúncia. A partir da situação hipotética apresentada, redija um texto dissertativo, de forma fundamentada, atendendo ao que se pede a seguir. 1 Esclareça, à luz do Código Penal (CP), se Marcos pode ser isento de pena. [valor: 1,00 ponto] 2 Diferencie erro de proibição e erro de tipo permissivo, bem como aborde as consequências jurídicas de cada um deles. [valor: 1,60 ponto] 3 Explique se houve prescrição no caso em apreço, de acordo com o CP e a jurisprudência do STF. [valor: 1,20 ponto]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Isenção de pena de Marcos (erro de proibição indireto, art. 21 CP, legítima defesa putativa, exclusão da culpabilidade): Conceito 0 a 5",
+            "pontuacao": 1
+          },
+          {
+            "descricao": "Quesito 2.2 - Diferenciação entre erro de proibição e erro de tipo permissivo e suas consequências jurídicas: Conceito 0 a 5",
+            "pontuacao": 1.6
+          },
+          {
+            "descricao": "Quesito 2.3 - Prescrição da pretensão punitiva (crime de disparo de arma de fogo, art. 15 Lei 10.826/2003, prazo prescricional de 8 anos, HC 122.694/SP do STF): Conceito 0 a 5",
+            "pontuacao": 1.2
+          }
+        ],
+        "fonte": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/132372/cespe-cebraspe-2025-pc-ce-delegado-de-policia-civil-discursiva-gabarito.pdf",
+        "observacoes": "Mesma fonte e mesma ressalva sobre status preliminar/definitivo da questão 1."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "Não localizado separadamente das fontes consultadas.",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta com texto-modelo completo e quesitos avaliados por conceitos (0 a 5) - status preliminar/definitivo não confirmado com certeza.",
+          "fonte": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/132372/cespe-cebraspe-2025-pc-ce-delegado-de-policia-civil-discursiva-gabarito.pdf"
+        }
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Peça prático-profissional. Às 2h da madrugada do dia 10/11/2024, durante plantão policial, compareceu a uma delegacia de polícia de determinado bairro da cidade de Fortaleza, Ceará, Alberto, com 62 anos de idade, ensanguentado, com marcas de violência no tórax e nos braços, extremamente nervoso e com a fala bastante embargada. Segundo ele, João, ex-marido de Carla, atual companheira de Alberto, invadira a casa deste sem sua autorização, por volta das 22h da noite anterior. João, visivelmente alcoolizado, havia-lhe proferido diversos palavrões e xingamentos, bem como feito ameaças, o que dera início a uma discussão acalorada. Em seguida, João passara a agredir a vítima, com socos e pontapés, o que chamara a atenção de um dos vizinhos, que começara a bradar que chamaria a polícia, enquanto tentava invadir a casa de Alberto para acudi-lo. João, com medo de ser pego pela polícia, fugira pela janela da casa, mas, antes disso, afirmara que tinha uma arma em casa e que voltaria no dia seguinte para matar Alberto. Em seu depoimento, Alberto afirmou ter receio de ser morto por João, por este ser um indivíduo bastante violento. Alegou, ainda, que suspeitava que João integrasse facção criminosa e possuísse uma arma de fogo em casa. Além disso, entregou à polícia fotos em que João portava uma pistola, as quais estavam no celular de Carla. Na realização do exame de corpo de delito no instituto médico-legal (IML), verificou-se que as lesões em Alberto eram de natureza leve. Alberto se colocou à disposição para assinar todas as representações necessárias. O delegado de polícia verificou que João possuía antecedentes criminais e respondia a processos por tráfico de drogas, tentativa de homicídio e roubo, mas não havia qualquer condenação penal transitada em julgado contra ele. Considerando a situação hipotética apresentada, elabore, na qualidade de delegado de polícia responsável pelo procedimento, a peça prático-profissional cabível, expondo as teses de direito material e processual necessárias. Dispense a narrativa dos fatos e não crie fatos novos. [valor total: 20,00 pontos - 4,00 pontos de modalidade escrita + 16,00 pontos de conteúdo, dos quais até 0,80 ponto de apresentação/estrutura]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 2.1 - Identificação da peça (representação por busca e apreensão domiciliar e por imposição de medidas cautelares diversas da prisão): Conceito 0 ou 1",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.2 - Aspectos formais da peça (endereçamento, menção aos autos, fechamento): Conceito 0 a 3",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.3 - Tipificação legal das condutas de João (lesão corporal leve com aumento de pena por vítima idosa, ameaça, violação de domicílio): Conceito 0 a 4",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.4 - Fundamentação da busca e apreensão domiciliar para localização da arma de fogo: Conceito 0 a 3",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.5 - Medidas cautelares diversas da prisão requeridas (comparecimento periódico, proibição de contato, proibição de ausentar-se da comarca - art. 319 CPP): Conceito 0 a 4",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 2.6 - Pedidos finais apresentados (busca e apreensão, medidas cautelares, oitiva do MP): Conceito 0 a 3",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/132372/cespe-cebraspe-2025-pc-ce-delegado-de-policia-civil-discursiva-gabarito.pdf",
+        "observacoes": "O documento do padrão de resposta não discrimina a pontuação exata de cada quesito para a peça prático-profissional (apenas indica o valor total: 4,00 pontos de modalidade escrita + 16,00 pontos de conteúdo/apresentação, conforme instruções gerais da prova). Fundamentação central: art. 240, §1º, CPP (busca e apreensão); art. 282, §2º c/c art. 319, incisos I, III e IV, CPP (medidas cautelares diversas da prisão); não caberia prisão preventiva por soma de penas inferior a 4 anos."
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": false,
+          "conteudo": "Não localizado separadamente das fontes consultadas.",
+          "fonte": ""
+        },
+        "definitivo": {
+          "disponivel": true,
+          "conteudo": "Padrão de resposta com texto-modelo completo da peça prático-profissional e 6 quesitos avaliados por conceitos - status preliminar/definitivo não confirmado com certeza.",
+          "fonte": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/132372/cespe-cebraspe-2025-pc-ce-delegado-de-policia-civil-discursiva-gabarito.pdf"
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.cebraspe.org.br/concursos/pc_ce_25_delegado",
+    "https://cdn.cebraspe.org.br/concursos/pc_ce_25_delegado/arquivos/Ed_1_2025_PC_CE_Delegado_Abertura.pdf",
+    "https://cdn.cebraspe.org.br/concursos/pc_ce_25_delegado/arquivos/084_PC_CE_001_DISC.pdf",
+    "https://arquivos.qconcursos.com/prova/arquivo_gabarito/132372/cespe-cebraspe-2025-pc-ce-delegado-de-policia-civil-discursiva-gabarito.pdf"
+  ],
+  "coletadoEm": "2026-07-11"
+}

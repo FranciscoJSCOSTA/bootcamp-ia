@@ -1,0 +1,30 @@
+{
+  "concurso": "Concurso Público CAU/MG 2025 (Conselho de Arquitetura e Urbanismo do Estado de Minas Gerais)",
+  "orgao": "Conselho de Arquitetura e Urbanismo do Estado de Minas Gerais (CAU/MG)",
+  "cargo": "Cargos de Nível Médio (redação comum)",
+  "dataProva": "2025-07-13",
+  "areaTema": "Redação/Conhecimentos Gerais - Desigualdades Socioespaciais Urbanas",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Enunciado original da prova (situação hipotética/comando) não constava no PDF do padrão de resposta lido, e o PDF da prova bruta (raw) não estava disponível para este item (rawLocalPath = null). Com base no padrão de resposta, o tema versava sobre as manifestações de desigualdades socioespaciais em cidades brasileiras (bairros nobres versus periferias) e ações de planejamento urbano capazes de revertê-las, pedindo-se: 1) descrição de duas manifestações de desigualdades socioespaciais em cidades brasileiras; 2) ações de planejamento urbano capazes de reverter as desigualdades socioespaciais descritas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Descrição de duas manifestações de desigualdades socioespaciais em cidades brasileiras (ex.: precariedade de infraestrutura básica, limitação de mobilidade urbana, racismo ambiental, desigualdade em saúde/educação/cultura, falta de acessibilidade, especulação imobiliária): Conceito 0 (não abordou) a Conceito 4 (desenvolveu de modo coerente, discorrendo sobre duas ou mais manifestações)", "pontuacao": null},
+          {"descricao": "Quesito 2.2 – Ações de planejamento urbano capazes de reverter as desigualdades socioespaciais descritas (ex.: plano diretor municipal, Estatuto da Cidade, investimento em transporte público, programas de reversão de degradação ambiental, políticas de acesso à moradia): Conceito 0 (não abordou) a Conceito 4 (discorreu corretamente sobre duas ou mais ações)", "pontuacao": null}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/cau_mg_25/arquivos/PADRÃO_DE_RESPOSTA_DEFINITIVO_NÍVEL MÉDIO.pdf",
+        "observacoes": "IMPORTANTE - discrepância de metadados: a lista de extração associava este documento ao 'CARGO 1: ADVOGADO' (mesma etiqueta usada para o padrão de nível superior), mas o próprio PDF (título e conteúdo) indica que se trata de PADRÃO DE RESPOSTA comum a 'CARGOS DE NÍVEL MÉDIO' em geral (redação de conhecimentos gerais sobre desigualdades socioespaciais urbanas), sendo, portanto, incompatível com o cargo de Advogado (nível superior). Não foi possível confirmar o enunciado original da questão nem os valores em pontos de cada quesito, pois o PDF de padrão de resposta não traz o texto do comando/situação hipotética (apenas o texto-modelo e os quesitos avaliados) e não havia PDF de prova bruta (raw) disponível para este item nesta extração."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo e 2 quesitos avaliados por conceitos, para os cargos de nível médio do CAU/MG.", "fonte": "https://cdn.cebraspe.org.br/concursos/cau_mg_25/arquivos/PADRÃO_DE_RESPOSTA_DEFINITIVO_NÍVEL MÉDIO.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/cau_mg_25/arquivos/PADRÃO_DE_RESPOSTA_DEFINITIVO_NÍVEL MÉDIO.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

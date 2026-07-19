@@ -1,0 +1,126 @@
+{
+  "concurso": "Concurso Público para o Tribunal de Justiça do Estado de Mato Grosso 2024",
+  "orgao": "Tribunal de Justiça do Estado de Mato Grosso (TJMT)",
+  "cargo": "Juiz Substituto",
+  "dataProva": "2025-02-11",
+  "areaTema": "Direito Penal, Direito Administrativo, Direito Constitucional, Direito Processual Civil e Direito Civil",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Questão 1 – Direito Penal. Tendo por base a teoria do delito e, especialmente, o tema da culpabilidade em direito penal, responda as perguntas a seguir de forma objetivamente fundamentada e de acordo com aspectos teóricos e jurisprudenciais na matéria. a) Em que consiste a inexigibilidade de conduta diversa, como ela se relaciona à evolução dogmática do conceito de culpabilidade e qual a consequência de seu eventual reconhecimento em um caso concreto? b) Quais são as hipóteses legais de inexigibilidade de conduta diversa? Explique cada uma delas. c) Admitem-se hipóteses supralegais de inexigibilidade de conduta diversa? Explique e, em caso positivo, exemplifique. Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a1) Inserção da exigibilidade de comportamento diverso como elemento da concepção normativa de culpabilidade como reprovabilidade. Escala graduada literal: 0.00 – 0.25 – 0.50", "pontuacao": 0.50},
+          {"descricao": "a2) Conceito de exigibilidade de comportamento diverso como 'poder agir de outro modo' condicionado à normalidade das circunstâncias da ação, levando a inexigibilidade à exculpação (afastamento da culpabilidade, com a consequente absolvição). Escala graduada literal: 0.00 – 0.25 – 0.50", "pontuacao": 0.50},
+          {"descricao": "b1) Conceito e explicação correta quanto à coação moral irresistível (Art. 22, CP) e seus requisitos, primeira hipótese legal de inexigibilidade de conduta diversa. Escala graduada literal: 0.00 – 0.25", "pontuacao": 0.25},
+          {"descricao": "b2) Conceito e explicação correta quanto à obediência hierárquica (Art. 22, CP) e seus requisitos, segunda hipótese legal de inexigibilidade de conduta diversa. Escala graduada literal: 0.00 – 0.25", "pontuacao": 0.25},
+          {"descricao": "c) Sim, admite-se hipóteses supralegais de inexigibilidade de conduta diversa. Para pontuação total no item, deve ser dado ao menos um exemplo correto de sua aplicação, a partir da jurisprudência ou da doutrina. Escala graduada literal: 0.00 – 0.25 – 0.50", "pontuacao": 0.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Espelho de Correção'. Escala graduada por item com degraus literais explícitos. 'Nota da Questão 01' = 2 (soma dos 5 itens: 0,50+0,50+0,25+0,25+0,50). Sem dedução por erro gramatical contado; sem item autônomo de correção da linguagem nesta questão."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Questão 2 – Direito Administrativo. Em matéria de concurso público para ingresso de pessoal no serviço público, responda as perguntas a seguir de forma objetivamente fundamentada e de acordo com o entendimento do Supremo Tribunal Federal. a) É constitucional lei estadual que dispõe que, em concurso público para ingresso na carreira militar estadual, das vagas ofertadas no edital, 15% serão destinadas às candidatas do gênero feminino? Discorra sobre o tema. b) É constitucional a vedação a que candidato aprovado em concurso público venha a tomar posse no cargo, por não preencher os requisitos de gozo dos direitos políticos e quitação eleitoral, em razão de condenação criminal transitada em julgado? Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a1) As legislações que restringem a ampla participação de candidatas do gênero feminino, sem previsão legal e legitimamente justificadas, afrontam o princípio da igualdade (CF, Art. 5º). Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "a2) A lei não poderá estabelecer critérios de distinção entre homens e mulheres para acesso a cargos, empregos ou funções públicas, inclusive de segurança pública, exceto quando a natureza do cargo assim o exigir, diante da real e efetiva necessidade. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "a3) A participação feminina na formação do efetivo das áreas de segurança pública deve ser incentivada mediante ações afirmativas. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "a4) A norma do enunciado confere espaço interpretativo que permite restrição ao acesso de candidatas à totalidade das vagas ofertadas, sem justificativa real e tecnicamente demonstrada, sendo vedada tal interpretação. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "a5) A norma deve receber interpretação conforme a Constituição, afastando exegese que admita restrição, de modo que o percentual de 15% deve ser interpretado como mínimo, podendo mulheres concorrerem a todas as vagas (STF, ADI 7.480/SE, ADI 7.482/RR, ADI 7.491/CE e ADI 7.492/AM). Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "b1) É inconstitucional, por violação aos princípios da dignidade da pessoa humana e do valor social do trabalho (CF, Art. 1º, III e IV), a vedação a que candidato aprovado em concurso público venha a tomar posse no cargo. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "b2) por não preencher os requisitos de gozo dos direitos políticos e quitação eleitoral, em razão de condenação criminal transitada em julgado (CF, Art. 15, III). Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "b3) quando este for o único fundamento para sua eliminação no certame. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "b4) uma vez que é obrigatoriedade do Estado e da sociedade fornecer meios para que o egresso se reintegre à sociedade. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "b5) O início do efetivo exercício do cargo ficará condicionado ao regime da pena ou à decisão judicial do juízo de execuções, que analisará a compatibilidade de horários (STF, RE 1.282.553/RR, Tema 1190, Info 1111). Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf",
+        "observacoes": "'Nota da Questão 02' = 2 (soma dos 10 itens de 0,20 cada). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Questão 3 – Direito Constitucional. Determinada norma constitucional de eficácia limitada e princípio programático, inserida na Constituição da República pela Emenda Constitucional nº X, dispôs sobre um direito fundamental que é benéfico a João, considerando a relação jurídica de natureza obrigacional que mantém com Pedro. Por tal razão, João entende que essa norma deve ser observada. Pedro, por sua vez, defende que, em virtude das características da Emenda Constitucional nº X, que carece de regulamentação, a relação jurídica deveria ser regida pela Lei Federal nº Y, que fora editada em momento anterior ao da referida reforma constitucional e que regulamentara outra norma constitucional, sendo que esse comando legal, de conteúdo contrário, lhe é mais benéfico. Como as divergências entre João e Pedro não foram superadas no plano da consensualidade, estabeleceu-se uma lide, que foi submetida ao magistrado competente. Posicione-se sobre a solução do caso, incursionando nos seguintes aspectos: a) a norma que se extrai do Art. 5º, §1º, da CRFB/1988; b) as dimensões objetiva e subjetiva dos direitos fundamentais. Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "1) Na situação concreta há um direito fundamental, benéfico a João, introduzido pela EC nº X em momento posterior à Lei Federal nº Y. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10},
+          {"descricao": "Apesar de essa norma constitucional depender de integração pela legislação infraconstitucional, ela produz o efeito de revogar a norma legal de conteúdo contrário a ela, que não foi recepcionada. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "2.1) o que decorre do princípio da aplicação imediata. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10},
+          {"descricao": "2.2) e da dimensão objetiva dos direitos fundamentais. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10},
+          {"descricao": "3) Extrai-se do Art. 5º, §1º, da CRFB/1988, o princípio da aplicação imediata, indicativo de que, no caso dos direitos fundamentais, deve ser extraída a maior eficácia possível. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "3.1) Esse princípio, no entanto, não afasta a necessidade de que certos direitos fundamentais sejam objeto de integração pela legislação infraconstitucional para que obtenham a sua máxima eficácia. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "3.1.1) exigência que tende a ser menor, ou mesmo inexistente, nos direitos de defesa. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "3.1.2) e maior nos direitos prestacionais. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10},
+          {"descricao": "4) A dimensão objetiva dos direitos fundamentais indica a influência das respectivas normas sobre a organização das estruturas estatais de poder e sobre os padrões normativos do respectivo sistema. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "4.1) Neste último caso, direcionam a elaboração do texto normativo e sua interpretação, bem como revogam as normas preexistentes que se mostrem incompatíveis. Escala graduada literal: 0.00 – 0.10 – 0.20 – 0.30", "pontuacao": 0.30},
+          {"descricao": "5) A dimensão subjetiva dos direitos fundamentais, por sua vez, evidencia a possibilidade de ser exigida uma ação ou abstenção de determinada situação concreta. Escala graduada literal: 0.00 – 0.10 – 0.20", "pontuacao": 0.20},
+          {"descricao": "6) A situação concreta, portanto, deve ser regida pela Emenda Constitucional nº X, em benefício de João. Escala graduada literal: 0.00 – 0.10", "pontuacao": 0.10}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf",
+        "observacoes": "'Nota da Questão 03' = 2 (soma dos 12 itens, itens = 12.0 no cabeçalho do espelho refere-se ao total de subitens, não pontos). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf"}
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Questão 4 – Direito Processual Civil. Raquel formulou pedido de tutela cautelar em caráter antecedente a processo de inventário e partilha, por meio do qual requereu o arresto de cinco quadros de pintores famosos, integrantes do espólio de José, seu pai. Segundo narrou em sua petição inicial, os referidos bens se encontravam sob a posse de João, seu irmão e administrador da galeria de arte que José mantinha em vida. João havia lhe informado que colocaria os bens indicados em leilão e que se apropriaria dos recursos obtidos. Diante dos fatos narrados, o juízo concedeu a tutela pleiteada por Raquel, determinando a remoção dos quadros para a posse de Jonias, terceiro estranho a Raquel e João, o qual foi nomeado depositário dos bens. Em 23/03/2019, a medida foi integralmente efetivada, com a transferência da posse dos bens a Jonias. Em 30/11/2019, Raquel ajuizou a ação de inventário e partilha dos bens deixados por seu pai, pleiteando sua nomeação como inventariante. Regularmente citado, João pleiteou que os quadros fossem devolvidos para sua posse, argumentando que a tutela cautelar teria perdido sua eficácia. O juízo nomeou Raquel como inventariante e determinou que os quadros passassem para sua posse. Diante do cenário acima narrado, responda, de maneira fundamentada: a) A tutela cautelar antecedente concedida em favor de Raquel permaneceu produzindo efeitos até a data de ajuizamento do processo de inventário e partilha? b) Os quadros deverão ser entregues para João? Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "I) Indicar que a tutela cautelar antecedente, uma vez concedida e integralmente efetivada, faz iniciar o prazo de 30 dias para a propositura da ação principal, nos termos do Art. 308 do CPC, contado em dias úteis (Art. 219 do CPC e jurisprudência do STJ). Escala graduada literal: 0.00 – 0.20 – 0.30 – 0.50 – 0.60", "pontuacao": 0.60},
+          {"descricao": "I.I) Salientar que, descumprido o prazo legal para ajuizamento da ação principal, a tutela cautelar perderá sua eficácia e o procedimento de tutela antecedente será extinto sem resolução do mérito, conforme entendimento do STJ. Escala graduada literal: 0.00 – 0.20 – 0.40", "pontuacao": 0.40},
+          {"descricao": "I.II) Concluir que, como o processo de inventário foi distribuído mais de oito meses após a efetivação da tutela cautelar, esta perdeu sua eficácia, não produzindo efeitos na data do ajuizamento do processo de inventário e partilha. Escala graduada literal: 0.00 – 0.30 – 0.40", "pontuacao": 0.40},
+          {"descricao": "II) Indicar que os quadros não deverão ser entregues a João. Apontar que Raquel, sendo a inventariante dos bens pertencentes ao espólio de José, é quem deve administrar o espólio, nos termos do Art. 618, II, do CPC. Escala graduada literal: 0.00 – 0.10 – 0.40 – 0.60", "pontuacao": 0.60}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf",
+        "observacoes": "'Nota da Questão 04' = 2 (soma dos 4 itens: 0,60+0,40+0,40+0,60). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf"}
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "Questão 5 – Direito Civil. Godofredo vende a Máximo uma mansão de 1.800 m² localizada em área nobre de Cuiabá, imitindo-o imediatamente na posse em 01/03/2018. No ano seguinte, em 13/04/2019, Olavo aciona Godofredo alegando a nulidade do título translativo da propriedade desse mesmo imóvel em seu favor. Em agosto de 2022, transita em julgado a sentença de procedência desse pedido, determinando a imediata reintegração na posse de Olavo. Por isso, em novembro de 2022, o oficial de justiça intima Máximo para desocupação voluntária em 30 dias, sob pena de remoção compulsória. Imediatamente, então, em 13/11/2022, Máximo distribui, por dependência à demanda anulatória, pleito cautelar para garantir sua permanência na casa. A par de questões processuais preliminares (como a ausência de citação na primeira demanda), alega que adquiriu a propriedade do bem por usucapião, até porque lá fixou sua moradia, o que comprova documentalmente. Olavo impugna a pretensão, sob o argumento de que, à luz da teoria da actio nata, não poderia correr contra si prazo de prescrição aquisitiva antes do reconhecimento da nulidade e da retificação do registro, sob pena, inclusive, de fazer convalidar a nulidade declarada pelo juízo. Alega, ainda, que, de todo modo, não teria se consumado o prazo de aquisição originária, sobretudo por força da suspensão imposta pelo Regime Jurídico Emergencial e Transitório das relações jurídicas de Direito Privado (Lei nº 14.010/2020). Os autos vêm conclusos em 12/09/2024. Analise as alegações de direito material (não a preliminar de ausência de citação), definindo pormenorizadamente os conceitos jurídicos envolvidos. Ao final, apresente conclusão justificada sobre o pleito de Máximo. Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Conceituação da usucapião tabular, declinando seus pressupostos e sua justificativa teleológica, a par de citar expressamente o Art. 1.242, parágrafo único, do Código Civil. Escala graduada literal: 0.00 – 0.10 – 0.20 – 0.30 – 0.40 – 0.50", "pontuacao": 0.50},
+          {"descricao": "Enquadramento da disputa à hipótese de usucapião tabular. Escala graduada literal: 0.00 – 0.10 – 0.20 – 0.30 – 0.40 – 0.50", "pontuacao": 0.50},
+          {"descricao": "Reconhecimento de que, à luz dos pressupostos e da justificativa teleológica, o início do prazo prescricional é a posse secundada pelo registro do título translativo da propriedade. Escala graduada literal: 0.00 – 0.05 – 0.10 – 0.15 – 0.20 – 0.25", "pontuacao": 0.25},
+          {"descricao": "Reconhecimento de que a usucapião tabular não purga o vício de nulidade, que jamais convalesce, mas agrega um fato jurídico superveniente, qual seja, a aquisição originária da propriedade. Escala graduada literal: 0.00 – 0.05 – 0.10 – 0.15 – 0.20 – 0.25", "pontuacao": 0.25},
+          {"descricao": "Identificação da possibilidade de cômputo do prazo durante o curso da demanda, de maneira justificada (mera referência ao entendimento do STJ não pontua), reconhecendo o implemento do requisito temporal mesmo subtraído o tempo de suspensão do Regime Provisório. Escala graduada literal: 0.00 – 0.10 – 0.20 – 0.30 – 0.40 – 0.50", "pontuacao": 0.50}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf",
+        "observacoes": "'Nota da Questão 05' = 2 (soma dos 5 itens: 0,50+0,50+0,25+0,25+0,50). Sem dedução por erro gramatical contado."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Espelho de correção definitivo com texto-modelo por item e escala graduada de pontuação (total 2,00 na questão).", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/tjmtjuiz24",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/tjmt-prova-discursiva.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/espelho_tribunal-de-justica-do-mato-grossojuiz.pdf"
+  ],
+  "coletadoEm": "2026-07-17"
+}

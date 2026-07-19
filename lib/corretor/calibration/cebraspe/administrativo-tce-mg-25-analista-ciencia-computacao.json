@@ -1,0 +1,50 @@
+{
+  "concurso": "Concurso Público para Provimento de Cargos de Analista de Controle Externo - TCE/MG 2025",
+  "orgao": "Tribunal de Contas do Estado de Minas Gerais (TCE/MG)",
+  "cargo": "Cargo 1: Analista de Controle Externo – Especialidade: Ciência da Computação",
+  "dataProva": "2026-01-25",
+  "areaTema": "Controle Externo (Questão 1 - comum a todos os cargos) e Ciência da Computação / Engenharia de Dados (Questão 2 - específica do cargo)",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Considerando que o regime de fiscalização contábil, financeira, orçamentária, operacional e patrimonial do estado de Minas Gerais é um sistema complexo e dual, estabelecido constitucionalmente com vistas a garantir um \"governo honesto, obediente à lei e eficaz\", redija um texto dissertativo a respeito do controle da administração pública no estado. Em seu texto, atenda ao que se pede a seguir, com base na Constituição do Estado de Minas Gerais e na Lei Complementar estadual n.º 102/2008. 1 Diferencie as modalidades de controle previstas na Constituição do Estado de Minas Gerais. [valor: 1,50 ponto] 2 Indique no mínimo três aspectos dos atos geradores de receita ou de despesa pública que são objeto da fiscalização contábil, financeira, orçamentária, operacional e patrimonial. [valor: 1,50 ponto] 3 Explique a distinção constitucional entre a competência do TCE/MG de apreciar as contas do governador do estado e a sua competência de julgar as contas dos demais administradores, apontando as potenciais consequências do julgamento das contas dos administradores. [valor: 3,00 pontos] 4 Explique o mecanismo da tomada de contas especial, indicando as hipóteses em que ela ocorre e o dever da autoridade administrativa competente em relação à sua instauração. [valor: 3,50 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Estrutura do controle (controle interno, externo e direto - art. 73, I a III, CE/MG): Conceito 0 (não abordou ou o fez de forma totalmente equivocada) / Conceito 1 (discorreu corretamente sobre apenas um dos três aspectos) / Conceito 2 (discorreu corretamente sobre dois dos três aspectos, nível máximo considerado após exclusão, em decorrência de recurso, do Conceito 3 original que exigia os três aspectos)", "pontuacao": 1.50},
+          {"descricao": "Quesito 2.2 – Objeto do controle (legalidade, legitimidade, economicidade, razoabilidade, fidelidade funcional e cumprimento de programas de trabalho - art. 74, §1º, CE/MG): Conceito 0 (não abordou ou o fez de forma totalmente equivocada) / Conceito 1 (discorreu corretamente sobre apenas um dos seis aspectos) / Conceito 2 (discorreu corretamente sobre dois dos seis aspectos) / Conceito 3 (discorreu corretamente sobre três ou mais dos seis aspectos)", "pontuacao": 1.50},
+          {"descricao": "Quesito 2.3 – Competências decisórias do TCE/MG (parecer prévio sobre contas do governador; julgamento das contas dos demais administradores; classificação em regulares, regulares com ressalvas ou irregulares - art. 76, I e II, CE/MG): Conceito 0 (não abordou ou o fez de forma totalmente equivocada) / Conceito 1 (discorreu corretamente sobre apenas um dos três aspectos) / Conceito 2 (discorreu corretamente sobre dois dos três aspectos) / Conceito 3 (discorreu corretamente sobre os três aspectos)", "pontuacao": 3.00},
+          {"descricao": "Quesito 2.4 – Tomada de contas especial (conceito; hipóteses de instauração - omissão do dever de prestar contas, falta de comprovação de aplicação de recursos, desfalque/desvio, ato ilegal/ilegítimo/antieconômico; dever da autoridade administrativa - art. 47, LC 102/2008): Conceito 0 (não abordou ou o fez de forma totalmente equivocada) a Conceito 4 (discorreu corretamente sobre quatro ou mais dos seis aspectos enumerados)", "pontuacao": 3.50}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tce_mg_25/arquivos/57A21750DC72DDA4D36B60BAE7302E3CD96D8FBF7F9976BCB559CBF530D90989.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', Questão 1, comum aos Cargos 1 a 5. Enunciado confirmado no caderno de prova discursiva (raw), com valores por item somando 9,50 pontos de conteúdo + 0,50 ponto de apresentação/estrutura textual = 10,00 pontos. Há trecho tachado em vermelho no Quesito 2.1 (Conceito 3 original, que exigia os três aspectos da estrutura de controle, foi excluído/ajustado em decorrência de recursos)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre controle da administração pública em Minas Gerais (CE/MG e LC estadual 102/2008) e 4 quesitos avaliados por conceitos, com valor em pontos explícito por quesito.", "fonte": "https://cdn.cebraspe.org.br/concursos/tce_mg_25/arquivos/57A21750DC72DDA4D36B60BAE7302E3CD96D8FBF7F9976BCB559CBF530D90989.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "A integração eficiente de dados provenientes de múltiplas fontes é um desafio central em qualquer organização que busca tomada de decisão baseada em informações confiáveis. Técnicas como ETL (extract, transform, load), ELT (extract, load, transform), transferência de arquivos e integração via base de dados permitem consolidar, transformar e disponibilizar dados de forma estruturada para análises estratégicas. A escolha adequada da técnica de ingestão impacta diretamente na qualidade, na velocidade e na consistência da informação. (R. Kimball e M. Ross. The Data Warehouse Toolkit, 2013, com adaptações). Considerando que o fragmento de texto acima tem caráter unicamente motivador, redija um texto a respeito de técnicas de integração e ingestão de dados no contexto de administração e tecnologias de banco de dados. Em seu texto, atenda ao que se pede a seguir. 1 Diferencie ETL e ELT, mencionando cenários típicos de aplicação de cada abordagem, as vantagens e desvantagens de cada uma e os impactos que elas têm sobre desempenho e armazenamento. [valor: 3,25 pontos] 2 Analise as técnicas denominadas transferência de arquivos e integração via base de dados, destacando suas particularidades e riscos e abordando as boas práticas para garantir integridade e consistência dos dados. [valor: 3,25 pontos] 3 Proponha um fluxo de integração de dados que seja adequado a uma organização que recebe informações de múltiplas fontes heterogêneas, justificando a escolha da técnica de ingestão para cada tipo de dado e considerando performance, confiabilidade e escalabilidade. [valor: 3,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Distinção entre ETL e ELT (cenários de aplicação, vantagens/desvantagens, impactos sobre desempenho e armazenamento): Conceito 0 (não respondeu ou respondeu de forma totalmente equivocada) a Conceito 4 (abordou as diferenças de forma bem fundamentada, contemplando todos os três aspectos requisitados)", "pontuacao": 3.25},
+          {"descricao": "Quesito 2.2 – Transferência de arquivos e integração via base de dados (particularidades, riscos e boas práticas): Conceito 0 (não respondeu ou respondeu de forma totalmente equivocada) a Conceito 5 (analisou corretamente as duas técnicas e abordou de forma bem fundamentada particularidades, riscos e boas práticas de ambas)", "pontuacao": 3.25},
+          {"descricao": "Quesito 2.3 – Fluxo de integração de dados para organização com múltiplas fontes heterogêneas: Conceito 0 (não respondeu ou respondeu de forma totalmente equivocada) / Conceito 1 (propôs fluxo correto, sem justificar a técnica de ingestão nem considerar performance/confiabilidade/escalabilidade) / Conceito 2 (propôs fluxo correto e justificou a técnica, mas não considerou performance/confiabilidade/escalabilidade) / Conceito 3 (propôs fluxo correto, justificou a técnica e considerou performance, confiabilidade e escalabilidade)", "pontuacao": 3.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tce_mg_25/arquivos/57A21750DC72DDA4D36B60BAE7302E3CD96D8FBF7F9976BCB559CBF530D90989.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', Questão 2, específica do Cargo 1 (Especialidade Ciência da Computação). Enunciado confirmado no caderno de prova discursiva (raw), com valores por item somando 9,50 pontos de conteúdo + 0,50 ponto de apresentação/estrutura textual = 10,00 pontos. Texto-modelo cita ETL/ELT, transferência de arquivos, integração via base de dados, CDC, ACID e arquiteturas de streaming/Lambda/Kappa como alternativas aceitas."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre técnicas de integração e ingestão de dados (ETL, ELT, transferência de arquivos, integração via banco de dados) e 3 quesitos avaliados por conceitos, com valor em pontos explícito por quesito.", "fonte": "https://cdn.cebraspe.org.br/concursos/tce_mg_25/arquivos/57A21750DC72DDA4D36B60BAE7302E3CD96D8FBF7F9976BCB559CBF530D90989.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/tce_mg_25/arquivos/57A21750DC72DDA4D36B60BAE7302E3CD96D8FBF7F9976BCB559CBF530D90989.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

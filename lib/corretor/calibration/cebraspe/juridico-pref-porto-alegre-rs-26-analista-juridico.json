@@ -1,0 +1,49 @@
+{
+  "concurso": "Município de Porto Alegre - Concurso Público nº 866 - Analista da Procuradoria-Geral do Município - Área Jurídica (Edital nº 15/2026)",
+  "orgao": "Município de Porto Alegre - Secretaria Municipal de Administração e Patrimônio / Procuradoria-Geral do Município",
+  "cargo": "Analista da Procuradoria-Geral do Município – Área Jurídica",
+  "dataProva": "2026-07-05",
+  "areaTema": "Direito Constitucional",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Discorra sobre o pacto federativo brasileiro (estrutura da Federação, autonomia das unidades federadas, competência para disciplinar jornada de trabalho e controle administrativo/financeiro/ético-disciplinar, e competência dos Poderes Judiciário e Executivo nessa matéria), analisando se resolução do CNJ viola o pacto federativo; e discorra sobre a separação dos Poderes (funções típicas e atípicas, sistema de freios e contrapesos e controle de atos interna corporis).",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {
+            "descricao": "Quesito 1.1.1 – Pacto federativo brasileiro: Conceito 0 (não abordou) a Conceito 4 (abordou corretamente os quatro aspectos: estrutura da Federação, autonomia das unidades federadas, competência para disciplinar jornada de trabalho e controle administrativo/financeiro/ético-disciplinar, competência dos Poderes Judiciário e Executivo)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 1.1.2 – Separação dos Poderes: Conceito 0 a Conceito 4 (abordou corretamente os quatro aspectos: separação dos Poderes, funções típicas e atípicas, sistema de freios e contrapesos, controle de atos interna corporis)",
+            "pontuacao": null
+          },
+          {
+            "descricao": "Quesito 1.2 – Progressão textual: Conceito 0 (texto fragmentado, sem progressão lógica ou coesão) a Conceito 3 (texto fluido e bem articulado em todas as suas partes, com mecanismos de coesão e coerência corretos)",
+            "pontuacao": null
+          }
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/pref_porto_alegre_rs_26/arquivos/4C8E05A8FB636C88E747690022CEDDFE7B5FAEE1D87344402BFBD65B3122B3F9.pdf",
+        "observacoes": "O item da coleta continha dois PDFs (padrao_1 e padrao_2) com conteúdo idêntico (mesmo texto-modelo e mesmos quesitos avaliados), publicados sob URLs diferentes: um deles é o Edital nº 15/2026 completo (com gabaritos das provas objetivas e o padrão preliminar de resposta da prova discursiva ao final) e o outro é um documento autônomo intitulado apenas 'PADRÃO DE RESPOSTA'. Foram consolidados em uma única questão nesta ficha de calibração, com ambas as fontes registradas em fontesOficiais. Fundamenta-se na CF (pacto federativo, separação dos Poderes) e na jurisprudência do STF sobre CNJ como órgão de cúpula do Poder Judiciário. Documento não atribui valor em pontos explícito por quesito; pontuacao ficou como null. | Nota de reconstrução do enunciado: Prova Discursiva. Enunciado original (situação hipotética envolvendo resolução do CNJ questionada sob a alegação de violação ao pacto federativo) não reproduzido de forma integral no padrão de resposta consultado; reconstrução baseada no texto-modelo e nos quesitos avaliados:"
+      },
+      "gabarito": {
+        "preliminar": {
+          "disponivel": true,
+          "conteudo": "Padrão preliminar de resposta da prova discursiva, publicado no Edital nº 15/2026 (que também trouxe os gabaritos oficiais preliminares das provas objetivas de Conhecimentos Gerais e Específicos) e reproduzido de forma idêntica em documento autônomo. Texto-base completo com 3 quesitos avaliados por conceitos.",
+          "fonte": "https://cdn.cebraspe.org.br/concursos/pref_porto_alegre_rs_26/arquivos/4C8E05A8FB636C88E747690022CEDDFE7B5FAEE1D87344402BFBD65B3122B3F9.pdf"
+        },
+        "definitivo": {
+          "disponivel": false,
+          "conteudo": "",
+          "fonte": ""
+        }
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/pref_porto_alegre_rs_26/arquivos/4C8E05A8FB636C88E747690022CEDDFE7B5FAEE1D87344402BFBD65B3122B3F9.pdf",
+    "https://cdn.cebraspe.org.br/concursos/pref_porto_alegre_rs_26/arquivos/7A0A4D02B9F1116BBCC780889B68A9AB3AD36C21D775ABAC9449265EFB4A4912.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

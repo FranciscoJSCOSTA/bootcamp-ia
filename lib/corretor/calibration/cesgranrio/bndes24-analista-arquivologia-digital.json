@@ -1,0 +1,99 @@
+{
+  "concurso": "Seleção Pública BNDES - Edital nº 01/2024",
+  "orgao": "Banco Nacional de Desenvolvimento Econômico e Social (BNDES)",
+  "cargo": "Analista - Ênfase Arquivologia Digital",
+  "dataProva": "2024-10-13",
+  "areaTema": "Arquivologia / Conhecimentos Transversais (ODS, Clima e Sustentabilidade)",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Os Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU) se voltam a orientar a ação global para acabar com a pobreza, proteger o meio ambiente e o clima e garantir que as pessoas, em todos os lugares, possam desfrutar de paz e de prosperidade. [...] Considerando os cenários nos níveis global, nacional e organizacional, elabore um texto dissertativo contínuo de 20 a 25 linhas que: (i) contraste os maiores e menores investimentos da ONU, em 2024, destacando a interdependência entre os ODS; (ii) explique as mudanças nos perfis de contribuição do Brasil, Estados Unidos da América e China quanto às emissões de GEE, nas últimas décadas; (iii) proponha duas ações de organizações do setor financeiro no Brasil em uma PRSAC. Texto motivador com Gráfico 1 (Recursos Investidos pela ONU em 2024, por ODS) e Gráfico 2 (Emissões per capita dos 10 maiores emissores, 1990 a 2019). (Valor: 10,0 pontos) - Questão de Conhecimentos Transversais, comum a todas as ênfases do cargo de Analista.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "NOTA DE CONTEÚDO (60% do valor da questão = 6,0 pontos): capacidade de lidar com os conceitos, as técnicas e as atividades próprias do conteúdo abordado (ODS, interdependência entre eles, perfis de emissão de GEE do Brasil/EUA/China, PRSAC), aferindo compreensão, conhecimento, desenvolvimento e adequação desses conceitos, conexão e pertinência ao assunto, e atendimento aos 3 tópicos solicitados no comando da questão.", "pontuacao": 6.00},
+          {"descricao": "NOTA DE IDIOMA (40% do valor da questão = 4,0 pontos): proficiência na instrumentalização de conhecimentos ortográficos e gramaticais adequados à norma-padrão e textuais, observando-se coerência e coesão.", "pontuacao": 4.00}
+        ],
+        "fonte": "https://dhg1h5j42swfq.cloudfront.net/2024/07/22081526/bndes-edital-2024.pdf (item 8.1.5.2.2 do Edital nº 01/2024); enunciado da questão em https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/14/conteudos/fd2f2815-5753-451b-98af-6d713c247df5.pdf",
+        "observacoes": "HIPÓTESE DE 50% CONTEÚDO / 50% GRAMÁTICA REFUTADA PELO DOCUMENTO OFICIAL. O Edital nº 01/2024 do BNDES (item 8.1.5.2.2), que rege esta Seleção Pública, estabelece expressamente, para a questão de Conhecimentos Transversais (única comum a todas as ênfases e única com desdobramento explícito conteúdo/idioma no Edital): 60% (sessenta por cento) do valor da questão para o CONTEÚDO e 40% (quarenta por cento) para o USO DO IDIOMA — ou seja, 6,0 e 4,0 pontos em uma questão de 10,0, respectivamente, e NÃO 50/50 como hipotetizado. NÃO HÁ, em nenhum ponto do Edital, cláusula equivalente a 'se o candidato zera o conteúdo, a gramática é zerada automaticamente'; a regra realmente existente e documentada é distinta: o item 8.1.5.1.1 prevê nota ZERO na questão inteira (não apenas na parte de gramática) em três hipóteses específicas — resposta a lápis, fuga ao tema proposto, ou texto ilegível/não articulado verbalmente em língua portuguesa. Ou seja, o mecanismo de 'zeramento' encontrado é por VIOLAÇÃO DE REGRA FORMAL DA PROVA (fuga ao tema, lápis, ilegibilidade), aplicado à questão como um todo, e não uma dependência condicional entre notas de conteúdo e de gramática. As demais 4 questões da prova (Conhecimentos Específicos de Arquivologia Digital, itens 2 a 5) são avaliadas, segundo o item 8.1.5.2.1 do Edital, apenas pela 'capacidade de lidar com os conceitos, as técnicas e as atividades' da ênfase, SEM menção a peso percentual separado para idioma/gramática nessas questões específicas — ou seja, o desdobramento 60/40 conteúdo/idioma é uma regra aplicável apenas à questão comum de Conhecimentos Transversais, não a toda a prova discursiva. Não foi localizado publicamente um documento de 'padrão de resposta' com o texto-modelo item a item (esse documento, segundo o cronograma oficial, foi disponibilizado em 27/11/2024 apenas na área do candidato logado do site da Fundação Cesgranrio, não indexado publicamente); a estrutura de pontuação e a regra de composição da nota, porém, são normativas do próprio Edital, documento oficial primário do certame."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Notas preliminares da prova discursiva divulgadas em 27/11/2024, juntamente com o padrão de respostas e a imagem digital da prova discursiva (documento não indexado publicamente, acesso restrito à área do candidato).", "fonte": "https://concursos.cesgranrio.org.br/portal/avaliacoes/14"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado dos pedidos de revisão das notas da prova discursiva divulgado em 13/12/2024, com fundamentação das decisões. Resultado final da Seleção Pública divulgado em 30/01/2025.", "fonte": "https://concursos.cesgranrio.org.br/portal/avaliacoes/14"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Tenha em conta a Lei nº 8.159/1991, que dispõe sobre a política nacional de arquivos públicos e privados, o Decreto nº 10.278/2020, que estabelece a técnica e os requisitos para a digitalização de documentos públicos ou privados, a fim de que os documentos digitalizados produzam os mesmos efeitos legais dos documentos originais, a Resolução nº 48 - Conarq, de 10 de novembro de 2021. No âmbito dessa Legislação, cabe considerar os seguintes casos: I - documentos considerados permanentes nas tabelas de temporalidade da instituição que os produz; II - acervos documentais privados declarados de interesse público e social. Nesse contexto, fundamentando-se na Legislação citada, a) mencione três dos objetivos que serão alcançados ao digitalizar os documentos citados. (Valor: 5,0 pontos) b) determine se os originais, em cada caso, podem ser eliminados e justifique sua resposta. (Valor: 5,0 pontos)",
+      "padraoResposta": {
+        "disponivel": false,
+        "itens": [
+          {"descricao": "Item a) mencionar três objetivos alcançados com a digitalização dos documentos citados (com base na Lei nº 8.159/1991, Decreto nº 10.278/2020 e Resolução nº 48-Conarq/2021).", "pontuacao": 5.00},
+          {"descricao": "Item b) determinar, para cada um dos dois casos (documentos permanentes / acervos privados de interesse público e social), se os originais podem ser eliminados, com justificativa legal.", "pontuacao": 5.00}
+        ],
+        "fonte": "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/14/conteudos/fd2f2815-5753-451b-98af-6d713c247df5.pdf (Caderno de Questões - enunciado e valores oficiais)",
+        "observacoes": "Questão de Conhecimentos Específicos (Arquivologia Digital), avaliada, segundo o item 8.1.5.2.1 do Edital, apenas pela capacidade de lidar com os conceitos/técnicas da ênfase, sem desdobramento percentual conteúdo/gramática explicitado no Edital para este tipo de questão. Não foi localizado o documento de 'padrão de resposta' (texto-modelo) com o detalhamento do que seria exigido para pontuação parcial em cada item a)/b); apenas o enunciado e os valores oficiais (5,0 + 5,0) constam do Caderno de Questões, que é público."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": false, "conteudo": "", "fonte": ""}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "A ausência de certos procedimentos gera massas documentais acumuladas: documentos reunidos sem critério, tratamento ou controle. Isso acontece em relação a documentos em papel e em relação a documentos nato-digitais. a) Explique, à luz da Lei nº 8.159/1991, como evitar esse problema. (Valor: 3,0 pontos) b) Mencione dois dos procedimentos adequados em relação aos documentos em papel e descreva cada um deles. (Valor: 7,0 pontos)",
+      "padraoResposta": {
+        "disponivel": false,
+        "itens": [
+          {"descricao": "Item a) explicar, à luz da Lei nº 8.159/1991, como evitar a formação de massas documentais acumuladas.", "pontuacao": 3.00},
+          {"descricao": "Item b) mencionar e descrever dois procedimentos adequados para tratamento de documentos em papel.", "pontuacao": 7.00}
+        ],
+        "fonte": "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/14/conteudos/fd2f2815-5753-451b-98af-6d713c247df5.pdf (Caderno de Questões - enunciado e valores oficiais)",
+        "observacoes": "Mesma observação da Questão 2: questão de Conhecimentos Específicos, sem desdobramento percentual conteúdo/gramática no Edital; padrão de resposta (texto-modelo) não disponível publicamente."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": false, "conteudo": "", "fonte": ""}
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "O ISAD(G) é um conjunto de regras gerais para a descrição arquivística e faz parte de um processo que tem o objetivo de pôr em prática ações como assegurar a criação de descrições consistentes, apropriadas e autoexplicativas, tornar possível a integração de descrições de diferentes arquivos num sistema unificado de informação, facilitar a recuperação e a troca de informação sobre documentos arquivísticos e possibilitar o compartilhamento de dados de autoridade. A parte correspondente à especificidade da unidade de descrição deve ser convencionada, cabendo à entidade custodiadora decidir se utilizará, no código de referência, um código indicativo do fundo ou coleção ao qual a unidade descrita pertence e um código correspondente a cada um dos níveis de descrição que se possa promover, ou alguma outra convenção. Explicite a regra que norteia essas ações e indique os quatro procedimentos a serem adotados com o objetivo de identificar a unidade de descrição. (Valor: 10,0 pontos)",
+      "padraoResposta": {
+        "disponivel": false,
+        "itens": [
+          {"descricao": "Explicitar a regra geral que norteia as ações de descrição arquivística segundo o ISAD(G) e indicar os quatro procedimentos para identificar a unidade de descrição.", "pontuacao": 10.00}
+        ],
+        "fonte": "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/14/conteudos/fd2f2815-5753-451b-98af-6d713c247df5.pdf (Caderno de Questões - enunciado e valor oficial)",
+        "observacoes": "Questão de Conhecimentos Específicos de valor único (10,0), sem subitens a)/b). Padrão de resposta (texto-modelo) não disponível publicamente."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": false, "conteudo": "", "fonte": ""}
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "Existe um entendimento na Arquivologia de que as funções desempenhadas pelo arquivista em decorrência de seu exercício profissional são comumente enumeradas em sete. Considerando o enquadramento das atribuições dos arquivistas contemporâneos, mencione e descreva cada uma dessas sete funções. (Valor: 10,0 pontos)",
+      "padraoResposta": {
+        "disponivel": false,
+        "itens": [
+          {"descricao": "Mencionar e descrever as sete funções do arquivista contemporâneo.", "pontuacao": 10.00}
+        ],
+        "fonte": "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/14/conteudos/fd2f2815-5753-451b-98af-6d713c247df5.pdf (Caderno de Questões - enunciado e valor oficial)",
+        "observacoes": "Questão de Conhecimentos Específicos de valor único (10,0), sem subitens a)/b). Padrão de resposta (texto-modelo) não disponível publicamente."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": false, "conteudo": "", "fonte": ""}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://dhg1h5j42swfq.cloudfront.net/2024/07/22081526/bndes-edital-2024.pdf",
+    "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/14/conteudos/31681178-f97b-4d8e-91aa-da17cd5971eb.pdf",
+    "https://concursos.cesgranrio.org.br/media/gpoweb-prd-hibrido3/eventos/14/conteudos/fd2f2815-5753-451b-98af-6d713c247df5.pdf",
+    "https://concursos.cesgranrio.org.br/portal/avaliacoes/14"
+  ],
+  "coletadoEm": "2026-07-18"
+}

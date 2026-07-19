@@ -1,0 +1,38 @@
+{
+  "concurso": "Concurso Público TCE/RS 2025 - Auditor de Controle Externo (Especialidade: Tecnologia da Informação)",
+  "orgao": "Tribunal de Contas do Estado do Rio Grande do Sul (TCE/RS)",
+  "cargo": "Auditor de Controle Externo (ACE) - Especialidade: Tecnologia da Informação (Cargo 4)",
+  "dataProva": "2025-10-19",
+  "areaTema": "Controle Externo / Segurança da Informação",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Prova Discursiva P4. Órgãos de controle geralmente lidam com processos eletrônicos e bases de dados que contêm dados pessoais e informações sigilosas, cuja fidedignidade e continuidade dependem da aplicação adequada dos princípios de segurança da informação, bem como demandam o uso de controles técnicos — como criptografia em trânsito e em repouso, assinatura digital etc. — e, principalmente, devem estar em conformidade com a Lei Geral de Proteção de Dados Pessoais (LGPD). Nesse cenário, exige-se do auditor uma visão integrada entre requisitos legais e soluções tecnológicas. Considerando o texto precedente como unicamente motivador, redija um texto dissertativo acerca de segurança da informação, atendendo ao que se pede a seguir. 1 Defina as propriedades da disponibilidade, da integridade, da confidencialidade, da autenticidade e do não repúdio no contexto da segurança da informação. [valor: 10,00 pontos] 2 Correlacione a criptografia (em trânsito e em repouso), a assinatura digital e a autenticação multifator (MFA) às referidas propriedades. [valor: 9,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Disponibilidade: Conceito 0 (não abordou) / Conceito 1 (definiu de forma parcialmente correta ou incompleta) / Conceito 2 (definiu corretamente - propriedade que garante que a informação esteja acessível e utilizável sob demanda por pessoas/sistemas/órgãos autorizados)", "pontuacao": 2.00},
+          {"descricao": "Quesito 2.2 – Integridade: Conceito 0 a Conceito 2 (definiu corretamente - propriedade que assegura que a informação não foi alterada ou destruída de forma não autorizada ou acidental)", "pontuacao": 2.00},
+          {"descricao": "Quesito 2.3 – Confidencialidade: Conceito 0 a Conceito 2 (definiu corretamente - propriedade que assegura que a informação não esteja disponível nem seja revelada a pessoas/sistemas/órgãos/entidades não autorizados)", "pontuacao": 2.00},
+          {"descricao": "Quesito 2.4 – Autenticidade: Conceito 0 a Conceito 2 (definiu corretamente - propriedade que assegura que a informação foi produzida, expedida, modificada ou destruída por pessoa/equipamento/sistema/órgão/entidade identificável)", "pontuacao": 2.00},
+          {"descricao": "Quesito 2.5 – Não repúdio: Conceito 0 a Conceito 2 (definiu corretamente - propriedade segundo a qual o envio ou conteúdo da informação não pode ser negado por seu emissor ou receptor)", "pontuacao": 2.00},
+          {"descricao": "Quesito 2.6 – Correlação entre os mecanismos técnicos (criptografia em trânsito, criptografia em repouso, assinatura digital, MFA) e as propriedades da segurança da informação: Conceito 0 (não abordou) a Conceito 4 (correlacionou corretamente os quatro mecanismos às propriedades correspondentes - criptografia em trânsito à confidencialidade/integridade quando autenticada; criptografia em repouso à confidencialidade do armazenamento; assinatura digital à integridade/autenticidade/não repúdio; MFA à autenticidade do usuário)", "pontuacao": 9.00}
+        ],
+        "fonte": "https://arquivos.qconcursos.com/prova/arquivo_gabarito/139097/cespe-cebraspe-2025-tce-rs-auditor-de-controle-externo-ace-especialidade-tecnologia-da-informacao-discursiva-gabarito.pdf",
+        "observacoes": "Documento intitulado apenas 'PADRÃO DE RESPOSTA' (sem marcação explícita de preliminar/definitivo no cabeçalho, e sem marcações em vermelho indicando alterações pós-recursos). O texto-modelo é idêntico ao publicado no Edital nº 11 - TCE/RS, de 21/10/2025 (item 2.5 'PADRÃO PRELIMINAR DE RESPOSTA - PROVA DISCURSIVA (P4) - CARGO 4'), o que indica tratar-se do padrão preliminar; não foi localizada versão definitiva (pós-recursos) publicada separadamente com as mesmas marcações de revisão observadas em outros concursos Cebraspe (ex.: TCU e TCE/MS). Os 5 quesitos de definição (2.1 a 2.5) somam os 10,00 pontos do item 1 do enunciado (2,00 pontos cada, escala de conceito 0 a 2); o quesito 2.6 corresponde ao item 2 do enunciado (9,00 pontos, escala de conceito 0 a 4)."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Padrão de resposta preliminar publicado no Edital nº 11 - TCE/RS, de 21/10/2025, com texto-modelo idêntico ao documento completo com quesitos (reproduzido no campo padraoResposta).", "fonte": "https://cdn.cebraspe.org.br/concursos/tce_rs_25/arquivos/7CA9B4B74848A967EC86EC5C0AC981FBB55F3230297C5540BDBC01D19C957B9D.html"},
+        "definitivo": {"disponivel": false, "conteudo": "Não localizada versão do padrão de resposta explicitamente rotulada como 'definitivo' (pós-recursos) para este cargo/especialidade; o resultado final da prova discursiva do concurso foi divulgado em 23/01/2026, mas o documento com o padrão de resposta pós-recursos não foi encontrado separadamente durante esta pesquisa.", "fonte": ""}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://www.cebraspe.org.br/concursos/tce_rs_25",
+    "https://arquivos.qconcursos.com/prova/arquivo_prova/139097/cespe-cebraspe-2025-tce-rs-auditor-de-controle-externo-ace-especialidade-tecnologia-da-informacao-discursiva-prova.pdf",
+    "https://arquivos.qconcursos.com/prova/arquivo_gabarito/139097/cespe-cebraspe-2025-tce-rs-auditor-de-controle-externo-ace-especialidade-tecnologia-da-informacao-discursiva-gabarito.pdf",
+    "https://cdn.cebraspe.org.br/concursos/tce_rs_25/arquivos/7CA9B4B74848A967EC86EC5C0AC981FBB55F3230297C5540BDBC01D19C957B9D.html",
+    "https://cdn.cebraspe.org.br/concursos/tce_rs_25/arquivos/Ed_1_TCE_RS_24_abertura.html"
+  ],
+  "coletadoEm": "2026-07-11"
+}

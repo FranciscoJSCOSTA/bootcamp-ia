@@ -1,0 +1,30 @@
+{
+  "concurso": "Concurso Público FUB 2025 (Fundação Universidade de Brasília)",
+  "orgao": "Ministério da Educação - Fundação Universidade de Brasília (FUB)",
+  "cargo": "Conhecimentos Básicos para os Cargos de 1 a 14 (inclui Administrador)",
+  "dataProva": "2025-06-29",
+  "areaTema": "Redação/Conhecimentos Gerais - Saúde Mental no Trabalho",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Enunciado original da questão (comando/tema exato e valores em pontos por quesito) não pôde ser confirmado: o PDF fornecido como 'raw' para este item era, na verdade, um edital de divulgação de locais de prova (Edital n.º 2 - FUB, de 12/6/2025), não a prova discursiva em si. Com base no texto-modelo do padrão de resposta, o tema versava sobre o impacto do ambiente de trabalho contemporâneo na saúde mental dos trabalhadores, pedindo-se: 1) relação entre o contexto contemporâneo de trabalho (jornadas excessivas, pressão por produtividade, mudanças na hierarquia) e a saúde mental dos trabalhadores; 2) cuidados que podem ser promovidos por colaboradores e por gestores para a promoção da saúde mental no ambiente de trabalho.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Relação entre o contexto contemporâneo do trabalho e a saúde mental dos trabalhadores: Conceito 0 (não abordou) a Conceito 3 (estabeleceu a relação de forma adequada e satisfatória)", "pontuacao": null},
+          {"descricao": "Quesito 2.2 – Cuidados que podem ser promovidos por colaboradores e gestores para a promoção da saúde mental no ambiente de trabalho: Conceito 0 (não abordou) a Conceito 3 (apresentou de forma satisfatória pelo menos dois cuidados que podem ser promovidos por colaboradores e gestores)", "pontuacao": null}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/fub_25/arquivos/PADRÃO DEFINITIVO DE RESPOSTA _ PROVA DISCURSIVA _ CARGOS DE 1 A 14.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', comum aos cargos de 1 a 14 (inclui Administrador). Não foi possível confirmar os valores em pontos (valor) de cada quesito nem o enunciado/comando exato da questão, pois o arquivo fornecido como prova bruta (raw) para este item correspondia a um edital de locais de prova, não à prova discursiva. Por analogia com outras provas do mesmo concurso (cargos 15,18,19), o total de conteúdo desta prova provavelmente é de até 19,00 pontos + 1,00 ponto de apresentação/estrutura textual = 20,00 pontos, mas essa distribuição não foi confirmada para os quesitos individuais."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo e 2 quesitos avaliados por conceitos, comum aos cargos 1 a 14.", "fonte": "https://cdn.cebraspe.org.br/concursos/fub_25/arquivos/PADRÃO DEFINITIVO DE RESPOSTA _ PROVA DISCURSIVA _ CARGOS DE 1 A 14.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/fub_25/arquivos/PADRÃO DEFINITIVO DE RESPOSTA _ PROVA DISCURSIVA _ CARGOS DE 1 A 14.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

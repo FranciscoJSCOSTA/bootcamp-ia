@@ -1,0 +1,30 @@
+{
+  "concurso": "Concurso Público FUB 2025 (Fundação Universidade de Brasília)",
+  "orgao": "Ministério da Educação - Fundação Universidade de Brasília (FUB)",
+  "cargo": "Assistente em Administração (cargos 15, 18 e 19)",
+  "dataProva": "2025-06-29",
+  "areaTema": "Redação/Conhecimentos Gerais - Função Social da Universidade Pública",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "De acordo com a Organização para a Cooperação e Desenvolvimento Econômico (OCDE), pessoas com educação superior ganham, em média, 56% a mais que aquelas com somente ensino médio, o que melhora o poder de compra das famílias, aumenta a arrecadação tributária e inicia um ciclo de crescimento econômico. [...] (Samuel Barros, com adaptações). Recentemente, um estudo feito pelo Instituto de Tecnologia de Massachusetts (MIT) constatou que as empresas criadas por seus ex-alunos ou ex-docentes constituem, sozinhas, a 24.ª economia mundial [...] (com adaptações). As universidades públicas têm uma missão que compreende formar pessoas capacitadas para alavancar um país inteiro. [...] (Caroline Aragaki, com adaptações). Considerando os textos apresentados como unicamente motivadores, redija um texto dissertativo-argumentativo acerca do tema a seguir. A IMPORTÂNCIA DA UNIVERSIDADE PÚBLICA PARA O DESENVOLVIMENTO DO PAÍS. Ao elaborar seu texto, aborde os seguintes aspectos: 1 função social da universidade pública no Brasil; [valor: 7,00 pontos] 2 principais desafios enfrentados pelas universidades públicas brasileiras no cumprimento de seu papel social e caminhos para superá-los. [valor: 12,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Função social da universidade pública no Brasil (democratização do acesso, produção de conhecimento, redução de desigualdades): Conceito 0 (não abordou) a Conceito 3 (abordou de forma satisfatória, com argumentação coerente e consistente)", "pontuacao": 7.00},
+          {"descricao": "Quesito 2.2 – Principais desafios enfrentados pelas universidades públicas e caminhos para superá-los (ex.: financiamento insuficiente, burocracia, precarização do trabalho, inclusão de populações vulneráveis): Conceito 0 (não abordou) a Conceito 3 (indicou pelo menos dois principais desafios e os caminhos para superá-los, de forma satisfatória)", "pontuacao": 12.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/fub_25/arquivos/PADRÃO DEFINITIVO DE RESPOSTA _ PROVA DISCURSIVA _ CARGOS 15, 18 e 19.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO', comum aos cargos 15, 18 e 19 (inclui Assistente em Administração). Conteúdo soma 19,00 pontos + 1,00 ponto de apresentação/estrutura textual = 20,00 pontos. Trata-se de redação dissertativo-argumentativa de conhecimentos gerais, sem conteúdo técnico específico do cargo."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 2 quesitos avaliados por conceitos, comum aos cargos 15, 18 e 19.", "fonte": "https://cdn.cebraspe.org.br/concursos/fub_25/arquivos/PADRÃO DEFINITIVO DE RESPOSTA _ PROVA DISCURSIVA _ CARGOS 15, 18 e 19.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/fub_25/arquivos/PADRÃO DEFINITIVO DE RESPOSTA _ PROVA DISCURSIVA _ CARGOS 15, 18 e 19.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

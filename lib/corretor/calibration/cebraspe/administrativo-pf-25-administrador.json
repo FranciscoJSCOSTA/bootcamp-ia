@@ -1,0 +1,32 @@
+{
+  "concurso": "Concurso Público para Provimento de Cargos de Nível Superior na Carreira de Perito Criminal e no Plano de Cargos e Salários da Polícia Federal - PF 2025",
+  "orgao": "Ministério da Justiça e Segurança Pública (MJSP) - Polícia Federal",
+  "cargo": "Cargo 1: Administrador",
+  "dataProva": "2025-06-29",
+  "areaTema": "Direito Administrativo - Licitações e Contratos (Lei nº 14.133/2021)",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Considerando que a Lei n.º 14.133/2021 (Lei de licitações e contratos administrativos) estabelece normas gerais de licitação e contratação para as administrações públicas diretas, autárquicas e fundacionais da União, dos estados, do Distrito Federal e dos municípios, elabore um texto dissertativo acerca de licitações. Em seu texto, atenda ao que se pede a seguir. 1 Discorra sobre os objetivos do processo licitatório. [valor: 6,00 pontos] 2 Discorra sobre três modalidades de licitação previstas na referida lei. [valor: 3,00 pontos] 3 Discorra sobre a contratação direta, apresentando os casos previstos na lei. [valor: 7,50 pontos] 4 Cite três infrações previstas na referida Lei que podem resultar na responsabilização administrativa do licitante ou do contratado. [valor: 2,50 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 – Objetivos do processo licitatório (art. 11 da Lei 14.133/2021): Conceito 0 (não discorreu ou o fez de maneira equivocada) / Conceito 1 (discorreu de maneira superficial e incompleta) / Conceito 2 (discorreu de maneira satisfatória)", "pontuacao": 6.00},
+          {"descricao": "Quesito 2.2 – Três modalidades de licitação (pregão, concorrência, concurso, leilão, diálogo competitivo): Conceito 0 (não discorreu) / Conceito 1 (descreveu corretamente apenas uma modalidade) / Conceito 2 (descreveu corretamente duas modalidades) / Conceito 3 (descreveu corretamente três modalidades)", "pontuacao": 3.00},
+          {"descricao": "Quesito 2.3 – Contratação direta (inexigibilidade e dispensa de licitação, arts. 72 a 75): Conceito 0 (não discorreu ou deixou de descrever os casos previstos em lei, ou o fez de maneira totalmente incorreta) / Conceito 1 (discorreu sobre contratação direta, mas não abordou os casos previstos em lei) / Conceito 2 (abordou corretamente apenas uma das duas possibilidades, ou abordou as duas mas incorretamente em relação a uma) / Conceito 3 (abordou de maneira correta as duas possibilidades de contratação direta)", "pontuacao": 7.50},
+          {"descricao": "Quesito 2.4 – Três infrações que podem resultar em responsabilização administrativa (art. 155 da Lei 14.133/2021): Conceito 0 (não citou nenhuma infração) / Conceito 1 (citou apenas uma infração) / Conceito 2 (citou apenas duas infrações) / Conceito 3 (citou três ou mais infrações)", "pontuacao": 2.50}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/pf_25_adm/arquivos/PF_25_ADM_PADRÃO_DE_RESPOSTA_DEFINITIVO_CARGO_1.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Trechos em vermelho no PDF original (relativos ao rol de infrações administrativas do Quesito 2.4) indicam ajustes incluídos após recursos. Ao domínio do conteúdo são atribuídos até 20,00 pontos (6,00+3,00+7,50+2,50=19,00), dos quais até 1,00 ponto é atribuído ao quesito apresentação/estrutura textual, conforme instruções do caderno de prova."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo sobre a Lei nº 14.133/2021 e 4 quesitos avaliados por conceitos, com valor em pontos explícito por quesito (enunciado completo confirmado no caderno de prova discursiva).", "fonte": "https://cdn.cebraspe.org.br/concursos/pf_25_adm/arquivos/PF_25_ADM_PADRÃO_DE_RESPOSTA_DEFINITIVO_CARGO_1.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/pf_25_adm/arquivos/PF_25_ADM_PADRÃO_DE_RESPOSTA_DEFINITIVO_CARGO_1.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}

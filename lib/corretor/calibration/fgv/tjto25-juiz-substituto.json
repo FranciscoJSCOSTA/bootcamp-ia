@@ -1,0 +1,124 @@
+{
+  "concurso": "Concurso Público para o Tribunal de Justiça do Estado do Tocantins",
+  "orgao": "Tribunal de Justiça do Estado do Tocantins (TJTO)",
+  "cargo": "Juiz Substituto",
+  "dataProva": "2025-09-03",
+  "areaTema": "Direito Penal / Direito Administrativo / Direito Constitucional / Direito Civil / Direito do Consumidor (prova discursiva multitemática)",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Questão 1 - Direito Penal. Ao tomar conhecimento de que Bruno, seu marido, com quem é casada pelo regime da separação de bens, teria presenteado Conceição, sua amante, com um automóvel zero km, Albertina, inconformada com o fato e tomada de ciúme e ódio, comparece, às 23h30, ao local onde o veículo está estacionado, na via pública, nas proximidades da residência de Conceição. Albertina, então, usando um spray de tinta, escreve, na lataria do veículo, as palavras \"Conceição vadia\". Na manhã seguinte, por volta das 9h, Conceição vai até o automóvel, percebendo grande aglomeração de pessoas junto ao veículo, algumas tirando fotografias, e, quando se aproxima mais, lê a mensagem escrita na véspera. De se notar que, ao contrário do que havia sido informado a Albertina, o veículo não pertence a Conceição, mas a Bruno, em nome de quem está registrado junto ao DETRAN, tendo ele apenas cedido o uso do automóvel à amante. Diante do caso narrado, responda, justificadamente, às seguintes perguntas: a) Qual a expressão do fato, à luz do Direito Penal, com todas as suas circunstâncias, notadamente aquelas com relevância na aplicação da pena? b) O fato de Albertina e Bruno serem casados acarreta alguma consequência jurídico-penal? Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Responder que Albertina cometeu os crimes de injúria (Código Penal, Art. 140) e dano (Código Penal, Art. 163), pois ofendeu a honra subjetiva (dignidade) de Conceição e deteriorou coisa alheia, ao escrever, com tinta spray, as palavras 'Conceição vadia' na lataria do automóvel. Escala graduada literal do espelho: 0,00 – 0,15 – 0,30 – 0,45 – 0,60", "pontuacao": 0.60},
+          {"descricao": "Esclarecer que os delitos foram cometidos em concurso formal imperfeito (Código Penal, Art. 70, caput, 2ª parte), já que a ação foi dolosa e os crimes concorrentes resultaram de desígnios autônomos, de modo que as penas dos delitos devem ser aplicadas cumulativamente. Escala graduada literal: 0,00 – 0,20 – 0,40", "pontuacao": 0.40},
+          {"descricao": "Informar, em relação ao crime de injúria, ser cabível a incidência de causa de aumento de pena de um terço, prevista no Art. 141, III, do Código Penal, visto que o delito foi praticado por meio que facilitou a divulgação da ofensa. Escala graduada literal: 0,00 – 0,15 – 0,30", "pontuacao": 0.30},
+          {"descricao": "Reconhecer a forma qualificada do crime de dano, de que trata o Art. 163, parágrafo único, IV, pois o delito foi cometido por motivo egoístico, buscando Albertina satisfazer seus sentimentos de ciúme e ódio. Escala graduada literal: 0,00 – 0,15 – 0,30", "pontuacao": 0.30},
+          {"descricao": "Explicar que, apesar de Albertina e Bruno serem casados, isto não acarreta qualquer consequência jurídico-penal, pois o crime de dano, embora tenha recaído sobre bem de propriedade de Bruno, considera-se praticado contra Conceição, nos termos do Art. 20, §3º, do Código Penal (erro sobre a pessoa), descabendo a agravante do Art. 61, II, 'e', do CP e a escusa absolutória do Art. 181, I, do CP. Escala graduada literal: 0,00 – 0,20 – 0,30 – 0,40", "pontuacao": 0.40}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotribunal-de-justica-do-estado-do-tocantins.pdf",
+        "observacoes": "Documento oficial da FGV intitulado 'Espelho de Correção' (não 'padrão de resposta'). Nota da Questão 01 = 2,00 (soma dos 5 itens). NÃO há item autônomo de 'utilização correta do idioma oficial e capacidade de exposição' nesta prova (diferente de outras provas FGV, ex. TJES Notarial), e NÃO há mecanismo de dedução por erro gramatical contado — a pontuação é integralmente por conteúdo, em escalas graduadas positivas por subitem."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva publicado em 24/10/2025, com o espelho de correção associado (mesmo PDF do espelho definitivo). Consulta individual de notas disponível via sistema FGV.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-preliminar-prova-discursiva-2025-10-22.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva publicado em 09/12/2025, após período recursal.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-definitivo-prova-discursiva.pdf"}
+      }
+    },
+    {
+      "numero": 2,
+      "enunciado": "Questão 2 - Direito Administrativo. Em matéria de improbidade administrativa, responda, de forma objetivamente fundamentada, aos itens a seguir. a) De acordo com o Supremo Tribunal Federal, é constitucional o dispositivo da Lei de Improbidade Administrativa que prevê a obrigação de todo agente público apresentar sua declaração de imposto de renda e proventos de qualquer natureza, para sua posse e exercício, com a devida atualização anual? b) Consoante a jurisprudência atual do Superior Tribunal de Justiça, é possível a utilização conjunta da Lei nº 8.429/1992 (Lei de Improbidade Administrativa) e da Lei nº 12.846/2013 (Lei Anticorrupção) para fundamentar uma mesma ação civil? Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "a) Sim. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "Justificativa: tal obrigação busca assegurar mecanismos de fiscalização do patrimônio de agentes públicos, de modo a resguardar a moralidade e o erário. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30", "pontuacao": 0.30},
+          {"descricao": "Complemento: normas dessa natureza já foram placitadas pelo STF, inexistindo ofensa ao postulado da proporcionalidade (STF, Plenário, ADI 4.295/DF). Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30", "pontuacao": 0.30},
+          {"descricao": "b) Sim. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "Justificativa: a utilização conjunta da Lei de Improbidade e da Lei Anticorrupção para fundamentar uma mesma ação civil não configura, por si só, violação ao non bis in idem; o que não se admite é a imposição de sanções idênticas com base no mesmo fundamento e pelos mesmos fatos. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30", "pontuacao": 0.30},
+          {"descricao": "Complemento: a preocupação com a não sobreposição de penalidades deve ser examinada na sentença; o Art. 30, I, da Lei 12.846/2013 reforça a compatibilidade entre os diplomas (STJ, 1ª Turma, REsp 2.107.398-RJ). Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30", "pontuacao": 0.30}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotribunal-de-justica-do-estado-do-tocantins.pdf",
+        "observacoes": "Nota da Questão 02 = 2,00 (soma dos 6 itens). Sem item de língua portuguesa autônomo e sem dedução gramatical contada."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva publicado em 24/10/2025, com o espelho de correção associado.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-preliminar-prova-discursiva-2025-10-22.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva publicado em 09/12/2025.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-definitivo-prova-discursiva.pdf"}
+      }
+    },
+    {
+      "numero": 3,
+      "enunciado": "Questão 3 - Direito Constitucional. João ingressou com ação judicial em face do Estado Alfa, com o objetivo de que fosse implementado um direito fundamental de segunda dimensão, veiculado em norma constitucional de eficácia limitada e princípio programático, disciplinado pela Lei Estadual nº X/2024. Em sua defesa, o Estado Alfa argumentou que a Lei Estadual nº X era inconstitucional, por ter determinado a oferta do direito a partir de projeto de lei de iniciativa parlamentar, enquanto a matéria seria privativa do chefe do Poder Executivo. Acresceu, ainda, que, mesmo que esse diploma normativo não fosse inconstitucional, a implementação do direito prestacional dependeria da edição de regulamento pelo chefe do Poder Executivo, o que não pode ser assumido pelo Poder Judiciário. Em réplica, João refutou os argumentos do Estado Alfa, sustentando a constitucionalidade do processo legislativo que culminou com a edição da Lei Estadual nº X. Em relação ao regulamento, afirmou que o chefe do Poder Executivo incorrera em uma omissão ilícita, pois deixara transcorrer in albis o prazo de 60 dias fixado pelo Art. 5º da lei estadual para a sua edição, não podendo se beneficiar da própria torpeza. Também sustentou que, mesmo que seja reconhecida a inconstitucionalidade da Lei Estadual nº X, a norma constitucional que buscou disciplinar produziria efeitos em relação à legislação preexistente, devendo ser delineada na perspectiva da metódica estruturante de Friedrich Müller. Analise, como magistrado, os argumentos apresentados por João e pelo Estado Alfa, partindo da premissa de que as informações de ordem fática são verdadeiras. Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "A ação ajuizada por João tem por base um direito social previsto em norma constitucional, que carece de integração pela legislação infraconstitucional para que possa produzir todos os seus efeitos. Escala graduada literal: 0,00 – 0,10 – 0,20", "pontuacao": 0.20},
+          {"descricao": "Quanto aos argumentos do Estado Alfa: a lei estadual não é de iniciativa privativa do Chefe do Poder Executivo, pois não avançou em matérias que lhe são próprias (Art. 61, §1º, CRFB/88, por simetria - Art. 25, caput). Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "A edição de regulamento é ato afeto ao Poder Executivo (Art. 84, IV, CRFB/88, por simetria), mas isso não pode obstar a fruição do direito caso identificada mora irrazoável, sendo possível o exame pelo Poder Judiciário (Art. 5º, XXXV, CRFB/88). Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30", "pontuacao": 0.30},
+          {"descricao": "Quanto à réplica de João: a fixação de prazo para a edição de regulamento (Art. 5º da Lei estadual nº X) afronta a separação dos poderes (CRFB/1988, Art. 2º), sendo inconstitucional. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30", "pontuacao": 0.30},
+          {"descricao": "Apesar de a norma constitucional necessitar de legislação infraconstitucional para integração de sua eficácia, apresenta dimensão objetiva, influindo sobre a vigência e a interpretação da legislação preexistente. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "A metódica estruturante de Friedrich Müller exige que o intérprete delineie o conteúdo da norma constitucional a partir da interação entre o programa da norma (texto normativo) e o âmbito da norma (realidade), permitindo sua constante releitura. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30 – 0,40", "pontuacao": 0.40}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotribunal-de-justica-do-estado-do-tocantins.pdf",
+        "observacoes": "Nota da Questão 03 = 2,00 (soma dos 6 itens). Sem item de língua portuguesa autônomo e sem dedução gramatical contada."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva publicado em 24/10/2025, com o espelho de correção associado.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-preliminar-prova-discursiva-2025-10-22.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva publicado em 09/12/2025.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-definitivo-prova-discursiva.pdf"}
+      }
+    },
+    {
+      "numero": 4,
+      "enunciado": "Questão 4 - Direito Civil. Nicanor, 83 anos de idade, recebeu uma proposta de Juca para a venda de uma casa de sua propriedade no bairro Graciosa por R$ 1.500.000,00. Ele estava animado para celebrar o negócio, pois o preço oferecido era um pouco superior ao valor de mercado que vinha sendo atribuído ao imóvel. Entretanto, Levi, seu cuidador, enxergou ali uma oportunidade para que ele e sua prima Valentina obtivessem grande lucro às custas do idoso. Levi disse a Nicanor que ele deveria desistir da proposta recebida e vender o referido imóvel para Valentina por R$ 1.000.000,00, preço inferior ao valor de mercado do imóvel. Se não fizesse isso, Levi disse a Nicanor que injetaria uma substância nos medicamentos do idoso administrados por via intravenosa, causando a sua morte. Nicanor, que mora sozinho, passou a temer por sua vida. Atormentado pelas ameaças de Levi, passou a noite em claro e agoniado, o que contribuiu para a piora de sua saúde. No dia seguinte, Valentina esteve no domicílio de Nicanor para negociar a venda e presenciou o primo ameaçá-lo. Com medo, Nicanor efetivamente desistiu de aceitar a proposta e vendeu a casa para Valentina por R$ 1.000.000,00. O potencial comprador, Juca, quando informado, mudou-se para outra cidade e desistiu de comprar um imóvel. Após a venda, na primeira folga de Levi, Nicanor, livre do risco, enfim contou o que ocorreu para sua irmã, Iolanda, que dispensou Levi e contratou um novo cuidador, além de um segurança para a casa do irmão. Responda, de forma justificada e fundamentada: a) É possível a invalidação do negócio jurídico celebrado entre Nicanor e Valentina? b) De quem pode ser exigida a indenização pelos danos sofridos e que parcelas devem compô-la? c) Como devem ser fixados os juros e a atualização monetária incidentes sobre a indenização? Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "É possível a anulação, conforme Art. 171, II, do Código Civil, em virtude de coação. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30", "pontuacao": 0.30},
+          {"descricao": "Houve fundado temor de dano iminente e considerável, tendo em vista a condição de idade e saúde de Nicanor, conforme Arts. 151 e 152 do Código Civil. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30 – 0,40", "pontuacao": 0.40},
+          {"descricao": "A indenização pode ser demandada de qualquer dos dois, em razão de Valentina estar ciente da ameaça, por serem solidários, conforme Art. 154 do Código Civil. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30", "pontuacao": 0.30},
+          {"descricao": "A indenização deve abranger lucros cessantes correspondentes à diferença para o preço mais favorável que teria obtido Juca na venda do imóvel, conforme Art. 402 do Código Civil. Escala graduada literal: 0,00 – 0,10 – 0,20", "pontuacao": 0.20},
+          {"descricao": "A indenização deve abranger também danos morais decorrentes da violação à integridade psicofísica de Nicanor, conforme Art. 186 do Código Civil [OU] Art. 5º, V [OU] X, da Constituição Federal. Escala graduada literal: 0,00 – 0,10 – 0,20", "pontuacao": 0.20},
+          {"descricao": "A atualização monetária deve ocorrer pela aplicação do Índice Nacional de Preços ao Consumidor Amplo – IPCA, conforme Art. 389, parágrafo único, do Código Civil. Escala graduada literal: 0,00 – 0,10 – 0,20", "pontuacao": 0.20},
+          {"descricao": "Os juros devem incidir pela taxa legal: taxa referencial do Sistema Especial de Liquidação e de Custódia – Selic, deduzido o IPCA, no limite mínimo de zero, conforme o Art. 406 do Código Civil. Escala graduada literal: 0,00 – 0,10 – 0,20 – 0,30 – 0,40", "pontuacao": 0.40}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotribunal-de-justica-do-estado-do-tocantins.pdf",
+        "observacoes": "Nota da Questão 04 = 2,00 (soma dos 7 itens). Sem item de língua portuguesa autônomo e sem dedução gramatical contada."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva publicado em 24/10/2025, com o espelho de correção associado.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-preliminar-prova-discursiva-2025-10-22.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva publicado em 09/12/2025.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-definitivo-prova-discursiva.pdf"}
+      }
+    },
+    {
+      "numero": 5,
+      "enunciado": "Questão 5 - Direito do Consumidor. Wander adquiriu cinco quilos de tomate no Atacarejo Praia Norte, título de estabelecimento adotado pela sociedade empresária Guaraí, Couto & Magalhães Ltda. Em casa, ao fatiar os tomates, Wander verificou que a maior parte deles estava estragada e imprópria para o consumo. Os tomates haviam sido vendidos a granel, sem embalagem de acondicionamento, de modo que não era possível identificar o produtor. Ao reclamar com o gerente do atacarejo, no dia seguinte ao da aquisição do produto, Wander foi informado por ele de que os tomates haviam sido apenas comercializados pela sociedade empresária e o gerente não tomou qualquer providência. Considerados os fatos narrados, pergunta-se: a) O enunciado narra a ocorrência de fato ou de vício do produto? b) Quem poderá ser responsabilizado perante Wander? c) Que alternativas o Código de Defesa do Consumidor confere a Wander? As respostas devem ser justificadas e fundamentadas com amparo legal. A mera indicação de artigo ou sua transcrição não conferem pontuação. Valor: 2 pontos. Máximo de 30 linhas.",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Informar que a responsabilidade do fornecedor perante o consumidor decorre do vício do produto. Escala graduada literal: 0,00 – 0,10", "pontuacao": 0.10},
+          {"descricao": "Justificativa: o CDC (Lei nº 8.078/1990) considera vício do produto aquele decorrente de produtos impróprios ao consumo, como os deteriorados, pois contêm vícios de qualidade. Escala graduada literal: 0,00 – 0,25", "pontuacao": 0.25},
+          {"descricao": "Fundamentar no Art. 18, caput, e §6º, II, do CDC. Obs. do espelho: a pontuação somente será conferida pela menção concomitante ao caput e ao §6º. Escala graduada literal: 0,00 – 0,25", "pontuacao": 0.25},
+          {"descricao": "Informar que a responsabilidade é da sociedade empresária Guaraí, Couto & Magalhães Ltda., pois é o fornecedor imediato dos tomates (produto in natura), inclusive porque o produtor não pode ser identificado claramente. Escala graduada literal: 0,00 – 0,50", "pontuacao": 0.50},
+          {"descricao": "Fundamentar no Art. 18, §5º, do CDC. Escala graduada literal: 0,00 – 0,20", "pontuacao": 0.20},
+          {"descricao": "O CDC oferece a Wander as opções: I – substituição dos tomates estragados por outros em perfeitas condições; II – restituição imediata da quantia paga, monetariamente atualizada; III – abatimento proporcional do preço. Obs. do espelho: a pontuação somente será atribuída se todas as opções legais forem apresentadas. Escala graduada literal: 0,00 – 0,50", "pontuacao": 0.50},
+          {"descricao": "Fundamentar no Art. 18, §1º, do CDC. Escala graduada literal: 0,00 – 0,20", "pontuacao": 0.20}
+        ],
+        "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotribunal-de-justica-do-estado-do-tocantins.pdf",
+        "observacoes": "Nota da Questão 05 = 2,00 (soma dos 7 itens). O enunciado explicitamente adverte que 'a mera indicação de artigo ou sua transcrição não conferem pontuação' e o espelho reforça isso em dois itens ('Obs.') que exigem cumulatividade de elementos para a pontuação ser concedida (tudo ou nada dentro do item, apesar de o item em si ser uma parcela de uma escala maior). Sem item de língua portuguesa autônomo e sem dedução gramatical contada."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": true, "conteudo": "Resultado preliminar da prova discursiva publicado em 24/10/2025, com o espelho de correção associado.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-preliminar-prova-discursiva-2025-10-22.pdf"},
+        "definitivo": {"disponivel": true, "conteudo": "Resultado definitivo da prova discursiva publicado em 09/12/2025.", "fonte": "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-definitivo-prova-discursiva.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://conhecimento.fgv.br/concursos/tjto25",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/tjto-juiz-edital-retificado-04.02.2025-001.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/tjto-disc.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/espelhotribunal-de-justica-do-estado-do-tocantins.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-preliminar-prova-discursiva-2025-10-22.pdf",
+    "https://conhecimento.fgv.br/sites/default/files/concursos/250_tjto-juiz-resultado-definitivo-prova-discursiva.pdf"
+  ],
+  "coletadoEm": "2026-07-17"
+}

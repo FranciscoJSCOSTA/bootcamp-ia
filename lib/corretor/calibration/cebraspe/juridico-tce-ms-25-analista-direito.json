@@ -1,0 +1,31 @@
+{
+  "concurso": "Concurso Público do Tribunal de Contas do Estado do Mato Grosso do Sul (TCE/MS) 2025",
+  "orgao": "Tribunal de Contas do Estado do Mato Grosso do Sul (TCE/MS)",
+  "cargo": "Cargo 1: Analista de Controle Externo - Área: Direito",
+  "dataProva": "2025-10-25",
+  "areaTema": "Direito Administrativo - Responsabilidade Civil do Estado",
+  "questoes": [
+    {
+      "numero": 1,
+      "enunciado": "Durante a realização de vistoria a uma ponte do município X, a defesa civil municipal identificou a presença de fissuras visíveis e risco de colapso, motivo por que emitiu um relatório técnico recomendando a imediata manutenção da ponte. Apesar da recomendação formal, o município X não adotou as providências no prazo adequado. Meses depois, durante o usual período de chuvas da região, o qual não foi mais chuvoso que o normal, a ponte desabou, causando prejuízos materiais e pessoais para os moradores que utilizavam a via diariamente. Um dos cidadãos afetados pelo desabamento ajuizou ação de indenização contra o município, alegando omissão específica na manutenção da obra pública. A defesa do ente municipal X, em contrapartida, argumentou que o evento decorreu de caso fortuito e que não houve responsabilidade do poder público. A partir da situação hipotética precedente, redija um texto dissertativo a respeito da responsabilidade civil do Estado no caso em apreço. Em seu texto, atenda ao que se pede a seguir, à luz da Constituição Federal de 1988 (CF), da doutrina majoritária do direito administrativo e do entendimento do STF. 1 Discorra sobre os requisitos da responsabilidade civil do Estado, apresentando a distinção entre ato comissivo e ato omissivo, e relacione esses conceitos ao caso hipotético apresentado. [valor: 17,50 pontos] 2 Aborde a diferença entre a omissão genérica e a omissão específica, identificando o tipo de omissão aplicável ao caso em apreço. [valor: 15,00 pontos] 3 Indique as excludentes da responsabilidade civil do Estado e discorra acerca da possibilidade de ação regressiva na situação apresentada. [valor: 15,00 pontos]",
+      "padraoResposta": {
+        "disponivel": true,
+        "itens": [
+          {"descricao": "Quesito 2.1 - Requisitos da responsabilidade civil e distinção entre ato comissivo e ato omissivo: Conceito 0 (não abordou ou fez de forma totalmente equivocada) / Conceito 1 (abordou corretamente apenas um dos aspectos: requisitos da responsabilidade civil, distinção entre ato comissivo e omissivo, ou aplicação ao caso) / Conceito 2 (abordou corretamente dois dos aspectos) / Conceito 3 (abordou corretamente os três aspectos)", "pontuacao": 17.50},
+          {"descricao": "Quesito 2.2 - Omissão genérica versus omissão específica: Conceito 0 (não abordou) / Conceito 1 (abordou corretamente apenas um dos aspectos: definição de omissão genérica, definição de omissão específica, ou aplicação ao caso) / Conceito 2 (abordou corretamente dois dos aspectos) / Conceito 3 (abordou corretamente os três aspectos)", "pontuacao": 15.00},
+          {"descricao": "Quesito 2.3 - Excludentes da responsabilidade civil e direito de regresso: Conceito 0 (não abordou) / Conceito 1 (abordou corretamente apenas um dos aspectos: excludentes da responsabilidade civil, ou possibilidade de ação regressiva na situação apresentada) / Conceito 2 (abordou corretamente os dois aspectos)", "pontuacao": 15.00}
+        ],
+        "fonte": "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf",
+        "observacoes": "Documento intitulado 'PADRÃO DE RESPOSTA DEFINITIVO'. Dos 50,00 pontos totais da questão, até 2,50 pontos referem-se a apresentação/estrutura textual (não incluídos nos itens de conteúdo acima, cuja soma é 47,50). Enunciado confirmado a partir do caderno de prova discursiva bruta (raw_0.pdf), que reproduz o caso hipotético e os três comandos com valores em pontos."
+      },
+      "gabarito": {
+        "preliminar": {"disponivel": false, "conteudo": "", "fonte": ""},
+        "definitivo": {"disponivel": true, "conteudo": "Padrão de resposta definitivo com texto-modelo completo e 3 quesitos avaliados por conceitos (0 a 3, 0 a 3 e 0 a 2).", "fonte": "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf"}
+      }
+    }
+  ],
+  "fontesOficiais": [
+    "https://cdn.cebraspe.org.br/concursos/tce_ms_25/arquivos/9F5432164DA4FA879CD07A0E43150F4366F30F0D3A58ADAEB8832C9983C650E0.pdf"
+  ],
+  "coletadoEm": "2026-07-12"
+}
