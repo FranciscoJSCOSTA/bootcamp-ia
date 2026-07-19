@@ -1,0 +1,3691 @@
+{
+  "geradoEm": "2026-07-18T20:00:46.758Z",
+  "qualificados": [
+    {
+      "nome": "CAESB 24",
+      "url": "CAESB_24",
+      "fase": "Em Andamento",
+      "ano": 2024,
+      "vagas": "82",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "DEPEN 20",
+      "url": "DEPEN_20",
+      "fase": "Em Andamento",
+      "ano": 2020,
+      "vagas": "309",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "FNDE 23 ESPECIALISTA",
+      "url": "FNDE_23_ESPECIALISTA",
+      "fase": "Em Andamento",
+      "ano": 2023,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PC ES 22 DELEGADO",
+      "url": "PC_ES_22_DELEGADO",
+      "fase": "Em Andamento",
+      "ano": 2022,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE MS 25 CONSELHEIRO",
+      "url": "TCE_MS_25_CONSELHEIRO",
+      "fase": "Em Andamento",
+      "ano": 2025,
+      "vagas": "1",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "AEB 24",
+      "url": "AEB_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "AGÊNCIA NACIONAL DE MINERAÇÃO ESPECIALISTA 21",
+      "url": "ANM_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "40",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "AGER MT 23",
+      "url": "AGER_MT_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "55",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "AGU - ADVOGADO 2022",
+      "url": "AGU_22_ADVOGADO",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "100",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "AGU - PROCURADOR DA FAZENDA 2022",
+      "url": "AGU_22_PROCURADOR_FAZENDA",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "100",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "AGU - PROCURADOR FEDERAL 2022",
+      "url": "AGU_22_PROCURADOR_FEDERAL",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "100",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "AGU ADVOGADO 2015",
+      "url": "AGU_15_ADV",
+      "fase": "Encerrados",
+      "ano": 2015,
+      "vagas": "84",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "AL/CE 2020",
+      "url": "AL_CE_20",
+      "fase": "Encerrados",
+      "ano": 2020,
+      "vagas": "100",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "ANA 24",
+      "url": "ANA_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "ANAC 23",
+      "url": "ANAC_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "ANATEL 24",
+      "url": "ANATEL_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "ANM 24",
+      "url": "ANM_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "ANTT 23",
+      "url": "ANTT_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "ANVISA 24",
+      "url": "ANVISA_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "APEX BRASIL",
+      "url": "APEX_BRASIL_22_1",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "4",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "APEX BRASIL",
+      "url": "APEX_BRASIL_24_1",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "15",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "APEX BRASIL 2 21 ANALISTA E ASSISTENTE",
+      "url": "APEX_BRASIL_21_2",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "1",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "APEX BRASIL 21 ANALISTA",
+      "url": "APEX_BRASIL_21_ANALISTA",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "0",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "BANCO DO NORDESTE 2018",
+      "url": "BANCO_DO_NORDESTE_18",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "8",
+      "padraoDefinitivo": false,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "BCB 24",
+      "url": "BCB_24",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "BDMG_24",
+      "url": "BDMG_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "32",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "CAGEPA 24",
+      "url": "CAGEPA_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "80",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "CAMARA_MUNICIPAL_MACEIO_24",
+      "url": "CAMARA_MUNICIPAL_MACEIO_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "CAPES 23",
+      "url": "CAPES_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "50",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "CAU BR 23",
+      "url": "CAU_BR_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "20",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "CBM RO 2022",
+      "url": "CBM_RO_22",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "8",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "CGE RJ 23",
+      "url": "CGE_RJ_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "CGM JOÃOPESSOA/PB 2017",
+      "url": "PREF_JP_17_CGM",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": "20",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "CNJ_24",
+      "url": "CNJ_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "CNMP 23",
+      "url": "CNMP_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "9",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "CNPQ 23 ANALISTA",
+      "url": "CNPQ_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "50",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "CODEVASF 2020",
+      "url": "CODEVASF_20",
+      "fase": "Encerrados",
+      "ano": 2020,
+      "vagas": "91",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "codevasf_24",
+      "url": "CODEVASF_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "COREN - CE 2021",
+      "url": "COREN_CE_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "7",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "CPNUJE 24",
+      "url": "CPNUJE_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "DP DF 19",
+      "url": "DP_DF_19_DEFENSOR",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "12",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "DPDF 20",
+      "url": "DPDF_20_ANALISTA",
+      "fase": "Encerrados",
+      "ano": 2020,
+      "vagas": "60",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "DPE PI 21",
+      "url": "DPE_PI_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "DPE RO 21 SERVIDOR",
+      "url": "DPE_RO_21_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "15",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "DPE RS 21 DEFENSOR",
+      "url": "DPE_RS_21_DEFENSOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "DPE SE 21",
+      "url": "DPE_SE_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "6",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "DPE TO 21 DEFENSOR",
+      "url": "DPE_TO_21_DEFENSOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "3",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "DPE/AC DEFENSOR 2017",
+      "url": "DPE_AC_17_DEFENSOR",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": "15",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "DPE/PA 2021",
+      "url": "DPE_PA_21_DEFENSOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "EMAP 2018",
+      "url": "EMAP_18",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "42",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "EMBRAPA 24",
+      "url": "EMBRAPA_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "FINEP 23",
+      "url": "FINEP_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "27",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "FNDE 24 PSS ANALISTA",
+      "url": "FNDE_24_PSS_ANALISTA",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "39",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "FUB 2016",
+      "url": "FUB_16_1",
+      "fase": "Encerrados",
+      "ano": 2016,
+      "vagas": "61",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "FUB 2018",
+      "url": "FUB_18",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "157",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "FUB 2019",
+      "url": "FUB_19",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "63",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "FUB 2022",
+      "url": "FUB_22",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "174",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "FUNPRESP - EXE",
+      "url": "FUNPRESP_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "53",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "FUNPRESP_24_EXE",
+      "url": "FUNPRESP_24_EXE",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "IBAMA 21",
+      "url": "IBAMA_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "568",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "ICMBIO 21",
+      "url": "ICMBIO_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "171",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "ICMBIO 24",
+      "url": "ICMBIO_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "350",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "INPA 23",
+      "url": "INPA_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "63",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "INPP 24",
+      "url": "INPP_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "ITAIPU 23",
+      "url": "ITAIPU_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "31",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MCTI INSA 24",
+      "url": "MCTI_INSA_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MMA 23",
+      "url": "MMA_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "98",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MP  AP 21 SERVIDOR",
+      "url": "MP_AP_21_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MP AP 21 PROMOTOR",
+      "url": "MP_AP_21_PROMOTOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "9",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MP PA 22 PROMOTOR",
+      "url": "MP_PA_22_PROMOTOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "65",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MP/BA 23 PROMOTOR",
+      "url": "MP_BA_23_PROMOTOR",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "30",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MP/CE SERVIDOR 2019",
+      "url": "MP_CE_19_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "30",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MP/PI 2018",
+      "url": "MP_PI_18",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "26",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MP/PI PROMOTOR 2018",
+      "url": "MP_PI_18_PROMOTOR",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MP/RR 17",
+      "url": "MP_RR_17_PROMOTOR",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": "4",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MP_SE_22_PROMOTOR",
+      "url": "MP_SE_22_PROMOTOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPC SC 22 PROCURADOR",
+      "url": "MPC_SC_22_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "2",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPC SC 22 SERVIDOR",
+      "url": "MPC_SC_22_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPC/PA PROCURADOR 2019",
+      "url": "MPC_PA_19_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "1",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPC/PA SERVIDOR 2019",
+      "url": "MPC_PA_19_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "9",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPCM PA 21 SUBPROCURADOR",
+      "url": "MPCM_PA_21_SUBPROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "2",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPE AM 22 PROMOTOR",
+      "url": "MPE_AM_22_PROMOTOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "18",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPE/AC 22",
+      "url": "MPE_AC_22_PROMOTOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPE/RO 23",
+      "url": "MPE_RO_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "12",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPE/TO - PROMOTOR",
+      "url": "MPE_TO_21_PROMOTOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "7",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "MPGO 24 SERVIDOR",
+      "url": "MP_GO_24_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "22",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPO 24",
+      "url": "MPO_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "100",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPTO SERVIDOR",
+      "url": "MP_TO_24_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "54",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "MPU 2018",
+      "url": "MPU_18",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "47",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PC AL 2022 DELEGADO",
+      "url": "PC_AL_22_DELEGADO",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "50",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PC DF 24 ADM",
+      "url": "PC_DF_24_ADM",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "0",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PC PE 23",
+      "url": "PC_PE_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PC RO 2022",
+      "url": "PC_RO_22",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "319",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PC/MA APC 2017",
+      "url": "PC_MA_17_APC",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": "80",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PC/SE DELEGADO 2018",
+      "url": "PC_SE_18_DELEGADO",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PC_MA_17_DELEGADO",
+      "url": "PC_MA_17_DELEGADO",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "PCPB 21",
+      "url": "PC_PB_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "1400",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PCRJ 21 DELEGADO",
+      "url": "PC_RJ_21_DELEGADO",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "50",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PF 2018",
+      "url": "PF_18",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "500",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PF 2021",
+      "url": "PF_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "1500",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGDF PROCURADOR 22",
+      "url": "PG_DF_22_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "65",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGDF SERVIDOR 2019",
+      "url": "PG_DF_19",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "100",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGE CE",
+      "url": "PGE_CE_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "8",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "PGE MS PROCURADOR 21",
+      "url": "PGE_MS_21_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "6",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGE PR 24 PROCURADOR",
+      "url": "PGE_PR_24_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGE RO 21",
+      "url": "PGE_RO_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "PGE SE",
+      "url": "PGE_SE_23_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGE/AL",
+      "url": "PGE_AL_21_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "15",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGE/AM 2016",
+      "url": "PGE_AM_16_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2016,
+      "vagas": "8",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGE/PA 2022",
+      "url": "PGE_PA_22_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGE/PA 23 - PROCURADOR",
+      "url": "PGE_PA_23_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGE/PE SERVIDOR 2018",
+      "url": "PGE_PE_18_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "88",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGE/RR PROCURADOR",
+      "url": "PGE_RR_23_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGE/SE PROCURADOR 2017",
+      "url": "PGE_SE_17_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGM ARACAJU 24 PROCURADOR",
+      "url": "PGM_ARACAJU_24_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGM BELO HORIZONTE/MG PROCURADOR 2016",
+      "url": "PREF_BH_16_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2016,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "PGM Boa Vista/RR Procurador 2019",
+      "url": "PGM_RR_19_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "4",
+      "padraoDefinitivo": false,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGM Campo Grande/MS Procurador 2019",
+      "url": "PGM_MS_19_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGM FORTALEZA/CE 2016",
+      "url": "PGM_FORTALEZA_16_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2016,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGM MANAUS PROCURADOR 2018",
+      "url": "PGM_MANAUS_18_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "0",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGM SP 23",
+      "url": "PGM_SP_23_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "32",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGM/NATAL 23",
+      "url": "PGM_RN_23_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PGM_CUIABA_24_PROCURADOR",
+      "url": "PGM_CUIABA_24_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "6",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "POLC/AL 2022",
+      "url": "POLC_AL_22",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "121",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "POLITEC RO 22",
+      "url": "POLITEC_RO_22",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "30",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "PREF CACHOEIRO 24",
+      "url": "PREF_CACHOEIRO_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "255",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PREF DE MARINGA 22 NS",
+      "url": "PREF_MARINGA_22_NS",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "153",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PREF JOINVILLE 22",
+      "url": "PREF_JOINVILLE_22",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "400",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PREF JOINVILLE SC 23",
+      "url": "PREF_JOINVILLE_SC_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "300",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PREF PIRESRIO GO 21",
+      "url": "PREF_PIRESRIO_GO_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "151",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PREF SÃO CRISTÓVÃO SE 2023",
+      "url": "PREF_SAO_CRISTOVAO_SE_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "37",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PREF. CACHOEIRO - PROCURADOR",
+      "url": "PREF_CACHOEIRO_24_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "1",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PREF_MOSSORO_RN_24",
+      "url": "PREF_MOSSORO_RN_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "Prefeitura de Aracaju Auditor 2020",
+      "url": "PREF_ARACAJU_SE_20_AUDITOR",
+      "fase": "Encerrados",
+      "ano": 2020,
+      "vagas": "20",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PREFEITURA DE CAMAÇARI BA 2023",
+      "url": "PREF_CAMACARI_BA_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "138",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "PREFEITURA MUNICIPAL DE SÃO LUÍS/MA EDUCAÇÃO 2016",
+      "url": "PREF_SAOLUIS_16",
+      "fase": "Encerrados",
+      "ano": 2016,
+      "vagas": "822",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SDS/PE Polícia Científica 2016",
+      "url": "SDS_PE_16_CIENTIFICA",
+      "fase": "Encerrados",
+      "ano": 2016,
+      "vagas": "316",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SDS/PE POLÍCIA CIVIL 2016",
+      "url": "SDS_PE_16_CIVIL",
+      "fase": "Encerrados",
+      "ano": 2016,
+      "vagas": "650",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SECONT ES 22",
+      "url": "SECONT_ES_22",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "12",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEDUC RECIFE 23",
+      "url": "SEDUC_RECIFE_23_PROFESSOR",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "1000",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEE PE 22 ANA ASS",
+      "url": "SEE_PE_22",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "596",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEE PE 22 ESP MUSICA",
+      "url": "SEE_PE_22_ESPECIAL_MUSICA",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "155",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEEC/DF AUDITOR FISCAL 2019",
+      "url": "SEEC_AUDITOR_19",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "40",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "SEFAZ AC 23",
+      "url": "SEFAZ_AC_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "164",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEFAZ AL 21 AUDITOR",
+      "url": "SEFAZ_AL_21_AUDITOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "35",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEFAZ CE 21",
+      "url": "SEFAZ_CE_21",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "94",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEFAZ SE 21 AUDITOR",
+      "url": "SEFAZ_SE_21_AUDITOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "SEFAZ/AL AUDITOR 2019",
+      "url": "SEFAZ_AL_19_AUDITOR",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "85",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEFIN FORTALEZA CE",
+      "url": "SEFIN_FORTALEZA_CE_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "50",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEMED_ARACAJU_24",
+      "url": "SEMED_ARACAJU_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEPLAD DF 22 AUDITOR",
+      "url": "SEPLAD_DF_22_AUDITOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEPLAG/CE 24",
+      "url": "SEPLAG_CE_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "52",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "SEPLAN RR",
+      "url": "SEPLAN_RR_22",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "70",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "STJ 2018",
+      "url": "STJ_18",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "STJ 24",
+      "url": "STJ_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": "0",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "STM 2017",
+      "url": "STM_17_ANALISTA_TECNICO",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": "42",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TBG 23",
+      "url": "TBG_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "59",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TC DF 23",
+      "url": "TC_DF_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "23",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TC DF 24 PROCURADOR",
+      "url": "TC_DF_24_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TC_DF_24_AUDITOR",
+      "url": "TC_DF_24_AUDITOR",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCDF ACE 2020",
+      "url": "TC_DF_20_ACE",
+      "fase": "Encerrados",
+      "ano": 2020,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCDF AUDITOR (CONSELHEIRO-SUBSTITUTO) 2020",
+      "url": "TC_DF_20_AUDITOR_SUB",
+      "fase": "Encerrados",
+      "ano": 2020,
+      "vagas": "1",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCDF PROCURADOR 2020",
+      "url": "TC_DF_20_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2020,
+      "vagas": "1",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE PB 22 AUDITOR",
+      "url": "TCE_PB_22_AUDITOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "1",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE RJ 21 ANALISTA",
+      "url": "TCE_RJ_21_ANALISTA",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE RJ 22 PROCURADOR",
+      "url": "TCE_RJ_22_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE SC 21 AUDITOR",
+      "url": "TCE_SC_21_AUDITOR",
+      "fase": "Encerrados",
+      "ano": 2021,
+      "vagas": "160",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE/MG 2018",
+      "url": "TCE_MG_18",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "39",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "TCE/PA 2016",
+      "url": "TCE_PA_16",
+      "fase": "Encerrados",
+      "ano": 2016,
+      "vagas": "95",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE/PB 2017",
+      "url": "TCE_PB_17",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": "20",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "TCE/PE 2017",
+      "url": "TCE_PE_17",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": "36",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE/PR ANALISTA 2016",
+      "url": "TCE_PR_16_ANALISTA",
+      "fase": "Encerrados",
+      "ano": 2016,
+      "vagas": "12",
+      "padraoDefinitivo": false,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE/RJ ACE 2020",
+      "url": "TCE_RJ_20",
+      "fase": "Encerrados",
+      "ano": 2020,
+      "vagas": "40",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE/RO - PROCURADOR",
+      "url": "TCE_RO_19_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "1",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE/RO - SERVIDOR",
+      "url": "TCE_RO_19",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "13",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE_AC_24",
+      "url": "TCE_AC_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCE_PR_24_AUDITOR",
+      "url": "TCE_PR_24_AUDITOR",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCM/BA 2017",
+      "url": "TCM_BA_17",
+      "fase": "Encerrados",
+      "ano": 2018,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCU 2015 PROCURADOR",
+      "url": "TCU_15_PROCURADOR",
+      "fase": "Encerrados",
+      "ano": 2015,
+      "vagas": "1",
+      "padraoDefinitivo": false,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCU AUFC 2015",
+      "url": "TCU_15_AUFC",
+      "fase": "Encerrados",
+      "ano": 2015,
+      "vagas": "66",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TCU TEFC 2015",
+      "url": "TCU_15_TFCE",
+      "fase": "Encerrados",
+      "ano": 2015,
+      "vagas": "42",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TJ ES 23",
+      "url": "TJ_ES_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "128",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TJ/PA SERVIDOR 2019",
+      "url": "TJ_PA_19_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2019,
+      "vagas": "200",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TJ/RJ ANALISTA 2020",
+      "url": "TJ_RJ_20_ANALISTA",
+      "fase": "Encerrados",
+      "ano": 2020,
+      "vagas": "122",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TJDFT SERVIDOR 2015",
+      "url": "TJDFT_15_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2015,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TRE/PE 2016",
+      "url": "TRE_PE_16",
+      "fase": "Encerrados",
+      "ano": 2016,
+      "vagas": "4",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TRE/TO 2017",
+      "url": "TRE_TO_17",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": "10",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TRF 1ª Região 2017",
+      "url": "TRF1_17_SERVIDOR",
+      "fase": "Encerrados",
+      "ano": 2017,
+      "vagas": "20",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TRF6 24",
+      "url": "TRF6_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TRT 8ª REGIÃO 22",
+      "url": "TRT8_22",
+      "fase": "Encerrados",
+      "ano": 2022,
+      "vagas": "5",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    },
+    {
+      "nome": "TRT10_24",
+      "url": "TRT10_24",
+      "fase": "Encerrados",
+      "ano": 2024,
+      "vagas": null,
+      "padraoDefinitivo": true,
+      "padraoPreliminar": true
+    },
+    {
+      "nome": "TST 23",
+      "url": "TST_23",
+      "fase": "Encerrados",
+      "ano": 2023,
+      "vagas": "20",
+      "padraoDefinitivo": true,
+      "padraoPreliminar": false
+    }
+  ],
+  "semQualificar": [
+    {
+      "nome": "AGEPAR PR 26",
+      "url": "AGEPAR_PR_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PC AL 26",
+      "url": "PC_AL_26",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PC MA 26 DELEGADO",
+      "url": "PC_MA_26_DELEGADO",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PC MA 26 INVESTIGADOR",
+      "url": "PC_MA_26_INVESTIGADOR",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PERICIA OFICIAL MA 26",
+      "url": "PERICIA_OFICIAL_MA_26",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SESAU AL 26",
+      "url": "SESAU_AL_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "TC DF 26 ANALISTA",
+      "url": "TC_DF_26_ANALISTA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ CE 25 NOTÁRIOS",
+      "url": "TJ_CE_25_NOTARIOS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "UNCISAL 26",
+      "url": "UNCISAL_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "ALPREV 26",
+      "url": "ALPREV_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "CBM AL 26",
+      "url": "CBM_AL_26",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "CBM MA 26",
+      "url": "CBM_MA_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PM MA 26",
+      "url": "PM_MA_26",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PROCON AL 26",
+      "url": "SEPLAG_AL_26_PROCON",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEDUC AL 26",
+      "url": "SEDUC_AL_26",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TCE MA 26",
+      "url": "TCE_MA_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "AGSUS 26 RD ",
+      "url": "AGSUS_26_RD",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "AGU 26 ESTAGIARIO ",
+      "url": "AGU_26_ESTAGIARIO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "ANTAQ 25 CF",
+      "url": "ANTAQ_25_CF",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "ARS AL 26",
+      "url": "ARSAL_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "CÂMARA DOS DEPUTADOS 26 PLF",
+      "url": "CD_26_PL",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "CGE AL 26",
+      "url": "CGE_AL_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "CGM PORTO VELHO/RO 26",
+      "url": "CGM_PORTO_VELHO_RO_26",
+      "motivo": "sem padrão de resposta publicado"
+    },
+    {
+      "nome": "DER AL 26",
+      "url": "DER_AL_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "DETRAN AL 26",
+      "url": "DETRAN_AL_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "DREI 26 EXAME APTIDÃO",
+      "url": "DREI_26_EXAME_APTIDAO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "FAPE AL 26",
+      "url": "FAPEAL_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PC MG 25 TPAG",
+      "url": "PC_MG_25_TPAG",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PGE AL 26",
+      "url": "PGE_AL_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PM AL 26",
+      "url": "PM_AL_26",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PM DF 25 CFO",
+      "url": "PM_DF_25_CFO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PM SC 23 SOLDADO",
+      "url": "PM_SC_23_SOLDADO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PREF PORTO VELHO 26 PROCURADOR",
+      "url": "PREF_PORTO_VELHO_26_PROCURADOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PREF. BOA VISTA 25 SAUDE",
+      "url": "PREF_BOA_VISTA_25_SAUDE",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PREFEITURA DE BOA VISTA 2023 - GUARDA",
+      "url": "PREF_BOA_VISTA_23_GUARDA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SEFAZ RN 25 AUDITOR ",
+      "url": "SEFAZ_RN_25_AUDITOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEMEC PORTO VELHO/RO 26",
+      "url": "SEMEC_PORTO_VELHO_RO_26",
+      "motivo": "sem padrão de resposta publicado"
+    },
+    {
+      "nome": "SEPLAG AL 26 ESPECIALISTA",
+      "url": "SEPLAG_AL_26_ESPECIALISTA",
+      "motivo": "sem padrão de resposta publicado"
+    },
+    {
+      "nome": "TCE AC 26",
+      "url": "TCE_AC_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "TJ BA 25 NOTÁRIOS",
+      "url": "TJ_BA_25_NOTARIOS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ MT 25 NOTARIOS",
+      "url": "TJ_MT_25_NOTARIOS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ RO 25 NOTÁRIOS",
+      "url": "TJ_RO_25_NOTARIOS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ RR 25 NOTARIOS",
+      "url": "TJ_RR_25",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "UNE AL 26",
+      "url": "UNE_AL_26",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "ABIN 2017",
+      "url": "ABIN_17",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "ADAPAR/PR 2020",
+      "url": "ADAPAR_PR_20",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "AGÊNCIA NACIONAL DE MINERAÇÃO 21 PSS",
+      "url": "ANM_21_PSS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "AgSUS 25 CCE",
+      "url": "AGSUS_25_CCE",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "AGSUS 25 EC",
+      "url": "AGSUS_25_EC",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "AGSUS 26 UGP UAC",
+      "url": "AGSUS_26_UGP_UAC",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "AGU 23 ESTAGIÁRIO",
+      "url": "AGU_23_ESTAGIARIO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "ANATEL 2014",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "0",
+      "eventoSalarioMaximo": null,
+      "strEventoSalarioMaximo": "R$ ",
+      "eventoURL": "ANATEL_14",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2014,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/ANATEL_14"
+    },
+    {
+      "nome": "ANEEL 25 CF",
+      "url": "ANEEL_25_CF",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "ANP 22 PSS",
+      "url": "ANP_22_PSS",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "ANS 25 CF",
+      "url": "ANS_25_CF",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "ANTAQ 2014",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "0",
+      "eventoSalarioMaximo": null,
+      "strEventoSalarioMaximo": "R$ ",
+      "eventoURL": "ANTAQ_14",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2014,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/ANTAQ_14"
+    },
+    {
+      "nome": "ANVISA 2016",
+      "url": "ANVISA_16",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "APEX BRASIL 2",
+      "url": "APEX_BRASIL_22_2",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "BANCO DO NORDESTE 22",
+      "url": "BANCO_DO_NORDESTE_22",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "BANESE 2021",
+      "url": "BANESE_21",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "BANRISUL 22",
+      "url": "BANRISUL_22",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "BANRISUL 25",
+      "url": "BANRISUL_25",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "CBM AL 2021",
+      "url": "CBM_AL_21",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "CBM TO 22",
+      "url": "CBM_TO_22",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "CBM/AL COMBATENTE 2017",
+      "url": "CBM_AL_17_COMBATENTE",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "CBM_PA_23_CFO",
+      "url": "CBM_PA_23_CFO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "CBM_PA_23_CFP",
+      "url": "CBM_PA_23_CFP",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "CBMTO 2021",
+      "url": "CBM_TO_21",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "CGE/CE 2018",
+      "url": "CGE_CE_18",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "CGE/CE 2018-CF",
+      "url": "CGE_CE_18_CF",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "CONSELHO REGIONAL DE ENFERMAGEM DE SERGIPE",
+      "url": "COREN_SE_21",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "CONSELHO TUTELAR DF 2019",
+      "url": "CT_DF_19",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "CPRM 2016",
+      "url": "CPRM_16",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "CTI RENATO ARCHER 2023",
+      "url": "CTI_23",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "DATAPREV 23",
+      "url": "DATAPREV_23",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "DEPEN 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "263",
+      "eventoSalarioMaximo": 5403.95,
+      "strEventoSalarioMaximo": "R$ 5.403,95",
+      "eventoURL": "DEPEN_15",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/DEPEN_15"
+    },
+    {
+      "nome": "DPE RO 22 DEFENSOR",
+      "url": "DPE_RO_22_DEFENSOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "DPE/AC 24 DEFENSOR",
+      "url": "DPE_AC_24_DEFENSOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "DPE/AL DEFENSOR 2017",
+      "url": "DPE_AL_17_DEFENSOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "DPE/PE DEFENSOR 2014",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "20",
+      "eventoSalarioMaximo": 10182.29,
+      "strEventoSalarioMaximo": "R$ 10.182,29",
+      "eventoURL": "DPE_PE_14_DEFENSOR",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/DPE_PE_14_DEFENSOR"
+    },
+    {
+      "nome": "DPE/PE DEFENSOR 2017",
+      "url": "DPE_PE_17_DEFENSOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "DPE/RN DEFENSOR 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "17",
+      "eventoSalarioMaximo": 10575.6,
+      "strEventoSalarioMaximo": "R$ 10.575,60",
+      "eventoURL": "DPE_RN_15_DEFENSOR",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/DPE_RN_15_DEFENSOR"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "DPF 2014 AGENTE",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "0",
+      "eventoSalarioMaximo": null,
+      "strEventoSalarioMaximo": "R$ ",
+      "eventoURL": "DPF_14_AGENTE",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2014,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/DPF_14_AGENTE"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "DPU ADMINISTRATIVO 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "143",
+      "eventoSalarioMaximo": 5266.18,
+      "strEventoSalarioMaximo": "R$ 5.266,18",
+      "eventoURL": "DPU_15_ADMINISTRATIVO",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/DPU_15_ADMINISTRATIVO"
+    },
+    {
+      "nome": "DPU DEFENSOR 2017",
+      "url": "DPU_17_DEFENSOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "EBSERH ÁREA ADMINISTRATIVA 2018",
+      "url": "EBSERH_18_ADMINISTRATIVO",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "EBSERH ÁREA ASSISTENCIAL 2018",
+      "url": "EBSERH_18_ASSISTENCIAL",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "EBSERH ÁREA MÉDICA 2018",
+      "url": "EBSERH_18_MEDICA",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "EMPREL 23",
+      "url": "EMPREL_23",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "FAMEMA RESIDÊNCIA MÉDICA 2021",
+      "url": "FAMEMA_21_RESIDENCIA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "FNDE 24 PSS",
+      "url": "FNDE_24_PSS",
+      "motivo": "sem padrão de resposta publicado"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "FUB 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "167",
+      "eventoSalarioMaximo": 7333.08,
+      "strEventoSalarioMaximo": "R$ 7.333,08",
+      "eventoURL": "FUB_15_1",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/FUB_15_1"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "FUNPRESP-EXE 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "62",
+      "eventoSalarioMaximo": 6295,
+      "strEventoSalarioMaximo": "R$ 6.295,00",
+      "eventoURL": "FUNPRESP_15",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/FUNPRESP_15"
+    },
+    {
+      "nome": "FUNPRESP-JUD 2016",
+      "url": "FUNPRESP_16_JUD",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "HUB RESIDÊNCIA MÉDICA 2017",
+      "url": "HUB_17_RESIDENCIA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "HUB RESIDÊNCIA MÉDICA 2018",
+      "url": "HUB_18_RESIDENCIA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "HUB RESIDÊNCIA MÉDICA 2019",
+      "url": "HUB_19_MEDICA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "HUB RESIDÊNCIA MÉDICA 2020",
+      "url": "HUB_20_MEDICA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "HUB RESIDÊNCIA MÉDICA 2021",
+      "url": "HUB_21_MEDICA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "HUB RESIDÊNCIA MÉDICA MULTIPROFISSIONAL 2017",
+      "url": "HUB_17_MULTIPROFISSIONAL",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "HUB RESIDÊNCIA MÉDICA MULTIPROFISSIONAL 2018",
+      "url": "HUB_18_MULTIPROFISSIONAL",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "HUB RESIDÊNCIA MÉDICA MULTIPROFISSIONAL 2019",
+      "url": "HUB_19_MULTIPROFISSIONAL",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "HUB RESIDÊNCIA MULTIPROFISSIONAL 2020",
+      "url": "HUB_20_MULTIPROFISSIONAL",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "HUB RESIDÊNCIA MULTIPROFISSIONAL 2021",
+      "url": "HUB_21_MULTIPROFISSIONAL",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "IFF PROFESSOR 2018",
+      "url": "IFF_18_PROFESSOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "IFF Técnico 2018",
+      "url": "IFF_18_TECNICO",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "IHB/DF 2018",
+      "url": "IHB_DF_18",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "INMA 23",
+      "url": "INMA_23",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "INOVERSA SUL 24",
+      "url": "INOVERSASUL_24",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "INPI 23",
+      "url": "INPI_23",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "INSS 2015",
+      "url": "INSS_2015",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "INSS 22",
+      "url": "INSS_22",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "INSS_22",
+      "url": "INSS_22",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "IPAAM 25",
+      "url": "IPAAM_25",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "IPHAN 2018",
+      "url": "IPHAN_18",
+      "motivo": "sem padrão de resposta publicado"
+    },
+    {
+      "nome": "IRBR 24 DIPLOMACIA",
+      "url": "IRBR_24_DIPLOMACIA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "IRBR 25 DIPLOMACIA",
+      "url": "IRBR_25_DIPLOMACIA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "IRBR 26 DIPLOMACIA",
+      "url": "IRBR_26_DIPLOMACIA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "IRBR DIPLOMACIA 2017",
+      "url": "IRBR_17_DIPLOMACIA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "IRBR DIPLOMACIA 2018",
+      "url": "IRBR_18_DIPLOMACIA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "LNA 23 PESQUISADOR",
+      "url": "MCTI_LNA_23_PESQUISADOR",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "LNA 23 TECNOLOGISTA",
+      "url": "MCTI_LNA_23_TECNOLOGISTA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "MCOM 22",
+      "url": "MCOM_22",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "MEC 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "316",
+      "eventoSalarioMaximo": 8300,
+      "strEventoSalarioMaximo": "R$ 8.300,00",
+      "eventoURL": "MEC_15_TEMPORARIO",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/MEC_15_TEMPORARIO"
+    },
+    {
+      "nome": "MEC 23",
+      "url": "MEC_23",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "Ministério da Economia 20 PSS",
+      "url": "ME_20_PSS",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "Ministério da Economia 20 PSS 2",
+      "url": "ME_20_PSS_2",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "MJSP DF 21",
+      "url": "MJSP_21_PSS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "MME 23",
+      "url": "MME_23",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "MP/CE PROMOTOR 2019",
+      "url": "MP_CE_19_PROMOTOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "MP/ENAP 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "556",
+      "eventoSalarioMaximo": 5596.31,
+      "strEventoSalarioMaximo": "R$ 5.596,31",
+      "eventoURL": "MP_15_ENAP",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/MP_15_ENAP"
+    },
+    {
+      "nome": "MP_SC_20_PROMOTOR",
+      "url": "MP_SC_20_PROMOTOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "MPS_24",
+      "url": "MPS_24",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "MPSC 23 PROMOTOR",
+      "url": "MPSC_23_PROMOTOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "MPU 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "25",
+      "eventoSalarioMaximo": 8178.06,
+      "strEventoSalarioMaximo": "R$ 8.178,06",
+      "eventoURL": "MPU_15",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/MPU_15"
+    },
+    {
+      "nome": "MRE 23",
+      "url": "MRE_23",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "MTE_25",
+      "url": "MTE_25",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "NAV BRASIL 24 PSS",
+      "url": "NAV_BRASIL_24_PSS",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PC/GO 2016",
+      "url": "PC_GO_16",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PC/GO DELEGADO 2016",
+      "url": "PC_GO_DELEGADO_16",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PC_DF_19_ESCRIVAO",
+      "url": "PC_DF_19_ESCRIVAO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PC_DF_20_AGENTE",
+      "url": "PC_DF_20_AGENTE",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PCAL 21",
+      "url": "PC_AL_21",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PCSE 21",
+      "url": "PC_SE_21",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PETROBRAS 2.2023",
+      "url": "PETROBRAS_23_NTJ",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PETROBRAS 21",
+      "url": "PETROBRAS_21_NS",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PETROBRAS 23 NM",
+      "url": "PETROBRAS_23_NM",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PGE ES 22",
+      "url": "PGE_ES_22_PROCURADOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PGE ES 25 PROCURADOR",
+      "url": "PGE_ES_25_PROCURADOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PGE PB 21 PROCURADOR",
+      "url": "PGE_PB_21_PROCURADOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PGE PI 25",
+      "url": "PGE_PI_25",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PGE RJ 22",
+      "url": "PGE_RJ_22",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PGE RN PROCURADOR",
+      "url": "PGE_RN_23_PROCURADOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PGE/PE PROCURADOR 2017",
+      "url": "PGE_PE_17_PROCURADOR",
+      "motivo": "sem padrão de resposta publicado"
+    },
+    {
+      "nome": "PGM JOÃO PESSOA/PB PROCURADOR 2018",
+      "url": "PGM_JP_18_PROCURADOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PGM RECIFE 22 - PROCURADOR",
+      "url": "PGM_RECIFE_22_PROCURADOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "PGM SALVADOR/BA PROCURADOR 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "7",
+      "eventoSalarioMaximo": 20292.87,
+      "strEventoSalarioMaximo": "R$ 20.292,87",
+      "eventoURL": "PREF_SALVADOR_15_PROCURADOR",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/PREF_SALVADOR_15_PROCURADOR"
+    },
+    {
+      "nome": "PJC/MT 2017",
+      "url": "PJC_MT_17_DELEGADO",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PM RO 2022",
+      "url": "PM_RO_22",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PM/AL SOLDADO 2017",
+      "url": "PM_AL_17_SOLDADO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PM/AL SOLDADO 2018",
+      "url": "PM_AL_18_SOLDADO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PM/MA 2017",
+      "url": "PM_MA_17",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PM/SC 2023 - OFICIAL",
+      "url": "PM_SC_23_OFICIAL",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PM_PA_23_CFO",
+      "url": "PM_PA_23_CFO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PM_PA_23_CFP",
+      "url": "PM_PA_23_CFP",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PMAL 21",
+      "url": "PM_AL_21",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PMTO QPE 2020",
+      "url": "PM_TO_20_QPE",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PMTO QPPM 2020",
+      "url": "PM_TO_20_QPPM",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PMTO QPS 2020",
+      "url": "PM_TO_20_QPS",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PREF CACHOEIRO 24 - ADM",
+      "url": "PREF_CACHOEIRO_24_ADM",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PREF DE MARINGÁ 22 MÉDICO",
+      "url": "PREF_MARINGA_22_MEDICO_PSF",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PREF DE MARINGA 22 PROFESSOR",
+      "url": "PREF_MARINGA_22_PROFESSOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PREF ESTÂNCIA SE 21",
+      "url": "PREF_ESTANCIA_21_SE",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PREF SÃO CRISTÓVÃO SE 2022",
+      "url": "PREF_SAO_CRISTOVAO_SE_22",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PREF. CACHOEIRO 24 - GUARDA",
+      "url": "PREF_CACHOEIRO_24_GUARDA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PREF_PIRENOPOLIS_20",
+      "url": "PREF_PIRENOPOLIS_20",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "Prefeitura de Barra dos Coqueiros/SE 2020",
+      "url": "PREF_BARRA_COQUEIROS_20_SE",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "Prefeitura de São Cristóvão 2019",
+      "url": "PREF_SAO_CRISTOVAO_SE_19_PROF",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "PREFEITURA SÃO PAULO/SP GESTÃO ADMINISTRATIVA 2016",
+      "url": "PREF_SP_16",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PRF 2018",
+      "url": "PRF_18",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PRF 2021",
+      "url": "PRF_21",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PROCESSO SELETIVO IBGE AGENTE PESQUISA MAPEAMENTO",
+      "url": "IBGE_21_PSS_APM",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PROCESSO SELETIVO IBGE AGENTE PESQUISA TELEFONE",
+      "url": "IBGE_21_PSS_APT",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PROCESSO SELETIVO IBGE CENSO 2021 ACM/ACS",
+      "url": "IBGE_20_AGENTE",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PROCESSO SELETIVO IBGE CENSO 2021 RECENSEADOR",
+      "url": "IBGE_20_RECENSEADOR",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PROCESSO SELETIVO IBGE SUPERVISOR COLETA QUALIDADE",
+      "url": "IBGE_21_PSS_SCQ",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "PROCESSO SELETIVO TEMPORÁRIO SEED PR 20 PROFESSOR",
+      "url": "SEED_PR_20_PROFESSOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "Processo Seletivo TJBA Conciliador e Juiz Leigo",
+      "url": "TJ_BA_19_PROCESSO_SELETIVO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SEBRAE 24",
+      "url": "SEBRAE_24",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEBRAE 24 PSI",
+      "url": "SEBRAE_24_PSI",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEBRAE 26 PSE 1",
+      "url": "SEBRAE_26_PSE_1",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEBRAE 26 PSE 2",
+      "url": "SEBRAE_26_PSE_2",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SEBRAE_25_PSE_1",
+      "url": "SEBRAE_25_PSE_1",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "SEC/BA 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "0",
+      "eventoSalarioMaximo": 0,
+      "strEventoSalarioMaximo": "R$ 0,00",
+      "eventoURL": "SEC_BA_15_DIRETOR_E_VICE",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/SEC_BA_15_DIRETOR_E_VICE"
+    },
+    {
+      "nome": "SEDUC AL 21",
+      "url": "SEDUC_AL_21",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEDUC/AL 2017",
+      "url": "SEDUC_AL_17",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEE PE 2022 EDUC BASICA",
+      "url": "SEE_PE_22_EDUCACAO_BASICA",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SEE/DF 2016",
+      "url": "SEE_16_DF",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SEFAZ RR",
+      "url": "SEFAZ_RR_21",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEFAZ/RS 2017",
+      "url": "SEFAZ_RS_17",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEFAZ/RS ASSISTENTE ADMINISTRATIVO 2018",
+      "url": "SEFAZ_RS_18_ASSISTENTE",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SEFAZ/RS AUDITOR-FISCAL 2018",
+      "url": "SEFAZ_RS_18_AUDITOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEFAZ/RS TÉCNICO TRIBUTÁRIO 2018",
+      "url": "SEFAZ_RS_18_TECNICO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SEFAZ_RR_21_CF",
+      "url": "SEFAZ_RR_21_CF",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SEMA AM 25",
+      "url": "SEMA_AM_25",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SEMA MT 25 PSS",
+      "url": "SEMA_MT_25_PSS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SEMA/MT 21",
+      "url": "SEMA_MT_21_PSS",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SERES PE 21",
+      "url": "SERES_PE_21",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SERES/PE 2017",
+      "url": "SERES_PE_17",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SERIS AL 21",
+      "url": "SERIS_AL_21",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "SERPRO 2021",
+      "url": "SERPRO_21",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SERPRO 23",
+      "url": "SERPRO_23",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "SES/DF Residência Médica 1º/2016",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "501",
+      "eventoSalarioMaximo": null,
+      "strEventoSalarioMaximo": "R$ ",
+      "eventoURL": "SES_DF_16_RESIDENCIA",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/SES_DF_16_RESIDENCIA"
+    },
+    {
+      "nome": "SES/DF Residência Médica 2°/2016",
+      "url": "SES_DF_16_RESIDENCIA_2",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "SES/DF Residência Médica 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "486",
+      "eventoSalarioMaximo": null,
+      "strEventoSalarioMaximo": "R$ ",
+      "eventoURL": "SES_DF_15_RESIDENCIA",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/SES_DF_15_RESIDENCIA"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "SES/DF Residência Médica Multiprofissional 1°/2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "176",
+      "eventoSalarioMaximo": 0,
+      "strEventoSalarioMaximo": "R$ 0,00",
+      "eventoURL": "SES_DF_15_MULTIPROFISSIONAL",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/SES_DF_15_MULTIPROFISSIONAL"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "SES/DF Residência Médica Multiprofissional 1º/2016",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "268",
+      "eventoSalarioMaximo": 0,
+      "strEventoSalarioMaximo": "R$ 0,00",
+      "eventoURL": "SES_DF_16_MULTIPROFISSIONAL",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/SES_DF_16_MULTIPROFISSIONAL"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "SES/DF Residência Médica Multiprofissional 2º/2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "5",
+      "eventoSalarioMaximo": 0,
+      "strEventoSalarioMaximo": "R$ 0,00",
+      "eventoURL": "SES_DF_15_MULTIPROFISSIONAL_2",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/SES_DF_15_MULTIPROFISSIONAL_2"
+    },
+    {
+      "nome": "SES/DF Residência Médica Multiprofissional 2º/2016",
+      "url": "SES_DF_16_MULTIPROFISSIONAL_2",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SESAU AL 2021",
+      "url": "SESAU_AL_21",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SESI SP 23",
+      "url": "SESI_SP_23",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SINFRA MT 21 PSS",
+      "url": "SINFRA_MT_21_PSS",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "SLU/DF 2019",
+      "url": "SLU_DF_19",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "STJ 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "65",
+      "eventoSalarioMaximo": 8300,
+      "strEventoSalarioMaximo": "R$ 8.300,00",
+      "eventoURL": "STJ_15",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/STJ_15"
+    },
+    {
+      "nome": "TCE MS 23",
+      "url": "TCE_MS_23_PROCURADOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "TCE PB 22 MEDICO",
+      "url": "TCE_PB_22_MEDICO",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "TCE RJ 21 TÉCNICO",
+      "url": "TCE_RJ_21_TECNICO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TCE/PR AUDITOR 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "4",
+      "eventoSalarioMaximo": 28947.54,
+      "strEventoSalarioMaximo": "R$ 28.947,54",
+      "eventoURL": "TCE_PR_15_AUDITOR",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TCE_PR_15_AUDITOR"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TCE/RN 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "2",
+      "eventoSalarioMaximo": 28947.55,
+      "strEventoSalarioMaximo": "R$ 28.947,55",
+      "eventoURL": "TC_RN_15_AUDITOR",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TC_RN_15_AUDITOR"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TCE/RN SERVIDOR 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "16",
+      "eventoSalarioMaximo": 8303.37,
+      "strEventoSalarioMaximo": "R$ 8.303,37",
+      "eventoURL": "TCE_RN_15_SERVIDOR",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TCE_RN_15_SERVIDOR"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TCE/SC 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "50",
+      "eventoSalarioMaximo": 11607.42,
+      "strEventoSalarioMaximo": "R$ 11.607,42",
+      "eventoURL": "TCE_SC_15",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TCE_SC_15"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TELEBRAS 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "41",
+      "eventoSalarioMaximo": 6929.58,
+      "strEventoSalarioMaximo": "R$ 6.929,58",
+      "eventoURL": "TELEBRAS_15",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TELEBRAS_15"
+    },
+    {
+      "nome": "TELEBRAS 21",
+      "url": "TELEBRAS_21",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ CE 23 - SERVIDOR",
+      "url": "TJ_CE_23_SERVIDOR",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ PE 24 NOTARIOS",
+      "url": "TJ_PE_24_NOTARIOS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ SC 22 NOTARIOS",
+      "url": "TJ_SC_22_NOTARIOS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TJ/AM JUIZ 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "23",
+      "eventoSalarioMaximo": 24681.6,
+      "strEventoSalarioMaximo": "R$ 24.681,60",
+      "eventoURL": "TJ_AM_15_JUIZ",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TJ_AM_15_JUIZ"
+    },
+    {
+      "nome": "TJ/AM SERVIDOR 2019",
+      "url": "TJ_AM_19_SERVIDOR",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "TJ/BA JUIZ SUBSTITUTO 2018",
+      "url": "TJ_BA_18_JUIZ",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ/CE JUIZ SUBSTITUTO 2018",
+      "url": "TJ_CE_18_JUIZ",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ/MT NOTARIOS 2013",
+      "url": "TJ_MT_17_NOTARIOS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ/PA JUIZ 2019",
+      "url": "TJ_PA_19_JUIZ",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TJ/PB JUIZ 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "15",
+      "eventoSalarioMaximo": 27500.17,
+      "strEventoSalarioMaximo": "R$ 27.500,17",
+      "eventoURL": "TJ_PB_15_JUIZ",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TJ_PB_15_JUIZ"
+    },
+    {
+      "nome": "TJ/PR JUIZ 2016",
+      "url": "TJ_PR_16_JUIZ",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ/PR JUIZ SUBSTITUTO 2018",
+      "url": "TJ_PR_18_JUIZ",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ/PR SERVIDOR 2019",
+      "url": "TJ_PR_19_SERVIDOR",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ/RJ TECNICO 2020",
+      "url": "TJ_RJ_20_TECNICO",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJ/SC JUIZ 2019",
+      "url": "TJ_SC_19_JUIZ",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TJDFT JUIZ 1º/2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "23",
+      "eventoSalarioMaximo": 23997.19,
+      "strEventoSalarioMaximo": "R$ 23.997,19",
+      "eventoURL": "TJDFT_15_JUIZ",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TJDFT_15_JUIZ"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TJDFT JUIZ 2°/2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "71",
+      "eventoSalarioMaximo": 23997.19,
+      "strEventoSalarioMaximo": "R$ 23.997,19",
+      "eventoURL": "TJDFT_15_JUIZ_2",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TJDFT_15_JUIZ_2"
+    },
+    {
+      "nome": "TJDFT JUIZ 22",
+      "url": "TJDFT_22_JUIZ",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJDFT NOTÁRIOS 2019",
+      "url": "TJDFT_19_NOTARIOS",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TJMA 2022 JUIZ",
+      "url": "TJ_MA_22_JUIZ",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TRE/BA 2017",
+      "url": "TRE_BA_17",
+      "motivo": "sem padrão de resposta publicado"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TRE/MT 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "12",
+      "eventoSalarioMaximo": 8803.97,
+      "strEventoSalarioMaximo": "R$ 8.803,97",
+      "eventoURL": "TRE_MT_15",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TRE_MT_15"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TRE/PE 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "5",
+      "eventoSalarioMaximo": 5365.92,
+      "strEventoSalarioMaximo": "R$ 5.365,92",
+      "eventoURL": "TRE_PE_15",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TRE_PE_15"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TRE/PI 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "15",
+      "eventoSalarioMaximo": 8863.84,
+      "strEventoSalarioMaximo": "R$ 8.863,84",
+      "eventoURL": "TRE_PI_15",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TRE_PI_15"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TRE/RS 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "21",
+      "eventoSalarioMaximo": 8863.84,
+      "strEventoSalarioMaximo": "R$ 8.863,84",
+      "eventoURL": "TRE_RS_15",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TRE_RS_15"
+    },
+    {
+      "idEvento": 0,
+      "eventoNomeAbreviado": "TRF 1ª REGIÃO JUIZ 2015",
+      "eventoNomeCompleto": null,
+      "eventoTotalVagas": "155",
+      "eventoSalarioMaximo": 0,
+      "strEventoSalarioMaximo": "R$ 0,00",
+      "eventoURL": "TRF1_15_JUIZ",
+      "eventoStatus": "encerrado",
+      "eventoTipo": "concursos",
+      "eventoAno": 2015,
+      "periodoInscricao": null,
+      "eventoCargos": null,
+      "arquivosEdital": null,
+      "arquivosGabarito": null,
+      "aplicativos": null,
+      "isInscricaoAberta": false,
+      "isDBCriado": 0,
+      "tituloCargos": null,
+      "tituloCardCargos": null,
+      "areaCandidato": false,
+      "fase": "Encerrados",
+      "motivo": "erro ao buscar detalhe: HTTP 500 em https://apis.cebraspe.org.br/cebraspe/eventos/TRF1_15_JUIZ"
+    },
+    {
+      "nome": "TRF 5ª REGIÃO JUIZ 2017",
+      "url": "TRF5_17_JUIZ",
+      "motivo": "nível superior indeterminado ou não confirmado"
+    },
+    {
+      "nome": "TRT 7ª REGIÃO  2017",
+      "url": "TRT7_17_ANALISTA_TECNICO",
+      "motivo": "sem prova discursiva"
+    },
+    {
+      "nome": "UNIVESP 25 DOCENTE ",
+      "url": "UNIVESP_25_DOCENTE",
+      "motivo": "sem prova discursiva"
+    }
+  ]
+}
