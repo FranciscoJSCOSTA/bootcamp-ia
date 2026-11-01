@@ -23,7 +23,7 @@ export default async function CorretorPage() {
   if (!user) {
     redirect("/entrar?next=/corretor");
   }
-  const gratisRestantes = await consultarGratisRestantes(user.id);
+  const gratisRestantes = user.email ? await consultarGratisRestantes(user.email) : 0;
 
   return (
     <main className="flex-1 bg-slate-50 px-4 py-12 sm:px-6 sm:py-16 lg:px-8">

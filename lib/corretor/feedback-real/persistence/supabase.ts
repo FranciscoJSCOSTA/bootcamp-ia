@@ -138,30 +138,28 @@ export const supabaseAdapter: FeedbackRealAdapter = {
     }));
   },
 
-  async reservarCorrecao(userId, limiteGratis) {
+  async reservarCorrecao(email, limiteGratis) {
     const { data, error } = await getSupabaseAdmin().rpc("reservar_correcao", {
-      p_user_id: userId,
+      p_email: email,
       p_limite_gratis: limiteGratis,
     });
     if (error) throw new Error(`Falha ao reservar correção no Supabase: ${error.message}`);
     return (data as TipoReserva | null) ?? null;
   },
 
-  async devolverCorrecao(userId, tipo) {
+  async devolverCorrecao(email, tipo) {
     const { error } = await getSupabaseAdmin().rpc("devolver_correcao", {
-      p_user_id: userId,
+      p_email: email,
       p_tipo: tipo,
     });
     if (error) throw new Error(`Falha ao devolver reserva no Supabase: ${error.message}`);
   },
 
-  async consultarGratisUsadas(userId) {
-    const { data, error } = await getSupabaseAdmin()
-      .from("contas_uso")
-      .select("gratis_usadas")
-      .eq("user_id", userId)
-      .maybeSingle<{ gratis_usadas: number }>();
+  async consultarGratisUsadas(email) {
+    const { data, error } = await getSupabaseAdmin().rpc("consultar_gratis_usadas", {
+      p_email: email,
+    });
     if (error) throw new Error(`Falha ao consultar cota no Supabase: ${error.message}`);
-    return data?.gratis_usadas ?? 0;
+    return (data as number | null) ?? 0;
   },
 };

@@ -17,9 +17,11 @@ export type FeedbackRealAdapter = {
   listarUsoTokens(desde?: string): Promise<UsoTokens[]>;
   // Reserva atômica de 1 correção antes de chamar a IA (ver migração
   // cota_gratis). null = sem cota. A reserva é devolvida se a correção falhar.
-  reservarCorrecao(userId: string, limiteGratis: number): Promise<TipoReserva | null>;
-  devolverCorrecao(userId: string, tipo: TipoReserva): Promise<void>;
-  consultarGratisUsadas(userId: string): Promise<number>;
+  // A cota grátis é por e-mail normalizado (sem "+apelido", sem pontos no
+  // Gmail) — por isso recebe o e-mail da sessão, não o user_id.
+  reservarCorrecao(email: string, limiteGratis: number): Promise<TipoReserva | null>;
+  devolverCorrecao(email: string, tipo: TipoReserva): Promise<void>;
+  consultarGratisUsadas(email: string): Promise<number>;
 };
 
 export type TipoReserva = "gratis";

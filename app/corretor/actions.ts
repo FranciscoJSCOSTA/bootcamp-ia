@@ -46,7 +46,12 @@ export async function correctEssayAction(
   // O formulário de /entrar já recusa e-mail descartável, mas a chave anon
   // do Supabase é pública — dá pra criar conta chamando a API de Auth
   // direto. Esta checagem fecha esse atalho antes de gastar qualquer coisa.
-  if (user.email && emailDescartavel(user.email)) {
+  // A cota grátis é por e-mail (ver reservarCorrecao) — conta sem e-mail
+  // (não acontece com o login por link mágico) não tem como ser contada.
+  if (!user.email) {
+    return { status: "error", message: "Sua conta não tem e-mail associado. Entre novamente pelo link." };
+  }
+  if (emailDescartavel(user.email)) {
     return { status: "error", message: MENSAGEM_EMAIL_DESCARTAVEL };
   }
 
@@ -107,7 +112,7 @@ export async function correctEssayAction(
 
   // Reserva depois da validação (formulário inválido não consome nada) e
   // antes da chamada à API. Ver reservarCorrecao em store.ts.
-  const reserva = await reservarCorrecao(user.id);
+  const reserva = await reservarCorrecao(user.email);
   if (!reserva.ok) {
     return {
       status: "error",

@@ -102,7 +102,7 @@ export async function verificarLimite(userId: string): Promise<LimiteResultado> 
   return { ok: true };
 }
 
-export type Reserva = { userId: string; tipo: TipoReserva };
+export type Reserva = { email: string; tipo: TipoReserva };
 
 export type ReservaResultado = { ok: true; reserva: Reserva } | { ok: false; motivo: "sem_cota" };
 
@@ -111,19 +111,22 @@ export type ReservaResultado = { ok: true; reserva: Reserva } | { ok: false; mot
  * Supabase, então requisições paralelas não furam a cota. Quem chama tem
  * que devolver a reserva (devolverReserva) se a correção falhar: no saldo
  * final, só correção bem-sucedida consome.
+ *
+ * "email" tem que ser o e-mail da sessão (user.email do getUser), nunca um
+ * valor vindo do formulário — a cota grátis é por e-mail normalizado.
  */
-export async function reservarCorrecao(userId: string): Promise<ReservaResultado> {
-  const tipo = await getAdapter().reservarCorrecao(userId, COTA_GRATIS_POR_CONTA);
+export async function reservarCorrecao(email: string): Promise<ReservaResultado> {
+  const tipo = await getAdapter().reservarCorrecao(email, COTA_GRATIS_POR_CONTA);
   if (!tipo) return { ok: false, motivo: "sem_cota" };
-  return { ok: true, reserva: { userId, tipo } };
+  return { ok: true, reserva: { email, tipo } };
 }
 
 export async function devolverReserva(reserva: Reserva): Promise<void> {
-  await getAdapter().devolverCorrecao(reserva.userId, reserva.tipo);
+  await getAdapter().devolverCorrecao(reserva.email, reserva.tipo);
 }
 
-export async function consultarGratisRestantes(userId: string): Promise<number> {
-  const usadas = await getAdapter().consultarGratisUsadas(userId);
+export async function consultarGratisRestantes(email: string): Promise<number> {
+  const usadas = await getAdapter().consultarGratisUsadas(email);
   return Math.max(0, COTA_GRATIS_POR_CONTA - usadas);
 }
 

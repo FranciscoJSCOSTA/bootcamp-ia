@@ -1,3 +1,4 @@
+import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import type { CorrecaoRegistrada } from "../types";
@@ -66,45 +67,52 @@ export const localAdapter: FeedbackRealAdapter = {
       }));
   },
 
-  // Sem atomicidade de verdade (arquivo JSON) — suficiente pra dev, onde não
-  // há requisições paralelas. Em produção vale a função SQL (supabase.ts).
-  async reservarCorrecao(userId, limiteGratis) {
-    const uso = lerUso(userId);
+  // Sem atomicidade de verdade (arquivo JSON) e sem a normalização de
+  // apelidos — suficiente pra dev, onde não há requisições paralelas nem
+  // abuso. Em produção valem as funções SQL (supabase.ts).
+  async reservarCorrecao(email, limiteGratis) {
+    const uso = lerUso(email);
     if (uso.gratisUsadas < limiteGratis) {
-      gravarUso(userId, { ...uso, gratisUsadas: uso.gratisUsadas + 1 });
+      gravarUso(email, { ...uso, gratisUsadas: uso.gratisUsadas + 1 });
       return "gratis";
     }
     return null;
   },
 
-  async devolverCorrecao(userId, tipo) {
-    const uso = lerUso(userId);
+  async devolverCorrecao(email, tipo) {
+    const uso = lerUso(email);
     if (tipo === "gratis" && uso.gratisUsadas > 0) {
-      gravarUso(userId, { ...uso, gratisUsadas: uso.gratisUsadas - 1 });
+      gravarUso(email, { ...uso, gratisUsadas: uso.gratisUsadas - 1 });
     }
   },
 
-  async consultarGratisUsadas(userId) {
-    return lerUso(userId).gratisUsadas;
+  async consultarGratisUsadas(email) {
+    return lerUso(email).gratisUsadas;
   },
 };
 
-// Equivalente local da tabela contas_uso — subpasta, pra não misturar com os
-// JSONs de correção que lerTodas() lê.
-const DIR_USO = path.join(DIR, "contas-uso");
+// Equivalente local da tabela cota_gratis — subpasta, pra não misturar com
+// os JSONs de correção que lerTodas() lê. Nome do arquivo = hash do e-mail
+// (e-mail não é um nome de arquivo seguro).
+const DIR_USO = path.join(DIR, "cota-gratis");
 type UsoLocal = { gratisUsadas: number };
 
-function lerUso(userId: string): UsoLocal {
+function arquivoUso(email: string): string {
+  const hash = crypto.createHash("sha256").update(email.trim().toLowerCase()).digest("hex");
+  return path.join(DIR_USO, `${hash}.json`);
+}
+
+function lerUso(email: string): UsoLocal {
   try {
-    return JSON.parse(fs.readFileSync(path.join(DIR_USO, `${userId}.json`), "utf-8")) as UsoLocal;
+    return JSON.parse(fs.readFileSync(arquivoUso(email), "utf-8")) as UsoLocal;
   } catch {
     return { gratisUsadas: 0 };
   }
 }
 
-function gravarUso(userId: string, uso: UsoLocal): void {
+function gravarUso(email: string, uso: UsoLocal): void {
   fs.mkdirSync(DIR_USO, { recursive: true });
-  fs.writeFileSync(path.join(DIR_USO, `${userId}.json`), JSON.stringify(uso, null, 2));
+  fs.writeFileSync(arquivoUso(email), JSON.stringify(uso, null, 2));
 }
 
 function lerTodas(): CorrecaoRegistrada[] {
