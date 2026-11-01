@@ -8,6 +8,7 @@ import { COTA_GRATIS_POR_CONTA } from "@/lib/cobranca/config";
 import {
   devolverReserva,
   reservarCorrecao,
+  salvarConteudoCorrecao,
   verificarLimite,
   type Reserva,
 } from "@/lib/corretor/feedback-real/store";
@@ -139,6 +140,19 @@ export async function correctEssayAction(
   if (!outcome.ok) {
     await devolverSemFalhar(reserva.reserva);
     return { status: "error", message: outcome.error };
+  }
+
+  // Histórico ("Minhas correções"). A correção já deu certo e já foi
+  // cobrada — falha aqui só deixa o relatório fora do histórico, não pode
+  // tirar o resultado da tela do usuário.
+  try {
+    await salvarConteudoCorrecao(outcome.data.correcaoId, user.id, {
+      textoResposta: texto,
+      padraoResposta: padraoResposta || null,
+      relatorio: outcome.data,
+    });
+  } catch (error) {
+    console.error("Falha ao guardar correção no histórico:", outcome.data.correcaoId, error);
   }
 
   return { status: "success", data: outcome.data };

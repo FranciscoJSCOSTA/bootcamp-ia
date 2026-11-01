@@ -4,7 +4,12 @@ import { localAdapter } from "./persistence/local";
 import { supabaseAdapter } from "./persistence/supabase";
 import { COTA_GRATIS_POR_CONTA } from "@/lib/cobranca/config";
 import type { FeedbackRealAdapter, TipoReserva, UsoTokens } from "./persistence/types";
-import type { CorrecaoRegistrada } from "./types";
+import type {
+  ConteudoCorrecao,
+  CorrecaoHistorico,
+  CorrecaoRegistrada,
+  CorrecaoResumo,
+} from "./types";
 
 // Limites de uso do /corretor — proteção básica de custo/abuso enquanto não
 // há cobrança (trilha A, item 4). Números aprovados com base em custo real
@@ -128,6 +133,45 @@ export async function devolverReserva(reserva: Reserva): Promise<void> {
 export async function consultarGratisRestantes(email: string): Promise<number> {
   const usadas = await getAdapter().consultarGratisUsadas(email);
   return Math.max(0, COTA_GRATIS_POR_CONTA - usadas);
+}
+
+// --- "Minhas correções" ------------------------------------------------------
+// Toda função recebe o userId da SESSÃO e só enxerga correções desse usuário
+// que não foram apagadas.
+
+/**
+ * Guarda resposta, padrão de resposta e relatório de uma correção que acabou
+ * de dar certo. Chamado pela Server Action, não pelo motor.
+ */
+export async function salvarConteudoCorrecao(
+  correcaoId: string,
+  userId: string,
+  conteudo: ConteudoCorrecao,
+): Promise<void> {
+  await getAdapter().salvarConteudo(correcaoId, userId, conteudo);
+}
+
+export async function listarMinhasCorrecoes(userId: string): Promise<CorrecaoResumo[]> {
+  return getAdapter().listarHistorico(userId);
+}
+
+export async function getMinhaCorrecao(
+  correcaoId: string,
+  userId: string,
+): Promise<CorrecaoHistorico | null> {
+  if (!UUID_RE.test(correcaoId)) return null;
+  return getAdapter().buscarHistorico(correcaoId, userId);
+}
+
+/**
+ * Apaga o conteúdo (tema, resposta, padrão, relatório, observação da nota
+ * real) e tira a correção do histórico. Data, banca, notas e tokens ficam —
+ * sustentam limites de uso e controle de custo (ver migração
+ * historico_correcoes).
+ */
+export async function apagarMinhaCorrecao(correcaoId: string, userId: string): Promise<boolean> {
+  if (!UUID_RE.test(correcaoId)) return false;
+  return getAdapter().apagarConteudo(correcaoId, userId);
 }
 
 /**

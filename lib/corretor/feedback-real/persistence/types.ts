@@ -1,4 +1,9 @@
-import type { CorrecaoRegistrada } from "../types";
+import type {
+  ConteudoCorrecao,
+  CorrecaoHistorico,
+  CorrecaoRegistrada,
+  CorrecaoResumo,
+} from "../types";
 
 // Contrato comum entre os dois adaptadores de persistência (local.ts e
 // supabase.ts). Só operações de I/O — validação e regras de negócio ficam
@@ -22,6 +27,14 @@ export type FeedbackRealAdapter = {
   reservarCorrecao(email: string, limiteGratis: number): Promise<TipoReserva | null>;
   devolverCorrecao(email: string, tipo: TipoReserva): Promise<void>;
   consultarGratisUsadas(email: string): Promise<number>;
+  // "Minhas correções" (ver migração historico_correcoes). Tudo filtrado por
+  // userId E por apagado_em nulo — correção de outro usuário ou apagada
+  // simplesmente não existe pra estas funções.
+  salvarConteudo(correcaoId: string, userId: string, conteudo: ConteudoCorrecao): Promise<void>;
+  listarHistorico(userId: string): Promise<CorrecaoResumo[]>;
+  buscarHistorico(correcaoId: string, userId: string): Promise<CorrecaoHistorico | null>;
+  // true se apagou; false se não achou (inexistente, de outro usuário ou já apagada).
+  apagarConteudo(correcaoId: string, userId: string): Promise<boolean>;
 };
 
 export type TipoReserva = "gratis";

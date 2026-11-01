@@ -48,9 +48,11 @@ export async function proxy(request: NextRequest) {
   const isLoginPage = path === LOGIN_PATH;
 
   if (isProtected && !user) {
-    const url = request.nextUrl.clone();
-    url.pathname = LOGIN_PATH;
-    url.searchParams.set("next", path);
+    // Leva a query junto no "next" (ex.: /corretor/feedback?id=...), em vez
+    // de deixá-la solta na URL do login, onde se perderia. URL nova (não
+    // clone do nextUrl) pra não herdar a query original.
+    const url = new URL(LOGIN_PATH, request.url);
+    url.searchParams.set("next", path + request.nextUrl.search);
     return NextResponse.redirect(url);
   }
 

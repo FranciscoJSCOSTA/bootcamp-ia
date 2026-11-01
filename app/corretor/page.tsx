@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { redirect } from "next/navigation";
 import { BANCAS_DISPONIVEIS } from "@/lib/corretor/bancas";
 import { CorrectionForm } from "@/components/corretor/CorrectionForm";
@@ -53,7 +54,10 @@ export default async function CorretorPage() {
         </p>
 
         <p className="mt-4 text-sm font-medium text-slate-700">
-          Correções grátis restantes: {gratisRestantes} de {COTA_GRATIS_POR_CONTA}
+          Correções grátis restantes: {gratisRestantes} de {COTA_GRATIS_POR_CONTA} ·{" "}
+          <Link href="/corretor/historico" className="text-indigo-600 hover:underline">
+            Minhas correções
+          </Link>
         </p>
 
         <div className="mt-10">

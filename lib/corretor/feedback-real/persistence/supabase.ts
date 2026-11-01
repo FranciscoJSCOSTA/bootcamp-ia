@@ -1,5 +1,5 @@
 import { getSupabaseAdmin } from "@/lib/supabase/admin";
-import type { CorrecaoRegistrada, FeedbackReal } from "../types";
+import type { CorrecaoHistorico, CorrecaoRegistrada, FeedbackReal } from "../types";
 import type { FeedbackRealAdapter, TipoReserva, UsoTokens } from "./types";
 
 type CorrecaoRow = {
@@ -153,6 +153,102 @@ export const supabaseAdapter: FeedbackRealAdapter = {
       p_tipo: tipo,
     });
     if (error) throw new Error(`Falha ao devolver reserva no Supabase: ${error.message}`);
+  },
+
+  async salvarConteudo(correcaoId, userId, conteudo) {
+    const { error } = await getSupabaseAdmin()
+      .from("correcoes")
+      .update({
+        texto_resposta: conteudo.textoResposta,
+        padrao_resposta: conteudo.padraoResposta,
+        relatorio: conteudo.relatorio,
+      })
+      .eq("id", correcaoId)
+      .eq("user_id", userId);
+    if (error) throw new Error(`Falha ao gravar conteúdo da correção no Supabase: ${error.message}`);
+  },
+
+  async listarHistorico(userId) {
+    const { data, error } = await getSupabaseAdmin()
+      .from("correcoes")
+      .select("id, criado_em, banca_id, tema, nota_estimada, nota_maxima")
+      .eq("user_id", userId)
+      .is("apagado_em", null)
+      .order("criado_em", { ascending: false })
+      .returns<Pick<CorrecaoRow, "id" | "criado_em" | "banca_id" | "tema" | "nota_estimada" | "nota_maxima">[]>();
+    if (error) throw new Error(`Falha ao listar histórico no Supabase: ${error.message}`);
+    return (data ?? []).map((row) => ({
+      correcaoId: row.id,
+      criadoEm: row.criado_em,
+      bancaId: row.banca_id,
+      tema: row.tema,
+      notaEstimada: row.nota_estimada,
+      notaMaxima: row.nota_maxima,
+    }));
+  },
+
+  async buscarHistorico(correcaoId, userId) {
+    const { data, error } = await getSupabaseAdmin()
+      .from("correcoes")
+      .select(
+        "id, criado_em, banca_id, tema, nota_estimada, nota_maxima, texto_resposta, padrao_resposta, relatorio, feedbacks_reais(nota_real, observacao, registrado_em)",
+      )
+      .eq("id", correcaoId)
+      .eq("user_id", userId)
+      .is("apagado_em", null)
+      .maybeSingle<
+        Pick<CorrecaoRow, "id" | "criado_em" | "banca_id" | "tema" | "nota_estimada" | "nota_maxima"> & {
+          texto_resposta: string | null;
+          padrao_resposta: string | null;
+          relatorio: CorrecaoHistorico["relatorio"];
+          feedbacks_reais: FeedbackRow | null;
+        }
+      >();
+    if (error) throw new Error(`Falha ao buscar correção do histórico no Supabase: ${error.message}`);
+    if (!data) return null;
+    const feedback = data.feedbacks_reais;
+    return {
+      correcaoId: data.id,
+      criadoEm: data.criado_em,
+      bancaId: data.banca_id,
+      tema: data.tema,
+      notaEstimada: data.nota_estimada,
+      notaMaxima: data.nota_maxima,
+      textoResposta: data.texto_resposta,
+      padraoResposta: data.padrao_resposta,
+      relatorio: data.relatorio,
+      feedbackReal: feedback
+        ? { notaReal: feedback.nota_real, observacao: feedback.observacao, registradoEm: feedback.registrado_em }
+        : null,
+    };
+  },
+
+  async apagarConteudo(correcaoId, userId) {
+    const admin = getSupabaseAdmin();
+    const { data, error } = await admin
+      .from("correcoes")
+      .update({
+        tema: "",
+        texto_resposta: null,
+        padrao_resposta: null,
+        relatorio: null,
+        apagado_em: new Date().toISOString(),
+      })
+      .eq("id", correcaoId)
+      .eq("user_id", userId)
+      .is("apagado_em", null)
+      .select("id");
+    if (error) throw new Error(`Falha ao apagar correção no Supabase: ${error.message}`);
+    if (!data || data.length === 0) return false;
+
+    const { error: feedbackError } = await admin
+      .from("feedbacks_reais")
+      .update({ observacao: null })
+      .eq("correcao_id", correcaoId);
+    if (feedbackError) {
+      throw new Error(`Falha ao apagar observação da nota real no Supabase: ${feedbackError.message}`);
+    }
+    return true;
   },
 
   async consultarGratisUsadas(email) {

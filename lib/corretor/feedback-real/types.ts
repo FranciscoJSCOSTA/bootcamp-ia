@@ -1,4 +1,4 @@
-import type { FonteDosItens } from "../types";
+import type { CorrectionView, FonteDosItens } from "../types";
 
 // Snapshot gravado no momento da correção — o suficiente pra, depois, comparar
 // contra a nota real da banca sem guardar o texto da resposta do usuário (não
@@ -28,4 +28,33 @@ export type FeedbackReal = {
   notaReal: number;
   observacao: string | null;
   registradoEm: string;
+};
+
+// Conteúdo guardado pra "Minhas correções" — gravado pela Server Action logo
+// depois de uma correção bem-sucedida, separado do snapshot acima (que o
+// motor grava). Apagável pelo usuário a qualquer momento.
+export type ConteudoCorrecao = {
+  textoResposta: string;
+  padraoResposta: string | null;
+  relatorio: CorrectionView;
+};
+
+// Linha da lista do histórico (sem o texto/relatório, que só a página de
+// detalhe carrega).
+export type CorrecaoResumo = {
+  correcaoId: string;
+  criadoEm: string;
+  bancaId: string;
+  tema: string;
+  notaEstimada: number;
+  notaMaxima: number;
+};
+
+// Correções anteriores ao histórico não têm conteúdo guardado — por isso os
+// campos de conteúdo podem ser null.
+export type CorrecaoHistorico = CorrecaoResumo & {
+  textoResposta: string | null;
+  padraoResposta: string | null;
+  relatorio: CorrectionView | null;
+  feedbackReal: FeedbackReal | null;
 };

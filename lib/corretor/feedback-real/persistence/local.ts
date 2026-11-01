@@ -1,6 +1,7 @@
 import crypto from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
+import type { CorrectionView } from "../../types";
 import type { CorrecaoRegistrada } from "../types";
 import type { FeedbackRealAdapter } from "./types";
 
@@ -89,7 +90,81 @@ export const localAdapter: FeedbackRealAdapter = {
   async consultarGratisUsadas(email) {
     return lerUso(email).gratisUsadas;
   },
+
+  async salvarConteudo(correcaoId, userId, conteudo) {
+    const registro = lerDoUsuario(correcaoId, userId);
+    if (!registro) return;
+    gravar({ ...registro, ...conteudo });
+  },
+
+  async listarHistorico(userId) {
+    return lerTodas()
+      .filter((r) => r.userId === userId && !r.apagadoEm)
+      .sort((a, b) => b.criadoEm.localeCompare(a.criadoEm))
+      .map((r) => ({
+        correcaoId: r.correcaoId,
+        criadoEm: r.criadoEm,
+        bancaId: r.bancaId,
+        tema: r.tema,
+        notaEstimada: r.notaEstimada,
+        notaMaxima: r.notaMaxima,
+      }));
+  },
+
+  async buscarHistorico(correcaoId, userId) {
+    const r = lerDoUsuario(correcaoId, userId);
+    if (!r) return null;
+    return {
+      correcaoId: r.correcaoId,
+      criadoEm: r.criadoEm,
+      bancaId: r.bancaId,
+      tema: r.tema,
+      notaEstimada: r.notaEstimada,
+      notaMaxima: r.notaMaxima,
+      textoResposta: r.textoResposta ?? null,
+      padraoResposta: r.padraoResposta ?? null,
+      relatorio: r.relatorio ?? null,
+      feedbackReal: r.feedbackReal,
+    };
+  },
+
+  async apagarConteudo(correcaoId, userId) {
+    const r = lerDoUsuario(correcaoId, userId);
+    if (!r) return false;
+    gravar({
+      ...r,
+      tema: "",
+      textoResposta: null,
+      padraoResposta: null,
+      relatorio: null,
+      apagadoEm: new Date().toISOString(),
+      feedbackReal: r.feedbackReal ? { ...r.feedbackReal, observacao: null } : null,
+    });
+    return true;
+  },
 };
+
+// No modo local o conteúdo do histórico fica no mesmo JSON da correção.
+type RegistroLocal = CorrecaoRegistrada & {
+  textoResposta?: string | null;
+  padraoResposta?: string | null;
+  relatorio?: CorrectionView | null;
+  apagadoEm?: string | null;
+};
+
+function lerDoUsuario(correcaoId: string, userId: string): RegistroLocal | null {
+  try {
+    const r = JSON.parse(fs.readFileSync(filePath(correcaoId), "utf-8")) as RegistroLocal;
+    return r.userId === userId && !r.apagadoEm ? r : null;
+  } catch {
+    return null;
+  }
+}
+
+function gravar(registro: RegistroLocal): void {
+  ensureDir();
+  fs.writeFileSync(filePath(registro.correcaoId), JSON.stringify(registro, null, 2));
+}
 
 // Equivalente local da tabela cota_gratis — subpasta, pra não misturar com
 // os JSONs de correção que lerTodas() lê. Nome do arquivo = hash do e-mail
@@ -115,12 +190,12 @@ function gravarUso(email: string, uso: UsoLocal): void {
   fs.writeFileSync(arquivoUso(email), JSON.stringify(uso, null, 2));
 }
 
-function lerTodas(): CorrecaoRegistrada[] {
+function lerTodas(): RegistroLocal[] {
   let files: string[] = [];
   try {
     files = fs.readdirSync(DIR).filter((f) => f.endsWith(".json"));
   } catch {
     return [];
   }
-  return files.map((f) => JSON.parse(fs.readFileSync(path.join(DIR, f), "utf-8")) as CorrecaoRegistrada);
+  return files.map((f) => JSON.parse(fs.readFileSync(path.join(DIR, f), "utf-8")) as RegistroLocal);
 }
