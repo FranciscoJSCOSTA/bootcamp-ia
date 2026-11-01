@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import type { NextRequest } from "next/server";
 import type { EmailOtpType } from "@supabase/supabase-js";
+import { caminhoInterno } from "@/lib/caminho-interno";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
 
 // Destino do link mágico enviado por email (signInWithOtp -> emailRedirectTo
@@ -10,7 +11,7 @@ export async function GET(request: NextRequest) {
   const { searchParams, origin } = request.nextUrl;
   const tokenHash = searchParams.get("token_hash");
   const type = searchParams.get("type") as EmailOtpType | null;
-  const next = searchParams.get("next") ?? "/corretor";
+  const next = caminhoInterno(searchParams.get("next"));
 
   if (tokenHash && type) {
     const supabase = await createSupabaseServerClient();

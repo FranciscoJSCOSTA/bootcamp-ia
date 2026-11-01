@@ -2,6 +2,7 @@
 
 import { headers } from "next/headers";
 import { redirect } from "next/navigation";
+import { caminhoInterno } from "@/lib/caminho-interno";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
 
 export type EntrarState =
@@ -23,7 +24,7 @@ export async function enviarMagicLinkAction(
   formData: FormData,
 ): Promise<EntrarState> {
   const email = String(formData.get("email") ?? "").trim();
-  const next = String(formData.get("next") ?? "/corretor").trim() || "/corretor";
+  const next = caminhoInterno(String(formData.get("next") ?? "").trim());
 
   if (!email || !email.includes("@")) {
     return { status: "error", message: "Informe um e-mail válido." };

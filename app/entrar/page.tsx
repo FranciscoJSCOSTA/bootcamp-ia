@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { EntrarForm } from "@/components/auth/EntrarForm";
+import { caminhoInterno } from "@/lib/caminho-interno";
 
 export const metadata: Metadata = {
   title: "Entrar | AvalIA Discursiva",
@@ -31,7 +32,7 @@ export default async function EntrarPage({
         )}
 
         <div className="mt-10">
-          <EntrarForm nextPath={next ?? "/corretor"} />
+          <EntrarForm nextPath={caminhoInterno(next)} />
         </div>
       </div>
     </main>
