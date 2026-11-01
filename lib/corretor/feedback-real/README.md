@@ -30,14 +30,29 @@ apontar volume e padrão de erro relevantes, isso é um sinal pra revisão
 manual — a mudança de critério, se acontecer, é uma decisão e um commit
 separado, feito por uma pessoa.
 
-## Limitação atual de armazenamento
+## Armazenamento: dev local vs. produção (Supabase)
 
-Isso guarda cada registro como um arquivo JSON em `registros/` (mesmo
-espírito da base de calibração). Funciona rodando local. Mas **antes de
-qualquer deploy real** (ex: Vercel), isso precisa migrar pra um
-armazenamento persistente de verdade — o filesystem em serverless é
-efêmero fora de `/tmp` e não sobrevive entre deploys/instâncias. O projeto
-já tem `@supabase/supabase-js` configurado (`lib/supabase/client.ts`) para
-outro fim — é o candidato natural quando isso for pra produção. Essa
-migração não foi feita agora porque o pedido era só construir e mostrar a
-estrutura, sem deploy ainda.
+A persistência é escolhida em runtime por uma variável de ambiente —
+`FEEDBACK_REAL_STORE` — sem duplicar lógica de negócio: `store.ts`
+contém a única cópia das regras (gerar `correcaoId`, validar a nota real,
+compor o registro) e delega a leitura/escrita pra um dos dois adaptadores
+em `persistence/`:
+
+- `persistence/local.ts` — um arquivo JSON por correção em `registros/`
+  (usado quando `FEEDBACK_REAL_STORE` está vazio ou é qualquer valor
+  diferente de `"supabase"` — o padrão em dev). Nunca usar em produção: o
+  filesystem em serverless (ex: Vercel) é efêmero fora de `/tmp`.
+- `persistence/supabase.ts` — duas tabelas no mesmo projeto Supabase já
+  usado pela waitlist (`correcoes` e `feedbacks_reais`, ligadas por
+  `correcao_id`, schema em `supabase/schema.sql`), usado quando
+  `FEEDBACK_REAL_STORE=supabase`. Grava via `lib/supabase/admin.ts`, um
+  cliente server-only com a **service role key** — não a chave pública
+  (`anon`). RLS está habilitada nas duas tabelas sem nenhuma policy pra
+  `anon`/`authenticated`: diferente da waitlist (insert público
+  proposital), este dado é mais sensível, então só a service role
+  (que ignora RLS) consegue ler/escrever, e só a partir das Server
+  Actions do app — nunca direto do browser.
+
+`scripts/analisar-feedback-real.mjs` segue a mesma variável: lê o JSON
+local por padrão, ou o Supabase se `FEEDBACK_REAL_STORE=supabase` estiver
+no ambiente em que o script rodar.

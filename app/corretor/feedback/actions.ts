@@ -24,7 +24,7 @@ export async function registrarFeedbackRealAction(
     return { status: "error", message: "Informe a nota real como um número." };
   }
 
-  const registroExistente = getRegistro(correcaoId);
+  const registroExistente = await getRegistro(correcaoId);
   if (!registroExistente) {
     return {
       status: "error",
@@ -32,7 +32,7 @@ export async function registrarFeedbackRealAction(
     };
   }
 
-  const resultado = registrarFeedbackReal({
+  const resultado = await registrarFeedbackReal({
     correcaoId,
     notaReal,
     observacao: observacao || undefined,

@@ -67,6 +67,7 @@ export type CorrectEssayInput = {
   padraoResposta?: string;
   limiteLinhas?: number;
   limiteLinhasMinimo?: number;
+  userId: string;
 };
 
 export type CorrectEssayOutcome =

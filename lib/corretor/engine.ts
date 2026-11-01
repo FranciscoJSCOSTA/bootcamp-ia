@@ -130,12 +130,17 @@ export async function correctEssay(
   // registrar a nota real que a banca deu (única fonte de "gabarito"
   // verdadeiro) — ver lib/corretor/feedback-real/. Isso só acumula dado; não
   // afeta o resultado desta correção nem de nenhuma futura sozinho.
-  const correcaoId = registrarCorrecao({
+  const correcaoId = await registrarCorrecao({
+    userId: input.userId,
     bancaId: input.bancaId,
     tema: input.tema,
     notaEstimada,
     notaMaxima,
     fonteDosItens: parsed.fonteDosItens,
+    // output_tokens já inclui os tokens de thinking (billing da Anthropic
+    // conta thinking como saída) — usado pro alarme de custo manual.
+    inputTokens: message.usage.input_tokens,
+    outputTokens: message.usage.output_tokens,
   });
 
   return {

@@ -6,11 +6,18 @@ import type { FonteDosItens } from "../types";
 export type CorrecaoRegistrada = {
   correcaoId: string;
   criadoEm: string;
+  userId: string;
   bancaId: string;
   tema: string;
   notaEstimada: number;
   notaMaxima: number;
   fonteDosItens: FonteDosItens;
+  // Uso real de tokens da chamada ao Claude (message.usage) — usado pro
+  // alarme de custo manual (scripts/analisar-custo.mjs), não pela correção
+  // em si. outputTokens já inclui os tokens de thinking (billing da Anthropic
+  // conta thinking como saída).
+  inputTokens: number;
+  outputTokens: number;
   feedbackReal: FeedbackReal | null;
 };
 

@@ -4,7 +4,11 @@
 // correção sozinho. Qualquer mudança real de critério, se a evidência
 // sugerir, precisa ser decidida por um humano depois de ver este relatório.
 //
-// Uso: node scripts/analisar-feedback-real.mjs
+// Uso (modo dev, lê o JSON local): node scripts/analisar-feedback-real.mjs
+// Uso (modo produção, lê do Supabase): defina FEEDBACK_REAL_STORE=supabase,
+// NEXT_PUBLIC_SUPABASE_URL e SUPABASE_SERVICE_ROLE_KEY no ambiente (ex:
+// node --env-file=.env.local scripts/analisar-feedback-real.mjs, com essas
+// três variáveis presentes no .env.local).
 
 import fs from "node:fs";
 import path from "node:path";
@@ -19,7 +23,7 @@ const DIR = path.join(REPO_ROOT, "lib", "corretor", "feedback-real", "registros"
 // pena olhar", nunca pra disparar ação sozinho.
 const LIMIAR_VOLUME_RELEVANTE = 15;
 
-function carregarRegistrosComFeedback() {
+function carregarRegistrosComFeedbackLocal() {
   let files = [];
   try {
     files = fs.readdirSync(DIR).filter((f) => f.endsWith(".json"));
@@ -31,12 +35,52 @@ function carregarRegistrosComFeedback() {
     .filter((r) => r.feedbackReal !== null);
 }
 
+async function carregarRegistrosComFeedbackSupabase() {
+  const { createClient } = await import("@supabase/supabase-js");
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const serviceRoleKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+  if (!supabaseUrl || !serviceRoleKey) {
+    throw new Error(
+      "FEEDBACK_REAL_STORE=supabase exige NEXT_PUBLIC_SUPABASE_URL e SUPABASE_SERVICE_ROLE_KEY no ambiente.",
+    );
+  }
+  const supabaseAdmin = createClient(supabaseUrl, serviceRoleKey, { auth: { persistSession: false } });
+
+  const { data, error } = await supabaseAdmin
+    .from("correcoes")
+    .select("*, feedbacks_reais!inner(nota_real, observacao, registrado_em)");
+  if (error) throw new Error(`Falha ao ler feedback real no Supabase: ${error.message}`);
+
+  // feedbacks_reais vem como OBJETO (não array) no embed: correcao_id tem
+  // "unique" na tabela, e o PostgREST detecta relação 1-1 a partir disso.
+  return (data ?? []).map((row) => ({
+    correcaoId: row.id,
+    criadoEm: row.criado_em,
+    bancaId: row.banca_id,
+    tema: row.tema,
+    notaEstimada: row.nota_estimada,
+    notaMaxima: row.nota_maxima,
+    fonteDosItens: row.fonte_dos_itens,
+    feedbackReal: {
+      notaReal: row.feedbacks_reais.nota_real,
+      observacao: row.feedbacks_reais.observacao,
+      registradoEm: row.feedbacks_reais.registrado_em,
+    },
+  }));
+}
+
+function carregarRegistrosComFeedback() {
+  return process.env.FEEDBACK_REAL_STORE === "supabase"
+    ? carregarRegistrosComFeedbackSupabase()
+    : carregarRegistrosComFeedbackLocal();
+}
+
 function media(nums) {
   return nums.reduce((a, b) => a + b, 0) / nums.length;
 }
 
-function main() {
-  const registros = carregarRegistrosComFeedback();
+async function main() {
+  const registros = await carregarRegistrosComFeedback();
 
   if (registros.length === 0) {
     console.log(
@@ -98,4 +142,7 @@ function main() {
   );
 }
 
-main();
+main().catch((error) => {
+  console.error(error.message);
+  process.exitCode = 1;
+});
