@@ -1,5 +1,6 @@
 "use server";
 
+import { emailDescartavel, MENSAGEM_EMAIL_DESCARTAVEL } from "@/lib/anti-abuso/email";
 import { BANCAS_DISPONIVEIS } from "@/lib/corretor/bancas";
 import { correctEssay } from "@/lib/corretor/engine";
 import type { CorrectionView } from "@/lib/corretor/types";
@@ -34,6 +35,13 @@ export async function correctEssayAction(
   } = await supabase.auth.getUser();
   if (!user) {
     return { status: "error", message: "Sessão expirada. Faça login de novo." };
+  }
+
+  // O formulário de /entrar já recusa e-mail descartável, mas a chave anon
+  // do Supabase é pública — dá pra criar conta chamando a API de Auth
+  // direto. Esta checagem fecha esse atalho antes de gastar qualquer coisa.
+  if (user.email && emailDescartavel(user.email)) {
+    return { status: "error", message: MENSAGEM_EMAIL_DESCARTAVEL };
   }
 
   // Proteção básica de custo/abuso (rajada + teto diário) — checada ANTES

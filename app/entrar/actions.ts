@@ -2,6 +2,7 @@
 
 import { headers } from "next/headers";
 import { redirect } from "next/navigation";
+import { dominioDoEmail, emailDescartavel, MENSAGEM_EMAIL_DESCARTAVEL } from "@/lib/anti-abuso/email";
 import { caminhoInterno } from "@/lib/caminho-interno";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
 
@@ -26,8 +27,11 @@ export async function enviarMagicLinkAction(
   const email = String(formData.get("email") ?? "").trim();
   const next = caminhoInterno(String(formData.get("next") ?? "").trim());
 
-  if (!email || !email.includes("@")) {
+  if (!email || !dominioDoEmail(email)) {
     return { status: "error", message: "Informe um e-mail válido." };
+  }
+  if (emailDescartavel(email)) {
+    return { status: "error", message: MENSAGEM_EMAIL_DESCARTAVEL };
   }
 
   const supabase = await createSupabaseServerClient();
