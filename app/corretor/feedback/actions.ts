@@ -1,7 +1,8 @@
 "use server";
 
-import { getRegistro, registrarFeedbackReal } from "@/lib/corretor/feedback-real/store";
+import { registrarFeedbackReal } from "@/lib/corretor/feedback-real/store";
 import type { CorrecaoRegistrada } from "@/lib/corretor/feedback-real/types";
+import { createSupabaseServerClient } from "@/lib/supabase/server";
 
 export type FeedbackState =
   | { status: "idle" }
@@ -12,6 +13,17 @@ export async function registrarFeedbackRealAction(
   _prevState: FeedbackState,
   formData: FormData,
 ): Promise<FeedbackState> {
+  // Defesa em profundidade (o proxy.ts já protege /corretor/*): a Server
+  // Action é um endpoint POST próprio e precisa saber QUEM está registrando,
+  // pra só aceitar correções do próprio usuário.
+  const supabase = await createSupabaseServerClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+  if (!user) {
+    return { status: "error", message: "Sessão expirada. Faça login de novo." };
+  }
+
   const correcaoId = String(formData.get("correcaoId") ?? "").trim();
   const notaRealRaw = String(formData.get("notaReal") ?? "").trim();
   const observacao = String(formData.get("observacao") ?? "").trim();
@@ -24,16 +36,11 @@ export async function registrarFeedbackRealAction(
     return { status: "error", message: "Informe a nota real como um número." };
   }
 
-  const registroExistente = await getRegistro(correcaoId);
-  if (!registroExistente) {
-    return {
-      status: "error",
-      message: "Correção não encontrada. Confira se o código foi colado corretamente.",
-    };
-  }
-
+  // A checagem de dono fica dentro do store (getRegistroDoUsuario): correção
+  // de outro usuário recebe a mesma mensagem de "não encontrada".
   const resultado = await registrarFeedbackReal({
     correcaoId,
+    userId: user.id,
     notaReal,
     observacao: observacao || undefined,
   });

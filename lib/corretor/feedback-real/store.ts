@@ -109,8 +109,23 @@ export async function listarUsoTokens(desde?: string): Promise<UsoTokens[]> {
   return getAdapter().listarUsoTokens(desde);
 }
 
-export async function getRegistro(correcaoId: string): Promise<CorrecaoRegistrada | null> {
-  return getAdapter().buscar(correcaoId);
+const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+
+/**
+ * Busca uma correção SÓ se ela pertencer ao usuário informado. Correção de
+ * outra pessoa volta como null, igual a uma inexistente — quem chama não
+ * consegue distinguir os dois casos (não revela que o código existe nem a
+ * nota estimada de terceiros). Código mal formatado também volta null
+ * (no Supabase, um id que não é UUID viraria erro de cast do Postgres).
+ */
+export async function getRegistroDoUsuario(
+  correcaoId: string,
+  userId: string,
+): Promise<CorrecaoRegistrada | null> {
+  if (!UUID_RE.test(correcaoId)) return null;
+  const registro = await getAdapter().buscar(correcaoId);
+  if (!registro || registro.userId !== userId) return null;
+  return registro;
 }
 
 export type RegistrarFeedbackResultado =
@@ -122,15 +137,16 @@ export type RegistrarFeedbackResultado =
  * Só acrescenta o dado — nunca recalcula, ajusta ou realimenta o motor. Isso
  * fica só acumulado pro script de análise (scripts/analisar-feedback-real.mjs)
  * ler depois; qualquer ajuste real de critério continua exigindo revisão
- * humana explícita.
+ * humana explícita. Só o dono da correção (userId) pode registrar a nota.
  */
 export async function registrarFeedbackReal(input: {
   correcaoId: string;
+  userId: string;
   notaReal: number;
   observacao?: string;
 }): Promise<RegistrarFeedbackResultado> {
   const adapter = getAdapter();
-  const registro = await adapter.buscar(input.correcaoId);
+  const registro = await getRegistroDoUsuario(input.correcaoId, input.userId);
   if (!registro) {
     return { ok: false, error: "Correção não encontrada. Confira o código informado." };
   }

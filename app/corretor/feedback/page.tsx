@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
+import { redirect } from "next/navigation";
 import { FeedbackForm } from "@/components/corretor/FeedbackForm";
+import { createSupabaseServerClient } from "@/lib/supabase/server";
 
 export const metadata: Metadata = {
   title: "Registrar nota real | AvalIA Discursiva",
@@ -11,7 +13,15 @@ export default async function FeedbackPage({
 }: {
   searchParams: Promise<{ id?: string }>;
 }) {
+  // Defesa em profundidade — o proxy.ts já redireciona quem não está logado.
+  const supabase = await createSupabaseServerClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
   const { id } = await searchParams;
+  if (!user) {
+    redirect(`/entrar?next=${encodeURIComponent(id ? `/corretor/feedback?id=${id}` : "/corretor/feedback")}`);
+  }
 
   return (
     <main className="flex-1 bg-slate-50 px-4 py-12 sm:px-6 sm:py-16 lg:px-8">
