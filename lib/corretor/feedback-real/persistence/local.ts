@@ -65,7 +65,47 @@ export const localAdapter: FeedbackRealAdapter = {
         outputTokens: r.outputTokens,
       }));
   },
+
+  // Sem atomicidade de verdade (arquivo JSON) — suficiente pra dev, onde não
+  // há requisições paralelas. Em produção vale a função SQL (supabase.ts).
+  async reservarCorrecao(userId, limiteGratis) {
+    const uso = lerUso(userId);
+    if (uso.gratisUsadas < limiteGratis) {
+      gravarUso(userId, { ...uso, gratisUsadas: uso.gratisUsadas + 1 });
+      return "gratis";
+    }
+    return null;
+  },
+
+  async devolverCorrecao(userId, tipo) {
+    const uso = lerUso(userId);
+    if (tipo === "gratis" && uso.gratisUsadas > 0) {
+      gravarUso(userId, { ...uso, gratisUsadas: uso.gratisUsadas - 1 });
+    }
+  },
+
+  async consultarGratisUsadas(userId) {
+    return lerUso(userId).gratisUsadas;
+  },
 };
+
+// Equivalente local da tabela contas_uso — subpasta, pra não misturar com os
+// JSONs de correção que lerTodas() lê.
+const DIR_USO = path.join(DIR, "contas-uso");
+type UsoLocal = { gratisUsadas: number };
+
+function lerUso(userId: string): UsoLocal {
+  try {
+    return JSON.parse(fs.readFileSync(path.join(DIR_USO, `${userId}.json`), "utf-8")) as UsoLocal;
+  } catch {
+    return { gratisUsadas: 0 };
+  }
+}
+
+function gravarUso(userId: string, uso: UsoLocal): void {
+  fs.mkdirSync(DIR_USO, { recursive: true });
+  fs.writeFileSync(path.join(DIR_USO, `${userId}.json`), JSON.stringify(uso, null, 2));
+}
 
 function lerTodas(): CorrecaoRegistrada[] {
   let files: string[] = [];

@@ -3,6 +3,8 @@ import { redirect } from "next/navigation";
 import { BANCAS_DISPONIVEIS } from "@/lib/corretor/bancas";
 import { CorrectionForm } from "@/components/corretor/CorrectionForm";
 import { sairAction } from "@/app/entrar/actions";
+import { COTA_GRATIS_POR_CONTA } from "@/lib/cobranca/config";
+import { consultarGratisRestantes } from "@/lib/corretor/feedback-real/store";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
 
 export const metadata: Metadata = {
@@ -21,6 +23,7 @@ export default async function CorretorPage() {
   if (!user) {
     redirect("/entrar?next=/corretor");
   }
+  const gratisRestantes = await consultarGratisRestantes(user.id);
 
   return (
     <main className="flex-1 bg-slate-50 px-4 py-12 sm:px-6 sm:py-16 lg:px-8">
@@ -47,6 +50,10 @@ export default async function CorretorPage() {
           da sua resposta (e, se tiver, o documento oficial de correção). A
           avaliação é feita item por item, seguindo os critérios reais de
           cada banca — não por competências genéricas fixas.
+        </p>
+
+        <p className="mt-4 text-sm font-medium text-slate-700">
+          Correções grátis restantes: {gratisRestantes} de {COTA_GRATIS_POR_CONTA}
         </p>
 
         <div className="mt-10">

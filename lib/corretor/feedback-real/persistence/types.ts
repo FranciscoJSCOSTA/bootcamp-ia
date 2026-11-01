@@ -15,7 +15,14 @@ export type FeedbackRealAdapter = {
   // Uso de tokens de todas as correções (opcionalmente só a partir de
   // "desde") — base pro alarme de custo manual.
   listarUsoTokens(desde?: string): Promise<UsoTokens[]>;
+  // Reserva atômica de 1 correção antes de chamar a IA (ver migração
+  // cota_gratis). null = sem cota. A reserva é devolvida se a correção falhar.
+  reservarCorrecao(userId: string, limiteGratis: number): Promise<TipoReserva | null>;
+  devolverCorrecao(userId: string, tipo: TipoReserva): Promise<void>;
+  consultarGratisUsadas(userId: string): Promise<number>;
 };
+
+export type TipoReserva = "gratis";
 
 export type UsoTokens = {
   correcaoId: string;

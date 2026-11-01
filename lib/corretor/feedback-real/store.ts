@@ -2,7 +2,8 @@ import crypto from "node:crypto";
 import type { FonteDosItens } from "../types";
 import { localAdapter } from "./persistence/local";
 import { supabaseAdapter } from "./persistence/supabase";
-import type { FeedbackRealAdapter, UsoTokens } from "./persistence/types";
+import { COTA_GRATIS_POR_CONTA } from "@/lib/cobranca/config";
+import type { FeedbackRealAdapter, TipoReserva, UsoTokens } from "./persistence/types";
 import type { CorrecaoRegistrada } from "./types";
 
 // Limites de uso do /corretor — proteção básica de custo/abuso enquanto não
@@ -99,6 +100,31 @@ export async function verificarLimite(userId: string): Promise<LimiteResultado> 
   }
 
   return { ok: true };
+}
+
+export type Reserva = { userId: string; tipo: TipoReserva };
+
+export type ReservaResultado = { ok: true; reserva: Reserva } | { ok: false; motivo: "sem_cota" };
+
+/**
+ * Reserva 1 correção (cota grátis) ANTES de chamar a IA — atômico no
+ * Supabase, então requisições paralelas não furam a cota. Quem chama tem
+ * que devolver a reserva (devolverReserva) se a correção falhar: no saldo
+ * final, só correção bem-sucedida consome.
+ */
+export async function reservarCorrecao(userId: string): Promise<ReservaResultado> {
+  const tipo = await getAdapter().reservarCorrecao(userId, COTA_GRATIS_POR_CONTA);
+  if (!tipo) return { ok: false, motivo: "sem_cota" };
+  return { ok: true, reserva: { userId, tipo } };
+}
+
+export async function devolverReserva(reserva: Reserva): Promise<void> {
+  await getAdapter().devolverCorrecao(reserva.userId, reserva.tipo);
+}
+
+export async function consultarGratisRestantes(userId: string): Promise<number> {
+  const usadas = await getAdapter().consultarGratisUsadas(userId);
+  return Math.max(0, COTA_GRATIS_POR_CONTA - usadas);
 }
 
 /**

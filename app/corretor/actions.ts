@@ -4,7 +4,13 @@ import { emailDescartavel, MENSAGEM_EMAIL_DESCARTAVEL } from "@/lib/anti-abuso/e
 import { BANCAS_DISPONIVEIS } from "@/lib/corretor/bancas";
 import { correctEssay } from "@/lib/corretor/engine";
 import type { CorrectionView } from "@/lib/corretor/types";
-import { verificarLimite } from "@/lib/corretor/feedback-real/store";
+import { COTA_GRATIS_POR_CONTA } from "@/lib/cobranca/config";
+import {
+  devolverReserva,
+  reservarCorrecao,
+  verificarLimite,
+  type Reserva,
+} from "@/lib/corretor/feedback-real/store";
 import { createSupabaseServerClient } from "@/lib/supabase/server";
 
 function formatarDataHora(iso: string): string {
@@ -99,19 +105,46 @@ export async function correctEssayAction(
     limiteLinhasMinimo = parsed;
   }
 
-  const outcome = await correctEssay({
-    bancaId,
-    tema,
-    texto,
-    padraoResposta: padraoResposta || undefined,
-    limiteLinhas,
-    limiteLinhasMinimo,
-    userId: user.id,
-  });
+  // Reserva depois da validação (formulário inválido não consome nada) e
+  // antes da chamada à API. Ver reservarCorrecao em store.ts.
+  const reserva = await reservarCorrecao(user.id);
+  if (!reserva.ok) {
+    return {
+      status: "error",
+      message: `Você já usou suas ${COTA_GRATIS_POR_CONTA} correções grátis. Para continuar, adquira um pacote de créditos.`,
+    };
+  }
+
+  let outcome: Awaited<ReturnType<typeof correctEssay>>;
+  try {
+    outcome = await correctEssay({
+      bancaId,
+      tema,
+      texto,
+      padraoResposta: padraoResposta || undefined,
+      limiteLinhas,
+      limiteLinhasMinimo,
+      userId: user.id,
+    });
+  } catch (error) {
+    console.error("Erro inesperado na correção:", error);
+    outcome = { ok: false, error: "Erro inesperado ao processar a correção." };
+  }
 
   if (!outcome.ok) {
+    await devolverSemFalhar(reserva.reserva);
     return { status: "error", message: outcome.error };
   }
 
   return { status: "success", data: outcome.data };
+}
+
+// Falha ao devolver não pode esconder o erro original da correção — só
+// registra no log pra conferência manual.
+async function devolverSemFalhar(reserva: Reserva): Promise<void> {
+  try {
+    await devolverReserva(reserva);
+  } catch (error) {
+    console.error("Falha ao devolver reserva de correção:", reserva, error);
+  }
 }

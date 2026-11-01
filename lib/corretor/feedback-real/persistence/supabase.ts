@@ -1,6 +1,6 @@
 import { getSupabaseAdmin } from "@/lib/supabase/admin";
 import type { CorrecaoRegistrada, FeedbackReal } from "../types";
-import type { FeedbackRealAdapter, UsoTokens } from "./types";
+import type { FeedbackRealAdapter, TipoReserva, UsoTokens } from "./types";
 
 type CorrecaoRow = {
   id: string;
@@ -136,5 +136,32 @@ export const supabaseAdapter: FeedbackRealAdapter = {
       inputTokens: row.input_tokens,
       outputTokens: row.output_tokens,
     }));
+  },
+
+  async reservarCorrecao(userId, limiteGratis) {
+    const { data, error } = await getSupabaseAdmin().rpc("reservar_correcao", {
+      p_user_id: userId,
+      p_limite_gratis: limiteGratis,
+    });
+    if (error) throw new Error(`Falha ao reservar correção no Supabase: ${error.message}`);
+    return (data as TipoReserva | null) ?? null;
+  },
+
+  async devolverCorrecao(userId, tipo) {
+    const { error } = await getSupabaseAdmin().rpc("devolver_correcao", {
+      p_user_id: userId,
+      p_tipo: tipo,
+    });
+    if (error) throw new Error(`Falha ao devolver reserva no Supabase: ${error.message}`);
+  },
+
+  async consultarGratisUsadas(userId) {
+    const { data, error } = await getSupabaseAdmin()
+      .from("contas_uso")
+      .select("gratis_usadas")
+      .eq("user_id", userId)
+      .maybeSingle<{ gratis_usadas: number }>();
+    if (error) throw new Error(`Falha ao consultar cota no Supabase: ${error.message}`);
+    return data?.gratis_usadas ?? 0;
   },
 };
