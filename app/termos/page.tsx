@@ -6,6 +6,7 @@ import {
   formatarPreco,
   PACOTES,
   PRAZO_ARREPENDIMENTO_DIAS,
+  VENDAS_ABERTAS,
 } from "@/lib/cobranca/config";
 import { EMPRESA } from "@/lib/empresa";
 
@@ -85,20 +86,28 @@ export default function TermosPage() {
       </SecaoLegal>
 
       <SecaoLegal titulo="5. Créditos e pacotes">
+        {!VENDAS_ABERTAS && (
+          <p className="rounded-lg bg-amber-50 p-4 text-amber-900">
+            A compra de créditos ainda não está disponível. As regras abaixo e nas seções 6 e 7 valem a
+            partir da abertura das vendas; os preços serão informados aqui antes disso.
+          </p>
+        )}
         <ul>
           <li>
             Cada correção concluída com sucesso consome <strong>1 crédito</strong>.
           </li>
-          <li>
-            Pacotes:{" "}
-            {PACOTES.map((p, i) => (
-              <span key={p.id}>
-                {i > 0 && "; "}
-                {p.creditos} créditos por {formatarPreco(p.precoCentavos)}
-              </span>
-            ))}
-            . Os preços podem mudar, mas a mudança nunca afeta créditos já comprados.
-          </li>
+          {VENDAS_ABERTAS && (
+            <li>
+              Pacotes:{" "}
+              {PACOTES.map((p, i) => (
+                <span key={p.id}>
+                  {i > 0 && "; "}
+                  {p.creditos} créditos por {formatarPreco(p.precoCentavos)}
+                </span>
+              ))}
+              . Os preços podem mudar, mas a mudança nunca afeta créditos já comprados.
+            </li>
+          )}
           <li>
             <strong>Os créditos não expiram.</strong> Eles ficam na sua conta até serem usados.
           </li>

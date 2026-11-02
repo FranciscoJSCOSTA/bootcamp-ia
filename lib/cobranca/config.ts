@@ -1,5 +1,6 @@
 // Config única de cobrança — mudar valores aqui muda o app inteiro (textos,
 // checagens e chamadas ao banco leem daqui).
+import { EMPRESA } from "@/lib/empresa";
 
 // Correções grátis por conta, no total (não por dia). Só correção
 // bem-sucedida conta: a reserva é devolvida se a correção falhar.
@@ -20,3 +21,13 @@ export function formatarPreco(centavos: number): string {
 
 // Prazo legal de arrependimento (art. 49 do CDC), em dias corridos.
 export const PRAZO_ARREPENDIMENTO_DIAS = 7;
+
+// Venda de créditos só abre com CNPJ e endereço preenchidos em
+// lib/empresa.ts (Decreto 7.962/2013: quem vende pela internet tem que se
+// identificar no site). Enquanto fechada, o site funciona só com as
+// correções grátis e não mostra preço de algo que não dá pra comprar.
+export const VENDAS_ABERTAS = vendasAbertas(EMPRESA);
+
+export function vendasAbertas(empresa: { cnpj: string | null; endereco: string | null }): boolean {
+  return Boolean(empresa.cnpj?.trim() && empresa.endereco?.trim());
+}

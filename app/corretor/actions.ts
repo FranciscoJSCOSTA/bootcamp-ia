@@ -4,7 +4,7 @@ import { emailDescartavel, MENSAGEM_EMAIL_DESCARTAVEL } from "@/lib/anti-abuso/e
 import { BANCAS_DISPONIVEIS } from "@/lib/corretor/bancas";
 import { correctEssay } from "@/lib/corretor/engine";
 import type { CorrectionView } from "@/lib/corretor/types";
-import { COTA_GRATIS_POR_CONTA } from "@/lib/cobranca/config";
+import { COTA_GRATIS_POR_CONTA, VENDAS_ABERTAS } from "@/lib/cobranca/config";
 import {
   devolverReserva,
   reservarCorrecao,
@@ -117,7 +117,9 @@ export async function correctEssayAction(
   if (!reserva.ok) {
     return {
       status: "error",
-      message: `Você já usou suas ${COTA_GRATIS_POR_CONTA} correções grátis. Para continuar, adquira um pacote de créditos.`,
+      message: VENDAS_ABERTAS
+        ? `Você já usou suas ${COTA_GRATIS_POR_CONTA} correções grátis. Para continuar, adquira um pacote de créditos.`
+        : `Você já usou suas ${COTA_GRATIS_POR_CONTA} correções grátis. A compra de pacotes de créditos abre em breve.`,
     };
   }
 

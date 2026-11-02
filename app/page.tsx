@@ -5,6 +5,7 @@ import {
   formatarPreco,
   PACOTES,
   PRAZO_ARREPENDIMENTO_DIAS,
+  VENDAS_ABERTAS,
 } from "@/lib/cobranca/config";
 
 // Preços, cota grátis e bancas vêm da config e do motor — a página nunca
@@ -20,12 +21,19 @@ const BULLETS = [
   </>,
   "Você vê onde perdeu ponto, por quê e o que ajustar — antes de gastar mais um mês estudando na direção errada.",
   "Resposta em minutos. Sem esperar a agenda de um professor nem o resultado da prova.",
-  <>
-    Comece com <strong className="text-white">{COTA_GRATIS_POR_CONTA} correções grátis</strong>,
-    sem cartão. Depois, pacotes avulsos a partir de{" "}
-    {formatarPreco(Math.min(...PACOTES.map((p) => Math.round(p.precoCentavos / p.creditos))))} por
-    correção — sem assinatura.
-  </>,
+  VENDAS_ABERTAS ? (
+    <>
+      Comece com <strong className="text-white">{COTA_GRATIS_POR_CONTA} correções grátis</strong>,
+      sem cartão. Depois, pacotes avulsos a partir de{" "}
+      {formatarPreco(Math.min(...PACOTES.map((p) => Math.round(p.precoCentavos / p.creditos))))} por
+      correção — sem assinatura.
+    </>
+  ) : (
+    <>
+      Comece com <strong className="text-white">{COTA_GRATIS_POR_CONTA} correções grátis</strong>,
+      sem cartão e sem assinatura.
+    </>
+  ),
 ];
 
 const STEPS = [
@@ -45,7 +53,8 @@ const EXEMPLO_NOTA = EXEMPLO_ITENS.reduce((s, i) => s + i.score, 0);
 const EXEMPLO_MAX = EXEMPLO_ITENS.reduce((s, i) => s + i.max, 0);
 const num = (n: number) => n.toLocaleString("pt-BR", { minimumFractionDigits: 2 });
 
-const FAQS: { question: React.ReactNode; answer: React.ReactNode }[] = [
+// soComVendas: pergunta só aparece quando a compra de créditos está aberta.
+const TODAS_FAQS: { question: React.ReactNode; answer: React.ReactNode; soComVendas?: boolean }[] = [
   {
     question: (
       <>
@@ -60,28 +69,36 @@ const FAQS: { question: React.ReactNode; answer: React.ReactNode }[] = [
     answer:
       "Não. É uma estimativa feita por IA seguindo os critérios públicos da banca, para você estudar com direção. Ela não substitui a correção oficial e não garante nota ou aprovação. Se você tiver o padrão de resposta oficial da questão, cole junto: a estimativa fica mais precisa.",
   },
-  {
-    question: "Quanto custa?",
-    answer: (
-      <>
-        Toda pessoa começa com {COTA_GRATIS_POR_CONTA} correções grátis. Depois, você compra
-        créditos avulsos: {PACOTES.map((p) => `${p.creditos} por ${formatarPreco(p.precoCentavos)}`).join(" ou ")}.
-        Cada correção usa 1 crédito. Não é assinatura: não há cobrança recorrente.
-      </>
-    ),
-  },
+  VENDAS_ABERTAS
+    ? {
+        question: "Quanto custa?",
+        answer: (
+          <>
+            Toda pessoa começa com {COTA_GRATIS_POR_CONTA} correções grátis. Depois, você compra
+            créditos avulsos: {PACOTES.map((p) => `${p.creditos} por ${formatarPreco(p.precoCentavos)}`).join(" ou ")}.
+            Cada correção usa 1 crédito. Não é assinatura: não há cobrança recorrente.
+          </>
+        ),
+      }
+    : {
+        question: "Quanto custa?",
+        answer: `Toda pessoa começa com ${COTA_GRATIS_POR_CONTA} correções grátis, sem cartão. Pacotes avulsos de créditos (sem assinatura) chegam em breve.`,
+      },
   {
     question: "Os créditos expiram?",
     answer: "Não. Ficam na sua conta até você usar.",
+    soComVendas: true,
   },
   {
     question: "E se a correção der erro?",
-    answer:
-      "O crédito (ou a correção grátis) volta automaticamente. Só é descontada a correção que você recebe completa na tela.",
+    answer: VENDAS_ABERTAS
+      ? "O crédito (ou a correção grátis) volta automaticamente. Só é descontada a correção que você recebe completa na tela."
+      : "A correção grátis volta automaticamente. Só é descontada a correção que você recebe completa na tela.",
   },
   {
     question: "Posso pedir reembolso?",
     answer: `Sim. Em até ${PRAZO_ARREPENDIMENTO_DIAS} dias da compra você pode desistir e receber o valor integral de volta, mesmo que já tenha usado créditos.`,
+    soComVendas: true,
   },
   {
     question: "Meus textos são usados para treinar IA?",
@@ -94,6 +111,7 @@ const FAQS: { question: React.ReactNode; answer: React.ReactNode }[] = [
       "Não. Você informa seu e-mail e recebe um link de acesso. E-mails temporários não são aceitos.",
   },
 ];
+const FAQS = TODAS_FAQS.filter((f) => VENDAS_ABERTAS || !f.soComVendas);
 
 const CTA_LINK_CLASSES =
   "inline-block rounded-xl bg-indigo-600 px-8 py-4 text-lg font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-indigo-500 hover:shadow-lg";
@@ -234,10 +252,12 @@ export default function Home() {
       <section id="precos" className="bg-indigo-50 px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
           <h2 className="text-2xl font-bold text-slate-900 sm:text-3xl">
-            Comece grátis. Pague só pelo que usar.
+            {VENDAS_ABERTAS ? "Comece grátis. Pague só pelo que usar." : "Comece grátis."}
           </h2>
           <p className="mt-3 text-base text-slate-600 sm:text-lg">
-            Sem assinatura e sem cobrança recorrente. Créditos não expiram.
+            {VENDAS_ABERTAS
+              ? "Sem assinatura e sem cobrança recorrente. Créditos não expiram."
+              : "Sem cartão e sem assinatura."}
           </p>
 
           <div className="mt-10 grid gap-6 text-left sm:grid-cols-3">
@@ -248,22 +268,39 @@ export default function Home() {
                 {COTA_GRATIS_POR_CONTA} correções completas, sem cartão.
               </p>
             </div>
-            {PACOTES.map((p) => (
-              <div key={p.id} className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-                <p className="text-sm font-semibold text-indigo-600">{p.creditos} correções</p>
-                <p className="mt-2 text-3xl font-bold text-slate-900">{formatarPreco(p.precoCentavos)}</p>
+            {VENDAS_ABERTAS ? (
+              PACOTES.map((p) => (
+                <div key={p.id} className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
+                  <p className="text-sm font-semibold text-indigo-600">{p.creditos} correções</p>
+                  <p className="mt-2 text-3xl font-bold text-slate-900">{formatarPreco(p.precoCentavos)}</p>
+                  <p className="mt-2 text-slate-600">
+                    {formatarPreco(Math.round(p.precoCentavos / p.creditos))} por correção. Pix ou cartão.
+                  </p>
+                </div>
+              ))
+            ) : (
+              <div className="rounded-2xl border border-dashed border-slate-300 bg-white p-6 sm:col-span-2">
+                <p className="text-sm font-semibold text-indigo-600">Pacotes avulsos</p>
+                <p className="mt-2 text-3xl font-bold text-slate-900">Em breve</p>
                 <p className="mt-2 text-slate-600">
-                  {formatarPreco(Math.round(p.precoCentavos / p.creditos))} por correção. Pix ou cartão.
+                  Créditos para mais correções, sem assinatura e sem validade. Pix ou cartão.
                 </p>
               </div>
-            ))}
+            )}
           </div>
 
           <ul className="mx-auto mt-8 max-w-xl space-y-2 text-left text-sm text-slate-600">
-            <li>✓ O crédito só é descontado quando a correção sai completa — se der erro, ele volta.</li>
             <li>
-              ✓ Arrependimento em até {PRAZO_ARREPENDIMENTO_DIAS} dias com reembolso integral.
+              ✓{" "}
+              {VENDAS_ABERTAS
+                ? "O crédito só é descontado quando a correção sai completa — se der erro, ele volta."
+                : "A correção grátis só é descontada quando sai completa — se der erro, ela volta."}
             </li>
+            {VENDAS_ABERTAS && (
+              <li>
+                ✓ Arrependimento em até {PRAZO_ARREPENDIMENTO_DIAS} dias com reembolso integral.
+              </li>
+            )}
           </ul>
 
           <Link href="/entrar" className={`mt-10 ${CTA_LINK_CLASSES}`}>
