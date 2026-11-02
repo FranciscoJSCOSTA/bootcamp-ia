@@ -69,8 +69,8 @@ export default function TermosPage() {
           </li>
           <li>
             Podemos suspender contas usadas para fraude, para burlar as correções grátis, para
-            automatizar envios ou para uso ilegal. Se encerrarmos uma conta, devolvemos o valor dos
-            créditos pagos que ainda não foram usados, salvo fraude no próprio pagamento.
+            automatizar envios ou para uso ilegal. Ao encerrar a conta, os créditos pagos e não
+            usados são reembolsados proporcionalmente, salvo fraude no próprio pagamento.
           </li>
         </ul>
       </SecaoLegal>

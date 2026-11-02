@@ -83,8 +83,16 @@ export default function PrivacidadePage() {
         <ul>
           <li>
             <strong>Anthropic</strong> (EUA), fornecedora do modelo de IA que gera a correção: recebe
-            o enunciado, a resposta e o padrão de resposta de cada correção. Pelos termos comerciais
-            da Anthropic, dados enviados pela API não são usados para treinar os modelos dela.
+            o enunciado, a resposta e o padrão de resposta de cada correção. Pelos{" "}
+            <a
+              href="https://www.anthropic.com/legal/commercial-terms"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-indigo-600 hover:underline"
+            >
+              termos comerciais da Anthropic
+            </a>
+            , dados enviados pela API não são usados para treinar os modelos dela.
           </li>
           <li>
             <strong>Supabase</strong> (servidores em São Paulo): banco de dados e login.
