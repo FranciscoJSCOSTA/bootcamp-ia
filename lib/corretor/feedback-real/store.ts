@@ -28,7 +28,16 @@ const TETO_DIARIO = 20;
 // id, validação, composição do registro) roda uma única vez, igual nos
 // dois casos; só o adaptador de I/O muda.
 function getAdapter(): FeedbackRealAdapter {
-  return process.env.FEEDBACK_REAL_STORE === "supabase" ? supabaseAdapter : localAdapter;
+  if (process.env.FEEDBACK_REAL_STORE === "supabase") return supabaseAdapter;
+  // Na Vercel (produção ou preview) o modo local não funciona: o sistema de
+  // arquivos é somente leitura/efêmero, e cota/histórico se perderiam. Falha
+  // aqui, com a causa explícita no log, em vez de um erro de disco confuso.
+  if (process.env.VERCEL === "1") {
+    throw new Error(
+      'FEEDBACK_REAL_STORE precisa ser "supabase" na Vercel (variável ausente ou com outro valor neste ambiente).',
+    );
+  }
+  return localAdapter;
 }
 
 /**
