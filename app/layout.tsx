@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono, Sacramento } from "next/font/google";
 import { ConsentimentoCookies } from "@/components/ConsentimentoCookies";
 import { Footer } from "@/components/Footer";
+import { COTA_GRATIS_POR_CONTA } from "@/lib/cobranca/config";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -23,9 +24,11 @@ const sacramento = Sacramento({
 const TITLE =
     "AvalIA Discursiva | Correção Personalizada pela Banca do Seu Concurso";
 const DESCRIPTION =
-    "IA treinada nos critérios exatos da banca do seu concurso (Cebraspe, FGV, Cesgranrio e outras). Descubra os pontos que sua redação está perdendo, em minutos.";
+    `Correção de questões discursivas com IA, seguindo os critérios da banca do seu concurso (Cebraspe, FGV, FCC, Cesgranrio e outras). Comece com ${COTA_GRATIS_POR_CONTA} correções grátis.`;
 
 export const metadata: Metadata = {
+    // Base das URLs absolutas de Open Graph/Twitter (imagem de compartilhamento).
+    metadataBase: new URL("https://www.avaliadiscursiva.com.br"),
     title: TITLE,
     description: DESCRIPTION,
     openGraph: {

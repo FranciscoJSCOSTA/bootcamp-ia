@@ -42,7 +42,7 @@ export default async function Image() {
             maxWidth: 960,
           }}
         >
-          Sua redação pode estar perdendo pontos que você nem percebe
+          Veja como a banca do seu concurso avaliaria a sua discursiva
         </div>
       </div>
     ),
